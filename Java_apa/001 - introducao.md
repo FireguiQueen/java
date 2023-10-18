@@ -4,4 +4,4 @@
 # Estrutura: pacotes, classes, métodos.. 
 
 
-# Comentários: linha & bloco
+# Comentários: linha, bloco & javadoc
