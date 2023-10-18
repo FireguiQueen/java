@@ -5,3 +5,6 @@
 
 
 # Comentários: linha, bloco & javadoc
+
+
+# Variáveis e seus tipos
