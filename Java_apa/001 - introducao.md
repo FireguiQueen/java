@@ -4,4 +4,4 @@
 # Estrutura: pacotes, classes, métodos.. 
 
 
-# Comentários 
+# Comentários: linha & bloco
