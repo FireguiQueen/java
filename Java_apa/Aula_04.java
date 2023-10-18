@@ -9,9 +9,15 @@ public class Aula_04{
         int x; 
 
         // Agora, podemos atruibuir um valor a ela;
-        // sintaxe: nomeDaVariavel - sinalDeAtribuição(=) - valor que desejamos (precisa ser um número inteiro)
+        // sintaxe: nomeDaVariavel - sinal de atribuição(=) - valor que desejamos (precisa estar de acordo com o tipo de dado)
         x = 50;
 
+        // Mas também podemos fazer isto em uma única linha: 
+        // sintaxe: tipo de dado - nomeDaVariavel - sinal de atribuição(=) - valor que desejamos (precisa estar de acordo com o tipo de dado)
+        int y = 100; 
+
+
+        
         // Anteriomente usamos aspas duplas pois queriamos printar STRINGS..
         // Mas agora, desejamos printar valores de variáveis, sendo assim, precisamos colocar fora das aspas.
         // Pois as aspas servem exclusivamente para strings.
