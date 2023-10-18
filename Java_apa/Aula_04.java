@@ -19,18 +19,14 @@ public class Aula_04{
 
         // O valor que colocamos na linha 17 é uma variável, sendo assim, estamos apenas nos referindo ao valor dela.
         /* Porém, em nosso terminal, o será retornado mesmo é uma string. Então mesmo que você coloque um valor inteiro,
-        um valor quebrado ou qualquer outro, o que será retornado no terminal será STRING. Mas é importante saber
-        que a nossa variável X continua com seu tipo de dado, o integer (int). */
+        um valor quebrado ou qualquer outro, o que será retornado no terminal será STRING.  */
 
         // Para concatenar os valores em Java (juntar valores) podemos usar o caracter '+'.
         // Então por exemplo, para juntar o valor da nossa variável + uma string é algo bem simples:
         System.out.println("José tem " + x + " anos");
         // resultado (output): "José tem 50 anos"
-        
-        /* observe que no resultado o valor de x está entre aspas também, ou seja, podemos ver que de fato  
-        tudo colocado ali terá um retorno sendo string. */
-
-        System.out.println(typeof(x));
+        /* observe que no resultado o valor de x (5) está entre aspas também, ou seja, podemos ver que de fato  
+        tudo colocado ali terá um retorno sendo string. Mas é importante saber que a nossa variável X continua com seu tipo de dado, o integer (int). */
 
     }
 }
