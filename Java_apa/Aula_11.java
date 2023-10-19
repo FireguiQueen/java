@@ -28,6 +28,8 @@ public class Aula_11 {
 
 
 
+
+
         /* Vale lembrar que quando temos uma variável que recebe uma função por exemplo, primeiro é executado
         toda a função, e depois, o valor retornado por ela é salvo na nossa variável. 
         então as ações semprem ocrrem da direita para a esquerda. 
