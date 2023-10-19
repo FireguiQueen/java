@@ -1,4 +1,4 @@
-// Tipos de dados - primitivos 
+// Tipos de dados - PRIMITIVOS
 
 class Aula_06{
 
