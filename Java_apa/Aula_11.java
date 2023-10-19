@@ -24,7 +24,7 @@ public class Aula_11 {
  
         float trianguleArea = (base * high) / 2;
 
-        System.out.println(trianguleArea);
+        System.out.println("A área do triângulo é de: " + trianguleArea);
 
 
 
