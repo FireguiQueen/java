@@ -7,12 +7,12 @@ class Aula_06{
         // Variáveis que recebem números inteiros usam o tipo 'int'. E esse tipo aceita apenas números inteiros.
         int y = 10; 
 
-        // Para atribuir um número quebrado precisamos usar o tipo "double" ou "float".
+        // Para atribuir um número quebrado podemos usar o "double", mas também existe o "float".
         double x = 10.5;
 
 
         // Os tipos double e float não são importantes apenas para isso, pois nem sempre iremos trabalhar com 
-        // números quebrados..
+        // números quebrados.
         // Mas não trabalhar com eles diretamente, não significa que não geraremos eles.
 
         // Por exemplo:
@@ -25,16 +25,15 @@ class Aula_06{
         
         System.out.println(numero_01 / numero_02);
         // output: 37 
-
         // O nosso output foi 37 e não 37.5, ou seja, o nosso número quebrado foi totalmente ignorado. 
 
         // E caso não houvesse um número inteiro, como neste exemplo:  
-        System.out.println(4 / 150); // 4 dividido por 150 = 0,02 (ou seja, não há números inteiros)
-        // o nosso output será 0. Então vemos que de fato, apenas números inteiros estão sendo retornados.
+        System.out.println(4 / 150); 
+        // Logicamente, o resultado é de '0,02', mas o nosso output será 0. 
+        // Então vemos que de fato, apenas números inteiros estão sendo retornados.
 
 
         // Você pode pensar: "bem, a solução é bem simples :o, basta colocar o tipo de dado 'double' xD xD"
-        // Por exemplo: 
         int num0 = 150;
         int num1 = 4;
 
