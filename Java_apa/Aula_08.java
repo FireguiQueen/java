@@ -44,5 +44,19 @@ public class Aula_08{
         System.out.print("Oi");
         // output: Oi
         //         OiOi
+
+
+        // Também existe um caracter especial chamado '\n', que podemos entender como "new line". 
+        // Usamos ele em nossa string, para pular para a próxima linha a partir dele. 
+        System.out.println("Olá, \n Tudo bem?");
+        // output: Olá,
+        //         Tudo bem? 
+
+
+        System.out.println("Olá, \n Tudo bem?");
+        System.out.print(" Sim");
+        // output: Olá, 
+        //         Tudo bem? Sim 
+
     }
 }
