@@ -11,7 +11,6 @@ class Aula_06{
         double x = 10.5;
 
 
-
         // Não usá-los diretamente, não significa que não geraremos eles através de cálculos no código.
         // Por exemplo:
         int numero_01 = 150;
@@ -45,6 +44,7 @@ class Aula_06{
             Quando dizemos que uma variável do tipo 'double' irá armazenar a divisão de 150 por 4, estamos
             apenas dizendo ao Java que aquela variável irá SURPORTAR um valor quebrado. 
             Mas como o valor daquela variável foi um inteiro dividido por outro, o resultado é um inteiro.  
+            Para obter resultados com casas decimais, pelo menos um dos operandos deve ser um número de ponto flutuante.
         */
 
     }
