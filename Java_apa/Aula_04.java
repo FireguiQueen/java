@@ -4,16 +4,16 @@ public class Aula_04{
     
     public static void main(String[] args){
         
-        // Fizemos apenas uma declaração. Como é do tipo "int", a variável aceita somente números INTEIROS!! 
-        // sintaxe: tipo de dado - nomeDaVariavel 
+        // Fizemos apenas uma declaração. Como é do tipo "int", a variável aceita somente números INTEIROS! 
+        // SINTAXE: tipo de dado - nomeDaVariavel 
         int x; 
 
         // Agora, podemos atruibuir um valor a ela;
-        // sintaxe: nomeDaVariavel - sinal de atribuição(=) - valor que desejamos (precisa estar de acordo com o tipo de dado)
+        // SINTAXE: nomeDaVariavel - sinal de atribuição (=) - valor que desejamos (precisa estar de acordo com o tipo de dado)
         x = 50;
 
         // Mas também podemos fazer isto em uma única linha: 
-        // sintaxe: tipo de dado - nomeDaVariavel - sinal de atribuição(=) - valor que desejamos (precisa estar de acordo com o tipo de dado)
+        // SINTAXE: tipo de dado - nomeDaVariavel - sinal de atribuição(=) - valor que desejamos (precisa estar de acordo com o tipo de dado)
         int y = 100; 
 
 
