@@ -1,4 +1,4 @@
-// PALAVRAS-CHAVES
+// PALAVRAS-CHAVES e Quebras de linha
 
 public class Aula_08{
 
@@ -15,5 +15,34 @@ public class Aula_08{
         // Como no exemplo abaixo, onde tentamos definir que o nome da variável é 'false', mas o 'false' já é
         // uma palavra-chave do java. 
         int false = 5; 
+
+
+        /*  ******************************  */
+
+        // Existem duas formas de printar uma string no console.: 
+        System.out.println("Oi"); 
+        System.out.print("Oi");
+
+        // Elas são bem parecidas, e desempenham a mesma função. A diferença é que a 'println' faz com que a linha
+        // seja quebrada, ou seja, ela cria uma NOVA linha após sua string. Inclusive, podemos compreender como
+        // "print line new" (apesar de estar gramaticalmente incorreto em inglês). 
+
+        // Já o print (sem o 'ln') continua na mesma linha.
+
+        System.out.print("Oi");
+        System.out.print("Oi");
+        // output: OiOi
+
+        System.out.println("Oi");
+        System.out.print("Oi");
+        // output: Oi
+        //         Oi
+
+
+        System.out.println("Oi");
+        System.out.print("Oi");
+        System.out.print("Oi");
+        // output: Oi
+        //         OiOi
     }
 }
