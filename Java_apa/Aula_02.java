@@ -2,7 +2,9 @@
 
 
 // Os colchetes representam um bloco. Tudo que é colocado dentro deles pertencem a nossa classe. 
-class Aula_02{
+// A classe é uma estrutura responsável por armazenar atributos e métodos.
+class Aula_02
+{
 
 
     // Esse é o nosso método e ele informa o ponto de partida do nosso programa;
