@@ -1,5 +1,8 @@
 // Interação com o usuário: INPUTS 
 
+// Precisamos importar a classe "Scanner" para utilizar ela.  
+import java.util.Scanner;
+
 public class Aula_11 {
     public static void main(String[] args)
     {
@@ -13,8 +16,22 @@ public class Aula_11 {
 
         // Mas agora através dessa classe "Scanner", podemos receber valores do usuária via terminal. 
 
-        float base = entradaDeInformacao.nextFloat(); 
-        float high = 120; 
+        System.out.print("Digite o valor da base: ");
+        float base = entradaDeInformacao.nextFloat();
+
+        System.out.print("Digite o valor da altura: ");
+        float high = entradaDeInformacao.nextFloat();
+ 
         float trianguleArea = (base * high) / 2;
+
+        System.out.println(trianguleArea);
+
+
+
+        /* Vale lembrar que quando temos uma variável que recebe uma função por exemplo, primeiro é executado
+        toda a função, e depois, o valor retornado por ela é salvo na nossa variável. 
+        então as ações semprem ocrrem da direita para a esquerda. 
+        Primeiro a função é executada, e então aparece um lugar no terminal para o usuário digitar informações
+        essas informações são enviadas para a função e ela faz um retorno. E este retorno fica salvo na variável. */
     }
 }
