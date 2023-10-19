@@ -9,7 +9,7 @@ public class Aula_09
         float high = 120; 
         float trianguleArea = (base * high) / 2;
 
-        System.out.print(trianguleArea);
+        System.out.println("A área do triângulo de base " + base + ", e de altura " + high + " é igual a " + trianguleArea);
         // output: 3000.0 
 
 
@@ -29,7 +29,7 @@ public class Aula_09
         // ouput: 60; 
 
         // Agora, primeiro é realizado a soma entre os "vintes" e depois é multiplicado.
-        int calc2 = (20 + 20) * 2
+        int calc2 = (20 + 20) * 2;
         // output: 80;
     }
 }
