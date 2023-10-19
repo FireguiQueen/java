@@ -29,6 +29,15 @@ class Aula_05
         // Precisamos colocar uma string no meio 
         System.out.println(x + " " + y);
 
+        // Mas por qual motivo precisamos fazer isso?
+        /*
+            A resposta é bem simples. Ao fazer: System.out.println(x + y); 
+            significa que desejamos juntar os valores daquelas variáveis, e assim será retornado 100 (50 + 50).
+
+            Quando colocamos as aspas no meio, basicamente estamos dizendo que o valor de X irá se juntar a uma string
+            e a string irá se juntar ao valor de y. 
+        */
+
 
 
     }
