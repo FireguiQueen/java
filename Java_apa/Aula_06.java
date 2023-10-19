@@ -30,5 +30,24 @@ class Aula_06{
         // o nosso output será 0.
 
 
+        // Você pode pensar: "bem, a solução é bem simples :o, basta colocar o tipo de dado 'double' xD xD"
+        // Por exemplo: 
+        int num0 = 150;
+        int num1 = 4;
+
+        double divisaoFinal = num0 / num1; // 150 dividido por 4. Resultado esperado: 37.5  
+        System.out.println(divisaoFinal);
+        // ouput: 37 
+
+        // Mas não, não é assim que o Java funciona. Como podemos ver, o output foi de 37, e não 37.5, mas por que?
+        /*
+            Um número inteiro dividido por outro número inteiro RESULTARÁ sempre em um número inteiro.
+            INDEPENDENTE do tipo de dado que irá armazenar os valores. 
+
+            Quando dizemos que uma variável do tipo 'double' irá armazenar a divisão de 150 por 4, estamos
+            apenas dizendo ao Java que aquela variável irá SURPORTAR um valor quebrado. 
+            Mas como o valor daquela variável foi um inteiro dividido por outro, o resultado é um inteiro.  
+
+
     }
 }
