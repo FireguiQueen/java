@@ -39,6 +39,7 @@ public class Aula_04{
         // Então por exemplo, para juntar o valor da nossa variável + uma string, é algo bem simples:
         System.out.println("José tem " + x + " anos");
         // resultado (output): "José tem 50 anos"
+        
         /* observe que no resultado o valor de x (5) está entre aspas também, ou seja, podemos ver que de fato  
         tudo colocado ali terá um retorno sendo string. Mas é importante saber que a nossa variável X continua com seu tipo de dado, o integer (int). */
 
