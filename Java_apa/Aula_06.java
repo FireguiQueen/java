@@ -1,4 +1,4 @@
-// TIPOS DE DADOS
+// Números de ponto flutuante
 
 class Aula_06{
 
@@ -7,7 +7,7 @@ class Aula_06{
         // variáveis que armazenam números inteiros usam o tipo 'int'. Esse tipo aceita apenas valores inteiros.
         int y = 10; 
 
-        // Para armazenar números de ponto flutuante, como números quebrados, usamos 'double' ou 'float'.
+        // Para armazenar números quebrados, usamos 'double' ou 'float'.
         double x = 10.5;
 
 
@@ -39,11 +39,12 @@ class Aula_06{
         // Mas por que?
         /*
             Um número inteiro dividido por outro número inteiro RESULTARÁ sempre em um número inteiro.
-            INDEPENDENTE do tipo de dado que irá armazenar os valores. 
+            INDEPENDENTE do tipo de dado que irá armazenar eles. 
 
             Quando dizemos que uma variável do tipo 'double' irá armazenar a divisão de 150 por 4, estamos
             apenas dizendo ao Java que aquela variável irá SURPORTAR um valor quebrado. 
-            Mas como o valor daquela variável foi um inteiro dividido por outro, o resultado é um inteiro.  
+            Mas como o valor daquela variável foi um inteiro dividido por outro, o resultado é um inteiro.
+          
             Para obter resultados com casas decimais, pelo menos um dos operandos deve ser um número de ponto flutuante.
         */
 
