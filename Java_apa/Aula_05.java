@@ -1,4 +1,4 @@
-// VARIÁVEIS II 
+// VARIÁVEIS II & Operações básicas de matemática
 
 class Aula_05
 {
@@ -11,7 +11,25 @@ class Aula_05
         int x = 50;
         int y = 50;
 
-        int total = y + x; 
+        int total = x + y; 
+
+        System.out.println(total);
         // resposta (output): 100;  
+
+
+        // Mas é claro, existem outros operadores, como o de subtração (-), divisão (/), multiplicação (*)... 
+        int divisao = x / y;
+        int multiplicacao = x * y; 
+        
+
+        // Como printar x e y sem juntá-los? Por exemplo: 50 50  
+        System.out.println(x + y);
+        // output: 100 
+
+        // Precisamos colocar uma string no meio 
+        System.out.println(x + " " + y);
+
+
+
     }
 }
