@@ -18,19 +18,25 @@ public class Aula_04{
 
 
         
-        // Anteriomente usamos aspas duplas pois queriamos printar STRINGS..
-        // Mas agora, desejamos printar valores de variáveis, sendo assim, precisamos colocar fora das aspas.
+        // Anteriomente usamos aspas duplas pois queriamos printar STRINGS.
+        // Mas agora, desejamos printar variáveis (pois elas são simplesmente um nome para se referir a um valor, seja ele
+        // primitivo ou não), sendo assim, precisamos colocar fora das aspas.
         // Pois as aspas servem exclusivamente para strings.
+        
         // Por exemplo, se utilizassemos aspas na linha abaixo, o CARACTER 'x' que seria printado, e não a variável.
-        System.out.println(x);
+        System.out.println("x");
+        // resposta (output): "x"
 
+        // Sem aspas, estamos dizendo para printar a variável, ou seja, para o valor que ela aponta.
+        System.out.printin(x);
+        // output: "50"
 
-        // O valor que colocamos na linha 17 é uma variável, sendo assim, estamos apenas nos referindo ao valor dela.
-        /* Porém, em nosso terminal, o será retornado mesmo é uma string. Então mesmo que você coloque um valor inteiro,
-        um valor quebrado ou qualquer outro, o que será retornado no terminal será STRING.  */
+        // O valor que colocamos dentro dos paretensis na linha 31 é uma variável, sendo assim, estamos apenas nos referindo ao valor dela.
+        /* Porém, em nosso terminal, o será retornado mesmo é uma string. Então mesmo que você coloque um valor 
+        inteiro, um valor quebrado ou qualquer outro, o que será retornado no terminal será STRING.  */
 
-        // Para concatenar os valores em Java (juntar valores) podemos usar o caracter '+'.
-        // Então por exemplo, para juntar o valor da nossa variável + uma string é algo bem simples:
+        // Para concatenar (juntar) os valores em Java podemos usar o caracter '+'.
+        // Então por exemplo, para juntar o valor da nossa variável + uma string, é algo bem simples:
         System.out.println("José tem " + x + " anos");
         // resultado (output): "José tem 50 anos"
         /* observe que no resultado o valor de x (5) está entre aspas também, ou seja, podemos ver que de fato  
