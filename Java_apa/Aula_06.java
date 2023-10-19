@@ -20,14 +20,12 @@ class Aula_06{
         int numero_01 = 150;
         int numero_02 = 4; 
 
-        // Mas e se realizarmos uma divisão entre eles? 
-        // 150 dividido por 4 = 37.5 (retorna um número quebrado)
-        
+        // Mas e se realizarmos uma divisão entre eles? 150 dividido por 4 = 37.5 (retorna um número quebrado)
         System.out.println(numero_01 / numero_02);
         // output: 37 
         // O nosso output foi 37 e não 37.5, ou seja, o nosso número quebrado foi totalmente ignorado. 
 
-        // E caso não houvesse um número inteiro, como neste exemplo:  
+        // Vemos também o desaparecimento dos números quebrados neste exemplo
         System.out.println(4 / 150); 
         // Logicamente, o resultado é de '0,02', mas o nosso output será 0. 
         // Então vemos que de fato, apenas números inteiros estão sendo retornados.
