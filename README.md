@@ -10,12 +10,8 @@ Este repositório foi criado não apenas para agrupar todos os cursos, exercíci
 Sou um estudante de Java, e aqui, eu procuro manter apenas cursos gratuitos e de boa qualidade. 
 O primeiro critério foi ignorar todas as entidades de ensino que prometem mil maravilhas, por isso você não encontrará cursinhos da Alura ou da Rockeseat. Brincadeiras à parte, mas de fato você não vai encontrar.
 
-A primeira coisa a ser feita foi escolher cuidadosamente os cursos, alguns foram indicações de amigos, 
-Eu sempre gosto de analisar o professor, pois em geral, quem faz muita promessa, pouco entrega. 
-Nenhum dos instrutores abaixo em algum momento prometem te deixar no mercado de trabalho em 6 meses, e muito menos se referir aos cursos como "do zero ao profissional".  
-
 A primeira coisa a ser feita foi escolher cuidadosamente os cursos. Alguns foram indicações de amigos, enquanto outros eu procurei em lugares obscuros da web, o Reddit. 
-Sempre gosto de analisar o professor, ver sua história e sua experiência como desenvolvedor. Ficaremos longe de quem promete coisas, afinal, quem faz muitas promessas, pouco entrega.. Então vamos procurar apenas os que desejam ensinar, ok? 
+Sempre gosto de analisar o professor, ver sua história e sua experiência como desenvolvedor. Ficaremos longe de quem promete coisas, afinal, quem faz muitas promessas, pouco entrega.. Então vamos procurar apenas os que desejam ensinar, ok? Manteremos distância dos marketeiros. 
 
 
 ### Instrutores
