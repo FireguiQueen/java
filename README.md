@@ -19,7 +19,7 @@ Sempre gosto de analisar o professor, ver sua história e sua experiência como 
 
 ### Instrutores
 - william Suane
-- Loiane
+- Loiane Groner
 - Italo Grossi 
 ___________________________
 
