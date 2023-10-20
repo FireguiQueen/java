@@ -18,9 +18,9 @@ Sempre gosto de analisar o professor, ver sua história e sua experiência como 
 </br>
 
 ### Instrutores
-- Willia
+- william Suane
 - Loiane
-- De Aluno para Aluno
+- Italo Grossi 
 ___________________________
 
 ## FAQ 
