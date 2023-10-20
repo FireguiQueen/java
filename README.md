@@ -6,6 +6,8 @@ Bem vindo ao meu repositório sobre Java. Aqui você encontrará cursos, exercí
 ## Introdução
 Este repositório foi criado não apenas para agrupar todos os cursos, exercícios e projetos pequenos que foram feitos por mim, mas também para servir como uma base para outras pessoas interessadas em aprender Java =).
 
+</br>
+
 ### Como os cursos foram escolhidos?
 Sou um estudante de Java, e aqui, eu procuro manter apenas cursos gratuitos e de boa qualidade. 
 O primeiro critério foi ignorar todas as entidades de ensino que prometem mil maravilhas, por isso você não encontrará cursinhos da Alura ou da Rockeseat. Brincadeiras à parte, mas de fato você não vai encontrar.
@@ -13,6 +15,7 @@ O primeiro critério foi ignorar todas as entidades de ensino que prometem mil m
 A primeira coisa a ser feita foi escolher cuidadosamente os cursos. Alguns foram indicações de amigos, enquanto outros eu procurei em lugares obscuros da web, o Reddit. 
 Sempre gosto de analisar o professor, ver sua história e sua experiência como desenvolvedor. Ficaremos longe de quem promete coisas, afinal, quem faz muitas promessas, pouco entrega.. Então vamos procurar apenas os que desejam ensinar, ok? Manteremos distância dos marketeiros. 
 
+</br>
 
 ### Instrutores
 - Willia
