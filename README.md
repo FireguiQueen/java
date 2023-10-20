@@ -28,5 +28,5 @@ Mas é claro, preciso mencionar que minhas opiniões próprias não foram simple
 
 ### [OP] Certificados servem para algo? 
 
-### [OP] Cursos de preparam para o mercado de trabalho? 
+### [OP] Cursos te preparam para o mercado de trabalho? 
 
