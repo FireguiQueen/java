@@ -1,3 +1,6 @@
+// CASTING 
+// O casting é uma transformação aplicada em valores numéricos para modificar seu tipo de dado.
+
 public class Aula_12{
 
     public static void main(String[] args)

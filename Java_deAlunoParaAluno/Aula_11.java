@@ -1,21 +1,21 @@
 // Interação com o usuário: INPUTS 
 
-// Precisamos importar a classe "Scanner" para utilizar ela.  
+// Precisamos importar a classe "Scanner" para utilizar ela
+// É ela quem nos permite realizar entradas de informação.  
 import java.util.Scanner;
 
 public class Aula_11 {
     public static void main(String[] args)
     {
+
         // Essa linha certamente está um pouco confusa a você, mas ignore ela por enquanto. 
         // Apenas entenda que esse é um jeito para você herdar comandos que irão trazer novas funcionalidades
         // ao nosso programa.
         Scanner entradaDeInformacao = new Scanner(System.in);
 
-        // Por exemplo, no aula 09 fizemos um programa que calcula a área de um triângulo. Mas todos os valores,
-        // como base e altura, foram definidos por nós (os programadores). 
-
-        // Mas agora através dessa classe "Scanner", podemos receber valores do usuária via terminal. 
-
+        // Na aula 09 fizemos um programa que calcula a área de um triângulo. Mas todos os valores,
+        // como o da base e altura, foram definidos por nós através do sinal de atribuição. 
+        // Mas agora através dessa classe "Scanner", podemos receber valores do usuário via terminal. 
         System.out.print("Digite o valor da base: ");
         float base = entradaDeInformacao.nextFloat();
 
