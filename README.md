@@ -6,7 +6,6 @@ Bem vindo ao meu repositório sobre Java. Aqui você encontrará cursos, exercí
 ## Introdução
 Este repositório foi criado não apenas para agrupar todos os cursos, exercícios e projetos pequenos que foram feitos por mim, mas também para servir como uma base para outras pessoas interessadas em aprender Java =).
 
-</br>
 
 ### Como os cursos foram escolhidos?
 Sou um estudante de Java, e aqui, eu procuro manter apenas cursos gratuitos e de boa qualidade. 
@@ -19,7 +18,7 @@ Sempre gosto de analisar o professor, ver sua história e sua experiência como 
 
 ### Instrutores
 - william Suane
-- Loiane
+- Loiane Groner
 - Italo Grossi 
 ___________________________
 
