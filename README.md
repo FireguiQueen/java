@@ -8,7 +8,7 @@ ___________________________
 
 ### O java é lento? 
 
-### Java é ruim para jogos?
+### A linguagem Java é ruim para jogos?
 
 ### Java é compilado ou interpretado?
 
