@@ -14,8 +14,17 @@ public class Aula_12{
         // output: 16. 
 
         // E como vimos na aula 06, para obtermos o resultado correto, ou seja, o valor '16.6666..', um dos
-        // números inteiros precisa ser 
+        // números inteiros deve ser um número de ponto flutuante, e podemos fazer isto através do 'casting'.
         
+        // Basta escolher um tipo de dado e colocar em paretensis ao lado do número que você deseja converter
+        System.out.println(50 / (float) 3);
+        // output: 16.6666
+
+        // Mas como nessa situação estamos trabalhando sem variáveis, podemos simplesmente colocar um .0 ao lado 
+        // de um número inteiro.
+        System.out.println(50 / 3.0);
+        // output: 16.6666
+
         int x = 10;
         double y = 10.5;
 
