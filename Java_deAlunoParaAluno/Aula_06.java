@@ -4,21 +4,21 @@ class Aula_06{
 
     public static void main(String[] args){
 
-        // variáveis que armazenam números inteiros usam o tipo 'int'. Esse tipo aceita apenas valores inteiros.
+        // variáveis que armazenam números inteiros usam o tipo 'int'. Esse tipo aceita APENAS valores inteiros.
         int y = 10; 
 
         // Para armazenar números quebrados, usamos 'double' ou 'float'.
         double x = 10.5;
 
 
-        // Não usá-los diretamente, não significa que não geraremos eles através de cálculos no código.
-        // Por exemplo:
+        // Não usá-los diretamente, não significa que não geraremos eles através de cálculos.
         int numero_01 = 150;
         int numero_02 = 4; 
 
         // Agora vamos realizar a divisão. 150 dividido por 4 = 37.5 (retorna um número quebrado)
         System.out.println(numero_01 / numero_02);
-        // output: 37 
+        // output: 37
+
         // O nosso output foi 37 e não 37.5, ou seja, o nosso número quebrado foi totalmente ignorado. 
 
         // Vemos também o desaparecimento dos números quebrados neste exemplo
@@ -43,7 +43,9 @@ class Aula_06{
 
             Quando dizemos que uma variável do tipo 'double' irá armazenar a divisão de 150 por 4, estamos
             apenas dizendo ao Java que aquela variável irá SURPORTAR um valor quebrado. 
-            Mas como o valor daquela variável foi um inteiro dividido por outro, o resultado é um inteiro.
+            
+            Mas como o valor daquela variável foi um inteiro dividido por outro inteiro, 
+            o resultado é um inteiro.
           
             Para obter resultados com casas decimais, pelo menos um dos operandos deve ser um número de ponto flutuante.
         */
