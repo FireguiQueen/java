@@ -10,8 +10,7 @@
 public class Aula_13{
     public static void main(String[] args)
     {
-        final int CPF = 04133624780;
-
+        final long CPF = 02133122750;
         System.out.println("CPF: " + CPF);
     }
 }
