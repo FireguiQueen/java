@@ -1,5 +1,6 @@
 // CASTING 
 // O casting é uma transformação aplicada em valores numéricos para modificar seu tipo de dado.
+// É o ato de forçarmos uma determinada variável ou valor a ser de um determinado tipo.
 
 public class Aula_12{
 
@@ -25,9 +26,10 @@ public class Aula_12{
         System.out.println(50 / 3.0);
         // output: 16.6666
 
-        int x = 10;
-        double y = 10.5;
 
-        System.out.print(10 + 10.5);
+        // Por última análise, podemos ver que casting fazendo efeito.
+        // Uma variável do tipo inteiro, só aceita valores inteiros, do contrarário, teremso erro. 
+        // Porém, como forçamos o valor '5.5' a ser inteiro, este valor perdeu seu número decimal, ficando apenas 5.
+        int num = (int)5.5;
     }
 }
