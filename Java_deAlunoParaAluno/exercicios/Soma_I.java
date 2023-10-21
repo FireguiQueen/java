@@ -1,4 +1,4 @@
-public class soma_I
+public class Soma_I
 {
     public static void main(String[] args)
     {

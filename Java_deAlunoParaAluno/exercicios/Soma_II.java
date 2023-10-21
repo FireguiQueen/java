@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class soma_II
+public class Soma_II
 {
     public static void main(String[] args)
     {
