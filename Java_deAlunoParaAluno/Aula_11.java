@@ -15,15 +15,15 @@ public class Aula_11 {
 
         // Na aula 09 fizemos um programa que calcula a área de um triângulo. Mas todos os valores,
         // como o da base e altura, foram definidos por nós pelo próprio código.
-        
+
         // Mas agora através dessa classe "Scanner", podemos receber valores do usuário via terminal. 
         System.out.print("Digite o valor da base: ");
-        float base = entradaDeInformacao.nextFloat();
+        double base = entradaDeInformacao.nextDouble();
 
         System.out.print("Digite o valor da altura: ");
-        float high = entradaDeInformacao.nextFloat();
+        double high = entradaDeInformacao.nextDouble();
  
-        float trianguleArea = (base * high) / 2;
+        double trianguleArea = (base * high) / 2;
 
         System.out.println("A área do triângulo é de: " + trianguleArea);
 
