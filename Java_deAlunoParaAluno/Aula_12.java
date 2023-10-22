@@ -9,7 +9,7 @@ public class Aula_12{
         // Na aula 06 vimos que um número inteiro divido por outro número inteiro sempre resulturá em um valor inteiro.
         /*
             Isto é, 50 dividido por 3 é '16.6666..', ou seja, um valor quebrado. 
-            Porém, no java, se dividirmos normalmente, teremos um resultado inesperado 
+            Porém, no java, se realizarmos este cálculo, teremos um resultado um poquinho errado.
         */
         System.out.println(50 / 3); 
         // output: 16. 
@@ -28,7 +28,7 @@ public class Aula_12{
 
 
         // Por última análise, podemos ver que casting fazendo efeito.
-        // Uma variável do tipo inteiro, só aceita valores inteiros, do contrarário, teremso erro. 
+        // Uma variável do tipo inteiro, só aceita valores inteiros, do contrarário, teremos erro. 
         // Porém, como forçamos o valor '5.5' a ser inteiro, este valor perdeu seu número decimal, ficando apenas 5.
         int num = (int)5.5;
     }

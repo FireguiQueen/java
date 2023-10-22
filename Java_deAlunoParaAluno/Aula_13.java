@@ -10,7 +10,7 @@
 public class Aula_13{
     public static void main(String[] args)
     {
-        final long CPF = 02133122750;
+        final long CPF = 02133122750; // define uma constante do tipo 'long'.
         System.out.println("CPF: " + CPF);
     }
 }
