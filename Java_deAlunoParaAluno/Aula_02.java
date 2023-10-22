@@ -11,6 +11,8 @@ class Aula_02
     // Esse é o nosso método principal e ele informa o ponto de partida do nosso programa;
     // Usamos a palavra-chave "main" justamente por isso, pois PRECISAMOS de um método principal. 
     public static void main(String[] args){
+
+        // Este é um método responsável por printar uma mensagem em nosso terminal.
         System.out.println("Olá!");
     }
 }
