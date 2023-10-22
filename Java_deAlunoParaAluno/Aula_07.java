@@ -1,5 +1,6 @@
 // Tipos de dados - PRIMITIVOS
 
+
 class Aula_06{
 
     public static void main(String[] args){
