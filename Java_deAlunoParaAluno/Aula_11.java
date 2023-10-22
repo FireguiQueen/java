@@ -14,7 +14,8 @@ public class Aula_11 {
         Scanner entradaDeInformacao = new Scanner(System.in);
 
         // Na aula 09 fizemos um programa que calcula a área de um triângulo. Mas todos os valores,
-        // como o da base e altura, foram definidos por nós através do sinal de atribuição. 
+        // como o da base e altura, foram definidos por nós pelo próprio código.
+        
         // Mas agora através dessa classe "Scanner", podemos receber valores do usuário via terminal. 
         System.out.print("Digite o valor da base: ");
         float base = entradaDeInformacao.nextFloat();
