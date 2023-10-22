@@ -4,12 +4,12 @@ public class Aula_04{
     
     public static void main(String[] args){
         
-        // Fizemos apenas uma declaração. Como é do tipo "int", a variável aceita somente números INTEIROS! 
-        // SINTAXE: tipo de dado - nomeDaVariavel 
+        // Aqui fizemos apenas uma declaração. Como é do tipo "int", a variável aceita somente números INTEIROS! 
+        // Declaramos o seu tipo de dado (int) e o seu nome (x).
         int x; 
 
-        // Agora, podemos atruibuir um valor a ela;
-        // SINTAXE: nomeDaVariavel - sinal de atribuição (=) - valor que desejamos (precisa estar de acordo com o tipo de dado)
+        // Agora, podemos atruibuir um valor inteiro a ela;
+        // Usamos o seu nome, um sinal de atribuição de valor (=) e um valor.
         x = 50;
 
         // Mas também podemos fazer isto em uma única linha: 
@@ -17,7 +17,6 @@ public class Aula_04{
         int y = 100; 
 
 
-        
         // Anteriomente usamos aspas duplas pois queriamos printar STRINGS.
         // Mas agora, desejamos printar variáveis (pois elas são simplesmente um nome para se referir a um valor, seja ele
         // primitivo ou não), sendo assim, precisamos colocar fora das aspas.
