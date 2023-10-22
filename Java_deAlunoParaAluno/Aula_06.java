@@ -1,5 +1,6 @@
 // Números de ponto flutuante
 
+
 class Aula_06{
 
     public static void main(String[] args){
@@ -11,7 +12,7 @@ class Aula_06{
         double x = 10.5;
 
 
-        // Não usá-los diretamente, não significa que não geraremos eles através de cálculos.
+        // Não utilizar números quebrados, não significa que não geraremos eles através de cálculos.
         int numero_01 = 150;
         int numero_02 = 4; 
 
