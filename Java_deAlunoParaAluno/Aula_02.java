@@ -6,7 +6,6 @@
 class Aula_02
 {
 
-
     // Esse é o nosso método e ele informa o ponto de partida do nosso programa;
     // Usamos a palavra-chave "main" justamente por isso, pois é o nosso método principal. 
     public static void main(String[] args){
