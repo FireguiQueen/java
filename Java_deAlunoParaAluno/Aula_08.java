@@ -14,7 +14,7 @@ public class Aula_08{
         // Observe que NÃO podemos usar as palavras-chave do java para nós como bem entendermos.
         // Como no exemplo abaixo, onde tentamos definir que o nome da variável é 'false', mas o 'false' já é
         // uma palavra-chave do java. 
-        int false = 5; 
+        // int false = 5; 
 
 
         /*  ******************************  */
@@ -61,7 +61,8 @@ public class Aula_08{
         System.out.println("Olá, \n Tudo bem?");
         System.out.print(" Sim");
         // output: Olá, 
-        //         Tudo bem? Sim 
+        //         Tudo bem? 
+        //         Sim 
 
     }
 }
