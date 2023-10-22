@@ -23,15 +23,20 @@ public class Aula_08{
         System.out.println("Oi"); 
         System.out.print("Oi");
 
-        // Elas são bem parecidas, e desempenham a mesma função. A diferença é que a 'println' faz com que a linha
-        // seja quebrada, ou seja, ela cria uma NOVA linha após sua string. Inclusive, podemos compreender como
-        // "print line new" (apesar de estar gramaticalmente incorreto em inglês). 
+        /* 
+            Elas são bem parecidas, e desempenham a mesma função. A diferença é que a 'println' faz com que a 
+            linha seja quebrada, ou seja, ela cria uma NOVA linha após escrever sua mensagem. Inclusive, podemos 
+            compreender como print line new" (apesar de estar gramaticalmente incorreto em inglês). 
 
-        // Já o print (sem o 'ln') continua na mesma linha.
+            Já o print (sem o 'ln') faz com que as strings continuem na mesma linha. 
+            Podemos observar isto melhor com os exemplos abaixo:
+        */
+
 
         System.out.print("Oi");
         System.out.print("Oi");
         // output: OiOi
+
 
         System.out.println("Oi");
         System.out.print("Oi");
