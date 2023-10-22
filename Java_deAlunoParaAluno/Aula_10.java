@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 
 // Como podemos importar TODAS as classes de uma vez só de um pacote?
-// É bem simples, basta espeificar o pacote e invés de escolhar uma classe, você coloca o asterisco (*).
+// É bem simples, basta especificar o pacote e colocar o asterisco (*) ao em vez de escolher uma classe.
 import java.util.*;
 
 public class Aula_10{
