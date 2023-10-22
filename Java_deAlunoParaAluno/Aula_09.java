@@ -13,13 +13,13 @@ public class Aula_09
         // output: 3000.0 
 
         
-        // "ordem de operações" refere-se à convenção que indica a ordem pela qual devem ser realizadas as 
-        // operações numa expressão.
+        // A "ordem de operações" refere-se à convenção que indica a ordem pela qual devem ser realizadas as 
+        // operações numa expressão. - Wikipedia 
 
         // Então por exemplo, na matemática, se tivermos a seguinte expressão: 
         int calculo = 10 + 10 *2;
-
-        // será feito PRIMEIRO 10 VEZES dois e depois será somado o 10. 
+        // será feito PRIMEIRO 10 VEZES dois e depois será somado o 10. O resultado então será '30'. 
+        
         // No java não é diferente, ele funciona da mesma maneira, e assim como na matemática, podemos colocar
         // os parentensis para sinalizar que determinada parte deve ser calculada primeiro. 
         
