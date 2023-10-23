@@ -16,7 +16,7 @@ Sempre gosto de analisar o professor, ver sua história e sua experiência como 
 
 ### Instrutores e cursos 
 - __William Suane__, _DevDojo:_ <a href="https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW"> Java virado no Jiraya </a>
-- __Loiane Groner__, _Loiane Trainning:_ Java básico <a href="https://loiane.training/curso/java-basico"> Java básico </a>
+- __Loiane Groner__, _Loiane Trainning:_ <a href="https://loiane.training/curso/java-basico"> Java básico </a>
 - __Italo Grossi__, _DeAlunoParaAluno:_ <a href="https://www.youtube.com/playlist?list=PLa75BYTPDNKZLzk3xG-gSXSU_AAq5RP4g"> Java como programar </a> 
   
 ___________________________
