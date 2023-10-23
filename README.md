@@ -15,7 +15,7 @@ A primeira coisa a ser feita foi escolher cuidadosamente os cursos. Alguns foram
 Sempre gosto de analisar o professor, ver sua história e sua experiência como desenvolvedor. Ficaremos longe de quem promete coisas, afinal, quem faz muitas promessas, pouco entrega.. Então vamos procurar apenas os que desejam ensinar, ok? Manteremos distância dos marketeiros. 
 
 ### Instrutores e cursos 
-- William Suane, DevDojo, Java virado no Jiraya
+- William Suane, DevDojo, <a href="https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW">Java virado no Jiraya</a>
 - Loiane Groner, Loiane Trainning, Java básico
 - Italo Grossi, DeAlunoParaAluno, Java 
   
