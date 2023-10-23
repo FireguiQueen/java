@@ -16,24 +16,27 @@ Sempre gosto de analisar o professor, ver sua história e sua experiência como 
 
 </br>
 
-### Instrutores
-- william Suane
+### Instrutores e cursos 
+- []william Suane
 - Loiane Groner
-- Italo Grossi 
+- Italo Grossi
+  
 ___________________________
 
 ## FAQ 
-Aqui estão todas as perguntas frequentes, não apenas sobre Java, mas sobre computação e um pouco de mercado. 
-Algumas irão incluir explicações técnicas (que serão marcadas com a tag ET), e outras opiniões próprias (marcadas como OP). 
-Mas é claro, preciso mencionar que minhas opiniões próprias não foram simplesmente tiradas da minah cabeça, fiz algumas pesquisas para chegar numa conclusão. 
+Aqui estão algumas perguntas frequentes sobre Java, computação e um pouco de mercado. Algumas delas incluirão explicações técnicas (marcadas com a tag ET), e outras apresentarão opiniões pessoais (marcadas como OP). No entanto, é importante mencionar que minhas opiniões pessoais possuem uma forte influência de pesquisas realizadas por mim.
 
 ### [ET] O java é lento? 
 
+
 ### [ET] A linguagem Java é ruim para jogos?
+
 
 ### [ET] Java é compilado ou interpretado?
 
+
 ### [OP] Certificados servem para algo? 
+
 
 ### [OP] Cursos te preparam para o mercado de trabalho? 
 
