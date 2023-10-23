@@ -17,9 +17,9 @@ Sempre gosto de analisar o professor, ver sua história e sua experiência como 
 </br>
 
 ### Instrutores e cursos 
-- []william Suane
-- Loiane Groner
-- Italo Grossi
+- William Suane, DevDojo, Java virado no Jiraya
+- Loiane Groner, Loiane Trainning, Java básico
+- Italo Grossi, DeAlunoParaAluno, Java 
   
 ___________________________
 
