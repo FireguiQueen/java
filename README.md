@@ -14,8 +14,6 @@ O primeiro critério foi ignorar todas as entidades de ensino que prometem mil m
 A primeira coisa a ser feita foi escolher cuidadosamente os cursos. Alguns foram indicações de amigos, enquanto outros eu procurei em lugares obscuros da web (reddit). 
 Sempre gosto de analisar o professor, ver sua história e sua experiência como desenvolvedor. Ficaremos longe de quem promete coisas, afinal, quem faz muitas promessas, pouco entrega.. Então vamos procurar apenas os que desejam ensinar, ok? Manteremos distância dos marketeiros. 
 
-</br>
-
 ### Instrutores e cursos 
 - William Suane, DevDojo, Java virado no Jiraya
 - Loiane Groner, Loiane Trainning, Java básico
