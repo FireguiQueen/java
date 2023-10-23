@@ -15,9 +15,9 @@ A primeira coisa a ser feita foi escolher cuidadosamente os cursos. Alguns foram
 Sempre gosto de analisar o professor, ver sua história e sua experiência como desenvolvedor. Ficaremos longe de quem promete coisas, afinal, quem faz muitas promessas, pouco entrega.. Então vamos procurar apenas os que desejam ensinar, ok? Manteremos distância dos marketeiros. 
 
 ### Instrutores e cursos 
-- William Suane, DevDojo, <a href="https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW">Java virado no Jiraya</a>
-- Loiane Groner, Loiane Trainning, Java básico
-- Italo Grossi, DeAlunoParaAluno, Java 
+- __William Suane__, _DevDojo:_ <a href="https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW"> Java virado no Jiraya </a>
+- __Loiane Groner__, _Loiane Trainning:_ Java básico <a href="https://loiane.training/curso/java-basico"> Java básico </a>
+- __Italo Grossi__, _DeAlunoParaAluno:_ <a href="https://www.youtube.com/playlist?list=PLa75BYTPDNKZLzk3xG-gSXSU_AAq5RP4g"> Java como programar </a> 
   
 ___________________________
 
