@@ -24,6 +24,8 @@ ___________________________
 ## FAQ 
 Aqui estão algumas perguntas frequentes sobre Java, computação e um pouco de mercado. Algumas delas incluirão explicações técnicas (marcadas com a tag ET), e outras apresentarão opiniões pessoais (marcadas como OP). No entanto, é importante mencionar que minhas opiniões pessoais possuem uma forte influência de pesquisas realizadas por mim.
 
+_-> No momento ainda não coloquei as respostas :/_
+
 ### [ET] O java é lento? 
 
 
