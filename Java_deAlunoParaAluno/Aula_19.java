@@ -35,6 +35,15 @@ public class Aula_19{
 
         // Utilizar o 'else if' tem apenas o intuito de adicionar mais condicionais. 
         // Podemos ver outro exemplo abaixo:
+        /*
+            Primeiro, definimos a temperatura. 
+            Depois, utilizando o if, perguntamos se a string é igual a "frio". 
+            Caso este if acima seja falso, teremos a próxima condição: A string é igual a "normal"?
+            Caso o else if acima seja falso, teremos a próxima condição: A string é igual a "quente"? 
+
+            Caso este else if acima seja falso, só temos uma última hípotese, o dia está muito quente.
+            Sendo assim, usamos apenas o 'else'. 
+            O bloco 'else' será executado caso nenhuma condição acima seja verdadeira. 
         String temperatura = "frio";
 
         if (temperatura == "frio"){
