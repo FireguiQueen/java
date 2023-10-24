@@ -21,5 +21,19 @@ public class Aula_17{
         // printa o nome do usuário 
         System.out.println("Olá, " + userName + "!");
 
+
+
+        // Para ter uma entrada de informação do tipo string, usamos o método "next()". 
+        // Mas observe que, após o espaço, toda a string é ignorada, e apenas a primeira palavra é capturada.
+
+        // Você pode digitar "João Pedro", mas apenas "joão" será salvo nesta variável.
+        String name01 = input.next();
+
+        // Com o "nextLine", não temos esta limitação. Ela só para de capturar quando vamos para a próxima linha.
+        // Ou seja, quando pressionamos "enter".
+        String name02 = input.nextLine();
+
+        System.out.println(name01 + "e" + name02);
+
     }
 }

@@ -1,5 +1,6 @@
 // CONDICIOANIS: IF & ELSE
 
+
 public class Aula_18{
     public static void main(String[] args)
     {
@@ -12,8 +13,9 @@ public class Aula_18{
         if (10 > 0)
         {
             System.out.println("Olá!");
+
+            
         }
 
-        // 
     }
 }
