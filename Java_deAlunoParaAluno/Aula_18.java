@@ -51,12 +51,17 @@ public class Aula_18{
         // Em programação, o sinal '=' (quando colocado sozinho) é um sinal de ATRIBUIÇÃO, ou seja, não é de igualdade.
         // Estamos apenas atribuindo um valor a determinada variável por exemplo. 
         // Para perguntar se um número é igual a outro numa condicional, utilize o "==". 
-        
         int conta01 = 500;
         int conta02 = 500; 
+
         if (conta01 == conta02){
-            System.out.println("Ambos as contas possuem o mesmo saldo.")
+            System.out.println("Ambos as contas possuem o mesmo saldo.");
         } 
 
+
+        // Sinal de "diferença" (!==). Ele é muito utilizado para perguntar se determinado valor é diferente do outro.
+        if (conta01 !== conta02){
+            System.out.println("As contas possuem saldos diferentes.");
+        }
     }
 }
