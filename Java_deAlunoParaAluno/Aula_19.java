@@ -22,9 +22,17 @@ public class Aula_19{
         // Afinal, idade negativa não existe.
         // Para isso, NÃO DEVEMOS ADICIONAR MAIS UM "IF" AO CODIGO, utilizaremos a junção de "else if".
 
+        byte age = 10;
         if (age < 1){
             System.out.println("Idade inserida não é válida.");
         } 
-        else if ()
+        else if (age <= 18){
+            System.out.println("Você é menor de idade.");
+        }
+        else {
+            System.out.println("Você é maior de idade.");
+        }
+
+        // Utilizar o 'else if' tem apenas o intuito de adicionar mais condicionais. 
     }
 }
