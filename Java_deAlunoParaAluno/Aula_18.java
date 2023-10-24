@@ -4,9 +4,9 @@
 public class Aula_18{
     public static void main(String[] args)
     {
-        // 'if' significa 'se'. Se determinada condinção for verdadeira (true), excute o bloco. 
-        // o 'if' trabalha com expressões booleanas, então por exemplo: 1 > 2 (um maior do que dois? FALSO).
-        // ou seja, o retorno desta expressão é a palavra "FALSE". 
+        // 'if' significa 'se'. SE determinada condinção for verdadeira (true), excute o bloco. 
+        // o 'if' trabalha com expressões booleanas, então por exemplo: '1 > 2 (um maior do que dois? FALSE)'.
+        
         
         // SE dez for maior do que zero, excute o bloco. Como a expressão é verdadeira, o bloco será executado.
         // Sendo assim, será printado "olá" no terminal.
@@ -31,8 +31,8 @@ public class Aula_18{
         }
 
         // Funcionamento do 'else'. 
-        // O else é como "caso o IF seja falso, execute este bloco"
-        if 
+        // O else é como "caso o  seja falso, execute este bloco"
+        if
 
     }
 }
