@@ -6,14 +6,15 @@ public class Aula_18{
     {
         // 'if' significa 'se'. SE determinada condinção for verdadeira (true), excute o bloco. 
         // o 'if' trabalha com expressões booleanas, então por exemplo: '1 > 2 (um maior do que dois? FALSE)'.
+
         
-        
-        // SE dez for maior do que zero, excute o bloco. Como a expressão é verdadeira, o bloco será executado.
-        // Sendo assim, será printado "olá" no terminal.
+        // SE dez for maior do que zero, excute o bloco. 
+        // Como a expressão é verdadeira, o bloco será executado.
         if (10 > 0)
         {
             System.out.println("Olá!");   
         }
+
 
         // Também podemos usar variáveis.
         int idade = 18; 
