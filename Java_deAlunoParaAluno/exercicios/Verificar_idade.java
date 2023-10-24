@@ -6,7 +6,7 @@ public class Verificar_idade{
         Scanner userInput = new Scanner(System.in);
 
         System.out.println("Digite sua idade: ");
-        final byte IDADE = nextByte();
+        final byte IDADE = userInput.nextByte();
 
         if (IDADE >= 18)
         {
