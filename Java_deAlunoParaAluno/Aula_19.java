@@ -34,5 +34,20 @@ public class Aula_19{
         }
 
         // Utilizar o 'else if' tem apenas o intuito de adicionar mais condicionais. 
+        // Podemos ver outro exemplo abaixo:
+        String temperatura = "frio";
+
+        if (temperatura == "frio"){
+            System.out.println("Está frio. Não vale a pena sair de casa. Durma ou estude :)");
+        } 
+        else if (temperatura == "normal"){
+            System.out.println("A temperatura está normal.");
+        }
+        else if (temperatura == "quente"){
+            System.out.println("A temperatura está alta, procure se hidratar mais.");
+        }
+        else {
+            System.out.println("O dia está extremamente quente, se hidrate muito. Procure ficar na sombra ao sair de casa.");
+        }
     }
 }
