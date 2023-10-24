@@ -18,5 +18,19 @@ public class Aula_15{
         // Como o retorno é em milisegundos, é um valor inteiro muito grande, então precisamos usar o 'long' 
         long totalMilisegundos = System.currentTimeMillis();
         System.out.println(totalMilisegundos);
+
+
+        // Com este número, podemos saber quantos minutos, horas, dias, anos e etc se passaram.
+        
+        // Para saber os segundos, basta dividir os milisegundos por 1000. Pois 1sec = 1000milisec
+        long totalSegundos = totalMilisegundos / 1000; 
+
+        // Para saber os minutos, basta dividir os segundos por 60. Pois 1min = 60s
+        long totalMinutos = totalSegundos / 60; 
+
+        // Para saber as horas totais, basta dividir os minutos por 60. Pois 1h = 60min 
+        long totalHoras = totalMinutos / 60; 
+
+        // Para saber 
     }
 }
