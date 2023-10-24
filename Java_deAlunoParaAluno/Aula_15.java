@@ -41,6 +41,6 @@ public class Aula_15{
         // Para saber os anos totais, basta dividir os meses por 12. Pois 1a = 12m 
         long totalAnos = totalMeses / 12; 
 
-        System.out.println(totalAnos);
+        System.out.println(totalDias);
     }
 }
