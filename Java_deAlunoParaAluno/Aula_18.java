@@ -33,7 +33,11 @@ public class Aula_18{
 
         // Funcionamento do 'else'. 
         // O else é como "caso o  seja falso, execute este bloco"
-        // Como a expressão do nosso IF retornará 'false', o nosso 'else' será executado.
+        /* 
+            Como a expressão do nosso IF retornará 'false', o nosso 'else' será executado.
+            Detalhe que o 'else' não recebe NENHUMA expressão, pois ele não avalia condições.
+            Ele apenas é executado caso as condições anteiores sejam falsas
+        */
         if (idade >= 50)
         {
             System.out.println("A idade ultrapassou dos 50 anos!");
