@@ -24,7 +24,7 @@ public class Aula_16{
 
         /* Multiplicação */  
         int z = 10; 
-        z *= 2;         // z = z * 2;
+        z *= 2;         // z = z * 2
         // output: 20; 
 
 
@@ -32,6 +32,16 @@ public class Aula_16{
         int k = 100; 
         k /= 2;         // k = k / 2
         // output: 50; 
+
+
+        // Há também os operadores de incremento e decremento, onde literalmente adicionam ou removem o valor inteiro de '1'.
+        int j = 0;
+        j--;            // j = j - 1
+        // ouput: -1
+
+        int n = 0; 
+        n++;            // n = n + 1
+        // output: 1
 
 
 
