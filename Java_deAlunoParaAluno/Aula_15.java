@@ -39,7 +39,7 @@ public class Aula_15{
         long totalMeses = (long) (totalDias / 30.417); 
 
         // Para saber os anos totais, basta dividir os meses por 12. Pois 1a = 12m 
-        long totalAnos = (int)totalMeses / 12; 
+        long totalAnos = totalMeses / 12; 
 
         System.out.println(totalAnos);
     }
