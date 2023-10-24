@@ -59,5 +59,42 @@ public class Aula_19{
         else {
             System.out.println("O dia está extremamente quente, se hidrate muito. Procure ficar na sombra ao sair de casa.");
         }
+
+
+        // POR QUE UTILIZAR "ELSE IF" SE TEMOS O "IF"?
+        /*
+            Isto é verdade, a realidade é que, no exemplo dado acima, todos os 'else if' poderiam ser
+            simplesmente 'if'
+        */ 
+        if (temperatura == "frio"){
+            System.out.println("Está frio. Não vale a pena sair de casa. Durma ou estude :)");
+        } 
+        if (temperatura == "normal"){
+            System.out.println("A temperatura está normal.");
+        }
+        if (temperatura == "quente"){
+            System.out.println("A temperatura está alta, procure se hidratar mais.");
+        } 
+
+        /* Pois bem, porque não fazer assim? 
+        De certa forma, o código tende a funcionar da mesma maneira, mas pode resultar em alguns problemas.
+        Porém, fazer isto não é uma boa prática, eis a explicação:
+        Quando colocamos IFs abaixo de IFs, estamos dizendo ao Java que todas essas condições DEVEM
+        ser analisadas. Isso significa que mesmo se a primeira condição for verdadeira, o código 
+        continuará a verificar todas as condições subsequentes, o que pode ser ineficiente.
+        */ 
+
+       // EXEMPLO:
+       int valor = 10; 
+
+       // Esta primeira condição é verdadeira. Sendo assim, nosso código deveria parar por aqui.
+       // Mas como há outro 'if' logo abaixo, ele será lido (por mais que esta condição já foi considerada verdade). 
+       if (valor > 2){
+            System.out.println("O valor é maior do que dois.");
+       } 
+       if (valor < 2){
+            System.out.println("O valor é menor do que dois.");
+       }
     }
+
 }
