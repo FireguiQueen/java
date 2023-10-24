@@ -43,7 +43,8 @@ public class Aula_19{
 
             Caso este else if acima seja falso, só temos uma última hípotese, o dia está muito quente.
             Sendo assim, usamos apenas o 'else'. 
-            O bloco 'else' será executado caso nenhuma condição acima seja verdadeira. 
+            O bloco 'else' será executado caso nenhuma condição acima seja verdadeira.
+        */
         String temperatura = "frio";
 
         if (temperatura == "frio"){
