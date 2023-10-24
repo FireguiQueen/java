@@ -15,14 +15,14 @@ public class Aula_18{
             System.out.println("Olá!");   
         }
 
-
         // Também podemos usar variáveis.
         int idade = 18; 
         if (idade < 18){
             System.out.println("Você é de menor.");
         }
-        // No caso acima, nossa variável idade recebe 18. Então nossa condição booleana se retorna "18 < 18".
+        // No caso acima, nossa variável idade recebe 18. Então nossa condição booleana é "18 < 18?".
         // E isso obviamente retorna "false", pois 18 não é menor do que 18.
+
 
         // Por outro lado, podemos colocar o sinal de "igual".
         // Neste caso, estamos perguntando: "18 é MENOR ou IGUAL a 18?"
@@ -33,7 +33,14 @@ public class Aula_18{
 
         // Funcionamento do 'else'. 
         // O else é como "caso o  seja falso, execute este bloco"
-        if
+        // Como a expressão do nosso IF retornará 'false', o nosso 'else' será executado.
+        if (idade >= 50)
+        {
+            System.out.println("A idade ultrapassou dos 50 anos!");
+        } 
+        else {
+            System.out.println("A idade não passou dos 50 anos!");
+        }
 
     }
 }
