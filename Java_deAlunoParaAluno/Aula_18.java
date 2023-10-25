@@ -48,7 +48,7 @@ public class Aula_18{
         }
 
 
-        // Mas e o sinal de igual? Como fica? 
+        // Como fazer uma expressão booleana capaz de analisar se um valor é IGUAL ao outro? 
         // Em programação, o sinal '=' (quando colocado sozinho) é um sinal de ATRIBUIÇÃO, ou seja, não é de igualdade.
         // Estamos apenas atribuindo um valor a determinada variável por exemplo. 
         // Para perguntar se um número é igual a outro numa condicional, utilize o "==". 
