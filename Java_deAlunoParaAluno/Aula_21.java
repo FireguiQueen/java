@@ -16,7 +16,7 @@ public class Aula_21{
 
         // Podemos fazer isso, pois a variável 'isLeap' está armazenando "true" ou "false".
         if (isLeap){
-            System.out.pritnln("The year is leap. ");
+            System.out.pritnln("The year is a leap year.");
         }
     }
 }
