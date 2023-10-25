@@ -33,9 +33,11 @@ public class Aula_19{
 
 
 
-        // Variáveis booleans e operadores;
-        // Os operadores analisaram as expressões e sempre irão retornar TRUE ou FALSE. 
-        // Por exemplo:
+        // Variáveis booleans e operadores DE COMPARAÇÃO;
+        // Os operadores de comparação comparam coisas. Por exemplo, o operador ">".
+        // Onde ele compara se determinado valor é maior do que o outro.
+        // Também temos o operador ">=", onde ele compara se determinado valor é MAIOR ou IGUAL ao outro..
+        // Esses operadores sempre irão retornar TRUE ou FALSE. 
 
         // retorna ERRO.
         // boolean x = 5;  
