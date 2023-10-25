@@ -19,5 +19,15 @@ public class Aula_19{
         }
 
 
-        
+        // Exempo com || 
+        int num03 = 20; 
+        int num04 = 10; 
+
+        // "A varipavel num03 é maior do que 5   OU (or)  a variável num04 é maior do que 100?"
+        // Para este bloco ser executado, deve haver apenas um 'true' para esta pergunta.
+        // A variável 'num04' não é maior do que 100, mas a variável 'num03' é maior do que 5.. 
+        // Como o "||" exige que apenas uma expressão seja verdadeira, o bloco será executado. 
+        if (num03 > 5  ||  num04 > 100){
+            System.out.println(" :) ");
+        }
 }
