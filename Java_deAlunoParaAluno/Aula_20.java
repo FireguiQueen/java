@@ -34,15 +34,26 @@ public class Aula_19{
 
 
         // Variáveis booleans e operadores DE COMPARAÇÃO;
-        // Os operadores de comparação comparam coisas. Por exemplo, o operador ">".
-        // Onde ele compara se determinado valor é maior do que o outro.
-        // Também temos o operador ">=", onde ele compara se determinado valor é MAIOR ou IGUAL ao outro..
-        // Esses operadores sempre irão retornar TRUE ou FALSE. 
+        // Em teoria, variáveis booleanas só podem contem dois valores: TRUE ou FALSE.:
+        // sintaxe correta.
+        boolean y = true; 
+        boolean z = false; 
 
-        // retorna ERRO.
+        // Mas como os operadores de comparação comparam coisas, temos a capacidade de armazenar até mesmo
+        // números nessas variáveis, já que, no fim das contas, os números juntamente a esses operadores, irão
+        // resultar em true ou false.
+
+        /*
+            Por exemplo, o operador ">", ele compara se determinado valor é maior do que o outro. Se for maior
+            ele retorna true, do contrário, retorna false.
+            Também temos o operador ">=", onde ele compara se determinado valor é MAIOR ou IGUAL ao outro..
+            >> Esses operadores sempre irão retornar TRUE ou FALSE. 
+        */
+
+        // retorna ERRO (estamos tentando armazenar um número numa variável booleana).
         // boolean x = 5;  
 
-        // Não retorna erro. Pois agora a variável 'x' irá valer FALSE. Já que 5 não é maior do que 5. 
+        // Não retorna erro. Pois agora a variável 'x' irá valer FALSE devido ao operador de comparação. 
         boolean x = 5 > 5; 
     }   
 }
