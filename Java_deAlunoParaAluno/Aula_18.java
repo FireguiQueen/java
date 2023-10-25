@@ -31,18 +31,19 @@ public class Aula_18{
             System.out.println("Você tem menos de 18 anos ou tem 18 anos.");
         }
 
+
         // Funcionamento do 'else'. 
-        // O else é como "caso o  seja falso, execute este bloco"
+        // O else é como: "caso todas as condicionais anteriores sejam falsas, execute este bloco"
         /* 
             Como a expressão do nosso IF retornará 'false', o nosso 'else' será executado.
             Detalhe que o 'else' não recebe NENHUMA expressão, pois ele não avalia condições.
-            Ele apenas é executado caso as condições anteiores sejam falsas
         */
         if (idade >= 50)
         {
             System.out.println("A idade ultrapassou dos 50 anos!");
         } 
-        else {
+        else 
+        {
             System.out.println("A idade não passou dos 50 anos!");
         }
 
