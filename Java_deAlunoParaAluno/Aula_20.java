@@ -30,4 +30,17 @@ public class Aula_19{
         if (num03 > 5  ||  num04 > 100){
             System.out.println(" :) ");
         }
+
+
+
+        // Variáveis booleans e operadores;
+        // Os operadores analisaram as expressões e sempre irão retornar TRUE ou FALSE. 
+        // Por exemplo:
+
+        // retorna ERRO.
+        // boolean x = 5;  
+
+        // Não retorna erro. Pois agora a variável 'x' irá valer FALSE. Já que 5 não é maior do que 5. 
+        boolean x = 5 > 5; 
+    }   
 }
