@@ -61,7 +61,7 @@ public class Aula_18{
         } 
 
 
-        // Sinal de "diferença" (!==). 
+        // Sinal de "diferença" (!=). 
         // Ele é muito utilizado para perguntar se determinado valor é diferente do outro.
 
         // Neste caso, é retornado FALSE, pois os valores são iguais. 
