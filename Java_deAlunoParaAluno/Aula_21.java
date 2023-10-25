@@ -10,7 +10,13 @@ public class Aula_21{
         System.out.print("Year: ");
         final long YEAR = userInput.nextLong();
 
+        // Podemos fazer isso pois temos o operador de diferença (!=) 
+        // E ele faz com que seja retornado TRUE ou FALSE a nossa variável 'isLeap'
+        boolean isLeap = YEAR % 4 != 0
 
-        System.out.print(x);
+        // Podemos fazer isso, pois a variável 'isLeap' está armazenando "true" ou "false".
+        if (isLeap){
+            System.out.pritnln("The year is leap. ");
+        }
     }
 }
