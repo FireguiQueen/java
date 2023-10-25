@@ -1,4 +1,4 @@
-// LOOP.. Laço de repetição.. Ciclo.. (é tudo a mesma coisa)
+// LOOP.. Laço de repetição.. Ciclo.. (é tudo a mesma coisa): WHILE 
 
 public class Aula_22{
     public static void main(String[] args){
