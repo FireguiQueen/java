@@ -87,19 +87,26 @@ public class Aula_19{
         continuará a verificar todas as condições subsequentes, o que pode ser ineficiente.
 
         E além de ser ineficiente, temos um pequeno problema com o else. 
-        Por exemplo, mesmo que o IF seja verdadeiro, o else será lido e será executado. 
+        Por exemplo, o primeiro "if" foi analisado, e sua condição é verdadeira, logo seu bloco é executado.
+        Como a próxima condicional também é um "if" ela será lida e analisada, e caso ela seja "FALSE", o 'else'
+        que está logo abaixo dela será executado. 
         */ 
 
        // EXEMPLO:
        int valor = 10; 
 
-       // Esta primeira condição é verdadeira. Sendo assim, nosso código deveria parar por aqui.
-       // Mas como há outro 'if' logo abaixo, ele será lido (por mais que esta condição já foi considerada verdade). 
+       // Esta primeira condição é verdadeira. Sendo assim, nosso código DEVERIA parar por aqui.
+       // Mas como há outro 'if' logo abaixo, ele será lido. 
        if (valor > 2){
             System.out.println("O valor é maior do que dois.");
        } 
-       if (valor < 2){
+       // este if também será lido.. Mas será avaliado como 'false'.
+       if (valor < 2){ 
             System.out.println("O valor é menor do que dois.");
+       } 
+       // como o 'if' anteior foi avaliado como 'false', este else será executado. 
+       else{
+            System.out.println("...");
        }
     }
 
