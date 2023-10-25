@@ -21,6 +21,7 @@ public class Aula_19{
         // Mas como vamos colocar uma mensagem especifica para quem colocar uma idade negativa? 
         // Afinal, idade negativa não existe.
         // Para isso, NÃO DEVEMOS ADICIONAR MAIS UM "IF" AO CODIGO, utilizaremos a junção de "else if".
+        // O "else if" é como o 'if', porém, ele só é lido caso a condição anteior seja falsa. 
 
         byte age = 10;
         if (age < 1){
