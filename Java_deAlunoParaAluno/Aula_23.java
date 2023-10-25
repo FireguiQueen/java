@@ -36,4 +36,14 @@ public class Aula_23{
         // RESULTADO:
         // Apenas o bloco do "do while" será executado. E será executado apenas uma vez.
         // O bloco do laço 'while' não será executado, pois a condição é falsa. 
+
+
+        // Conclusão:
+        /*
+            No 'do while', independentemente da condição, o nosso bloco sempre será executado AO MENOS
+            uma vez. Já que primeiro é executado e depois perguntado.
+            A famosa frase "Atirar e depois perguntar"
+
+            No while, a frase fica: "Perguntar e depois atirar". 
+        */ 
 }
