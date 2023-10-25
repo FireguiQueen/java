@@ -50,17 +50,21 @@ public class Aula_18{
 
         // Como fazer uma expressão booleana capaz de analisar se um valor é IGUAL ao outro? 
         // Em programação, o sinal '=' (quando colocado sozinho) é um sinal de ATRIBUIÇÃO, ou seja, não é de igualdade.
-        // Estamos apenas atribuindo um valor a determinada variável por exemplo. 
-        // Para perguntar se um número é igual a outro numa condicional, utilize o "==". 
+        // Ao utilizar o "=" estamos apenas atribuindo um valor a uma determinada variável por exemplo. 
+        // Para perguntar se um valor é IGUAL ao outro, utilize o "==". 
         int conta01 = 500;
         int conta02 = 500; 
 
+        // Neste caso, é retornado TRUE, então nosso bloco é executado.
         if (conta01 == conta02){
             System.out.println("Ambos as contas possuem o mesmo saldo.");
         } 
 
 
-        // Sinal de "diferença" (!==). Ele é muito utilizado para perguntar se determinado valor é diferente do outro.
+        // Sinal de "diferença" (!==). 
+        // Ele é muito utilizado para perguntar se determinado valor é diferente do outro.
+
+        // Neste caso, é retornado FALSE, pois os valores são iguais. 
         if (conta01 !== conta02){
             System.out.println("As contas possuem saldos diferentes.");
         }
