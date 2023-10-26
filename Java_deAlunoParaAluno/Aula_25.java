@@ -1,4 +1,5 @@
-import java.util.*; 
+import java.util.Random;
+import java.util.Scanner; 
 
 public class Aula_25{
     public static void main(String[] args){
@@ -6,8 +7,8 @@ public class Aula_25{
         Random randomNumber = new Random(); 
         byte tentativas = 3;
 
-        int randomValue = randomNumber.nextInt();
-        System.out.println(randomValue);
+        int randomValue = randomNumber.nextInt(10);
+        System.out.println(randomValue); // linha pra gente poder colar na hora de responder haha :) 
 
 
         int usuarioChute;
@@ -18,5 +19,12 @@ public class Aula_25{
             tentativas--; 
             
         } while ((usuarioChute != randomValue) && tentativas != 0);
+
+
+        if (usuarioChute == randomValue){
+            System.out.println("Você acertou, parabéns!");
+        } else{
+            System.out.println("Você não acertou uma vez.");
+        }
     }
 }
