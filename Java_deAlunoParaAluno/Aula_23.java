@@ -46,4 +46,25 @@ public class Aula_23{
 
             No while, a frase fica: "Perguntar e depois atirar". 
         */ 
+
+       
+        // Quando o 'do while' pode ser utilizado ao invés do 'while'? 
+        /*
+            Imagine um programa bem simples que utiliza do terminal.
+            A ideia é o usuário digitar um número positivo e será retornado se o número é ímpar ou pár. 
+            Para isso, precisamos utilizar a classe "scanner" do java. 
+
+            Detalhe, queremos APENAS números POSITIVOS, então, podemos montar o seguinte algoritomo:
+
+            do {
+                int x = user.nextInt();
+            } while (x < 0)
+
+            Ou seja, primeiro aparecerá um campo para o usuário digitar um número inteiro.
+            Caso ele digite um número negativo, o input aparecerá novamente: pois o X será menor do que zero.
+
+            Caso ele digite um número positivo, terminaremos este laço de repetição: 
+            pois X será maior do que zero.
+
+        */
 }
