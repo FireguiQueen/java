@@ -18,7 +18,7 @@ public class Aula_25{
             usuarioChute = userInput.nextInt(); 
             tentativas--; 
             
-        } while ((usuarioChute != randomValue) && tentativas != 0);
+        } while ((usuarioChute != randomValue) && (tentativas != 0));
 
 
         if (usuarioChute == randomValue){
