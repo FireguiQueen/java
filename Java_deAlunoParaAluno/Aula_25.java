@@ -24,7 +24,7 @@ public class Aula_25{
         if (usuarioChute == randomValue){
             System.out.println("Você acertou, parabéns!");
         } else{
-            System.out.println("Você não acertou uma vez.");
+            System.out.println("Você não acertou.");
         }
     }
 }
