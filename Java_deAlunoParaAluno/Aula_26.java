@@ -22,7 +22,14 @@ public class Aula_26{
 
         for (int i = 0; i <= 10; i++) // variável 'i' recebe 0; Enquanto i for MENOR ou IGUAL a 10. Execute o bloco.
         {
-            if (numero)
+            if (usuarioNumero == i)
+            {
+                System.out.println("Seu número é: " + i);
+            }
+            else {
+                System.out.println("Seu número não é: " + i);
+            }
         }
+        
     }
 }
