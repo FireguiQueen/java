@@ -25,11 +25,50 @@ public class Aula_26{
             if (usuarioNumero == i)
             {
                 System.out.println("Seu número é: " + i);
+                break;
             }
             else {
                 System.out.println("Seu número não é: " + i);
             }
         }
-        
+
+        /*
+            O usuário precisa digitar um número, então vamos supor que o usuário digite o número 1. 
+            Logo em seguida temos um 'for loop'.
+
+            Na primeira vez do loop, a sua variável de controle vale '0'.
+            Então temos a condição: i (0) é menor ou igual a 10? 
+            A condição é verdadeira, pois i (0) é menor do que 10, então nosso bloco é executado.
+
+            No bloco temos uma condicional perguntando:
+                "O número digitado pelo usuário é igual a i (0)"? 
+                    > este bloco não será executado, pois o número digitado pelo usuário não é igual a i (0).
+
+                Sendo assim, o bloco "else" será executado, printando a seguinte string no terminal:
+                "Seu número não é: i", ou seja, o número digitado pelo usuário não é zero.
+                
+                Por fim, é adicionado +1 a nossa variável de controle.
+
+
+            Agora estamos na segunda repetição do laço. A nossa variável de controle (i) vale 1 (devido ao incremento).
+            Então temos a condição do "for": a variável i (1) é menor ou igual a 10? 
+            A condição é verdadeira, pois i (1) é menor do que 10, então nosso bloco é executado.
+
+            No bloco temos uma condicional perguntando:
+                "O número digitado pelo usuário é igual a i (1)"? 
+                    > este bloco será executado, pois o número digitado pelo usuário (1) é igual a i (1).
+                    Logo em seguida, vemos a palavra "break", ou seja, FINALIZE o laço de repetição.
+                    Então teremos o laço finalizado. O 'for' não irá se repetir mais, mesmo que sua condição
+                    seja verdadeira.
+
+            
+            Conclusão: 
+                Se não houvesse o "break" neste código, nosso "for" iria se repetir novamente, pois a condição:
+                "i <= 10" é VERDADEIRA. 
+
+                Mas o break finalizou o 'for'. 
+            */ 
+
+
     }
 }
