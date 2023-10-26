@@ -43,15 +43,36 @@ public class Aula_24{
             10 < 10? 
             Obviamente, dez não é menor do que dez, então, é retornado false, e temos nosso loop finalizado.
         */ 
-       
+
         // Para "corrigir" este problema, basta utilizar o operador "<=" (menor ou igual).
         // Então, quando nossa variável I atingir o valor de 10, será perguntado:
         // 10 é maior ou IGUAL a 10? 
         // 10 não é maior, mas é igual. Logo será retornado 'true' e nosso bloco será executado.
-        for(int i = 0; i < 10; i++)
+        for(int i = 0; i <= 10; i++)
         {
             System.out.println(i); 
         }   
 
+
+
+        // FUNCIONAMENTO DO 'FOR' PASSO-A-PASSO:
+
+        // Definimos nossa variável Y. Ela recebe 0. Esta etapa ocorre só uma vez.
+        // Temos nossa condição, e nela é perguntado: y (0) é menor do que 100?
+        // Sim, por enquanto Y é menor do que 3, então é retornado 'true', logo o bloco é executado.
+        // É printado 'zero' no terminal, pois Y vale zero.
+        // Após a execução do bloco, é incrementado +1 a nossa variável de controle (y).
+        // Agora 'y' vale 1, então é perguntado, y (1) é menor ou igual a 3? Sim, por enquanto Y ainda é menor.
+        // Nosso bloco é executado e é incrementado +1 a variável.
+        // Agora 'y' vale 2, então temos a mesma pergunta: y (2) é menor ou igual a 3? Sim, por enquanto.
+        // Nosso bloco é executado, e é incrementado +1 a nossa variável.
+        // Agora 'y' vale 3, então surge a pergunta: y (3) é menor ou igual a 3? Sim, é sim.
+        // Por mais que 'y' não seja menor do que 3 (pois três não é menor do que ele mesmo), y é igual a 3.
+        // Nosso bloco é executado, e incrementado +1 a nossa variável.
+        // Agora 'y' vale 4, temos a mesma pergunta: y (4) é menor ou igual a 3? Não. Não é! Loop finalizado.
+        for(int y = 0; y <= 3; y++)
+        {
+            System.out.println(y); 
+        }
     }   
 }
