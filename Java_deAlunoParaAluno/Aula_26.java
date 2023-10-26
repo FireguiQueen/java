@@ -18,7 +18,7 @@ public class Aula_26{
         Scanner userInput = new Scanner(System.in);
 
         System.out.print("Digite um número: ");
-        int usarioNumero = userInput.nextInt(); // variável 'Usuarionumero' receberá o número digitado pelo usuário.
+        int usuarioNumero = userInput.nextInt(); // variável 'Usuarionumero' receberá o número digitado pelo usuário.
 
         for (int i = 0; i <= 10; i++) // variável 'i' recebe 0; Enquanto i for MENOR ou IGUAL a 10. Execute o bloco.
         {
@@ -69,6 +69,32 @@ public class Aula_26{
                 Mas o break finalizou o 'for'. 
             */ 
 
+            // SEM O BREAK. Considere que o usuário tenha digitado o número 7. : 
+            /*
+                Seu número não é: 0
+                Seu número não é: 1
+                Seu número não é: 2
+                Seu número não é: 3
+                Seu número não é: 4
+                Seu número não é: 5
+                Seu número não é: 6
+                Seu número é: 7
+                Seu número não é: 8
+                Seu número não é: 9
+                Seu número não é: 10
+            */
+
+            // COM O BREAK. 
+            /*
+                Seu número não é: 0
+                Seu número não é: 1
+                Seu número não é: 2
+                Seu número não é: 3
+                Seu número não é: 4
+                Seu número não é: 5
+                Seu número não é: 6
+                Seu número é: 7
+            */
 
     }
 }
