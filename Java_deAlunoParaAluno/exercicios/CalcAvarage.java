@@ -19,3 +19,21 @@ Aqui está um exemplo de saída do programa:
     Utilize uma condição para verificar se a nota inserida é igual a -1 e, se for, interrompa o loop usando 
     break. Use continue para ignorar notas negativas na hora do cálculo da média.
 */
+
+import java.util.Scanner;
+
+public class CalcAvarage{
+    public static void main(String[] args)
+    {
+        Scanner userInput = new Scanner(System.in);
+
+        int numero;
+        do {
+            numero = userInput.nextInt();
+        } while (numero != -1);
+
+        
+
+
+    }
+}
