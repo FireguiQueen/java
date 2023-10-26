@@ -15,7 +15,7 @@ public class TempConversor{
         System.out.print("-> ");
         conversor = userInput.nextByte();
         } 
-        while (conversor >= 3 || conversor <= 0 );
+        while (conversor != 1 && conversor != 0 );
 
 
         if (conversor == 1)
