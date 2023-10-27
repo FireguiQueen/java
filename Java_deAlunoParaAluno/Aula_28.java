@@ -23,6 +23,12 @@ public class Aula_28{
         int z = x > y? 500 : 250; 
 
 
+        // aqui é perguntado: x (100) é maior do que 1000? 
+        // a expressão é avaliada como 'FALSE', então, a segunta parte é a executada.
+        // Logo, o que será printado, será a string "olá"
+        System.out.println(x > 1000? "oi" : "olá");
+
+
 
     }
 }
