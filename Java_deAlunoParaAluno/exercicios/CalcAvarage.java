@@ -27,9 +27,13 @@ public class CalcAvarage{
     {
         Scanner userInput = new Scanner(System.in);
 
-        int numero;
+        int i = 1; 
+        int numero = 0;
         do {
-            numero = userInput.nextInt();
+            System.out.print("Nota " + i + ": ");
+            int numeroAtual = userInput.nextInt();
+            
+            i++;
         } while (numero != -1);
 
         
