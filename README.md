@@ -1,9 +1,9 @@
 # Java
 Bem vindo ao meu repositório sobre Java. Aqui você encontrará cursos, exercícios e explicações.
 
-</br>
-
 ______________
+
+</br>
 
 ## Introdução
 Este repositório foi criado não apenas para agrupar todos os cursos, exercícios e projetos pequenos que foram feitos por mim, mas também para servir como uma base para outras pessoas interessadas em aprender Java =).
