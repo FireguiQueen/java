@@ -16,14 +16,15 @@ A primeira coisa a ser feita foi escolher cuidadosamente os cursos. Alguns foram
 > Ficaremos longe de quem promete coisas, afinal, quem faz muitas promessas, pouco entrega. Este respositório busca manter distância dos marketeiros.  
 
 ### Instrutores e cursos 
-- __Italo Grossi__, _DeAlunoParaAluno:_ <a href="https://www.youtube.com/playlist?list=PLa75BYTPDNKZLzk3xG-gSXSU_AAq5RP4g"> Programar em Java </a> 
 - __William Suane__, _DevDojo:_ <a href="https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW"> Java virado no Jiraya </a>
+- __Italo Grossi__, _DeAlunoParaAluno:_ <a href="https://www.youtube.com/playlist?list=PLa75BYTPDNKZLzk3xG-gSXSU_AAq5RP4g"> Programar em Java </a> 
 - __Loiane Groner__, _Loiane Trainning:_ <a href="https://loiane.training/curso/java-basico"> Java básico </a>
   
 ___________________________
 
 ## FAQ 
-Aqui estão algumas perguntas frequentes sobre Java, computação e um pouco de mercado. Algumas delas incluirão explicações técnicas (marcadas com a tag ET), e outras apresentarão opiniões pessoais (marcadas como OP). No entanto, é importante mencionar que minhas opiniões pessoais possuem uma forte influência de pesquisas realizadas por mim.
+Aqui estão algumas perguntas frequentes sobre Java, computação e um pouco de mercado. Algumas delas incluirão explicações técnicas (marcadas com a tag ET), e outras apresentarão opiniões pessoais (marcadas como OP). 
+> É importante mencionar que minhas opiniões pessoais possuem uma forte influência de pesquisas realizadas por mim.
 
 > _No momento ainda não coloquei as respostas para todas as perguntas._
 
