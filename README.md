@@ -42,8 +42,11 @@ Primeiro, vamos separar algumas coisas. Existem certificados profissionais, nos 
 Existem também certificados de conclusão de cursinho, ou seja, após o aluno concluir seu curso (seja da udemy, alura etc..) ele ganhará um certificado de conclusão. Não estou desmerecendo os cursos, só estou dizendo que este tipo de certificado é inútil. O que realmente importa é se você absorveu todo o conteúdo do curso, e não apenas o fato de ter feito o curso.
 
 Vamos pensar nisso: imagine que você seja o RH de uma empresa brasileira e está procurando contratar um profissional júnior. Você agregaria mais valor a alguém pelo simples fato de possuir vários certificados da Udemy no currículo? Creio que a resposta seja "não". </br>
-Provavelmente, você nem conhece o conteúdo dos cursos, muito menos o instrutor desses cursos. Você nem sabe se os cursos são de qualidade. E mesmo que os cursos sejam excelentes, como você pode ter certeza de que o indivíduo realmente concluiu todos eles, assistiu a todas as aulas e fez todos os exercícios?"
+Provavelmente você nem conhece os cursos, muito menos o instrutor desses cursos. Você nem sabe se os cursos são bons. E mesmo que os cursos sejam excelentes, como você pode ter certeza de que o indivíduo realmente concluiu todos eles, assistiu a todas as aulas e fez todos os exercícios? 
 
+__Conclusão__: certificados são úteis? Sim (os da Oracle, AWS, Azure..). Os da udemy, alura..? Não, nenhum pouco. 
 
 ### [OP] Cursos te preparam para o mercado de trabalho? 
+
+### [OP] Cursos pagos valem a pena? 
 
