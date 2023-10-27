@@ -39,5 +39,36 @@ public class Aula_27{
         }
 
 
+        // Observe que o 'break' foi utilizado. Ele precisa ser colocado em cada 'case', pois se não fosse
+        // a instrução do próximo caso seria executada. 
+
+
+        // Mas e se não houver um 'case' para o valor analisado?
+        // Basta utilizar o 'default'. 
+
+        int z = 0;
+        switch(z){
+            case 50:
+                System.out.println("Olá");
+                System.out.println("Este bloco será executado caso o valor seja IGUAL a 50");
+                break;
+
+            case 30:
+                System.out.println("Olá");
+                System.out.println("Este bloco será executado caso o valor seja IGUAL a 30");
+                break;
+                
+            // Como nenhum dos casos anteriores forem executados, o nosso 'default' será.
+            // ele é como se fosse o "else" da estrutura "if".
+
+            default:
+                System.out.println("Este bloco foi executado pois nenhum caso anterior tem o valor desejado");
+        }
+            
+
+
+        }
+
+
     }
 }
