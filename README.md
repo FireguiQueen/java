@@ -31,6 +31,11 @@ Aqui estão algumas perguntas frequentes sobre Java, computação e um pouco de 
 
 
 ### [ET] A linguagem Java é ruim para jogos?
+Podemos dizer que sim, mas precisamos tomar cuidado ao afirmar isso. O fato do java ser "ruim" para desenvolver jogos não é culpa do Java em si.
+Antes dos smartphones, os celulares usavam Java como principal plataforma para aplicativos e games. Tudo isso em aparelhos com recursos extremamente limitados, e mesmo assim, os jogos eram escritos em java. 
+
+As linguagens mais usadas para jogos são C# e Lua, isso significa que a comunidade dedicou muito trabalho a escrever libs e engines performáticos com essas linguagens. Seria o mesmo que escrever um jogo em Rust. É uma linguagem super performatica? Sim, mas a comunidade não dedicou tempo o suficiente para torná-la tão boa para esse propósito.
+
 
 
 ### [ET] Java é compilado ou interpretado?
