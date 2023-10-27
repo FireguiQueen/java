@@ -14,6 +14,15 @@
 public class Aula_28{
     public static void main(String[] args)
     {
-        
+        int x = 100;
+        int y = 50;
+
+        // é perguntado "x (100) é maior do que y (50)".
+        // a expressão é avaliada como 'TRUE', então, a primeira parte é a executada.
+        // Logo, nossa variável 'z', recebe o valor de 500
+        int z = x > y? 500 : 250; 
+
+
+
     }
 }
