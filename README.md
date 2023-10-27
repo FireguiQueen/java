@@ -8,6 +8,7 @@ Este repositório foi criado não apenas para agrupar todos os cursos, exercíci
 
 ### Como os cursos foram escolhidos?
 Antes de continuar a leitura, recomendo que leia <a href="https://github.com/FireguiQueen/Java/tree/main#op-certificados-servem-para-algo">"cursos te preparam ao mercado?"</a>. </br>
+
 Sou um estudante de Java, e em relação aos cursos deste repositório, eu mantenho cursos gratuitos e de boa qualidade. 
 O primeiro critério foi ignorar todas as "entidades de ensino" que prometem mil maravilhas, por isso você não encontrará cursinhos da Alura ou da Rockeseat. Brincadeiras à parte, mas de fato você não vai encontrar.
 
