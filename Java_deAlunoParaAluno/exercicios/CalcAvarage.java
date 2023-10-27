@@ -28,11 +28,13 @@ public class CalcAvarage{
         Scanner userInput = new Scanner(System.in);
 
         int i = 1; 
-        int numero = 0;
+        int numero;
         do {
+            int numeroDigitado = nextInt();
+            if (numeroDigitado )
             System.out.print("Nota " + i + ": ");
             int numeroAtual = userInput.nextInt();
-            
+
             i++;
         } while (numero != -1);
 
