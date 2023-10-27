@@ -26,7 +26,8 @@ public class TempConversor{
 
             System.out.println("Fahrenheit: " + FAHRENHEIT);
         } 
-        else {
+        else 
+        {
             System.out.print("Digite a temperatura em Fahrenheit: ");
             final double temperatura = userInput.nextDouble(); 
             final double CELCIUS = ((temperatura - 32) * 5) / 9;
