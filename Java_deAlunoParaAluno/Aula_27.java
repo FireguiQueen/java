@@ -87,8 +87,24 @@ public class Aula_27{
         */
 
 
+        // MULTIPLOS CASOS
+        /*
+            E se por exemplo, para que um bloco seja executado, pode ser qualquer valor que seja
+            200, 300 ou 400?
+        */
+        int j = 100; 
+        switch(j){
+
+            /* a ideia de montar desta maneira, é que, caso a variável seja 100 por exemplo, o nosso primeiro
+            'case' será executado, mas observe que como não houve um 'break', tudo ali faz parte dele.
+            Então nossa string é printada.
+            Caso o valor seja 200 por exemplo, o nosso segundo 'case' será executado, mas novamente, não há
+            o 'break', então toda as instruções abaixo serão executadas..*/
+            case 100:
+            case 200:
+            case 300:
+                System.out.println("O valor da variável pode ser 100, 200 ou 300.");
+                break;
         }
-
-
     }
 }
