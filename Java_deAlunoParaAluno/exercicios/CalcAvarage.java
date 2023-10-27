@@ -29,6 +29,7 @@ public class CalcAvarage{
 
         int i = 0; 
         int numero = 0;
+
         do {
             System.out.print("Nota " + (i+1) + ": ");
             int numeroDigitado = userInput.nextInt();
@@ -44,7 +45,7 @@ public class CalcAvarage{
 
         } while (true);
 
-        int avarage = numero / (i -1); 
+        int avarage = numero / (i - 1); 
 
         System.out.println("Total: " + numero);
         System.out.println("Média: " + avarage);
