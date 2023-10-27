@@ -53,7 +53,7 @@ Os bons cursos do mercado podem, de fato, ensinar muitas coisas úteis e conceit
 
 O que verdadeiramente lhe trará experiência e conhecimento são os projetos reais, aqueles que trazem utilidade ao mundo. Os pequenos projetos apresentados em cursos são consideravelmente diferentes do mundo real. Em cursos, você tem um guia passo a passo e, mesmo que encontre erros, não será muito difícil resolvê-los, uma vez que, em geral, são projetos mais genéricos.
 
-Na vida real você enfrenta prazos, responsabilidades e, claro, uma complexidade muito maior ao concluir um projeto. Lembre-se, há dinheiro envolvido no que você constrói. Obviamente, projetos assim não são encontrados apenas quando você trabalha para alguém, projetos pessoais que buscam trazer utilidade e até mesmo possíveis lucros, terão todas essas caracteristicas: <q>Tempo é dinheiro</q>.
+Na vida real você enfrenta prazos, responsabilidades e, claro, uma complexidade muito maior ao concluir um projeto. Lembre-se, há dinheiro envolvido no que você constrói. Obviamente, projetos assim não são encontrados apenas quando você trabalha para alguém, projetos pessoais que buscam trazer utilidade e até mesmo possíveis lucros, terão todas essas caracteristicas. <q>Tempo é dinheiro</q>.
 
 ### [OP] Cursos pagos valem a pena? 
 
