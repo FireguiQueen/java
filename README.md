@@ -20,7 +20,7 @@ A primeira coisa a ser feita foi escolher cuidadosamente os cursos. Alguns foram
   
 ___________________________
 
-## FANQ 
+## FAQ 
 Aqui estão algumas perguntas frequentes sobre Java, computação e um pouco de mercado. Algumas delas incluirão explicações técnicas (marcadas com a tag ET), e outras apresentarão opiniões pessoais (marcadas como OP). No entanto, é importante mencionar que minhas opiniões pessoais possuem uma forte influência de pesquisas realizadas por mim.
 
 > _No momento ainda não coloquei as respostas para todas as perguntas._
