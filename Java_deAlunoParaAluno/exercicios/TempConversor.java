@@ -21,15 +21,15 @@ public class TempConversor{
         if (conversor == 1)
         {
             System.out.print("Digite a temperatura em Celcius: ");
-            final int temperatura = userInput.nextInt(); 
-            final int FAHRENHEIT = temperatura * 9 / 5 + 32;
+            final double temperatura = userInput.nextDouble(); 
+            final double FAHRENHEIT = temperatura * 9 / 5 + 32;
 
             System.out.println("Fahrenheit: " + FAHRENHEIT);
         } 
         else {
             System.out.print("Digite a temperatura em Fahrenheit: ");
-            final int temperatura = userInput.nextInt(); 
-            final int CELCIUS = ((temperatura - 32) * 5) / 9;
+            final double temperatura = userInput.nextDouble(); 
+            final double CELCIUS = ((temperatura - 32) * 5) / 9;
 
             System.out.println("Celcius: " + CELCIUS);
         }

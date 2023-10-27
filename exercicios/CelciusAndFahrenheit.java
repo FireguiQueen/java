@@ -1,6 +1,3 @@
-public class CalciusAndFahreinheit{ 
-    public static void main(String[] args)
-    {
-        
-    }
-}
+// O usuário deve escolher uma das opções abaixo:
+// Celcius -> Fahrenheit = .. 
+// Fahrenheit -> Celcius = .. 
