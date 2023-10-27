@@ -16,8 +16,8 @@ A primeira coisa a ser feita foi escolher cuidadosamente os cursos. Alguns foram
 > Ficaremos longe de quem promete coisas, afinal, quem faz muitas promessas, pouco entrega. Este respositório busca manter distância dos marketeiros.  
 
 ### Instrutores e cursos 
-- __Italo Grossi__, _DeAlunoParaAluno:_ <a href="https://www.youtube.com/playlist?list=PLa75BYTPDNKZLzk3xG-gSXSU_AAq5RP4g"> Programar em Java </a> 
 - __William Suane__, _DevDojo:_ <a href="https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW"> Java virado no Jiraya </a>
+- __Italo Grossi__, _DeAlunoParaAluno:_ <a href="https://www.youtube.com/playlist?list=PLa75BYTPDNKZLzk3xG-gSXSU_AAq5RP4g"> Programar em Java </a> 
 - __Loiane Groner__, _Loiane Trainning:_ <a href="https://loiane.training/curso/java-basico"> Java básico </a>
   
 ___________________________
