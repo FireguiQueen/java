@@ -44,7 +44,7 @@ Existem também certificados de conclusão de cursinho, ou seja, após o aluno c
 Vamos pensar nisso: imagine que você seja o RH de uma empresa brasileira e está procurando contratar um profissional júnior. Você agregaria mais valor a alguém pelo simples fato de possuir vários certificados da Udemy no currículo? Creio que a resposta seja "não". </br>
 Provavelmente você nem conhece os cursos, muito menos o instrutor desses cursos. Você nem sabe se os cursos são bons. E mesmo que os cursos sejam excelentes, como você pode ter certeza de que o indivíduo realmente concluiu todos eles, assistiu a todas as aulas e fez todos os exercícios? 
 
-__Conclusão__: certificados são úteis? Sim (os da Oracle, AWS, Azure..). Os da udemy, alura..? Não, nenhum pouco. 
+__Conclusão__:  certos certificados, como os da Oracle, AWS, Azure, entre outros, têm utilidade e podem ser valorizados. Por outro lado, os certificados de plataformas como Udemy, Alura e etc, em geral, são inúteis.
 
 ### [OP] Cursos te preparam para o mercado de trabalho? 
 
