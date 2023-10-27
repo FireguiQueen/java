@@ -47,6 +47,14 @@ Provavelmente você nem conhece os cursos, muito menos o instrutor desses cursos
 __Conclusão__:  certos certificados, como os da Oracle, AWS, Azure, entre outros, têm utilidade e __podem__ ser valorizados. Por outro lado, os certificados de plataformas como Udemy, Alura e etc, em geral, são inúteis.
 
 ### [OP] Cursos te preparam para o mercado de trabalho? 
+Nenhum deles tem a capacidade de ensinar a você tudo o que uma vaga requer. Mesmo vagas de estágio podem exigir conhecimentos que não foram abordados em um determinado curso, pois os cursos são projetados para proporcionar uma introdução a uma tecnologia ou assunto específico
+
+Os bons cursos do mercado podem, de fato, ensinar muitas coisas úteis e conceitos importantes, inclusive tópicos complexos relacionados a uma determinada tecnologia. No entanto, é importante observar que tudo o que o curso ensina, incluindo conceitos, já está disponível em formato de texto. Ao meu ver, os cursos foram desenvolvidos para tornar o aprendizado mais prático, uma vez que, ao fazer um curso, o principal meio de aprendizado é por meio de vídeo. 
+
+O que verdadeiramente lhe trará experiência e conhecimento são os projetos reais, aqueles que trazem utilidade ao mundo. Os pequenos projetos apresentados em cursos são consideravelmente diferentes do mundo real. Em cursos, você tem um guia passo a passo e, mesmo que encontre erros, não será muito difícil resolvê-los, uma vez que, em geral, são projetos mais genéricos.
+
+No entanto, na vida real, as coisas são diferentes. Você enfrenta prazos, responsabilidades e, claro, uma complexidade muito maior ao concluir um projeto. Lembre-se, há dinheiro envolvido no que você constrói. 
+Obviamente, projetos assim não são encontrados apenas quando você trabalha para alguém, projetos pessoais que buscam trazer utilidade e até mesmo possíveis lucros, terão todas essas caracteristicas: <q>Tempo é dinheiro</q>.
 
 ### [OP] Cursos pagos valem a pena? 
 
