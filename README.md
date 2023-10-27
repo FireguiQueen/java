@@ -7,7 +7,7 @@ ______________
 Este repositório foi criado não apenas para agrupar todos os cursos, exercícios e projetos pequenos que foram feitos por mim, mas também para servir como uma base para outras pessoas interessadas em aprender Java =).
 
 ### Como os cursos foram escolhidos?
-Antes de continuar a leitura, recomendo que leia <a href="[OP]-Certificados-servem-para-algo?"> testekk </a>
+Antes de continuar a leitura, recomendo que leia <a href="###[OP]-Certificados-servem-para-algo?"> testekk </a>
 Sou um estudante de Java, e em relação aos cursos deste repositório, eu mantenho cursos gratuitos e de boa qualidade. 
 O primeiro critério foi ignorar todas as "entidades de ensino" que prometem mil maravilhas, por isso você não encontrará cursinhos da Alura ou da Rockeseat. Brincadeiras à parte, mas de fato você não vai encontrar.
 
