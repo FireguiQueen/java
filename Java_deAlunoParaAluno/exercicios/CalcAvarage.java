@@ -27,16 +27,27 @@ public class CalcAvarage{
     {
         Scanner userInput = new Scanner(System.in);
 
-        int i = 1; 
-        int numero;
+        int i = 0; 
+        int numero = 0;
         do {
-            int numeroDigitado = nextInt();
-            if (numeroDigitado )
-            System.out.print("Nota " + i + ": ");
-            int numeroAtual = userInput.nextInt();
-
+            System.out.print("Nota " + (i+1) + ": ");
+            int numeroDigitado = userInput.nextInt();
             i++;
-        } while (numero != -1);
+
+            if (numeroDigitado == -1){
+                break;
+            } 
+            else
+            {
+                numero += numeroDigitado; 
+            }
+
+        } while (true);
+
+        int avarage = numero / (i -1); 
+
+        System.out.println("Total: " + numero);
+        System.out.println("Média: " + avarage);
 
         
 
