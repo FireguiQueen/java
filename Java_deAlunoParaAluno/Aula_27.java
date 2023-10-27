@@ -66,6 +66,26 @@ public class Aula_27{
         }
             
 
+        // CONSEQUÊNCIAS DE NÃO UTILIZAR O BREAK:
+        int y = 100;
+        switch(y)
+        {   
+            // o bloco abaixo será executado, pois o nosso valor analisado (y) é 100. 
+            case 100: 
+                System.out.println("Valor 100");
+                // como o break não está aqui, as linhas abaixo serão consideradas como parte deste bloco.
+
+            // Por isso, este bloco também será executado.  
+            case 200:
+                System.out.println("Valor 200");
+        }
+
+        // OUTPUT:
+        /*
+            Valor 100
+            Valor 200
+        */
+
 
         }
 
