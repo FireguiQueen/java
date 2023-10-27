@@ -7,11 +7,11 @@ ______________
 Este repositório foi criado não apenas para agrupar todos os cursos, exercícios e projetos pequenos que foram feitos por mim, mas também para servir como uma base para outras pessoas interessadas em aprender Java =).
 
 ### Como os cursos foram escolhidos?
-Sou um estudante de Java, e aqui, eu procuro manter apenas cursos gratuitos e de boa qualidade. 
-O primeiro critério foi ignorar todas as entidades de ensino que prometem mil maravilhas, por isso você não encontrará cursinhos da Alura ou da Rockeseat. Brincadeiras à parte, mas de fato você não vai encontrar.
+Sou um estudante de Java, e em relação aos cursos deste repositório, eu mantenho cursos gratuitos e de boa qualidade. 
+O primeiro critério foi ignorar todas as "entidades de ensino" que prometem mil maravilhas, por isso você não encontrará cursinhos da Alura ou da Rockeseat. Brincadeiras à parte, mas de fato você não vai encontrar.
 
-A primeira coisa a ser feita foi escolher cuidadosamente os cursos. Alguns foram indicações de amigos, enquanto outros eu procurei em lugares obscuros da web (reddit). 
-Sempre gosto de analisar o professor, ver sua história e sua experiência como desenvolvedor. Ficaremos longe de quem promete coisas, afinal, quem faz muitas promessas, pouco entrega.. Então vamos procurar apenas os que desejam ensinar, ok? Manteremos distância dos marketeiros. 
+A primeira coisa a ser feita foi escolher cuidadosamente os cursos. Alguns foram indicações de amigos, enquanto outros eu procurei em lugares obscuros da web (reddit). Procuro sempre fazer uma analise do professor, ver sua história e sua experiência como desenvolvedor. 
+> Ficaremos longe de quem promete coisas, afinal, quem faz muitas promessas, pouco entrega. Este respositório busca manter distância dos marketeiros.  
 
 ### Instrutores e cursos 
 - __Italo Grossi__, _DeAlunoParaAluno:_ <a href="https://www.youtube.com/playlist?list=PLa75BYTPDNKZLzk3xG-gSXSU_AAq5RP4g"> Programar em Java </a> 
@@ -20,10 +20,10 @@ Sempre gosto de analisar o professor, ver sua história e sua experiência como 
   
 ___________________________
 
-## FAQ 
+## FANQ 
 Aqui estão algumas perguntas frequentes sobre Java, computação e um pouco de mercado. Algumas delas incluirão explicações técnicas (marcadas com a tag ET), e outras apresentarão opiniões pessoais (marcadas como OP). No entanto, é importante mencionar que minhas opiniões pessoais possuem uma forte influência de pesquisas realizadas por mim.
 
-_-> No momento ainda não coloquei as respostas :/_
+> _No momento ainda não coloquei as respostas para todas as perguntas._
 
 ### [ET] O java é lento? 
 
@@ -35,7 +35,7 @@ _-> No momento ainda não coloquei as respostas :/_
 
 
 ### [OP] Certificados servem para algo? 
-
+Primeiro, vamos separar
 
 ### [OP] Cursos te preparam para o mercado de trabalho? 
 
