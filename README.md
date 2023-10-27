@@ -1,8 +1,6 @@
 # Java
 Bem vindo ao meu repositório sobre Java. Aqui você encontrará cursos, exercícios e explicações.
 
-</br>
-
 ______________
 
 ## Introdução
