@@ -1,18 +1,19 @@
 # Java
 Bem vindo ao meu repositório sobre Java. Aqui você encontrará cursos, exercícios e explicações.
 
-</br>
+______________
 
 ## Introdução
 Este repositório foi criado não apenas para agrupar todos os cursos, exercícios e projetos pequenos que foram feitos por mim, mas também para servir como uma base para outras pessoas interessadas em aprender Java =).
 
-
 ### Como os cursos foram escolhidos?
-Sou um estudante de Java, e aqui, eu procuro manter apenas cursos gratuitos e de boa qualidade. 
-O primeiro critério foi ignorar todas as entidades de ensino que prometem mil maravilhas, por isso você não encontrará cursinhos da Alura ou da Rockeseat. Brincadeiras à parte, mas de fato você não vai encontrar.
+_Antes de continuar a leitura, recomendo que leia <a href="https://github.com/FireguiQueen/Java/tree/main#op-certificados-servem-para-algo">"cursos te preparam ao mercado?"</a>._ 
 
-A primeira coisa a ser feita foi escolher cuidadosamente os cursos. Alguns foram indicações de amigos, enquanto outros eu procurei em lugares obscuros da web (reddit). 
-Sempre gosto de analisar o professor, ver sua história e sua experiência como desenvolvedor. Ficaremos longe de quem promete coisas, afinal, quem faz muitas promessas, pouco entrega.. Então vamos procurar apenas os que desejam ensinar, ok? Manteremos distância dos marketeiros. 
+Sou um estudante de Java, e em relação aos cursos deste repositório, eu mantenho cursos gratuitos e de boa qualidade. 
+O primeiro critério foi ignorar todas as "entidades de ensino" que prometem mil maravilhas, por isso você não encontrará cursinhos da Alura ou da Rockeseat. Brincadeiras à parte, mas de fato você não vai encontrar.
+
+A primeira coisa a ser feita foi escolher cuidadosamente os cursos. Alguns foram indicações de amigos, enquanto outros eu procurei em lugares obscuros da web (reddit). Procuro sempre fazer uma analise do professor, ver sua história e sua experiência como desenvolvedor. 
+> Ficaremos longe de quem promete coisas, afinal, quem faz muitas promessas, pouco entrega. Este respositório busca manter distância dos marketeiros.  
 
 ### Instrutores e cursos 
 - __Italo Grossi__, _DeAlunoParaAluno:_ <a href="https://www.youtube.com/playlist?list=PLa75BYTPDNKZLzk3xG-gSXSU_AAq5RP4g"> Programar em Java </a> 
@@ -24,19 +25,40 @@ ___________________________
 ## FAQ 
 Aqui estão algumas perguntas frequentes sobre Java, computação e um pouco de mercado. Algumas delas incluirão explicações técnicas (marcadas com a tag ET), e outras apresentarão opiniões pessoais (marcadas como OP). No entanto, é importante mencionar que minhas opiniões pessoais possuem uma forte influência de pesquisas realizadas por mim.
 
-_-> No momento ainda não coloquei as respostas :/_
+> _No momento ainda não coloquei as respostas para todas as perguntas._
 
 ### [ET] O java é lento? 
 
 
 ### [ET] A linguagem Java é ruim para jogos?
+Podemos dizer que sim, mas precisamos tomar cuidado ao afirmar isso. O fato do java ser "ruim" para desenvolver jogos não é culpa do Java em si.
+Antes dos smartphones, os celulares usavam Java como principal plataforma para aplicativos e games. Tudo isso em aparelhos com recursos extremamente limitados, e mesmo assim, os jogos eram escritos em java. 
+
+As linguagens mais usadas para jogos são C# e Lua, isso significa que a comunidade dedicou muito trabalho a escrever libs e engines performáticos com essas linguagens. Seria o mesmo que escrever um jogo em Rust. É uma linguagem super performatica? Sim, mas a comunidade não dedicou tempo o suficiente para torná-la tão boa para esse propósito.
+
 
 
 ### [ET] Java é compilado ou interpretado?
 
 
 ### [OP] Certificados servem para algo? 
+Primeiro, vamos separar algumas coisas. Existem certificados profissionais, nos quais geralmente é necessário passar por uma prova desafiadora sobre o assunto, e você provavelmente terá que pagar para obtê-lo. Um exemplo é o certificado de Java da Oracle. Esses certificados são, de fato, úteis e bem valorizados no mercado. No entanto, mesmo esse tipo de certificado não garante que o profissional seja adequado para uma determinada vaga.
 
+Existem também certificados de conclusão de cursinho, ou seja, após o aluno concluir seu curso (seja da udemy, alura etc..) ele ganhará um certificado de conclusão. Não estou desmerecendo os cursos, só estou dizendo que este tipo de certificado é inútil. O que realmente importa é se você absorveu todo o conteúdo do curso, e não o fato de ter feito o curso.
+
+Vamos pensar nisso: imagine que você seja o RH de uma empresa brasileira e está procurando contratar um profissional júnior. Você agregaria mais valor a alguém pelo simples fato dele possuir vários certificados da Udemy no currículo? Creio que a resposta seja "não". 
+Provavelmente você nem conhece os cursos, muito menos o instrutor desses cursos. Você nem sabe se os cursos são bons. E mesmo que os cursos sejam excelentes, como você pode ter certeza de que o indivíduo realmente concluiu todos eles, assistiu a todas as aulas e fez todos os exercícios? 
+
+__Conclusão__:  certos certificados, como os da Oracle, AWS, Azure, entre outros, têm utilidade e __podem__ ser valorizados. Por outro lado, os certificados de plataformas como Udemy, Alura e etc, em geral, são inúteis.
 
 ### [OP] Cursos te preparam para o mercado de trabalho? 
+Nenhum deles tem a capacidade de ensinar a você tudo o que uma vaga requer. Mesmo vagas de estágio podem exigir conhecimentos que não foram abordados em um determinado curso, pois os cursos são projetados para proporcionar uma _introdução_ a uma tecnologia ou assunto específico.
+
+Os bons cursos do mercado podem, de fato, ensinar muitas coisas úteis e conceitos importantes, inclusive tópicos complexos relacionados a uma determinada tecnologia. Mas é importante observar que todo o conteúdo do curso já está disponível na internet em formato de texto. Ao meu ver, os cursos são feitos para tornar o aprendizado mais prático e divertido, uma vez que, ao fazer um curso, o principal meio de aprendizado é por meio de vídeo. 
+
+O que verdadeiramente lhe trará experiência e conhecimento são os projetos reais, aqueles que trazem utilidade ao mundo. Os pequenos projetos apresentados em cursos são consideravelmente diferentes do mundo real. Em cursos, você tem um guia passo a passo e, mesmo que encontre erros, não será muito difícil resolvê-los, uma vez que, em geral, são projetos mais genéricos.
+
+Na vida real você enfrenta prazos, responsabilidades e, claro, uma complexidade muito maior ao concluir um projeto. Lembre-se, há dinheiro envolvido no que você constrói. Obviamente, projetos assim não são encontrados apenas quando você trabalha para alguém, projetos pessoais que buscam trazer utilidade e até mesmo possíveis lucros, terão todas essas caracteristicas. <q>Tempo é dinheiro</q>.
+
+### [OP] Cursos pagos valem a pena? 
 
