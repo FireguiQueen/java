@@ -20,7 +20,7 @@ public class Aula_15{
         System.out.println(totalMilisegundos);
 
 
-        // Com este número, podemos saber quantos minutos, horas, dias, anos e etc se passaram.
+        // Com este número podemos saber quantos minutos, horas, dias, anos e etc se passaram.
         
         // Para saber os segundos totais passados, basta dividir os milisegundos por 1000. Pois 1sec = 1000milisec
         long totalSegundos = totalMilisegundos / 1000; 
