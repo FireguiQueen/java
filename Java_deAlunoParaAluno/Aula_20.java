@@ -58,12 +58,15 @@ public class Aula_19{
         // No entanto, como os operadores de comparação comparam valores, podemos utilizar números com essas variáveis.
         // Os números, quando combinados com esses operadores, irão resultar em 'true' ou 'false'.
 
+
         /*
-            Por exemplo, o operador ">", ele compara se determinado valor é maior do que o outro. Se for maior
-            ele retorna true, do contrário, retorna false.
-            Também temos o operador ">=", onde ele compara se determinado valor é MAIOR ou IGUAL ao outro..
-            >> Esses operadores sempre irão retornar TRUE ou FALSE. 
+            Por exemplo, o operador ">", compara se um valor é maior que o outro. Se for maior,
+            ele retorna true; caso contrário, retorna false.
+            Temos também o operador ">=", que compara se um valor é MAIOR ou IGUAL ao outro.
+            >> Esses operadores sempre retornam TRUE ou FALSE. 
         */
+
+       
 
         // retorna ERRO (estamos tentando armazenar um número numa variável booleana).
         // boolean x = 5;  
