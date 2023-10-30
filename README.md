@@ -35,7 +35,7 @@ Aqui estão algumas perguntas frequentes sobre Java, computação e um pouco de 
 Podemos dizer que sim, mas precisamos tomar cuidado ao afirmar isso. O fato do java ser "ruim" para desenvolver jogos não é culpa do Java em si.
 Antes dos smartphones, os celulares usavam Java como principal plataforma para aplicativos e games. Tudo isso em aparelhos com recursos extremamente limitados, e mesmo assim, os jogos eram escritos em java. 
 
-As linguagens mais usadas para jogos são C# e Lua, isso significa que a comunidade dedicou muito trabalho a escrever libs e engines performáticos com essas linguagens. Seria o mesmo que escrever um jogo em Rust. É uma linguagem super performatica? Sim, mas a comunidade não dedicou tempo o suficiente para torná-la tão boa para esse propósito.
+Atualmente, as linguagens mais usadas para jogos são C# e Lua, isso significa que a comunidade dedicou muito trabalho a escrever libs e engines performáticos com essas linguagens. Seria o mesmo que escrever um jogo em Rust. É uma linguagem super performatica? Sim, mas a comunidade não dedicou tempo o suficiente para torná-la tão boa para esse propósito.
 
 
 
@@ -43,9 +43,9 @@ As linguagens mais usadas para jogos são C# e Lua, isso significa que a comunid
 
 
 ### [OP] Certificados servem para algo? 
-Primeiro, vamos separar algumas coisas. Existem certificados profissionais, nos quais geralmente é necessário passar por uma prova desafiadora sobre o assunto, e você provavelmente terá que pagar para obtê-lo. Um exemplo é o certificado de Java da Oracle. Esses certificados são, de fato, úteis e bem valorizados no mercado. No entanto, mesmo esse tipo de certificado não garante que o profissional seja adequado para uma determinada vaga.
+Primeiro, vamos separar algumas coisas. Existem certificados profissionais, nos quais geralmente é necessário passar por uma prova desafiadora sobre o assunto, e você provavelmente terá que pagar para obtê-lo. Um exemplo é o certificado de Java da Oracle. Esses certificados são, de fato, úteis e possivelmente valorizados no mercado. No entanto, mesmo esse tipo de certificado não garante que o profissional seja adequado para uma determinada vaga.
 
-Existem também certificados de conclusão de cursinho, ou seja, após o aluno concluir seu curso (seja da udemy, alura etc..) ele ganhará um certificado de conclusão. Não estou desmerecendo os cursos, só estou dizendo que este tipo de certificado é inútil. O que realmente importa é se você absorveu todo o conteúdo do curso, e não o fato de ter feito o curso.
+Existem também certificados de conclusão de cursinho, ou seja, após o aluno concluir seu curso (seja da udemy, alura etc..) ele ganhará um certificado de conclusão. Não estou desmerecendo os cursos, só estou dizendo que este tipo de certificado é inútil. O que realmente importa é se você absorveu todo o conteúdo mostrado pelo curso.  
 
 Vamos pensar nisso: imagine que você seja o RH de uma empresa brasileira e está procurando contratar um profissional júnior. Você agregaria mais valor a alguém pelo simples fato dele possuir vários certificados da Udemy no currículo? Creio que a resposta seja "não". 
 Provavelmente você nem conhece os cursos, muito menos o instrutor desses cursos. Você nem sabe se os cursos são bons. E mesmo que os cursos sejam excelentes, como você pode ter certeza de que o indivíduo realmente concluiu todos eles, assistiu a todas as aulas e fez todos os exercícios? 
@@ -57,9 +57,9 @@ Nenhum deles tem a capacidade de ensinar a você tudo o que uma vaga requer. Mes
 
 Os bons cursos do mercado podem, de fato, ensinar muitas coisas úteis e conceitos importantes, inclusive tópicos complexos relacionados a uma determinada tecnologia. Mas é importante observar que todo o conteúdo do curso já está disponível na internet em formato de texto. Ao meu ver, os cursos são feitos para tornar o aprendizado mais prático e divertido, uma vez que, ao fazer um curso, o principal meio de aprendizado é por meio de vídeo. 
 
-O que verdadeiramente lhe trará experiência e conhecimento são os projetos reais, aqueles que trazem utilidade ao mundo. Os pequenos projetos apresentados em cursos são consideravelmente diferentes do mundo real. Em cursos, você tem um guia passo a passo e, mesmo que encontre erros, não será muito difícil resolvê-los, uma vez que, em geral, são projetos mais genéricos.
+O que verdadeiramente lhe trará experiência e conhecimento são os projetos reais, aqueles que trazem utilidade ao mundo. Os pequenos projetos mostrados em cursos são bem diferentes do que é feito no mundo real. Nos cursos, você tem um guia passo-a-passo e, mesmo que encontre erros, não será muito difícil resolvê-los, uma vez que, em geral, são projetos genéricos.
 
-Na vida real você enfrenta prazos, responsabilidades e, claro, uma complexidade muito maior ao concluir um projeto. Lembre-se, há dinheiro envolvido no que você constrói. Obviamente, projetos assim não são encontrados apenas quando você trabalha para alguém, projetos pessoais que buscam trazer utilidade e até mesmo possíveis lucros, terão todas essas caracteristicas. <q>Tempo é dinheiro</q>.
+Na vida real você enfrenta prazos, responsabilidades e, claro, uma complexidade muito maior para concluir um projeto. Lembre-se, há dinheiro envolvido no que você constrói. Obviamente, projetos assim não são encontrados apenas quando você trabalha para alguém, projetos pessoais que buscam trazer utilidade e até mesmo possíveis lucros, podem demandar prazos e "alta" complexidade no desenvolvimento. <q>Tempo é dinheiro</q>.
 
 ### [OP] Cursos pagos valem a pena? 
 
