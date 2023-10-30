@@ -113,13 +113,12 @@ public class Aula_19{
 
 
         // Por que o Java continua lendo os próximos "if" mesmo se o primeiro já foi verdadeiro?
-        // Ora, ele entende que cada "if" faz parte de uma condição separada e precisa ser avaliado.
+        // Ora, ele entende que cada "if" faz parte de uma condição separada, e logo, ela precisa ser avaliada.
 
-        // Ou seja, use o "if" para dar inicio a uma estrutura condicional, caso haja necessidade de mais condições nesta estrutura, use o 'else if'.
-        // Assim, essas condições continuam a fazer parte da mesma estrutura. 
+        // Use "if" para iniciar uma estrutura condicional. Se precisar de mais condições na mesma estrutura, use "else if".
+        // Dessa forma, todas as condições pertencem à mesma estrutura.
 
-        // Caso faça uma estrutura condicional apenas de "IFs", será compreendido que são estruturas separadas, e se referem a coisas diferentes.
-
+        // Se usar apenas "if" em estruturas condicionais, elas serão tratadas como estruturas separadas e independentes.
     }
 
 }
