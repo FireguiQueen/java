@@ -12,5 +12,11 @@ public class Aula_13{
     {
         final long CPF = 02133122750; // define uma constante do tipo 'long'.
         System.out.println("CPF: " + CPF);
+
+
+        // Tentar fazer isto retornará erros. Pois variáveis constantes não podem ter seus valores alterados.
+        /*
+            CPF = 24324;
+        */
     }
 }
