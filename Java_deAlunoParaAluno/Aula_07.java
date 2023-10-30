@@ -17,7 +17,7 @@ class Aula_06{
         double num5;    // os números após a vírgula terão uma precisão maior
 
 
-        // Tipo para valores de VERDADEIRO ou FALSO (0 ou 1)
+        // Tipo para valores booleanos, ou seja, VERDADEIRO ou FALSO (0 ou 1)
         boolean isRaining = true; // "está chovendo? TRUE (verdadeiro)". É muito utilizado em condições 
 
         // Tipo para CARACTERES
