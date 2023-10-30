@@ -9,7 +9,7 @@ public class Aula_12{
         // Na aula 06 vimos que um número inteiro divido por outro número inteiro sempre resulturá em um valor inteiro.
         /*
             Isto é, 50 dividido por 3 é '16.6666..', ou seja, um valor quebrado. 
-            Porém, no java, se realizarmos este cálculo, teremos um resultado um poquinho errado.
+            Porém, no java, se realizarmos este cálculo (50/3), teremos como resultaod, um valor totalmente inteiro.
         */
         System.out.println(50 / 3); 
         // output: 16. 
@@ -22,7 +22,7 @@ public class Aula_12{
         // output: 16.6666
 
         // Mas como nessa situação estamos trabalhando sem variáveis, podemos simplesmente colocar um .0 ao lado 
-        // de um número inteiro.
+        // de um número inteiro. Isto não é casting, estamos apenas dividindo um valor inteiro por um valor de ponto flutuante.
         System.out.println(50 / 3.0);
         // output: 16.6666
 
