@@ -37,24 +37,26 @@ public class Aula_19{
 
         // "num03 é maior do que 5   || (or)  num04 é maior do que 100?"
         // Para este bloco ser executado, deve haver apenas um 'true' para esta pergunta.
-        
+
         // A variável 'num04' não é maior do que 100, mas a variável 'num03' é maior do que 5.. 
         // Como o "||" exige que apenas uma expressão seja verdadeira, o bloco será executado. 
         if (num03 > 5  ||  num04 > 100){
             System.out.println(" :) ");
         }
 
+        // Este bloco não será executado pois nenhuma única expressão é verdadeira. 
+        if (0 > 5  ||  50 > 100){
+            System.out.println(" :) ");
+        }
 
 
         // Variáveis booleans e operadores DE COMPARAÇÃO;
         // Em teoria, variáveis booleanas só podem contem dois valores: TRUE ou FALSE.:
-        // sintaxe correta.
         boolean y = true; 
         boolean z = false; 
 
-        // Mas como os operadores de comparação comparam coisas, temos a capacidade de armazenar até mesmo
-        // números nessas variáveis, já que, no fim das contas, os números juntamente a esses operadores, irão
-        // resultar em true ou false.
+        // No entanto, como os operadores de comparação comparam valores, podemos utilizar números com essas variáveis.
+        // Os números, quando combinados com esses operadores, irão resultar em 'true' ou 'false'.
 
         /*
             Por exemplo, o operador ">", ele compara se determinado valor é maior do que o outro. Se for maior
