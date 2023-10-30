@@ -7,7 +7,7 @@ class Aula_05
 
         int x = 50;
         int y = 50;
-        
+
         // Podemos atribuir a uma variável outras variáveis. 
         // Como neste caso, onde estamos dizendo "a variávei ¨total¨ RECEBE a variável ¨x¨ + ¨y¨"
         int total = x + y; 
@@ -21,8 +21,9 @@ class Aula_05
         int multiplicacao = x * y; 
         
 
-        // Como printar x e y sem juntá-los? Por exemplo: "50 50"
+        // Como printar x e y sem juntar seus valores? Por exemplo: "50 50"
 
+        // NÃO FAÇA ISSO.
         System.out.println(x + y);
         // output: 100 
 
@@ -31,8 +32,9 @@ class Aula_05
 
         // Mas por qual motivo precisamos fazer isso?
         /*
-            A resposta é bem simples. Ao fazer: System.out.println(x + y); 
-            significa que desejamos juntar os valores daquelas variáveis, e assim será retornado 100 (50 + 50).
+            A resposta é bem simples. 
+            Ao fazer: System.out.println(x + y); 
+            - significa que desejamos juntar os valores daquelas variáveis, e assim será retornado 100 (50 + 50).
 
             Quando colocamos as aspas no meio, basicamente estamos dizendo que o valor de X irá se juntar 
             a uma string e a string irá se juntar ao valor de y. 
