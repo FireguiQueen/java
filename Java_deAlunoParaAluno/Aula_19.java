@@ -66,7 +66,7 @@ public class Aula_19{
         // POR QUE UTILIZAR "ELSE IF" SE TEMOS O "IF"?
         /*
             Isto é verdade, a realidade é que, no exemplo dado acima, todos os 'else if' poderiam ser
-            substituídos por 'if'
+            substituídos por 'if'. 
         */ 
         if (temperatura == "frio"){
             System.out.println("Está frio. Não vale a pena sair de casa. Durma ou estude :)");
@@ -82,12 +82,13 @@ public class Aula_19{
 
         /* Pois bem, porque não fazer assim? 
         Fazer isto não é uma boa prática, eis a explicação:
-        O código tende a funcionar da mesma maneira, mas pode resultar em alguns problemas, principalmente se usamos fazemos uso do 'else'.
+        O código tende a funcionar da mesma maneira, mas pode resultar em alguns problemas, principalmente se fazemos o uso do 'else'.
+        
         Quando colocamos IFs abaixo de IFs (como no exemplo acima), estamos dizendo ao Java que todas essas condições 
         DEVEM ser analisadas. Isso significa que mesmo se a primeira condição for verdadeira, o código 
         continuará a verificar todas as condições subsequentes, o que pode ser ineficiente.
 
-        E além de ser ineficiente, temos um pequeno problema com o else. 
+        E além de ser ineficiente, temos um pequeno problema com o 'else'. 
         Por exemplo, o primeiro "if" foi analisado, e sua condição é verdadeira, logo seu bloco é executado.
         Como a próxima condicional também é um "if" ela será lida e analisada, e caso ela seja "FALSE", o 'else'
         que está logo abaixo dela será executado. 
@@ -109,6 +110,16 @@ public class Aula_19{
        else{
             System.out.println("...");
        }
+
+
+        // Por que o Java continua lendo os próximos "if" mesmo se o primeiro já foi verdadeiro?
+        // Ora, ele entende que cada "if" faz parte de uma condição separada e precisa ser avaliado.
+
+        // Ou seja, use o "if" para dar inicio a uma estrutura condicional, caso haja necessidade de mais condições nesta estrutura, use o 'else if'.
+        // Assim, essas condições continuam a fazer parte da mesma estrutura. 
+
+        // Caso faça uma estrutura condicional apenas de "IFs", será compreendido que são estruturas separadas, e se referem a coisas diferentes.
+
     }
 
 }
