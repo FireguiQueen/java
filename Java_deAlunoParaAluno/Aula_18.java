@@ -4,12 +4,20 @@
 public class Aula_18{
     public static void main(String[] args)
     {
-        // 'if' significa 'se'. SE determinada condinção for verdadeira (true), excute o bloco. 
-        // o 'if' trabalha com expressões booleanas, então por exemplo: '1 > 2 (um maior do que dois? FALSE)'.
-
+        /* 
+            -> 'if' significa 'se'. 
+            -> SE determinada condinção for VERDADEIRA (true), EXCUTE o bloco. 
+        
+            O 'if' trabalha com expressões booleanas. Uma expressão booleana é uma expressão que resulta 
+            em um valor booleano. 
+        
+            O operador de igualdade, ==, compara dois valores e produz um valor booleano de acordo com o fato 
+            dos dois valores serem iguais ou não. Se eles forem iguais, o resultado é o valor boolean "TRUE".
+            Se eles são falsos o resultado é o valor "FALSE".
+        */
         
         // SE dez for maior do que zero, excute o bloco. 
-        // Como a expressão é verdadeira, o bloco será executado.
+        // Como a expressão boolean é verdadeira (pois dez é maior que zero), o bloco será executado.
         if (10 > 0)
         {
             System.out.println("Olá!");   
