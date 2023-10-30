@@ -7,8 +7,8 @@
     aplicação do algoritmo em uma divisão de números inteiros.
 
     Qual a sua utilidade? Este operador nos permite por exemplo, saber se determinado número é ímpar ou par. 
-    Qualquer número dividido por dois que tenha o resto da divisão igual a zero, será par. 
-    E qualquer número dividido por dois que tenha o resto da divisão DIFERENTE de zero, será ímpar.  
+    - Qualquer número dividido por dois que tenha o resto da divisão IGUAL (=) a zero, será par. 
+    - Qualquer número dividido por dois que tenha o resto da divisão DIFERENTE (!=) de zero, será ímpar.  
 */
 
 import java.util.Scanner; 
