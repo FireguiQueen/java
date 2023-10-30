@@ -77,7 +77,7 @@ public class Aula_18{
         // Ele é muito utilizado para perguntar se determinado valor é diferente do outro.
         // Se os valores são DIFERENTES é retornado TRUE. Se eles NÃO são DIFERENTES, é retornado "false".
 
-        // Neste caso, é retornado FALSE, pois os valores são iguais. 
+        // Neste caso, é retornado FALSE, pois os valores são iguais. Nosso bloco abaixo não é executado.
         if (conta01 !== conta02){
             System.out.println("As contas possuem saldos diferentes.");
         }
