@@ -2,7 +2,7 @@
 
 // Import é "importar", ou seja, estamos dizendo que queremos importar (trazer) algo para o nosso programa.
 // Nesse caso, estamos importando a classe "Scanner" do pacote "util".
-// Sem esta importação, não seria possível utilizar essa classe em nosso programa.
+// Sem esta importação, não seria possível utilizar essa classe (scanner) em nosso programa.
 import java.util.Scanner;  
 
 
