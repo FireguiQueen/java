@@ -34,12 +34,14 @@ public class Aula_04{
         System.out.println(z);
         // output: "50"
 
-        /*
-        /* Porém, em nosso terminal, o será retornado mesmo é uma string. Então mesmo que você coloque um valor 
-        inteiro, um valor quebrado ou qualquer outro, o que será retornado no terminal será STRING.  */
+        /* Quando colocamos uma variável entre parênteses, estamos referindo-se ao valor que ela contém.
+        No entanto, quando essa saída é exibida em nosso terminal, ela será tratada como uma string.
+        Portanto, independentemente do tipo de valor que a variável contenha, o que veremos no terminal é uma 
+        STRING. */
 
-        // Para concatenar (juntar) os valores em Java podemos usar o caracter '+'.
-        // Então por exemplo, para juntar o valor da nossa variável + uma string, é algo bem simples:
+
+        // Para concatenar (juntar) os valores em Java, podemos usar o caractere '+'.
+        // Então, por exemplo, para juntar o valor da nossa variável + uma string, é algo bem simples:
         System.out.println("José tem " + x + " anos");
         // resultado (output): "José tem 50 anos"
         
