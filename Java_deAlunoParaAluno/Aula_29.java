@@ -24,13 +24,13 @@ public class Aula_29{
         // Isto adicionará +1 a nossa variável x. - A partir da linha abaixo, o X terá 101 como valor.
         System.out.println(x++); 
 
-        // Isto não adicionará +1 a nossa variável X. Pois não é operador de incremento.
-        System.out.println(x +1);
+        // Isto não adicionará +1 A NOSSA variável X. Pois não é operador de incremento.
+        System.out.println(x + 1);
+
+        // RESUMIDAMENTE: sempre que o "java" vê "++x" ou "x++" por exemplo, será somado +1 a variável X. 
         
 
         // ENTENDENDO A DIFERENÇA:
-
-        // Pós incremento.
         int a = 10; 
         int b = a++; 
 
@@ -55,5 +55,26 @@ public class Aula_29{
 
             Após isso, foi somado +1 a variável 'a' pois é isso o que o operador de incremento faz. 
         */
+
+
+       // Ficou confuso? Veja a explicação abaixo, que vai linha por linha. 
+        int e = 10; 
+        int f = e++; 
+
+        System.out.println(e); // 11 
+        System.out.println(f); // 10
+
+        // int e = 10; 
+        // Linha responsável por armazenar o valor inteiro '10' a variável 'e'.
+
+        // int f = e++; 
+        // Linha responsável por armazenar a variável 'e'.
+        // Mas lembre-se, sempre que o "java" vê o operador de incremento, a variável terá +1 ao seu valor.
+
+        // Então, a variável 'f' recebeu o valor de 'e'. Logo, 'f' recebe o valor de '10'.
+        // Mas também temos uma ação ocorrendo: e++, ou seja, some +1 a variável 'e'.
+
+        // Logo, 'e' será 11.
+        // e 'f' será 10.  
     }
 }
