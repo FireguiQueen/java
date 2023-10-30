@@ -9,6 +9,8 @@ import java.util.Scanner;
 import java.util.*;
 
 
+// O scanner é útil pois nos permite receber inputs do usuário.
+
 public class Aula_10{
 
     public static void main(String[] args)
