@@ -11,10 +11,10 @@ public class Aula_08{
             de algumas palavras-chaves para isso, entre elas temos o 'int', 'float', 'double'.. 
         */
 
-        // Observe que NÃO podemos usar as palavras-chave do java para nós como bem entendermos.
+        // Observe que NÃO podemos usar as palavras-chave do java como bem entendermos.
         // Como no exemplo abaixo, onde tentamos definir que o nome da variável é 'false', mas o 'false' já é
         // uma palavra-chave do java. 
-        int false = 5; 
+        int false = 5; // retornará erro.
 
 
         /*  ******************************  */
