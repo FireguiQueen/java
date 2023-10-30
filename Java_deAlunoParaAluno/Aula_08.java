@@ -8,7 +8,7 @@ public class Aula_08{
         // como as coisas vão funcionar na linguagem. 
         /*
             Por exemplo, em java precisamos definir o tipo de dado de nossa variável, sendo assim, o java precisa
-            de algumas palavras-chaves para isso, entre elas temos o int, float, double.. 
+            de algumas palavras-chaves para isso, entre elas temos o 'int', 'float', 'double'.. 
         */
 
         // Observe que NÃO podemos usar as palavras-chave do java para nós como bem entendermos.
