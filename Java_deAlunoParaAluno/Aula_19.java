@@ -20,11 +20,12 @@ public class Aula_19{
 
         // Mas como vamos colocar uma mensagem especifica para quem colocar uma idade negativa? 
         // Afinal, idade negativa não existe.
-        // Para isso, NÃO DEVEMOS ADICIONAR MAIS UM "IF" AO CODIGO, utilizaremos a junção de "else if".
+
+        // Para isso, NÃO DEVEMOS ADICIONAR MAIS UM "IF" AO CODIGO, utilizaremos o "else if".
         // O "else if" é como o 'if', porém, ele só é lido caso a condição anteior seja falsa. 
 
         byte age = 10;
-        if (age < 1){
+        if (age <= 0){
             System.out.println("Idade inserida não é válida.");
         } 
         else if (age <= 18){
@@ -37,10 +38,10 @@ public class Aula_19{
         // Utilizar o 'else if' tem apenas o intuito de adicionar mais condicionais. 
         // Podemos ver outro exemplo abaixo:
         /*
-            Primeiro, definimos a temperatura. 
+            Primeiro, definimos como está a temperatura. 
             Depois, utilizando o if, perguntamos se a string é igual a "frio". 
             Caso este if acima seja falso, teremos a próxima condição 'else if': A string é igual a "normal"?
-            Caso o else if acima seja falso, teremos a próxima condição 'else if': A string é igual a "quente"? 
+            Caso o 'else if' acima seja falso, teremos a próxima condição 'else if': A string é igual a "quente"? 
 
             Caso este else if acima seja falso, só temos uma última hípotese, o dia está muito quente.
             Sendo assim, usamos apenas o 'else'. 
