@@ -21,11 +21,11 @@ class Aula_06{
         System.out.println(numero_01 / numero_02);
         // output: 37
 
-        // O nosso output foi 37 e não 37.5, ou seja, o nosso número quebrado foi totalmente ignorado. 
+        // O nosso output foi 37 e não 37.5, ou seja, o nosso número quebrado não apareceu. 
 
-        // Vemos também o desaparecimento dos números quebrados neste exemplo
+        // Vemos também o desaparecimento dos números quebrados neste exemplo:
         System.out.println(4 / 150); 
-        // Logicamente, o resultado é de '0,02', mas o nosso output será 0. 
+        // Logicamente, o resultado correto é '0,02', mas o nosso output será 0. 
         // Então vemos que de fato, apenas números inteiros estão sendo retornados.
 
 
@@ -35,10 +35,9 @@ class Aula_06{
         double divisaoFinal = num0 / num1; // 150 dividido por 4. Resultado esperado: 37.5  
         
         System.out.println(divisaoFinal);
-        // ouput: 37 
+        // ouput: 37 (resultado incorreto..)
 
-        // Mas não, não é assim que o Java funciona. Como podemos ver, o output foi de 37, e não 37.5. 
-        // Mas por que?
+        // Mas não, não é assim que o Java funciona. Mas por que?
         /*
             Um número inteiro dividido por outro número inteiro RESULTARÁ sempre em um número inteiro.
             INDEPENDENTE do tipo de dado que irá armazenar eles. 
