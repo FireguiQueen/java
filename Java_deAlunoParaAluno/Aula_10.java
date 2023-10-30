@@ -1,14 +1,13 @@
 // IMPORTAÇÃO de pacotes e classes
 
-// Import é "importar", ou seja, estamos dizendo que queremos importar (trazer) algo para o nosso programa.
-// Nesse caso, estamos importando a classe "Scanner" do pacote "util".
-// Sem esta importação, não seria possível utilizar essa classe (scanner) em nosso programa.
+// A instrução "import" permite a gente importar (trazer) classes e pacotes para o nosso programa.
+// Neste caso, estamos importando a classe "Scanner" do pacote "java.util".
+// Sem essa importação, não poderíamos usar a classe Scanner em nosso programa.
 import java.util.Scanner;  
 
-
-// Como podemos importar TODAS as classes de uma vez só de um pacote?
-// É bem simples, basta especificar o pacote e colocar o asterisco (*) ao em vez de escolher uma classe.
+// Para importar TODAS as classes de um pacote de uma vez, podemos usar o asterisco (*).
 import java.util.*;
+
 
 public class Aula_10{
 
