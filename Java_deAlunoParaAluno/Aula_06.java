@@ -5,7 +5,8 @@ class Aula_06{
 
     public static void main(String[] args){
 
-        // variáveis que armazenam números inteiros usam o tipo 'int'. Esse tipo aceita APENAS valores inteiros.
+        // variáveis que armazenam números inteiros usam o tipo 'int'.
+        // Esse tipo aceita APENAS valores INTEIROS.. Não tente armazenar outra coisa, haverá erros.
         int y = 10; 
 
         // Para armazenar números quebrados, usamos 'double' ou 'float'.
@@ -16,7 +17,7 @@ class Aula_06{
         int numero_01 = 150;
         int numero_02 = 4; 
 
-        // Agora vamos realizar a divisão. 150 dividido por 4 = 37.5 (retorna um número quebrado)
+        // Vamos realizar a divisão. 150 dividido por 4 = 37.5 (retorna um número quebrado)
         System.out.println(numero_01 / numero_02);
         // output: 37
 
