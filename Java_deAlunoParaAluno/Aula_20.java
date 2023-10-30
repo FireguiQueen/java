@@ -66,12 +66,12 @@ public class Aula_19{
             >> Esses operadores sempre retornam TRUE ou FALSE. 
         */
 
-       
+
 
         // retorna ERRO (estamos tentando armazenar um número numa variável booleana).
         // boolean x = 5;  
 
-        // Não retorna erro. Pois agora a variável 'x' irá valer FALSE devido ao operador de comparação. 
+        // Não retorna erro. Pois agora a variável 'x' irá valer FALSE devido ao OPERADOR DE COMPARAÇÃO. 
         boolean x = 5 > 5; 
     }   
 }
