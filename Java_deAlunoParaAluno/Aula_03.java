@@ -3,12 +3,15 @@
 class Aula_02{
 
     /*
-        Caso não utilizemos as barras duplas (comentário de linha) (//) ou as barras com asteriscos (comentários 
-        de bloco) para colocar algo que não faça parte da linguagem (como por exemplo uma expliclação), o 
-        java não vai entender como compilar esse determinado trecho, e retornará erro.
+        Em Java, é essencial utilizar as barras duplas (//) para comentários de linha ou as barras com 
+        asteriscos (comentários de bloco) para incluir explicações ou notas que não fazem parte da linguagem. 
+        Caso contrário, o Java não entenderá como compilar essa parte específica do código e retornará um erro.
 
-        Por exemplo, o que você está lendo agora, como não faz parte da linguagem, deve estar num comentário.
+        Por exemplo, o que você está lendo agora, por não ser parte da linguagem, deve estar inserido em um 
+        comentário.
     */
+
+
 
     public static void main(String[] args){
         System.out.println("Olá!");
