@@ -8,7 +8,7 @@ public class Aula_17{
         Scanner input = new Scanner(System.in);
 
 
-        // Define uma string. Não é um tipo de dado primitivo, é um objeto. 
+        // Define uma string. Ela não é um tipo de dado primitivo, é um objeto. 
         String nome = "Osvaldo";
         System.out.println(nome);
         // ouput: "Osvaldo"
