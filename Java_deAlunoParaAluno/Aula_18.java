@@ -32,10 +32,10 @@ public class Aula_18{
         }
         // No caso acima, nossa variável idade recebe 18. 
         // Então nossa condição se torna a expressão boolean "18 < 18?".
-        // E isso obviamente retorna "false", pois 18 não é menor do que 18.
+        // E isso obviamente retorna "false", pois 18 não é menor do que 18. Então aquele bloco do if não é executado.
 
 
-        // Por outro lado, podemos colocar o sinal de "igual".
+        // Por outro lado, podemos colocar o sinal de " menor igual".
         // Neste caso, estamos perguntando: "18 é MENOR ou IGUAL a 18?"
         // E isto retorna "TRUE", mesmo que 18 não MENOR do que 18, 18 é igual a 18.
         if (idade <= 18){
@@ -46,9 +46,10 @@ public class Aula_18{
         // Funcionamento do 'else'. 
         // O else é como: "caso todas as condicionais anteriores sejam falsas, execute este bloco"
         /* 
-            Como a expressão do nosso IF retornará 'false', o nosso 'else' será executado.
+            Como a expressão do nosso IF abaixo retornará 'false', o nosso 'else' será executado.
             Detalhe que o 'else' não recebe NENHUMA expressão, pois ele não avalia condições.
         */
+        idade = 18;
         if (idade >= 50)
         {
             System.out.println("A idade ultrapassou dos 50 anos!");
@@ -62,10 +63,10 @@ public class Aula_18{
         // Como fazer uma expressão booleana capaz de analisar se um valor é IGUAL ao outro? 
         // Em programação, o sinal '=' (quando colocado sozinho) é um sinal de ATRIBUIÇÃO, ou seja, não é de igualdade.
         // Ao utilizar o "=" estamos apenas atribuindo um valor a uma determinada variável por exemplo. 
-        // Para perguntar se um valor é IGUAL ao outro, utilize o "==". 
         int conta01 = 500;
         int conta02 = 500; 
 
+        // Para perguntar se um valor é IGUAL ao outro, utilize o "==". 
         // Neste caso, é retornado TRUE, então nosso bloco é executado.
         if (conta01 == conta02){
             System.out.println("Ambos as contas possuem o mesmo saldo.");
@@ -74,6 +75,7 @@ public class Aula_18{
 
         // Sinal de "diferença" (!=). 
         // Ele é muito utilizado para perguntar se determinado valor é diferente do outro.
+        // Se os valores são DIFERENTES é retornado TRUE. Se eles NÃO são DIFERENTES, é retornado "false".
 
         // Neste caso, é retornado FALSE, pois os valores são iguais. 
         if (conta01 !== conta02){
