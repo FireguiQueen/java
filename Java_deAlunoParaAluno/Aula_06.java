@@ -39,8 +39,8 @@ class Aula_06{
 
         // Mas não, não é assim que o Java funciona. Mas por que?
         /*
-            Um número inteiro dividido por outro número inteiro RESULTARÁ sempre em um número inteiro.
-            INDEPENDENTE do tipo de dado que irá armazenar eles. 
+            Um número inteiro dividido por outro número inteiro RESULTARÁ SEMPRE em um número inteiro.
+            >> INDEPENDENTE do tipo de dado que irá armazenar eles. 
 
             Quando dizemos que uma variável do tipo 'double' irá armazenar a divisão de 150 por 4, estamos
             apenas dizendo ao Java que aquela variável irá SURPORTAR um valor quebrado. 
@@ -48,7 +48,8 @@ class Aula_06{
             Mas como o valor daquela variável foi um inteiro dividido por outro inteiro, 
             o resultado é um inteiro.
           
-            Para obter resultados com casas decimais, pelo menos um dos operandos deve ser um número de ponto flutuante.
+            Para obter resultados com casas decimais, pelo menos um dos operandos deve ser um número de 
+            ponto flutuante.
         */
 
     }
