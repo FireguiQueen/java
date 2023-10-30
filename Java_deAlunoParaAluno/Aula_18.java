@@ -8,8 +8,10 @@ public class Aula_18{
             -> 'if' significa 'se'. 
             -> SE determinada condinção for VERDADEIRA (true), EXCUTE o bloco. 
         
-            O 'if' trabalha com expressões booleanas. Uma expressão booleana é uma expressão que resulta 
-            em um valor booleano. 
+            As condições usam como base as expressões booleanas. 
+            Uma expressão booleana é uma expressão que resulta em um valor booleano: 'true' ou 'false'.
+            Se for 'true', a condição é verdadeira, logo o bloco é executado.
+            Se for 'false', a condição é false, logo o bloco não é executado. 
         
             O operador de igualdade, ==, compara dois valores e produz um valor booleano de acordo com o fato 
             dos dois valores serem iguais ou não. Se eles forem iguais, o resultado é o valor boolean "TRUE".
@@ -28,7 +30,8 @@ public class Aula_18{
         if (idade < 18){
             System.out.println("Você é de menor.");
         }
-        // No caso acima, nossa variável idade recebe 18. Então nossa condição booleana é "18 < 18?".
+        // No caso acima, nossa variável idade recebe 18. 
+        // Então nossa condição se torna a expressão boolean "18 < 18?".
         // E isso obviamente retorna "false", pois 18 não é menor do que 18.
 
 
