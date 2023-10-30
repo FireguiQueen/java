@@ -4,8 +4,9 @@ public class Aula_04{
     
     public static void main(String[] args){
         
-        // Aqui fizemos apenas uma declaração. Como é do tipo "int", a variável aceita somente números INTEIROS! 
-        // Declaramos o seu tipo de dado (int) e o seu nome (x).
+        // Isto é uma declaração (declaramos uma variável).  
+        // Para fazer uma declaração, colocamos o seu tipo de dado (int) e o seu nome (x).
+        // Como é do tipo "int", a variável aceita somente números INTEIROS!
         int x; 
 
         // Agora, podemos atruibuir um valor inteiro a ela;
