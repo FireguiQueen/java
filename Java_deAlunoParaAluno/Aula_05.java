@@ -5,10 +5,10 @@ class Aula_05
 
     public static void main(String[] args){
 
-        // Podemos atribuir a uma variável outras variáveis. 
         int x = 50;
         int y = 50;
-
+        
+        // Podemos atribuir a uma variável outras variáveis. 
         // Como neste caso, onde estamos dizendo "a variávei ¨total¨ RECEBE a variável ¨x¨ + ¨y¨"
         int total = x + y; 
 
