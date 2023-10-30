@@ -1,13 +1,11 @@
-// Pré e pós incremento e decremento 
+// Pré e pós incremento/decremento 
 
 /*
-    Pré incremento e decremento:
+    Pré-incremento:
     ++i;
-    --i;
 
-    Pós incremento e decremento
+    Pós-incremento:
     i++;
-    i--;
 
     Existe alguma diferença entre o pós e o pré? SIM.
     Mas em muitos casos, não haverá diferença.
@@ -17,8 +15,8 @@ public class Aula_29{
     public static void main(String[] args)
     {
         // ANTES DE TUDO, SAIBA QUE: 
-        //sempre que usamos o operador de incremento, independente de onde ele esteja, ele somará +1 a nossa variável. 
-        
+        // sempre que usamos o operador de incremento, independente de onde ele esteja, ele somará +1 a nossa variável. 
+        // a mesma coisa vale para o operador de decremento.
         int x = 100; 
 
         // Isto adicionará +1 a nossa variável x. - A partir da linha abaixo, o X terá 101 como valor.
