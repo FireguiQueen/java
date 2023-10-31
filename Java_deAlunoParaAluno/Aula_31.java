@@ -37,7 +37,10 @@ public class Aula_31{
                 o '3' é a quantidade de elementos do nosso array. Há 3 nomes. 
 
                 - Por que motivo usamos o sinal de "menor" e não "menor igual" (<=);
-                Não se esqueça, os
+                Não se esqueça, o primeiro elemento tem o indice 0. Por este motivo, se criarmos um array
+                de 4 elementos, significa que haverá 3 indices (0, 1, 2 e 3).
+
+                
         */
     }
 }
