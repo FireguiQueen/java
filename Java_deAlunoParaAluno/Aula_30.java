@@ -1,18 +1,17 @@
-// Vetores e Arrays: são a mesma coisa.
+// Arrays
 /*
-    Os arrays (ou vetores) é utilizado para armazenar diversos valores de determinado
-    tipo de dado. 
+    Os arrays (ou vetores) são variáveis especiais que podem aramazenar mais de um valor. 
 
-    O array é uma variável especial que pode armazenar um ou mais valores.
-    Dentro do array, esses valores são conhecidos como "elementos" e eles 
-    terão seu próprio endereço para serem chamados. O endereço é conhecido como "índice". 
+    Dentro do array, esses valores são conhecidos como "elementos".
+    Os elementos terão seus próprios endereços para serem chamados. O endereço é conhecido como "índice". 
 
-    Podemos imaginar que os arrays são como listas. Temos uma lista de nomes, que o seu propósito é justamente
-    armazenar um ou mais nomes. Nomes são strings (sequência de caracteres);
-    -> Logo, precisamos ter um array de strings.  
+    Podemos imaginar que os arrays são como listas. 
+    Temos uma lista de nomes, que o seu propósito é justamente armazenar um ou mais nomes.
+        -> Nomes são strings (sequência de caracteres);
+        -> Logo, precisamos ter um array de strings.  
 
-    Podemos ter uma lista de números quebrados. E ela armazena apenas números inteiros ou quebrados.
-    Ela pode ser útil para infinitas coisas. Um exemplo é: armazenar notas de diferentes alunos.
+    Podemos ter uma lista de números inteiros. E ela armazena apenas números inteiros.
+    Ela pode ser útil para infinitas coisas.
     
 */
 
