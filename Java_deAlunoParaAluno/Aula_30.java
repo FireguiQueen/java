@@ -20,12 +20,11 @@ public class Aula_30{
     public static void main(String[] args)
     {
         // EXEMPLO 01: Você é um professor, e na sua sala de aula, há 3 alunos. 
+        // Você deseja armazenar todos eles em seu programa. 
         /*
             - João
             - Maria
             - José
-
-            Você deseja armazenar todos eles em seu programa. 
         */ 
         // Você pode pensar: "Ok, basta criar três variáveis e salvar seus nomes."
 
