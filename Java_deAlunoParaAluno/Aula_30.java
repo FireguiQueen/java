@@ -38,14 +38,9 @@ public class Aula_30{
 
         // Mas e se fossem 30 alunos? Você criaria 30 variáveis para cada nome? 
         // Você até pode, mas isso não é uma boa prática tendo em vista que temos os arrays a disposição.
-        
-        // Como foi dito anteriormente, os arrays são como listas. 
-        // Então podemos criar uma lista que irá armazenar strings. E como já sabemos, os nomes
-        // são strings, logo, podemos criar uma lista capaz de armazenar nomes.
-
         /* 
-            Para fazer isso é bem simples, primeiro vamos definir o tipo de dado que será armazenado
-            em nosso array. 
+            Para fazer isso é bem simples.
+            Primeiro vamos definir o tipo de dado que será armazenado em nosso array. 
 
             Bem, como estamos trabalhando com nomes, iremos usar o objeto "String", e ao seu lado, colocaremos
             colchetes duplos "[]" (são importantes pois definem que aquela variável será um array). 
