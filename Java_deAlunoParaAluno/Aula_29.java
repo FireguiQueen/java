@@ -14,8 +14,7 @@
 public class Aula_29{
     public static void main(String[] args)
     {
-        // ANTES DE TUDO, SAIBA QUE: 
-        // sempre que usamos o operador de incremento, independente de onde ele esteja, ele somará +1 a nossa variável. 
+        // SEMPRE que usamos o operador de incremento, independente de onde ele esteja, ele somará +1 a nossa variável. 
         // a mesma coisa vale para o operador de decremento.
         int x = 100; 
 
