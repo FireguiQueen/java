@@ -4,7 +4,7 @@
     tipo de dado. 
 
     O array é uma variável especial que pode armazenar um ou mais valores.
-    Dentro do array, esses valores são conhecidos como "elementos"  e eles 
+    Dentro do array, esses valores são conhecidos como "elementos" e eles 
     terão seu próprio endereço para serem chamados. O endereço é conhecido como "índice". 
 
     Podemos imaginar que os arrays são como listas. Temos uma lista de nomes, que o seu propósito é justamente
@@ -43,21 +43,48 @@ public class Aula_30{
         
         // Como foi dito anteriormente, os arrays são como listas. 
         // Então podemos criar uma lista que irá armazenar strings. E como já sabemos, os nomes
-        // são strings, logo, podemos criar uma lista capaz de armazenar nomes de alunos.
+        // são strings, logo, podemos criar uma lista capaz de armazenar nomes.
 
         /* 
             Para fazer isso é bem simples, primeiro vamos definir o tipo de dado que será armazenado
             em nosso array. 
 
-
             Bem, como estamos trabalhando com nomes, iremos usar o objeto "String", e ao seu lado, colocaremos
-            colchetes duplos "[]". Após isso, daremos um nome a nossa variável especial.
-
+            colchetes duplos "[]" (são importantes pois definem que aquela variável será um array). 
+            Após isso, daremos um nome a nossa variável especial, o array.
         */
         String[] alunos = {"João", "Maria", "José"};
 
 
-        System.out.println(alunos[1]);
+        // Lembre-se da frase: 
+        /*
+            Dentro do array, esses valores são conhecidos como "elementos" e eles 
+            terão seu próprio endereço para serem chamados. O endereço é conhecido como "índice".
+        */  
+
+        // Neste caso, os nossos elementos são: "João", "Maria" e "José". 
+        
+        // Para acessar o primeiro elemento do array (João), iremos utilizar os colchetes. 
+        // Pois dentro deles, podemos colocar qual indice queremos acessar.
+
+        // Mas o que é "índice"?
+        /* 
+            O indice é justamente o endereço do elemento. Por exemplo, o indíce 0 (zero) se refere ao primeiro
+            elemento do array.
+
+            O indice 1 (um) se refere ao segundo item do array
+            O indice 2 (dois) se refere ao terceiro item do array..
+        */
+
+       // Então como acessamos um determinado elemento através do seu indice? 
+
+       // O "João" é o primeiro elemento do array. O primeiro elemento é o indice 0. 
+       // Então vamos fazer o seguinte:
+       System.out.println(alunos[0]);
+
+       // alunos -> se refere ao nosso array, nossa variável especial.
+       // [0]    -> se refere ao indice 0. O indice 0 acessa o primeiro elemento do array. 
+
 
     }
 }
