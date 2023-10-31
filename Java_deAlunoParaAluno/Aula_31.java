@@ -47,5 +47,7 @@ public class Aula_31{
                 Logo, nosso bloco é executado, e na hora de escolher o indice do array, o indice 3 será
                 escolhido, mas o indice 3 se refere ao quarto elemento, que inclusive, não existe.
         */
+
+       
     }
 }
