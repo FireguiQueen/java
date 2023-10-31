@@ -28,17 +28,23 @@ Aqui estão algumas perguntas frequentes sobre Java, computação e um pouco de 
 
 > _No momento ainda não coloquei as respostas para todas as perguntas._
 
-### [ET] O java é lento? 
 
+### [ET] Java é compilado ou interpretado? O que é JVM? Qual a diferença entre JDK e JDE? 
+WORA. "WORA" significa "write once, run anywhere". Esta frase passou-se a ser muito utilizada na comunidade de desenvolvimento devido ao Java. Em português, ela significa: "Escreva uma vez, rode em qualquer lugar". 
+E este é o propósito da linguagem Java. 
+
+O Java foi desenvolvido não apenas para ser outra linguagem de programação, para futuros softwares serem escritos nela, mas também para ser multi-plataforma. Mas o que isto significa? "Multi-plataforma?"
+
+Para responder esta pergunta, podemos pensar na comunidade "gamer" que joga no PC. 
+Os jogadores estão, em grande parte, jogando no sistema operacional Windows. O windows de fato é o sistema mais famoso entre jogadores e pessoas que usam o computador de modo geral. 
+
+Mas cada sistema operacional funciona de um jeito, eles possuem jeitos um pouco diferentes de interpretar informações. Então, quando um jogo é criado, ele é escrito em uma linguagem de programação, com motores (Unreal, Unity..) para facilitar o desenvolvimento.   
 
 ### [ET] A linguagem Java é ruim para jogos?
 Pode-se dizer que sim, mas precisamos ter cuidado ao afirmar isso. O fato de o Java ser considerado "inadequado" para o desenvolvimento de jogos não é culpa do Java em si. Antes da era dos smartphones, os celulares utilizavam o Java como a principal plataforma para aplicativos e jogos. Isso ocorria em dispositivos com recursos extremamente limitados, e ainda assim, os jogos eram desenvolvidos em Java.
 
 Atualmente, as linguagens mais populares para o desenvolvimento de jogos são o C# e o Lua. Isso significa que a comunidade dedicou um grande esforço para criar bibliotecas e motores de alto desempenho com essas linguagens. Seria semelhante a desenvolver um jogo em Rust. Ela é uma linguagem altamente eficiente? Sim, mas a comunidade ainda não investiu tempo suficiente para torná-la tão adequada para esse propósito.
 
-
-
-### [ET] Java é compilado ou interpretado?
 
 
 ### [OP] Certificados servem para algo? 
@@ -50,6 +56,7 @@ Vamos pensar nisso: imagine que você seja o RH de uma empresa brasileira e est�
 Provavelmente você nem conhece os cursos, muito menos o instrutor desses cursos. Você nem sabe se os cursos são bons. E mesmo que os cursos sejam excelentes, como você pode ter certeza de que o indivíduo realmente concluiu todos eles, assistiu a todas as aulas e fez todos os exercícios? 
 
 __Conclusão__:  certos certificados, como os da Oracle, AWS, Azure, entre outros, têm utilidade e __podem__ ser valorizados. Por outro lado, os certificados de plataformas como Udemy, Alura e etc, em geral, são inúteis.
+
 
 ### [OP] Cursos te preparam para o mercado de trabalho? 
 Nenhum deles tem a capacidade de ensinar a você tudo o que uma vaga requer. Mesmo vagas de estágio podem exigir conhecimentos que não foram abordados em um determinado curso, pois os cursos são projetados para proporcionar uma _introdução_ a uma tecnologia ou assunto específico.
