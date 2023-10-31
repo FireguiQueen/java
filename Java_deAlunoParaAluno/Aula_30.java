@@ -89,7 +89,6 @@ public class Aula_30{
     
 
 
-
         // Com as variáveis, podemos declarar elas e posteriormente atribuir um valor a mesma.
         int x; 
         x = 50;
