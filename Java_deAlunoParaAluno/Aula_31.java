@@ -64,8 +64,31 @@ public class Aula_31{
 
         for (int i = 0; i < notas; i++)
         {
-            notas[i] = input.nextInt()
+            notas[i] = input.nextInt();
         }
+
+        // ENTENDENDO LINHA POR LINHA.
+        /*
+            Quando o nosso 'for loop' for executado pela primeira vez, ocorrerá o seguinte:
+
+            i (0) é menor do que 3? TRUE.
+                notas[i], será, na verdade, notas[0].
+                Sendo assim, teremos: 
+                    notas[0] = valorDigitadoPeloUsuário.
+
+                Por fim, será adiciona +1 a variável 'i'.
+
+
+            Na segunda vez, ocorrerá o seguinte:
+
+            i (1) é menor do que 3? TRUE.
+                notas[i], será, na verdade, notas[1]. 
+                Sendo assim, teremos:
+                    notas[1] = valorDigitadoPeloUsuário.
+                
+                    Por fim, será adiciona +1 a variável 'i'.
+
+
         
     
     }
