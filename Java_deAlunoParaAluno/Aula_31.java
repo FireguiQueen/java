@@ -1,11 +1,14 @@
 // Arrays e laços de repetição
 
-import java.util.*;
+import java.util.*; // IGNORAR
 
 
 public class Aula_31{
     public static void main(String[] args)
     {
+        Scanner input = new Scanner(System.in); // IGNORAR
+
+
         // Na aula 30 vimos que é possivel declarar um array e só depois atribuir valorea a ele.
         // Bem, isso na verdade, é bem útil em alguns casos.
 
@@ -62,7 +65,7 @@ public class Aula_31{
 
         int[] notas = new int[3]; // define um array que pode conter 3 elementos. 
 
-        for (int i = 0; i < notas; i++)
+        for (int i = 0; i < 3; i++)
         {
             notas[i] = input.nextInt();
         }
