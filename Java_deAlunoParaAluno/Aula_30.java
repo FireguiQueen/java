@@ -117,6 +117,7 @@ public class Aula_30{
         nomes[2] = "Joseph"; 
 
         // Obviamente não podemos definir o indice 3, pois ele se refere ao quarto elemento.
+        // e definimos que nosso array irá conter apenas 3. 
         // nomes[3] = "..";
 
     }
