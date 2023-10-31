@@ -24,8 +24,8 @@ public class Aula_30{
             - Maria
             - José
         */ 
-        // Você pode pensar: "Ok, basta criar três variáveis e salvar seus nomes."
 
+        // Você pode pensar: "Ok, basta criar três variáveis e salvar seus nomes."
         String aluno01 = "João";
         String aluno02 = "Maria";
         String aluno03 = "José";
