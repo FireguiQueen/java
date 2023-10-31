@@ -38,7 +38,7 @@ O Java foi desenvolvido não apenas para ser outra linguagem de programação, p
 Para responder esta pergunta, podemos pensar na comunidade "gamer" que joga no PC. 
 Os jogadores estão, em grande parte, jogando no sistema operacional Windows. O windows de fato é o sistema mais famoso entre jogadores e pessoas que usam o computador de modo geral. 
 
-Cada sistema operacional funciona de uma forma, eles possuem jeitos um pouco diferentes de interpretar informações. Quando um jogo é criado, ele é escrito em uma linguagem de programação, com motores (Unreal, Unity..) para facilitar o desenvolvimento. Mas aí que entra o pulo do gato, os jogos são desenvolvidos para rodarem em sistemas WINDOWS. A maior parte dos jogos não possuem nativamente para outros sistemas operacionais. Para que esses mesmos jogos nativos de windows rodem em outros sistemas, há necessidade do código ser alterado pelos desenvovledores. 
+Cada sistema operacional funciona de uma forma, eles possuem jeitos um pouco diferentes de interpretar informações. Quando um jogo é criado, ele é escrito em uma linguagem de programação, com motores (Unreal, Unity..) para facilitar o desenvolvimento. Mas aí que entra o pulo do gato, os jogos são desenvolvidos para rodarem em sistemas WINDOWS. A maior parte dos jogos não possuem nativamente para outros sistemas operacionais. Para que esses mesmos jogos nativos de windows rodem em outros sistemas, há necessidade do código fonte ser alterado pelos desenvovledores. 
 
 E aí entra o java. O java é uma linguagem capaz de criar programas que podem ser executados em qualquer sistema operacional. Então, só precisamos _escrever o código uma vez, e podemos rodá-lo em qualquer lugar_. 
 Certo.. Mas como isso funciona exatamente? Como o java consegue fazer isso? 
