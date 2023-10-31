@@ -102,16 +102,20 @@ public class Aula_30{
 
         // Por mais que tenha ficado confuso, apenas saiba que foi criado um array vazio.
         // ->> o '[3]' se refere a quantos elementos nosso array pode/irá armazenar. 
-        // ->. E definimos que ele pode armazenar APENAS 3 elementos. 
+        // ->> Por consquência, nosso array não pode ultrapassar de 3 elementos.  
 
-        // Definimos um elemento ao indice 0. 
+        // Aqui definimos que o indice 0 recebe a string "Jubileu"
         nomes[0] = "Jubileu";
+
+        // Aqui definimos que o indice 1 recebe a string "Flora"
         nomes[1] = "Flora";
+
+        // Por fim, aqui é definido que o indice 2 recebe a string "Joseph"
         nomes[2] = "Joseph"; 
 
-        // Obviamente não podemos definir o indice 3, pois ele se refere ao quarto elemento.
-        // e definimos que nosso array irá conter apenas 3. 
-        // nomes[3] = "..";
+        // TODOS OS 3 ELEMENTOS FORAM DEFINIDOS. 
 
+        // Obviamente não podemos definir um valor ao indice 3, pois ele se refere ao quarto elemento.
+        // E noso array armazena apenas 3 elementos.
     }
 }
