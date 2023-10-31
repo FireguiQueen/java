@@ -58,6 +58,10 @@ Após a criação do bytecode, ele será lido e interpretado pela JVM.
 
 ![JVM](https://github.com/FireguiQueen/Java/assets/98475125/0f973e29-41f0-424e-b832-634ada8c4d5c)
 
+Por fim, a ideia do java é que cada sistema tenha sua JVM, e a partir do momento que temos um .class, a JVM de qualquer sistema pode entender e executar o nosso programa.
+Por isso dizemos que o Java é _compilado_ e _interpretado_. Primeiro ocorre a compilação: nosso programa java vira um arquivo `.class` (que contém diversas instruções em formatos de números, que só a JVm entende).
+Com o .class gerado, a JVM __interpreta__ e executa o programa. 
+
 
 
 
