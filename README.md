@@ -30,11 +30,11 @@ Aqui estão algumas perguntas frequentes sobre Java, computação e um pouco de 
 
 
 ### [ET] Java é compilado ou interpretado? O que é JVM? Qual a diferença entre JDK e JDE? 
-__WORA.__ "WORA" significa _"write once, run anywhere"_. Essa expressão se tornou muito popular na comunidade de desenvolvedores devido ao Java. Em português, ela significa: "Escreva uma vez, execute em qualquer lugar". __WORA: E este é um dos propósitos da linguagem Java.__ O fato de programas java poderem ser executados em qualquer plataforma tras o conceito de "multi-plataforma".
+__WORA.__ "WORA" significa _"write once, run anywhere"_. Essa expressão se tornou muito popular na comunidade de desenvolvedores devido ao Java. Em português, ela significa: "Escreva uma vez, execute em qualquer lugar". __WORA: E este é um dos propósitos da linguagem Java.__ 
+> O fato de programas Java poderem ser executados em qualquer plataforma traz o conceito de "multiplataforma".
 
 ##### Mas o que é multi-plataforma?
-Para responder esta pergunta, podemos pensar na comunidade "gamer" que joga no PC. 
-Os jogadores estão, em grande parte, jogando no sistema operacional Windows. O windows de fato é o sistema mais famoso entre jogadores e pessoas que usam o computador de modo geral. 
+Para responder a essa pergunta, podemos pensar na comunidade "gamer" que joga no PC. A maioria dos jogadores jogam em sistemas operacionais Windows, que é o sistema mais popular entre os jogadores e os usuários de computadores em geral.
 
 Cada sistema operacional funciona de uma forma, eles possuem jeitos um pouco diferentes de interpretar informações. Quando um jogo é criado, ele é escrito em uma linguagem de programação, com motores (Unreal, Unity..) para facilitar o desenvolvimento. Mas aí que entra o pulo do gato, os jogos são desenvolvidos para rodarem em sistemas WINDOWS. A maior parte dos jogos não possuem nativamente para outros sistemas operacionais. Para que esses mesmos jogos nativos de windows rodem em outros sistemas, há necessidade do código fonte ser alterado pelos desenvovledores. 
 
