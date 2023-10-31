@@ -41,8 +41,8 @@ Os jogadores estão, em grande parte, jogando no sistema operacional Windows. O 
 Cada sistema operacional funciona de uma forma, eles possuem jeitos um pouco diferentes de interpretar informações. Quando um jogo é criado, ele é escrito em uma linguagem de programação, com motores (Unreal, Unity..) para facilitar o desenvolvimento. Mas aí que entra o pulo do gato, os jogos são desenvolvidos para rodarem em sistemas WINDOWS. A maior parte dos jogos não possuem nativamente para outros sistemas operacionais. Para que esses mesmos jogos nativos de windows rodem em outros sistemas, há necessidade do código fonte ser alterado pelos desenvovledores. 
 
 E aí entra o java. O java é uma linguagem capaz de criar programas que podem ser executados em qualquer sistema operacional. Então, só precisamos _escrever o código uma vez, e podemos rodá-lo em qualquer lugar_. 
-Certo.. Mas como isso funciona exatamente? Como o java consegue fazer isso? 
 
+##### Certo.. Mas como isso funciona exatamente? Como o java consegue fazer isso? 
 O programa escrito em Java __não__ é lido pelo nosso computador diretamente. O programa em java é feito para ser lido pela JVM (Java Virtual Machine). A JVM é uma máquina virtual que fica sendo executada em nossa própria máquina, mas ela é feita exclusivamente para ler programas java.
 
 Mas há alguns passos antes da JVM ler e entender nosso programa escrito em java. Podemos entender melhor ao observar a ordem abaixo:
