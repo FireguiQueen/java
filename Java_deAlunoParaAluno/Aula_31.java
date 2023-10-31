@@ -1,5 +1,8 @@
 // Arrays e laços de repetição
 
+import java.util.*;
+
+
 public class Aula_31{
     public static void main(String[] args)
     {
@@ -48,6 +51,22 @@ public class Aula_31{
                 escolhido, mas o indice 3 se refere ao quarto elemento, que inclusive, não existe.
         */
 
-       
+
+        // Onde mais pode ser útil usar laços de repetição com arrays?
+        /*
+            Vamos criar um programa que pede fixamente 3 notas.
+            O primeiro valor que o usuário digitar, irá para o nosso array. Será o primeiro elemento, índice 0.
+            O segundo valor, também irá ir pro array. Será o segundo elemento, índice 1. 
+            O terceiro será o terceiro elemento, índice 2.
+        */
+
+        int[] notas = new int[3]; // define um array que pode conter 3 elementos. 
+
+        for (int i = 0; i < notas; i++)
+        {
+            notas[i] = input.nextInt()
+        }
+        
+    
     }
 }
