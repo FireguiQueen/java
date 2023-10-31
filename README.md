@@ -43,8 +43,16 @@ Mas cada sistema operacional funciona de um jeito, eles possuem jeitos um pouco 
 E aí entra o java. O java é uma linguagem capaz de criar programas que podem ser executados em qualquer sistema operacional. Então, só precisamos _escrever o código uma vez, e podemos rodá-lo em qualquer lugar_. 
 Certo.. Mas como isso funciona exatamente? Como o java consegue fazer isso? 
 
-O programa escrito em Java __não__ é lido pelo nosso computador diretamente. O programa java é feito para ser lido pela JVM (Java Virtual Machine). 
+O programa escrito em Java __não__ é lido pelo nosso computador diretamente. O programa em java é feito para ser lido pela JVM (Java Virtual Machine). A JVM é uma máquina virtual que fica sendo executada em nossa própria máquina, mas ela é feita exclusivamente para ler programas java.
+
+Mas há alguns passos antes da JVM ler e entender nosso programa escrito em java. Podemos entender melhor ao observar a ordem abaixo:
+1. Escrevemos nosso programa com a linguagem java.  
+2. Compilamos este programa com o javac (java compiller). 
+3. Este processo de compilação gera um arquivo ".classic", um arquivo de contém diversos
+
+
 > Você provavelmente já se deparou com o termo "máquina virtual". O uso de máquinas virtuais permite a adoção de sistemas operacionais distintos executados simultaneamente em um único computador. Isto é, podemos simular uma máquina que usa linux, mesmo que nós estejamos usando windows. Com um software de máquina virtual, somos capazes de ter uma máquina rodando dentro da nossa própria máquina.
+
 
 ### [ET] A linguagem Java é ruim para jogos?
 Pode-se dizer que sim, mas precisamos ter cuidado ao afirmar isso. O fato de o Java ser considerado "inadequado" para o desenvolvimento de jogos não é culpa do Java em si. Antes da era dos smartphones, os celulares utilizavam o Java como a principal plataforma para aplicativos e jogos. Isso ocorria em dispositivos com recursos extremamente limitados, e ainda assim, os jogos eram desenvolvidos em Java.
