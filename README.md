@@ -58,7 +58,7 @@ O processo de compilar é pegar o código-fonte e transformá-lo em uma linguage
 
 Após a criação do bytecode, ele será lido e interpretado pela JVM. 
 
-
+![JVM](https://github.com/FireguiQueen/Java/assets/98475125/0f973e29-41f0-424e-b832-634ada8c4d5c)
 
 
 
