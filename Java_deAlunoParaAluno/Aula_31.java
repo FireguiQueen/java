@@ -40,7 +40,12 @@ public class Aula_31{
                 Não se esqueça, o primeiro elemento tem o indice 0. Por este motivo, se criarmos um array
                 de 4 elementos, significa que haverá 3 indices (0, 1, 2 e 3).
 
-                
+                Então se usassemos o "menor igual (<=)", quando a variável 'i' chegasse ao valor 3, 
+                seria perguntado:
+                i (3) é menor ou igual a 3? TRUE.
+                Por mais que i (3) não seja menor do que 3, i (3) é igual a 3. 
+                Logo, nosso bloco é executado, e na hora de escolher o indice do array, o indice 3 será
+                escolhido, mas o indice 3 se refere ao quarto elemento, que inclusive, não existe.
         */
     }
 }
