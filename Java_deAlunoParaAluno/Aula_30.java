@@ -94,5 +94,27 @@ public class Aula_30{
     
 
 
+
+        // Com as variáveis, podemos declarar elas e posteriormente atribuir um valor a mesma.
+        int x; 
+        x = 50;
+
+        // Também é possível fazer isto com arrays? SIM. 
+        // Mas é um pouco diferente a sintaxe. 
+
+        // Vamos declarar nosso array. Vamos colocar o seu tipo de dado, e os colchetes.
+        // Mas este array irá receber uma instância do tipo String.
+        
+        String nomes[] = new String[3];
+
+        // o '[3]' se refere a quantos elementos nosso array irá armazenar. 
+        // Por mais que tenha ficado confuso, apenas saiba que foi criado um array vazio
+        // E definimos que ele pode armazenar APENAS 3 elementos. 
+
+        // Definimos um elemento ao indice 0. 
+        nomes[0] = "Jubileu";
+        nomes[1] = "Flora";
+        nomes[2] = "Joseph"; 
+
     }
 }
