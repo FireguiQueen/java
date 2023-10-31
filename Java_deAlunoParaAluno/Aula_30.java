@@ -36,6 +36,8 @@ public class Aula_30{
         System.out.println("Olá, " + aluno01); 
         System.out.println("Oi, " + aluno03);
 
+
+
         // Mas e se fossem 30 alunos? Você criaria 30 variáveis para cada nome? 
         // Você até pode, mas isso não é uma boa prática tendo em vista que temos os arrays a disposição.
         
