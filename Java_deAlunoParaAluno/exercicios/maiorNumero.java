@@ -5,8 +5,11 @@ public class maiorNumero{
     {
         Scanner userInput = new Scanner(System.in);
 
-        System.out.print("Quantos valores sua lista irá conter: ");
-        int totalValores = userInput.nextInt();
+        int totalValores;
+        do{
+            System.out.print("Quantos valores sua lista irá conter: ");
+            totalValores = userInput.nextInt();
+        } while (totalValores <= 0);
 
         int[] valores = new int[totalValores];
 
