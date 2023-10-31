@@ -1,6 +1,6 @@
 // Arrays e laços de repetição
 
-import java.util.*; // IGNORAR
+import java.util.Scanner; // IGNORAR
 
 
 public class Aula_31{

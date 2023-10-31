@@ -3,28 +3,27 @@
 public class Aula_32{
     public static void main(String[] args)
     {
-        // Definimos uma variável que podem conter até 5 elementos.
+        // Definimos uma variável que pode conter até 5 elementos.
         int[] x = new int[5];
 
-        // Mas observe que ainda não definimos os elementos. 
+        // Observe que ainda não definimos os elementos. 
+
         // E o que aconteceria se printarmos um elemento que não foi definido?
+        System.out.println(x[0]); 
 
-        // Por exemplo:
-        System.out.println(x[0]); // printa o indice 0 (primeiro elemento). 
-
-        // Mas o indice 0 ainda não foi definido. 
+        // Mas o primeiro elemento não foi definido. 
         // Então, o output será: 0.
 
         // Quando não definimos o elemento, o valor, por padrão, será sempre 0. 
-
-        // O output será 0 sempre a tipos de dados números: byte, short, int, long, float, double.
+        // O output será 0 a tipos de dados números: byte, short, int, long, float, double.
 
         // Se definissemos um array de caracteres, sem definir seus elementos, o output seria o caracter nulo.
         char[] xt= new char[5];
         System.out.println(x[0]);  
 
 
-
+        // *************************************************************8
+        
 
         // ITERANDO (PERCORRENDO) UM ARRAY DE FORMA INTELIGENTE.
         /*
