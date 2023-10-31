@@ -43,17 +43,18 @@ Cada sistema operacional funciona de uma forma, eles possuem jeitos um pouco dif
 E aí entra o java. O java é uma linguagem capaz de criar programas que podem ser executados em qualquer sistema operacional. Então, só precisamos _escrever o código uma vez, e podemos rodá-lo em qualquer lugar_. 
 
 ##### Certo.. Mas como isso funciona exatamente? Como o java consegue fazer isso? 
-O programa escrito em Java __não__ é lido pelo nosso computador diretamente. O programa em java é feito para ser lido pela JVM (Java Virtual Machine). A JVM é uma máquina virtual que fica sendo executada em nossa própria máquina, mas ela é feita exclusivamente para ler programas java.
+Antes de tudo, vamos entender um pouco sobre o que é uma máquina virtual. O uso de máquinas virtuais permite a adoção de sistemas operacionais distintos executados simultaneamente em um único computador. Isto é, podemos simular uma máquina que usa 7, mesmo que nós estejamos usando windows 11. Com um software de máquina virtual, somos capazes de ter uma máquina rodando dentro da nossa própria máquina.
 
-Mas há alguns passos antes da JVM ler e entender nosso programa escrito em java. Podemos entender melhor ao observar a ordem abaixo:
-1. Escrevemos nosso programa com a linguagem java.  
-2. Compilamos este programa com o javac (java compiller). 
+O programa escrito em Java __não__ é lido pelo nosso computador diretamente. O programa em java é feito para ser lido pela JVM (Java Virtual Machine). A JVM é uma máquina virtual que fica sendo executada em nossa própria máquina, mas ela é feita exclusivamente para ler arquivos `.class` (que é criado a partir do código feito em java).
+
+Para entender melhor, podemos observar o passo-a-passo de como nosso programa feito em java é executado em qualquer máquina. 
+1. Escrevemos nosso programa com a linguagem java; 
+2. Compilamos este programa com o `javac` (java compiller); 
 3. Este processo de compilação gera um arquivo ".class". Este é um arquivo bytecode. 
+4. Este arquivo ".class" é lido e __interpretado__ pela JVM. 
 
 
 
-
-> Você provavelmente já se deparou com o termo "máquina virtual". O uso de máquinas virtuais permite a adoção de sistemas operacionais distintos executados simultaneamente em um único computador. Isto é, podemos simular uma máquina que usa linux, mesmo que nós estejamos usando windows. Com um software de máquina virtual, somos capazes de ter uma máquina rodando dentro da nossa própria máquina.
 
 
 ### [ET] A linguagem Java é ruim para jogos?
