@@ -89,21 +89,20 @@ public class Aula_30{
     
 
 
-        // Com as variáveis, podemos declarar elas e posteriormente atribuir um valor a mesma.
+        // Com as variáveis, podemos DECLARAR elas e posteriormente atribuir um valor a mesma.
         int x; 
         x = 50;
 
-        // Também é possível fazer isto com arrays? SIM. 
-        // Mas é um pouco diferente a sintaxe. 
+        // Também é possível fazer isto com arrays? SIM. Afinal, os arrays também são variáveis. 
 
         // Vamos declarar nosso array. Vamos colocar o seu tipo de dado, e os colchetes.
-        // Mas este array irá receber uma instância do tipo String.
+        // Mas este array irá receber uma instância do objeto String.
         
         String nomes[] = new String[3];
 
-        // o '[3]' se refere a quantos elementos nosso array irá armazenar. 
-        // Por mais que tenha ficado confuso, apenas saiba que foi criado um array vazio
-        // E definimos que ele pode armazenar APENAS 3 elementos. 
+        // Por mais que tenha ficado confuso, apenas saiba que foi criado um array vazio.
+        // ->> o '[3]' se refere a quantos elementos nosso array pode/irá armazenar. 
+        // ->. E definimos que ele pode armazenar APENAS 3 elementos. 
 
         // Definimos um elemento ao indice 0. 
         nomes[0] = "Jubileu";
