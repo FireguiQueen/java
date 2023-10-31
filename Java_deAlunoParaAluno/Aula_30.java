@@ -12,7 +12,6 @@
 
     Podemos ter uma lista de números inteiros. E ela armazena apenas números inteiros.
     Ela pode ser útil para infinitas coisas.
-    
 */
 
 public class Aula_30{
