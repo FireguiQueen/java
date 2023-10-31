@@ -53,6 +53,10 @@ Para entender melhor, podemos observar o passo-a-passo de como nosso programa fe
 3. Este processo de compilação gera um arquivo ".class". Este é um arquivo bytecode. 
 4. Este arquivo ".class" é lido e __interpretado__ pela JVM. 
 
+Vimos muitas coisas novas, então vamos com calma. 
+O processo de compilar é pegar o código-fonte e transformá-lo em uma linguagem que as nossas máquinas consigam compreender. Este código-fonte é justamente o código que escrevemos na linguagem java. No código-fonte ainda somos capazes lê-los e compreende-los. 
+
+
 
 
 
