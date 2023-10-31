@@ -79,6 +79,7 @@ public class Aula_31{
                 Por fim, será adiciona +1 a variável 'i'.
 
 
+
             Na segunda vez, ocorrerá o seguinte:
 
             i (1) é menor do que 3? TRUE.
@@ -89,7 +90,33 @@ public class Aula_31{
                     Por fim, será adiciona +1 a variável 'i'.
 
 
-        
-    
+
+            Na terceira vez, ocorrerá o seguinte:
+
+            i (2) é menor do que 3? TRUE.
+                notas[i], será, na verdade, notas[2]. 
+                Sendo assim, teremos:
+                    notas[2] = valorDigitadoPeloUsuário.
+                
+                    Por fim, será adiciona +1 a variável 'i'.
+
+
+
+            
+            Na terceira vez, ocorrerá o seguinte:
+
+            i (3) é menor do que 3? FALSE (pois 3 não é menor do que 3).
+
+            -->> O problema seria se a gente tivesse usado o menor igual (<=).
+            Então esta condição seria true, logo, seria:
+                notas[i], será, na verdade, notas[3]. 
+                Sendo assim, teremos:
+                    notas[3] = valorDigitadoPeloUsuário.
+                
+                    O PROBLEMA É QUE o INDICE 3 NÃO EXISTE, POIS ELE SE REFERE AO QUARTO ELEMENTO. 
+                    E O QUARTO ELEMENTO NÃO EXISTE.
+        */
+
+
     }
 }
