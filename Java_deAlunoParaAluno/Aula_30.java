@@ -86,5 +86,13 @@ public class Aula_30{
        // [0]    -> se refere ao indice 0. O indice 0 acessa o primeiro elemento do array. 
 
 
+        // Por que motivo é utilizado o indice 0 e não indice 1 para se referir ao primeiro elemento?
+        /*
+            É uma dúvida bem comum, mas não se preocupe com isso agora. 
+            Apenas saiba que, o indice 0 se refere ao primeiro elemento do array.
+        */
+    
+
+
     }
 }
