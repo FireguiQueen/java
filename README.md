@@ -32,8 +32,9 @@ Aqui estão algumas perguntas frequentes sobre Java, computação e um pouco de 
 ### [ET] Java é compilado ou interpretado? O que é JVM? Qual a diferença entre JDK e JDE? 
 __WORA.__ "WORA" significa _"write once, run anywhere"_. Esta frase passou-se a ser muito utilizada na comunidade de desenvolvimento devido ao Java. Em português, ela significa: "Escreva uma vez, rode em qualquer lugar". __WORA: E este é um dos propósitos da linguagem Java.__ 
 
-O Java foi desenvolvido não apenas para ser outra linguagem de programação, para futuros softwares serem escritos nela, mas também para ser multi-plataforma. Mas o que isto significa? "Multi-plataforma?"
+O Java foi desenvolvido não apenas para ser outra linguagem de programação, para futuros softwares serem escritos nela, mas também para ser multi-plataforma. 
 
+##### Mas o que é multi-plataforma?
 Para responder esta pergunta, podemos pensar na comunidade "gamer" que joga no PC. 
 Os jogadores estão, em grande parte, jogando no sistema operacional Windows. O windows de fato é o sistema mais famoso entre jogadores e pessoas que usam o computador de modo geral. 
 
