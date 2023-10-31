@@ -30,8 +30,7 @@ Aqui estão algumas perguntas frequentes sobre Java, computação e um pouco de 
 
 
 ### [ET] Java é compilado ou interpretado? O que é JVM? Qual a diferença entre JDK e JDE? 
-WORA. "WORA" significa "write once, run anywhere". Esta frase passou-se a ser muito utilizada na comunidade de desenvolvimento devido ao Java. Em português, ela significa: "Escreva uma vez, rode em qualquer lugar". 
-E este é o propósito da linguagem Java. 
+__WORA.__ "WORA" significa _"write once, run anywhere"_. Esta frase passou-se a ser muito utilizada na comunidade de desenvolvimento devido ao Java. Em português, ela significa: "Escreva uma vez, rode em qualquer lugar". __WORA: E este é um dos propósitos da linguagem Java.__ 
 
 O Java foi desenvolvido não apenas para ser outra linguagem de programação, para futuros softwares serem escritos nela, mas também para ser multi-plataforma. Mas o que isto significa? "Multi-plataforma?"
 
@@ -48,7 +47,9 @@ O programa escrito em Java __não__ é lido pelo nosso computador diretamente. O
 Mas há alguns passos antes da JVM ler e entender nosso programa escrito em java. Podemos entender melhor ao observar a ordem abaixo:
 1. Escrevemos nosso programa com a linguagem java.  
 2. Compilamos este programa com o javac (java compiller). 
-3. Este processo de compilação gera um arquivo ".classic", um arquivo de contém diversos
+3. Este processo de compilação gera um arquivo ".class". Este é um arquivo bytecode. 
+
+
 
 
 > Você provavelmente já se deparou com o termo "máquina virtual". O uso de máquinas virtuais permite a adoção de sistemas operacionais distintos executados simultaneamente em um único computador. Isto é, podemos simular uma máquina que usa linux, mesmo que nós estejamos usando windows. Com um software de máquina virtual, somos capazes de ter uma máquina rodando dentro da nossa própria máquina.
