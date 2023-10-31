@@ -38,7 +38,13 @@ O Java foi desenvolvido não apenas para ser outra linguagem de programação, p
 Para responder esta pergunta, podemos pensar na comunidade "gamer" que joga no PC. 
 Os jogadores estão, em grande parte, jogando no sistema operacional Windows. O windows de fato é o sistema mais famoso entre jogadores e pessoas que usam o computador de modo geral. 
 
-Mas cada sistema operacional funciona de um jeito, eles possuem jeitos um pouco diferentes de interpretar informações. Então, quando um jogo é criado, ele é escrito em uma linguagem de programação, com motores (Unreal, Unity..) para facilitar o desenvolvimento.   
+Mas cada sistema operacional funciona de um jeito, eles possuem jeitos um pouco diferentes de interpretar informações. Então, quando um jogo é criado, ele é escrito em uma linguagem de programação, com motores (Unreal, Unity..) para facilitar o desenvolvimento. Mas aí que entra o pulo do gato, os jogos são desenvolvidos para rodarem em sistemas WINDOWS. A maior parte dos jogos não possuem nativamente para outros sistemas operacionais. Para que esses mesmos jogos nativos de windows rodem em outros sistemas, há necessidade do código ser alterado pelos desenvovledores. 
+
+E aí entra o java. O java é uma linguagem capaz de criar programas que podem ser executados em qualquer sistema operacional. Então, só precisamos _escrever o código uma vez, e podemos rodá-lo em qualquer lugar_. 
+Certo.. Mas como isso funciona exatamente? Como o java consegue fazer isso? 
+
+O programa escrito em Java __não__ é lido pelo nosso computador diretamente. O programa java é feito para ser lido pela JVM (Java Virtual Machine). 
+> Você provavelmente já se deparou com o termo "máquina virtual".  
 
 ### [ET] A linguagem Java é ruim para jogos?
 Pode-se dizer que sim, mas precisamos ter cuidado ao afirmar isso. O fato de o Java ser considerado "inadequado" para o desenvolvimento de jogos não é culpa do Java em si. Antes da era dos smartphones, os celulares utilizavam o Java como a principal plataforma para aplicativos e jogos. Isso ocorria em dispositivos com recursos extremamente limitados, e ainda assim, os jogos eram desenvolvidos em Java.
