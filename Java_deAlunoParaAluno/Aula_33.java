@@ -38,7 +38,7 @@ public class Aula_33
         {
 
             // Agora, vamos criar outro laço de repetição.
-            // Caso seja, eles trocaram de lado. 
+            // Ele será responsável por se referir aos elementos de maneira individual.
             for (int j = 0; j < length; j++)
             {
 
@@ -48,7 +48,12 @@ public class Aula_33
                 {
 
                 }
-            } 
+            
+            }
         }
+
+
+
+
     }
 }
