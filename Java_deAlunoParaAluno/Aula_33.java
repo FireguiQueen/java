@@ -6,6 +6,12 @@
 
     Em java, e em outras diversas linguagens, já existem métodos prontos para ordernar
     seu array, porém, é um algorítimo importante de se conhecer.
+
+
+    Qual a sua ideia?
+    A ideia do bubble sort é bem simples. 
+    Se o número a esquerda for MAIOR que o número a direita, eles trocaram de posição.
+    Se o número a esquerda for MENOR que o número a direita, a posição será mantida. 
 */
 
 public class Aula_33
@@ -24,5 +30,20 @@ public class Aula_33
             indice[5] = primeiro elemento (2)
         */
         int[] numeros = {5, 3, 1, 4, 6, 2};
+
+
+        // Agora, vamos criar um laço de repetição.
+        // Ele será útil para executar o algoritimo com base na quantidade de elementos que ele possui.
+        for (int i = 0; i < numeros.length; i++)
+        {
+
+            // Agora, vamos criaro outro laço de repetição.
+            // Ele será responsável por verificar se o número a esquerda é maior que o número a direita.
+            // Caso seja, eles trocaram de lado. 
+            for (int j = 0; j < length; j++)
+            {
+                
+            } 
+        }
     }
 }
