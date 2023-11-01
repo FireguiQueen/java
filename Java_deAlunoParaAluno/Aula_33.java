@@ -41,7 +41,7 @@ public class Aula_33
 
             // Agora, vamos criar outro laço de repetição.
             // Ele será responsável por se referir aos elementos de maneira individual.
-            for (int j = 0; j < length; j++)
+            for (int j = 0; j < (numeros.length - 1); j++)
             {
 
                 // responsável por verificar se o número a esquerda é maior que o número a direita.
@@ -56,8 +56,10 @@ public class Aula_33
             }
         }
 
-
-
-
+        // printa o nosso array
+        for (int i = 0; i < numeros.length; i++)
+        {
+            System.out.println(numeros[i]);
+        }
     }
 }
