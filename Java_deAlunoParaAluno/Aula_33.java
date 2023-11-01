@@ -48,8 +48,9 @@ public class Aula_33
                 // caso seja, haverá uma instrução para os números trocarem de posição.
                 if (numeros[j] > numeros[j + 1])
                 {
-                    swap = numeros[j];
-                    numeros[j + 1] = swap; 
+                    swap = numeros[j];              // salva o valor de numero[j] (0)
+                    numeros[j] = numeros[j + 1];    // numeros[0] recebe numeros[1]  
+                    numeros[j + 1] = swap;          // numeros[j + 1] recebe o swap (0)
                 }
             
             }
