@@ -37,12 +37,17 @@ public class Aula_33
         for (int i = 0; i < numeros.length; i++)
         {
 
-            // Agora, vamos criaro outro laço de repetição.
-            // Ele será responsável por verificar se o número a esquerda é maior que o número a direita.
+            // Agora, vamos criar outro laço de repetição.
             // Caso seja, eles trocaram de lado. 
             for (int j = 0; j < length; j++)
             {
-                
+
+                // responsável por verificar se o número a esquerda é maior que o número a direita.
+                // caso seja, haverá uma instrução para os números trocarem de posição.
+                if (numeros[j] > numeros[j + 1])
+                {
+
+                }
             } 
         }
     }
