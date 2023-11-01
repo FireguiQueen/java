@@ -31,6 +31,8 @@ public class Aula_33
         */
         int[] numeros = {5, 3, 1, 4, 6, 2};
 
+        // Aqui criamos nossa variável que será responsável por fazer a troca de posição entre os números
+        int swap; 
 
         // Agora, vamos criar um laço de repetição.
         // Ele será útil para executar o algoritimo com base na quantidade de elementos que ele possui.
@@ -46,7 +48,8 @@ public class Aula_33
                 // caso seja, haverá uma instrução para os números trocarem de posição.
                 if (numeros[j] > numeros[j + 1])
                 {
-
+                    swap = numeros[j];
+                    numeros[j + 1] = swap; 
                 }
             
             }
