@@ -1,15 +1,19 @@
 // Bubble sort
 /*
-    O que é?
-    O bubble sort é um algoritimo para você organizar seu vetor numérico (byte, long, double..) tanto
+    > O QUE É?
+    O bubble sort é um algoritimo para você organizar um vetor numérico tanto
     em forma decrescente, quanto na forma crescente. 
 
+    > O QUE É UM VETOR NUMÉRICO?
+    Quando me refiro a um vetor numérico, estou me referindo a todos os vetores que usam tipos de dados
+    numéricos.: byte, short, int, long, double, float.. 
+
+
+    // VALE A PENA APRENDER O "Bubble sort"?
     Em java, e em outras diversas linguagens, já existem métodos prontos para ordernar
-    seu array, porém, é um algorítimo importante de se conhecer.
+    seu array. Mas mesmo assim, o bubble sort é um algorítimo super importante de se conhecer.
 
-
-    Qual a sua ideia?
-    A ideia do bubble sort é bem simples. 
+    // QUAL A PRINCIAL PARTE DO ALGORITIMO?  
     Se o número a esquerda for MAIOR que o número a direita, eles trocaram de posição.
     Se o número a esquerda for MENOR que o número a direita, a posição será mantida. 
 */
