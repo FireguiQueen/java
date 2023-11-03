@@ -20,7 +20,7 @@ Alguns cursos foram indicados por amigos, enquanto outros eu busquei em lugares 
 
 </br>
 
-Você pode ver minha progressão nos cursos por aqui: 
+Você pode ver minha progressão nos cursos por <a href="https://github.com/FireguiQueen/Java/blob/main/progress%C3%A3o.md">aqui</a>.
 ___________________________
 
 ## FAQ 
