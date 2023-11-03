@@ -7,19 +7,20 @@ ______________
 Este repositório foi criado não apenas para agrupar todos os cursos, exercícios e projetos pequenos que foram feitos por mim, mas também para servir como uma base para outras pessoas interessadas em aprender Java =).
 
 ### Como os cursos foram escolhidos?
-_Antes de continuar a leitura, recomendo que leia <a href="https://github.com/FireguiQueen/Java/tree/main#op-certificados-servem-para-algo">"cursos te preparam ao mercado?"</a>._ 
+Eu seleciono exclusivamente cursos gratuitos. Não acredito que esses cursos preparem alguém para o mercado, mas os considero úteis para dar início ao aprendizado.
 
-Sou um estudante de Java, e em relação aos cursos deste repositório, eu mantenho cursos gratuitos e de boa qualidade. 
-O primeiro critério foi ignorar todas as "entidades de ensino" que prometem mil maravilhas, por isso você não encontrará cursinhos da Alura ou da Rockeseat. Brincadeiras à parte, mas de fato você não vai encontrar.
+O primeiro critério foi ignorar todas as "entidades de ensino" focadas mais no marketing do que no ensino. Portanto, você não encontrará cursinhos da Alura ou da Rockeseat aqui.
 
-A primeira coisa a ser feita foi escolher cuidadosamente os cursos. Alguns foram indicações de amigos, enquanto outros eu procurei em lugares obscuros da web (reddit). Procuro sempre fazer uma analise do professor, ver sua história e sua experiência como desenvolvedor. 
-> Ficaremos longe de quem promete coisas, afinal, quem faz muitas promessas, pouco entrega. Este respositório busca manter distância dos marketeiros.  
+Alguns cursos foram indicados por amigos, enquanto outros eu busquei em lugares obscuros da web (reddit). Considero sempre analisar o professor, ver sua história e sua experiência como desenvolvedor. 
 
 ### Instrutores e cursos 
 - __William Suane__, _DevDojo:_ <a href="https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW"> Java virado no Jiraya </a>
 - __Italo Grossi__, _DeAlunoParaAluno:_ <a href="https://www.youtube.com/playlist?list=PLa75BYTPDNKZLzk3xG-gSXSU_AAq5RP4g"> Programar em Java </a> 
 - __Loiane Groner__, _Loiane Trainning:_ <a href="https://loiane.training/curso/java-basico"> Java básico </a>
-  
+
+</br>
+
+Você pode ver minha progressão nos cursos por aqui: 
 ___________________________
 
 ## FAQ 
