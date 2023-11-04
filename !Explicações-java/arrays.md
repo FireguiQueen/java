@@ -20,7 +20,8 @@ Existem duas formas de criarmos um array.
 ```
 
 ##### Acessando valores 
-Para acessar os valores de um vetor, utilizamos os índices. O índice indica a posição do elemento dentro do nosso array. Em resumo, _cada elemento dentro de um array possui um índice_. O índice 0 (zero), ou "posição" 0, representa o primeiro elemento do array, ou seja, o primeiro valor. O índice 1 (um) representa o segundo elemento do array, e assim por diante.
+Para acessar os valores de um vetor, utilizamos os índices. O índice indica a posição de um determinado elemento dentro do nosso array. Em resumo, _cada elemento dentro de um array possui um índice_. 
+> O índice 0 (zero), ou "posição" 0, representa o primeiro elemento do array, ou seja, o primeiro valor. O índice 1 (um) representa o segundo elemento do array, e assim por diante.
 
 Para acessar um elemento por meio do seu índice, devemos usar o identificador do nosso array, seguido de colchetes `[]`. Dentro dos colchetes, especificamos o índice desejado.
 
