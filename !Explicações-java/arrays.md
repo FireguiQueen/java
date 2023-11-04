@@ -198,11 +198,16 @@ Um array multidimensional é semelhante a um array normal, mas com uma diferenç
 Podemos criar um array multidimensional de duas formas. 
 
 #### 1. Nesta abordagem, definimos um array e preenchemos _diretamente_ com seus valores.
-- Array: multidimensional;
-- Tipo: int; 
+- Tipo de dado: int; 
 - Quantidade de elementos: não definida. se baseia na quantidade de arrays que colocamos na hora.
 ```java
     int[][] listaNumero = { {200, 300, 400}, {500, 900, 1200}, {9000, 1000} };
 ```
 
 #### 2. Nesta abordagem, criamos um array _vazio_ para posteriormente atribuir valores.
+- Tipo de dado: int; 
+- Quantidade de elementos do array principal: 2 _(só pode conter no máximo dois vetores)_
+- Quantidade de elementos do array secundário: 3 _(só pode conter no máximo três elementos)_
+```java
+    int[][] listaNumero = new int[2][3];
+```
