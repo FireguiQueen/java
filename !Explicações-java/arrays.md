@@ -121,11 +121,6 @@ A nossa condição traduzida pseudo-código é.:
 - `a variável i é menor do que quantidadeElementos`
 
 - `Sim? (true)`  ->> `execute o bloco`
-
-        - Acesse a o array 'listaNomes' no índice 'i'.
-        listaNomes[i];
-
-
 - `Não? (false)` ->> `saia do laço de repetição`
 
 
