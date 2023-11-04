@@ -120,13 +120,12 @@ Agora vem o segundo passo, definir uma condição. E na realidade, é algo bem f
 A nossa condição traduzida pseudo-código é.: 
 - `a variável i é menor do que quantidadeElementos`
 - `Sim? (true)`  ->> `execute o bloco`
+```
+        - Acesse a o array 'listaNomes' no índice 'i'.
+        listaNomes[i];
+```
 
 - `Não? (false)` ->> `saia do laço de repetição`
 
-```java
-for (int i = 0; i < quantidadeElementos; i++)
-{
 
-}
-```
 
