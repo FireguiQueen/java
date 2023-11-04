@@ -99,7 +99,6 @@ _______________________________________________________________
 
 # Iterando um array
 - Leitura recomendada: <a href="https://github.com/FireguiQueen/Java/blob/main/!Explica%C3%A7%C3%B5es-java/loops.md">loops</a> 
-</br>
 
 Iterar um array nada mais é do que _percorrer um array_, ou seja, ser capaz de ir de elemento por elemento. 
 
