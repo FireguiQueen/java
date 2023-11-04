@@ -73,4 +73,25 @@ Agora podemos acessar os valores que definimos.
 ```
 
 
+### Definir um array e tentando acessar seus valores
+O que acontece se definirmos um array e não definirmos seus elementos? A resposta pode mudar um pouco de acordo com o tipo de dado definido. 
+- Se criarmos um array do tipo `byte`, `short`, `int`, `long`, `double` ou`float` sem definir seus elementos, o valor padrão será '0' caso a gente tente acessar o valor;
+- Se criarmos um array do tipo `boolean` sem definir seus elementos, o valor padrão será 'false';
+- Se criarmos um array de Strings sem definir seus elementos, o valor padrão será o caracter nulo. 
 
+Neste exemplo, usaremos o `int`, ou seja, é um vetor que armazena apenas números inteiros.
+- Foi definido que este array pode conter no máximo dois elementos.  
+```java
+    int[] listaNumeros = new int[2];  
+
+    // acessa o indice 1 do array (segundo elemento). 
+    listaNumeros[0]; // retorna 0 
+```
+
+Neste exemplo, usaremos o `boolean`, ou seja, é um vetor que armazena apenas valores booleanos (false ou true).
+```java
+    boolean[] listaNumeros = new boolean[2];  
+
+    // acessa o indice 0 do array (primeiro elemento). 
+    listaNumeros[0]; // retorna false 
+```
