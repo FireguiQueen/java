@@ -118,7 +118,6 @@ Vamos criar um laço de repetição, onde sua variável de controle se inicializ
 Agora vem o segundo passo, definir uma condição para o nosso laço. A ideia é que, enquanto nossa variável de controle (i) for menor que a quantidade de elementos do array, o laço deve continuar sendo executado. A nossa condição em pseudo-código é.: 
 - `Variável i é menor do que quantidadeElementos?` `Sim? (true)`  > `execute o bloco` | `Não? (false)` > `saia do laço de repetição`
 
-
 ```java 
     for (int i = 0; i < quantidadeElementos; i++)
     {
@@ -126,4 +125,33 @@ Agora vem o segundo passo, definir uma condição para o nosso laço. A ideia é
     }
 ```
 
+##### Explicando passo-a-passo. 
+Na primeira vez que o `for loop` for executado, será definido nossa variável de controle e seu valor.
+A variável começerá com o valor 0. 
 
+Agora chegamos na condição, onde será perguntado: `i (0) é menor do que quantidadeDeElementos (3)?`
+Esta condição é considerada "true", pois i (0) é menor do que a quantidade de elementos do array (3). 
+```java
+    System.out.println(listaNomes[0]); // retorna "João", pois é o valor do índice 0. 
+``` 
+
+Após todas as linhas serem executadas, será __incrementado__ +1 a nossa variável de controle (i). </br>
+Agora, nossa variável 'i' vale '1'. </br>
+Novamente, chegamos na condição, onde será perguntado: `i (1) é menor do que quantidadeDeElementos (3)?`
+Esta condição é considerada "true", pois i (1) é menor do que a quantidade de elementos do array (3). 
+```java
+    System.out.println(listaNomes[1]); // retorna "Pedro", pois é o valor do índice 1. 
+``` 
+
+Após todas as linhas serem executadas, será __incrementado__ +1 a nossa variável de controle (i). </br>
+Agora, nossa variável 'i' vale '2'. </br>
+Novamente, chegamos na condição, onde será perguntado: `i (2) é menor do que quantidadeDeElementos (3)?`
+Esta condição é considerada "true", pois i (2) é menor do que a quantidade de elementos do array (3). 
+```java
+    System.out.println(listaNomes[2]); // retorna "Paulo", pois é o valor do índice 2. 
+``` 
+
+Após todas as linhas serem executadas, será __incrementado__ +1 a nossa variável de controle (i). </br>
+Agora, nossa variável 'i' vale '3'. </br>
+Novamente, chegamos na condição, onde será perguntado: `i (3) é menor do que quantidadeDeElementos (3)?`
+Esta condição é considerada "false", pois i (3) não é menor do que a quantidade de elementos do array (3). 
