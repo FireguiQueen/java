@@ -31,21 +31,21 @@ Neste exemplo, estamos acessando o índice 0 do nosso array. O índice 0 corresp
 
 </br>
 
-#### 2. Nesta forma, definos um array _vazio_ para atribuir seus valores futuramente. 
-- Definimos o tipo de dado (`String`) e ao lado colocamos os colchetes _[ ]_. 
+#### 2. Nesta abordagem, criamos um array _vazio_ para posteriormente atribuir valores.
+- Começamos especificando o tipo de dado (`String`) e, ao lado, colocamos colchetes `[]`.
 - Colocamos um identificador ao nosso array. 
-- E por fim, fazemos uma instância do objeto `String`, colocando colchetes ao lado e informando quantos elementos poderão haver neste array. 
-> Este jeito pode parecer um pouco mais confuso, pois é necessário entender alguns conceitos. Mas apenas saiba que foi criado um array vazio, e definido quantos elementos podem existir dentro deste array. Se tentarmos colocar mais elementos do permitido, teremos erros. 
+- Em seguida, realizamos uma instância do objeto `String`, adicionando colchetes ao lado e especificando quantos elementos poderão ser armazenados neste array.
+> Este método pode parecer um pouco mais complexo, pois envolve a compreensão de alguns conceitos. No entanto, podemos dizer que estamos apenas criando um array vazio e definindo o limite de elementos que ele pode conter. Se tentarmos adicionar mais elementos do que o permitido, ocorrerão erros.
 
 ```java
      String[] listaDeNomesVazia = new String[3];
 ```
 
 ##### Acessando e atribuindo valores
-Já aprendemos como acessar os valores de um array. Mas este array que criamos acima, ainda não possui valores definidos. Então, o que precisamos fazer é, escolher um indice e atribuir um valor a ele. 
+Aprendemos como acessar os valores de um array. No entanto, o array que criamos ainda não possui valores definidos. Portanto, precisamos escolher um índice e atribuir um valor a ele.
 
-Iremos colocar o identificador do nosso array, e ao seu lado, será colocado colchetes _[ ]_. Dentro dos colchetes, colocaremos o índice que desejamos atribuir um valor. Por fim, basta colocar o sinal de atribuição (=) e colocar um valor. 
-> Este valor precisa ser uma String, pois nosso vetor é um vetor de strings. 
+Para isso, utilizamos o identificador do nosso array, seguido por colchetes `[]`. Dentro dos colchetes, especificamos o índice ao qual desejamos atribuir um valor. Em seguida, usamos o operador de atribuição (=) para associar um valor.
+> É importante notar que, como nosso vetor é um vetor de strings, o valor atribuído __deve__ ser uma string.
 ```java
     listaDeNomesVazia[0] = "Paulão"; // atribuindo o valor "Paulão" ao indice 0. 
     listaDeNomesVazia[1] = "Julia";  // atribuindo o valor "Julia" ao indice 1.
