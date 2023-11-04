@@ -117,8 +117,16 @@ int quantidadeElementos = listaNomes.length; // retorna 3, pois há 3 elementos 
 
 Vamos criar um laço de repetição, onde sua variável de controle se inicialize com o valor '0', e a cada execução deste laço, será adicionado +1 a nossa variável. </br>
 Agora vem o segundo passo, definir uma condição. E na realidade, é algo bem fácil de se compreender.
-A nossa condição será a seguinte.: `a variável `
+A nossa condição traduzida pseudo-código é.: 
+- `a variável i é menor do que quantidadeElementos`
+- `Sim? (true)`  ->> `execute o bloco`
+
+- `Não? (false)` ->> `saia do laço de repetição`
+
 ```java
-for (int i = 0; i < l)
+for (int i = 0; i < quantidadeElementos; i++)
+{
+
+}
 ```
 
