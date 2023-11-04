@@ -102,3 +102,6 @@ _______________________________________________________________
 
 Iterar um array nada mais é do que _percorrer um array_, ou seja, ser capaz de ir de elemento por elemento. 
 
+Para fazer a iteração, vamos precisar de um laço de repetição. Para esta explicação, usaremos o `for loop`. 
+
+
