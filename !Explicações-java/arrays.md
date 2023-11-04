@@ -16,7 +16,7 @@ Pense em um array como uma lista, onde você pode armazenar diversos valores de 
 
 </br>
 
-## Criando um array
+## Sintaxe
 Existem duas formas de criarmos um array. 
 
 #### 1. Nesta abordagem, definimos um array e preenchemos _diretamente_ com seus valores.
@@ -182,10 +182,9 @@ _______________________________________________________________
 # Arrays multidimensionais
 Um array multidimensional é semelhante a um array normal, mas com uma diferença crucial. Enquanto um array normal contém elementos do tipo de dado especificado, um array multidimensional possui outros arrays como seus elementos.
 
-
 ### Arrays normais x multidimensionais
 
-- Se definirmos um array de valores inteiros. Os elementos deste array serão números inteiros.
+- Se definirmos um array normal do tipo `int`. Os elementos deste array serão números inteiros.
 ```java
     int[] listaNumero = {500, 200, 100, 25};
 ```
@@ -195,4 +194,15 @@ Um array multidimensional é semelhante a um array normal, mas com uma diferenç
     int[][] listaNumero = { {200, 300, 400}, {500, 900, 1200}, {9000, 1000} };
 ```
 
+### Sintaxe
+Podemos criar um array multidimensional de duas formas. 
 
+#### 1. Nesta abordagem, definimos um array e preenchemos _diretamente_ com seus valores.
+- Array: multidimensional;
+- Tipo: int; 
+- Quantidade de elementos: não definida. se baseia na quantidade de arrays que colocamos na hora.
+```java
+    int[][] listaNumero = { {200, 300, 400}, {500, 900, 1200}, {9000, 1000} };
+```
+
+#### 2. Nesta abordagem, criamos um array _vazio_ para posteriormente atribuir valores.
