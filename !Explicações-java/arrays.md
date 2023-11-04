@@ -20,6 +20,16 @@ Existem duas formas de criarmos um array.
     String[] listaDeNomes = {"João", "Paulo", "Guilherme"}; 
 ```
 
+##### Acessando valores 
+Para acessarmos valores, iremos trabalhar com os índices. O índice indica a posição do elemento dentro do nosso array. Resumidamente, _cada elemento dentro de um array terá seu indice_. O índice 0 (zero), ou 'posição' 0, indica nosso primeiro elemento do array, ou seja, nosso primeiro valor. O índice 1 (um) indica nosso segundo elemento do array, e assim por diante. 
+
+Para acessar um elemento através de seu índice, iremos colocar o identificador do nosso array, e ao seu lado, será colocado colchetes _[]_. Dentro dos colchetes, colocaremos um índice.
+
+Neste exemplo, estamos acessando o índice 0 do nosso array. O indice 0 se refere ao primeiro elemento. 
+```java
+    listaDeNomes[0]; // João.
+```
+
 </br>
 
 #### Nesta forma, definos um array _vazio_ para atribuir seus valores futuramente. 
@@ -29,5 +39,5 @@ Existem duas formas de criarmos um array.
 > Este jeito pode parecer um pouco mais confuso, pois é necessário entender alguns conceitos. Mas apenas saiba que foi criado um array vazio, e definido quantos, através dos colchetes, quantos elementos podem existir dentro deste array. Se tentarmos colocar mais elementos do permitido, teremos erros. 
 
 ```java
-    String[] listaDeNomesVazia = new String[3];
+     String[] listaDeNomesVazia = new String[3];
 ```
