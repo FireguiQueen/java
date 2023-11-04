@@ -42,7 +42,7 @@ Neste exemplo, estamos acessando o índice 0 do nosso array. O índice 0 corresp
 ```
 
 ##### Acessando e atribuindo valores
-Aprendemos como acessar os valores de um array. No entanto, o array que criamos ainda não possui valores definidos. Portanto, precisamos escolher um índice e atribuir um valor a ele.
+Já aprendemos como acessar os valores de um array. No entanto, o array que criamos ainda não possui valores definidos. Portanto, precisamos escolher um índice e atribuir um valor a ele.
 
 Para isso, utilizamos o identificador do nosso array, seguido por colchetes `[]`. Dentro dos colchetes, especificamos o índice ao qual desejamos atribuir um valor. Em seguida, usamos o operador de atribuição (=) para associar um valor.
 > É importante notar que, como nosso vetor é um vetor de strings, o valor atribuído __deve__ ser uma string.
