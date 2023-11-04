@@ -31,10 +31,21 @@ public class School{
 
 
         // Printa todos os alunos da sala e suas notas. 
-        System.out.println("\nNomes \t Notas ");
+        System.out.println("\nNomes \t Notas \t Aprovado");
         for (int i = 0; i < totalAlunos; i++)
         {
-            System.out.println(alunosNomes[i] + "\t " + alunosNotas[i]);
+            String aprovado = alunosNotas[i] >= 50? " sim" : " não";
+            System.out.println(alunosNomes[i] + "\t " + alunosNotas[i] + "\t" + aprovado);
         }
+
+        // Printa a media da turma
+        double media = 0; 
+        for (int i = 0; i < totalAlunos; i++)
+        {
+            media += alunosNotas[i];
+        }
+        media /= totalAlunos;
+        System.out.println("\nMedia da turma: " + media);
+        
     }
 }
