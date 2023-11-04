@@ -78,11 +78,6 @@ Consequentemente, não podemos realizar a seguinte ação:
 O que ocorre se definirmos um array e não atribuirmos valores a seus elementos? A resposta pode variar de acordo com o tipo de dado definido.
 
 - Se criarmos um array do tipo `byte`, `short`, `int`, `long`, `double` ou `float` sem atribuir valores a seus elementos, o valor padrão será '0' se tentarmos acessá-lo.
-
-- Se criarmos um array do tipo `boolean` sem atribuir valores a seus elementos, o valor padrão será 'false'.
-Neste exemplo, usaremos o `int`, ou seja, é um vetor que armazena apenas números inteiros.
-
-
 ```java
     int[] listaNumeros = new int[2];  
 
@@ -90,7 +85,7 @@ Neste exemplo, usaremos o `int`, ou seja, é um vetor que armazena apenas númer
     listaNumeros[0]; // retorna 0 
 ```
 
-Neste exemplo, usaremos o `boolean`, ou seja, é um vetor que armazena apenas valores booleanos (false ou true).
+- Se criarmos um array do tipo `boolean` sem atribuir valores a seus elementos, o valor padrão será 'false'.
 ```java
     boolean[] listaNumeros = new boolean[2];  
 
