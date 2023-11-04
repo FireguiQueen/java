@@ -42,9 +42,9 @@ Neste exemplo, estamos acessando o índice 0 do nosso array. O índice 0 corresp
 ```
 
 ##### Acessando e atribuindo valores
-Já aprendemos como acessar os valores de um array. No entanto, o array que criamos ainda não possui valores definidos. Portanto, precisamos escolher um índice e atribuir um valor a ele.
+Já aprendemos como acessar os valores de um array. No entanto, o array que criamos logo acima ainda não possui valores definidos. Portanto, precisamos escolher um índice e atribuir um valor a ele.
 
-Para isso, utilizamos o identificador do nosso array, seguido por colchetes `[]`. Dentro dos colchetes, especificamos o índice ao qual desejamos atribuir um valor. Em seguida, usamos o operador de atribuição (=) para associar um valor.
+Para isso, utilizamos o identificador do nosso array `(listaDeNomesVazia)`, seguido por colchetes `[]`. Dentro dos colchetes, especificamos o índice ao qual desejamos atribuir um valor. Em seguida, usamos o operador de atribuição (=) para associar um valor.
 > É importante notar que, como nosso vetor é um vetor de strings, o valor atribuído __deve__ ser uma string.
 ```java
     listaDeNomesVazia[0] = "Paulão"; // atribuindo o valor "Paulão" ao indice 0. 
