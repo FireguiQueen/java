@@ -182,6 +182,9 @@ _______________________________________________________________
 # Arrays multidimensionais
 Um array multidimensional é semelhante a um array normal, mas com uma diferença crucial. Enquanto um array normal contém elementos do tipo de dado especificado, um array multidimensional possui outros arrays como seus elementos.
 
+
+### Arrays normais x multidimensionais
+
 - Se definirmos um array de valores inteiros. Os elementos deste array serão números inteiros.
 ```java
     int[] listaNumero = {500, 200, 100, 25};
