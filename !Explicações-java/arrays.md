@@ -212,3 +212,23 @@ Podemos criar um array multidimensional de duas formas.
 ```java
     int[][] listaNumero = new int[2][3];
 ```
+
+
+##### Acessando e atribuindo valores
+Como já vimos anteriormente, esta segunda abordagem não define nossos elementos, apenas define quantos vetores podem haver dentro do vetor principal, e quantos elementos podem haver dentro do vetor secundário. 
+
+- Neste caso, acessamos o índice 0 (zero), que se refere ao _primeiro vetor_ do nosso vetor principal. Após isso, entramos no índice 0, que se refere ao primeiro elemento do array secundário. 
+```java
+    int[0][0] = 500;
+```
+
+- Aqui nós acessamos o índice 1 (um), que se refere ao _segundo vetor_ do nosso vetor principal. Após isso, entramos no índice 4, que se refere ao _quinto elemento_ do array secundário. 
+```java
+    int[1][4] = 300;
+```
+
+Com a junção de ambos os blocos acima, poderia ser feito a seguinte linha: 
+> Lembre-se, elementos que não foram definidos, por padrão, serão 0. 
+```java
+    int[][] = { {500, 0, 0, 0, 0}, {0, 0, 0, 0, 300} };
+```
