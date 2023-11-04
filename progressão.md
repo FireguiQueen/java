@@ -10,4 +10,5 @@
 26/10/2023    | Aula 26 até Aula 28
 29/10/2023    | Correções e exercícios
 30/10/2023    | Aula 29 até Aula 32
-01/11/2023    | Aula 33 
+02/11/2023    | anotações + correção 
+03/11/2023    | aula 33
