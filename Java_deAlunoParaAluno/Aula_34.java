@@ -45,6 +45,9 @@ public class Aula_32
         // Definimos também que os arrays dentro do array principal irão conterão até 5 elementos.
         int[][] listaa = new int[2][5];
 
+        // FOI CRIADO BASICAMENTE ISTO: 
+        // int[][] lista = { {0, 0, 0, 0, 0}, {0, 0, 0, 0, 0} };
+
         // Acessando o primeiro array do nosso array principal.
         // Dizendo que o indice 1 deste array terá o número 50. 
         listaa[0][1] = 50; 
