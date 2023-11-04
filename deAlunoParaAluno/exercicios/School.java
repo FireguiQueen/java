@@ -31,10 +31,10 @@ public class School{
 
 
         // Printa todos os alunos da sala e suas notas. 
-        System.out.println("Alunos: ");
+        System.out.println("\nNomes \t Notas ");
         for (int i = 0; i < totalAlunos; i++)
         {
-            System.out.println("Nome: " + alunosNomes[i] + "\t Nota: " + alunosNotas[i]);
+            System.out.println(alunosNomes[i] + "\t " + alunosNotas[i]);
         }
     }
 }
