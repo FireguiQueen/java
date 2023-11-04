@@ -12,7 +12,7 @@ Os valores armazenados nesta "lista" são chamados de elementos. Esses elementos
 ## Criando um array
 Existem duas formas de criarmos um array. 
 
-Nesta forma, definimos um array e diretamente colocamos seus valores.
+#### Nesta forma, definimos um array e __diretamente__ colocamos seus valores.
 - Definimos o tipo de dado (`String`) e ao lado colocamos os colchetes _[]_. 
 - Colocamos um identificador ao nosso array. 
 - E por fim, dizemos que será recebido uma coleção de dados. 
