@@ -15,4 +15,4 @@
     lista[2];       --> retorna 300. 
 
 
-    // Como declarar vetores multidimensionais? 
+    >>> DEFININDO E ACESSANDO VALORES DE UM VETOR MULTIDIMENSIONAL.
