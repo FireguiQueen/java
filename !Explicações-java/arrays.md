@@ -52,6 +52,13 @@ Para isso, utilizamos o identificador do nosso array, seguido por colchetes `[]`
     listaDeNomesVazia[2] = "Pedro";  // atribuindo o valor "Pedro" ao indice 2. 
 ```
 
+Agora podemos acessar os valores que definimos.
+```java
+    listaDeNomesVazia[0]; // Paulão
+    listaDeNomesVazia[1]; // Julia
+    listaDeNomesVazia[2]; // Pedro
+```
+
 </br>
 
 Agora, nossos valores foram atribuídos aos índices previamente vazios. Observamos que nosso array está armazenando três elementos: "Paulão", "Julia" e "Pedro". Isso significa que não podemos adicionar mais elementos, já que definimos que nosso array pode conter no __máximo__ três elementos (`new String[3]`).
@@ -64,12 +71,7 @@ Consequentemente, não podemos realizar a seguinte ação:
     listaDeNomesVazia[3] = "Rodrigo";
 ```
 
-Agora podemos acessar os valores que definimos. 
-```java
-    listaDeNomesVazia[0]; // Paulão
-    listaDeNomesVazia[1]; // Julia
-    listaDeNomesVazia[2]; // Pedro
-```
+
 
 
 ### Definir um array e tentando acessar seus valores
