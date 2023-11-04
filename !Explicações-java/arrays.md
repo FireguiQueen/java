@@ -180,8 +180,16 @@ Esta última parte é importante, porque se tivéssemos utilizado o operador <= 
 _______________________________________________________________
 
 # Arrays multidimensionais
+Um array multidimensional é semelhante a um array normal, mas com uma diferença crucial. Enquanto um array normal contém elementos do tipo de dado especificado, um array multidimensional possui outros arrays como seus elementos.
 
+- Se definirmos um array de valores inteiros. Os elementos deste array serão números inteiros.
+```java
+    int[] listaNumero = {500, 200, 100, 25};
+```
 
-
+- No entanto, se definirmos um array de arrays, os elementos do array principal serão outros arrays. Dentro desses arrays secundários, encontraremos os valores do tipo de dado especificado.
+```java
+    int[][] listaNumero = { {200, 300, 400}, {500, 900, 1200}, {9000, 1000} };
+```
 
 
