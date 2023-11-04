@@ -12,10 +12,10 @@ public class Aula_32
         // >>> DEFININDO E ACESSANDO VALORES DE UM VETOR NORMAL.
 
         // 1º - Definimos um array e colocamos seus elementos diretamente.
-            int[] lista = {100, 200, 300}; 
+        int[] lista = {100, 200, 300}; 
 
         // 2° - Definimos um array e não colocamos seus elementos, apenas definimos quantos elemenetos podem haver
-            int[] lista_0 = new int[3];
+        int[] lista_0 = new int[3];
 
         // Acessando seus valores:
         System.out.println(lista[0]);  // retorna 100. 
@@ -25,7 +25,7 @@ public class Aula_32
         // >>> DEFININDO E ACESSANDO VALORES DE UM VETOR MULTIDIMENSIONAL.
 
         // 1° - Definimos um array multidimensional colocando seus elementos diretamente.
-        int[][] list = { [200, 100], [400, 2, 4], [0] };
+        int[][] list = { {200, 100}, {400, 2, 4}, {0} };
 
         // Acessando seus valores:
 
@@ -36,5 +36,20 @@ public class Aula_32
         // Retorna 4.
         // Entramos no array 'list'. Entramos no segimdp elemento dele (um vetor). Entramos no terceiro elemento deste vetor.
         System.out.println(list[1][2]); 
+
+
+
+        // OUTRA FORMA DE CRIAR UM ARRAY MULTIDIMENSIONAL SEM DECLARAR SEUS ELEMENTOS.:
+
+        // Definimos que nosso array principal poderá conter até dois elementos. 
+        // Definimos também que os arrays dentro do array principal irão conterão até 5 elementos.
+        int[][] listaa = new int[2][5];
+
+        // Acessando o primeiro array do nosso array principal.
+        // Dizendo que o indice 1 deste array terá o número 50. 
+        listaa[0][1] = 50; 
+
+        // Acessando valores
+        System.out.println(listaa[0][1]);
     }
 }   
