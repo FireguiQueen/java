@@ -7,7 +7,7 @@ Pense em um array como uma lista, onde você pode armazenar diversos valores de 
 > É importante lembrar que um array é uma variável capaz de armazenar mais de um valor, e, portanto, é necessário definir o tipo de dado que essa variável irá conter. O array só pode armazenar valores do tipo de dado indicado.
 
 #### Sumário
-- <a href=""> Arrays </a>
+- <a href="https://github.com/FireguiQueen/Java/blob/main/!Explica%C3%A7%C3%B5es-java/arrays.md#criando-um-array"> Arrays </a>
 - <a href=""> Arrays multidimensionais </a>
 - <a href=""> Iterando arrays </a> 
 
@@ -99,7 +99,13 @@ O que ocorre se definirmos um array e não atribuirmos valores a seus elementos?
 ```
 
 </br>
+_______________________________________________________________
 
+# Arrays multidimensionais
+
+
+
+</br>
 _______________________________________________________________
 
 # Iterando um array
