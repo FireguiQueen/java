@@ -12,7 +12,7 @@ Os valores armazenados nesta "lista" são chamados de elementos. Esses elementos
 ## Criando um array
 Existem duas formas de criarmos um array. 
 
-#### Nesta forma, definimos um array e _diretamente_ colocamos seus valores.
+#### 1. Nesta forma, definimos um array e _diretamente_ colocamos seus valores.
 - Definimos o tipo de dado (`String`) e ao lado colocamos os colchetes _[]_. 
 - Colocamos um identificador ao nosso array. 
 - E por fim, dizemos que será recebido uma coleção de dados. 
@@ -32,7 +32,7 @@ Neste exemplo, estamos acessando o índice 0 do nosso array. O indice 0 se refer
 
 </br>
 
-#### Nesta forma, definos um array _vazio_ para atribuir seus valores futuramente. 
+#### 2. Nesta forma, definos um array _vazio_ para atribuir seus valores futuramente. 
 - Definimos o tipo de dado (`String`) e ao lado colocamos os colchetes _[]_. 
 - Colocamos um identificador ao nosso array. 
 - E por fim, fazemos uma instância do objeto `String`, colocando colchetes ao lado e informando quantos elementos poderão haver neste array. 
@@ -41,3 +41,27 @@ Neste exemplo, estamos acessando o índice 0 do nosso array. O indice 0 se refer
 ```java
      String[] listaDeNomesVazia = new String[3];
 ```
+
+##### Acessando e atribuindo valores
+Já aprendemos como acessar os valores de um array. Mas este array que criamos acima, ainda não possui valores definidos. Então, o que precisamos fazer é, escolher um indice e atribuir um valor a ele. 
+
+Iremos colocar o identificador do nosso array, e ao seu lado, será colocado colchetes _[]_. Dentro dos colchetes, colocaremos o índice que desejamos atribuir um valor. Por fim, basta colocar o sinal de atribuição (=) e colocar um valor. 
+> Este valor precisa ser uma String, pois nosso vetor é um vetor de strings. 
+```java
+    listaDeNomesVazia[0] = "Paulão"; // atribuindo o valor "Paulão" ao indice 0. 
+    listaDeNomesVazia[1] = "Julia";  // atribuindo o valor "Julia" ao indice 1.
+    listaDeNomesVazia[2] = "Pedro"; // atribuindo o valor "Pedro" ao indice 2. 
+```
+
+Pronto, agora nossos valores já forão atribuidos aos indices que estavam vázios. 
+E também, podemos observar que, nosso array está armazenando três elementos: `"Paulão", "Julia" e "Pedro"`.
+Isto significa que, não podemos colocar mais elementos, afinal, foi definido que nosso array iria conter no __máximo__ três elementos. 
+
+Sabendo-se disso, sabemos que não poderíamos fazer isso: 
+```java
+    // RETORNA ERRO. 
+    listaDeNomesVazia[3] = "Rodrigo"; // atribuindo o valor "Rodrigo" ao indice 3, mas este indice não existe. 
+```
+
+
+
