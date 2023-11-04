@@ -27,7 +27,7 @@ Para acessar um elemento através de seu índice, iremos colocar o identificador
 
 Neste exemplo, estamos acessando o índice 0 do nosso array. O indice 0 se refere ao primeiro elemento. 
 ```java
-    listaDeNomes[0]; // João.
+    listaDeNomes[0]; // João
 ```
 
 </br>
@@ -50,7 +50,7 @@ Iremos colocar o identificador do nosso array, e ao seu lado, será colocado col
 ```java
     listaDeNomesVazia[0] = "Paulão"; // atribuindo o valor "Paulão" ao indice 0. 
     listaDeNomesVazia[1] = "Julia";  // atribuindo o valor "Julia" ao indice 1.
-    listaDeNomesVazia[2] = "Pedro"; // atribuindo o valor "Pedro" ao indice 2. 
+    listaDeNomesVazia[2] = "Pedro";  // atribuindo o valor "Pedro" ao indice 2. 
 ```
 
 Pronto, agora nossos valores já forão atribuidos aos indices que estavam vázios. 
@@ -61,6 +61,13 @@ Sabendo-se disso, sabemos que não poderíamos fazer isso:
 ```java
     // RETORNA ERRO. 
     listaDeNomesVazia[3] = "Rodrigo"; // atribuindo o valor "Rodrigo" ao indice 3, mas este indice não existe. 
+```
+
+Agora podemos acessar os valores que definimos. 
+```java
+    listaDeNomesVazia[0]; // Paulão
+    listaDeNomesVazia[1]; // Julia
+    listaDeNomesVazia[2]; // Pedro
 ```
 
 
