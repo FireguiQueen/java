@@ -165,11 +165,18 @@ Esta condição é avaliada como "verdadeira" porque i (2) é menor do que a qua
 ```java
     System.out.println(listaNomes[2]); // retorna "Paulo", pois é o valor do índice 2. 
 ``` 
+> Após a execução de todas as linhas do laço, a nossa variável de controle (i) é __incrementada__ em +1. Sendo assim, após este bloco ser executado, nossa variável terá o valor de '3'.
 
 </br>
 
-Após todas as linhas serem executadas, será __incrementado__ +1 a nossa variável de controle (i). </br>
-Agora, nossa variável 'i' vale '3'. </br>
+Novamente, chegamos à condição, onde a pergunta é: i (3) é menor do que quantidadeDeElementos (3)?
+Esta condição é avaliada como "falsa" porque i (3) não é menor do que a quantidade de elementos do array (3).
+
+Esta última parte é importante, porque se tivéssemos utilizado o operador <= em vez de "<", o valor 3 seria igual a 3, e o bloco seria executado, resultando em:
+```java
+    System.out.println(listaNomes[3]); // retornaria um erro, já que esse índice não existe.
+```
+
 Novamente, chegamos na condição, onde será perguntado: `i (3) é menor do que quantidadeDeElementos (3)?`
 Esta condição é considerada "false", pois i (3) não é menor do que a quantidade de elementos do array (3). 
 
