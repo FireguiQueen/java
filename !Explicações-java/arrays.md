@@ -9,6 +9,21 @@ Os valores armazenados nesta "lista" são chamados de elementos. Esses elementos
 
 
 ## Criando um array
-```java
+Existem duas formas de criarmos um array. 
 
+Nesta forma, definimos um array e diretamente colocamos seus valores.
+- Definimos o tipo de dado (`String`) e ao lado colocamos os colchetes _[]_. 
+- Colocamos um identificador ao nosso array. 
+- E por fim, dizemos que será recebido uma coleção de dados. 
+```java
+    String[] listaDeNomes = {"João", "Paulo", "Guilherme"}; 
+```
+
+Aqui pode parecer um pouco mais confuso, pois é necessário entender alguns conceitos 
+- Definimos o tipo de dado (`String`) e ao lado colocamos os colchetes _[]_. 
+- Colocamos um identificador ao nosso array. 
+- E por fim, fazemos uma instância do objeto `String`, colocando colchetes ao lado e informando quantos elementos poderão haver neste array. 
+
+```java
+    String[] listaDeNomesVazia = new String[3];
 ```
