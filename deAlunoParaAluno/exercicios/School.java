@@ -15,20 +15,24 @@ public class School{
         Scanner userInput = new Scanner(System.in);
 
         System.out.print("Digite a quantidade de alunos: ");
-        int alunosTotal = userInput.nextInt();
+        int totalAlunos = userInput.nextInt();
 
-        String[] alunosNomes = new String[alunosTotal];
+        String[] alunosNomes = new String[totalAlunos];
+        Double[] alunosNotas = new Double[totalAlunos];
 
-        for (int i = 0; i < alunosTotal; i++)
+        for (int i = 0; i < totalAlunos; i++)
         {
-            System.out.print("Aluno " + i + ": ");
+            System.out.print("Aluno " + (i+1) + ": ");
             alunosNomes[i] = userInput.next();
+            
+            System.out.print("Nota de " + alunosNomes[i] + ": ");
+            alunosNotas[i] = userInput.nextDouble();
         }
 
 
         // Printa todos os alunos da sala. 
-        System.out.println("Alunos: ");
-        for (int i = 0; i < alunosTotal; i++)
+        System.out.print("Alunos: ");
+        for (int i = 0; i < totalAlunos; i++)
         {
             System.out.print(alunosNomes[i] + "\t");
         }
