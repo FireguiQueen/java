@@ -36,7 +36,7 @@ Neste exemplo, estamos acessando o índice 0 do nosso array. O indice 0 se refer
 - Definimos o tipo de dado (`String`) e ao lado colocamos os colchetes _[]_. 
 - Colocamos um identificador ao nosso array. 
 - E por fim, fazemos uma instância do objeto `String`, colocando colchetes ao lado e informando quantos elementos poderão haver neste array. 
-> Este jeito pode parecer um pouco mais confuso, pois é necessário entender alguns conceitos. Mas apenas saiba que foi criado um array vazio, e definido quantos, através dos colchetes, quantos elementos podem existir dentro deste array. Se tentarmos colocar mais elementos do permitido, teremos erros. 
+> Este jeito pode parecer um pouco mais confuso, pois é necessário entender alguns conceitos. Mas apenas saiba que foi criado um array vazio, e definido quantos elementos podem existir dentro deste array. Se tentarmos colocar mais elementos do permitido, teremos erros. 
 
 ```java
      String[] listaDeNomesVazia = new String[3];
