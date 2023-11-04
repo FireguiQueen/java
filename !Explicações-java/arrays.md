@@ -125,7 +125,7 @@ Agora vem o segundo passo, definir uma condição para o nosso laço. A ideia é
     }
 ```
 
-##### Explicando passo-a-passo. 
+##### Entendendo passo-a-passo. 
 Na primeira vez que o `for loop` for executado, será definido nossa variável de controle e seu valor.
 A variável começerá com o valor 0. 
 
