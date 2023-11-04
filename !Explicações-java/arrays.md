@@ -6,6 +6,11 @@ Os arrays são extremamente úteis quando você precisa lidar com coleções de 
 Pense em um array como uma lista, onde você pode armazenar diversos valores de um determinado tipo. Os valores armazenados nessa "lista" são chamados de __elementos__. Esses elementos podem ser acessados por meio de uma indicação específica, que chamamos de índice.
 > É importante lembrar que um array é uma variável capaz de armazenar mais de um valor, e, portanto, é necessário definir o tipo de dado que essa variável irá conter. O array só pode armazenar valores do tipo de dado indicado.
 
+#### Sumário
+- <a href=""> Arrays </a>
+- <a href=""> Arrays multidimensionais </a>
+- <a href=""> Iterando arrays </a> 
+
 </br>
 
 ## Criando um array
@@ -129,11 +134,13 @@ Agora vem o segundo passo, definir uma condição para o nosso laço. A ideia é
 Na primeira vez que o `for loop` for executado, será definido nossa variável de controle e seu valor.
 A variável começerá com o valor 0. 
 
+
 Agora chegamos na condição, onde será perguntado: `i (0) é menor do que quantidadeDeElementos (3)?`
 Esta condição é considerada "true", pois i (0) é menor do que a quantidade de elementos do array (3). 
 ```java
     System.out.println(listaNomes[0]); // retorna "João", pois é o valor do índice 0. 
 ``` 
+
 
 Após todas as linhas serem executadas, será __incrementado__ +1 a nossa variável de controle (i). </br>
 Agora, nossa variável 'i' vale '1'. </br>
@@ -143,6 +150,7 @@ Esta condição é considerada "true", pois i (1) é menor do que a quantidade d
     System.out.println(listaNomes[1]); // retorna "Pedro", pois é o valor do índice 1. 
 ``` 
 
+
 Após todas as linhas serem executadas, será __incrementado__ +1 a nossa variável de controle (i). </br>
 Agora, nossa variável 'i' vale '2'. </br>
 Novamente, chegamos na condição, onde será perguntado: `i (2) é menor do que quantidadeDeElementos (3)?`
@@ -151,7 +159,14 @@ Esta condição é considerada "true", pois i (2) é menor do que a quantidade d
     System.out.println(listaNomes[2]); // retorna "Paulo", pois é o valor do índice 2. 
 ``` 
 
+</br>
+
 Após todas as linhas serem executadas, será __incrementado__ +1 a nossa variável de controle (i). </br>
 Agora, nossa variável 'i' vale '3'. </br>
 Novamente, chegamos na condição, onde será perguntado: `i (3) é menor do que quantidadeDeElementos (3)?`
 Esta condição é considerada "false", pois i (3) não é menor do que a quantidade de elementos do array (3). 
+
+Esta última parte é bem importante, pois se tivessemos utilizado o operador <= invés do "<", 3 seria igual a 3, logo o bloco seria executado, e isto resultaria em:
+```java
+    System.out.println(listaNomes[3]); // retorna erro, pois este indice não existe. 
+``` 
