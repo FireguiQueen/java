@@ -13,8 +13,8 @@
         int[] lista_0 = new int[3];
 
     // Acessando seus valores:
-    lista[0];  // retorna 100. 
-    lista[2];  // retorna 300. 
+    System.out.println(lista[0]);  // retorna 100. 
+    System.out.println(lista[2]);  // retorna 300. 
 
 
     // >>> DEFININDO E ACESSANDO VALORES DE UM VETOR MULTIDIMENSIONAL.
@@ -26,4 +26,4 @@
     
     // Retorna 200.
     // Entramos no array 'list'. Entramos no primeiro elemento dele (um vetor). Entramos no primeiro elemento deste vetor.
-    list[0][0] 
+    list[0][0]; 
