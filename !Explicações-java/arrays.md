@@ -124,14 +124,14 @@ Para iterar um array, obviamente precisamos de um array. Então vamos definir um
 String[] listaNomes = {"João", "Pedro", "Paulo"};
 ```
 
-Outra coisa super importante é criar uma variável que armazene a quantidade de elementos que o nosso array contém. 
-> é claro, podemos fazer isto _manualmente_, mas __não é uma boa prática__, já que o nosso código não ficaria dinâmico. 
+Outra coisa extremamente importante é criar uma variável que armazene a quantidade de elementos que o nosso array contém.
+> Claro, é possível fazer isso manualmente, mas não é uma _boa prática_, uma vez que o nosso código __não__ seria dinâmico."
 ```java
 int quantidadeElementos = listaNomes.length; // retorna 3, pois há 3 elementos no vetor "listaNomes". 
 ```
 
-Vamos criar um laço de repetição, onde sua variável de controle se inicialize com o valor '0', e a cada execução deste laço, será adicionado +1 a nossa variável. </br>
-Agora vem o segundo passo, definir uma condição para o nosso laço. A ideia é que, enquanto nossa variável de controle (i) for menor que a quantidade de elementos do array, o laço deve continuar sendo executado. A nossa condição em pseudo-código é.: 
+Vamos criar um laço de repetição onde a variável de controle se inicia com o valor '0', e a cada execução do laço, adicionamos +1 à nossa variável. </br>
+Agora, vem o segundo passo, que é definir uma condição para o nosso laço. A ideia é que enquanto a nossa variável de controle (i) for menor do que a quantidade de elementos do array, o laço deve continuar sendo executado. Nossa condição em pseudo-código é a seguinte: 
 - `Variável i é menor do que quantidadeElementos?` `Sim? (true)`  > `execute o bloco` | `Não? (false)` > `saia do laço de repetição`
 
 ```java 
@@ -142,28 +142,24 @@ Agora vem o segundo passo, definir uma condição para o nosso laço. A ideia é
 ```
 
 ##### Entendendo passo-a-passo. 
-Na primeira vez que o `for loop` for executado, será definido nossa variável de controle e seu valor.
-A variável começerá com o valor 0. 
+No primeiro ciclo de execução, ou seja, a primeira vez que o `for loop` ser executado, é criado uma variável de controle (i), e é definido e seu valor (0) 
 
-
-Agora chegamos na condição, onde será perguntado: `i (0) é menor do que quantidadeDeElementos (3)?`
-Esta condição é considerada "true", pois i (0) é menor do que a quantidade de elementos do array (3). 
+Agora, chegamos à condição, onde a pergunta é: `i (0) é menor do que quantidadeDeElementos (3)?` </br>
+Esta condição é avaliada como "verdadeira" porque i (0) é menor do que a quantidade de elementos do array (3). 
 ```java
     System.out.println(listaNomes[0]); // retorna "João", pois é o valor do índice 0. 
 ``` 
+> Após a execução de todas as linhas do laço, a nossa variável de controle (i) é __incrementada__ em +1. Sendo assim, após este primeiro ciclo de execução, nossa variável terá o valor de '1'.
 
 
-Após todas as linhas serem executadas, será __incrementado__ +1 a nossa variável de controle (i). </br>
-Agora, nossa variável 'i' vale '1'. </br>
-Novamente, chegamos na condição, onde será perguntado: `i (1) é menor do que quantidadeDeElementos (3)?`
-Esta condição é considerada "true", pois i (1) é menor do que a quantidade de elementos do array (3). 
+Novamente, chegamos à condição, onde a pergunta é: `i (1) é menor do que quantidadeDeElementos (3)?` </br>
+Esta condição é avaliada como "verdadeira" porque i (1) é menor do que a quantidade de elementos do array (3).
 ```java
     System.out.println(listaNomes[1]); // retorna "Pedro", pois é o valor do índice 1. 
 ``` 
+> Após a execução de todas as linhas do laço, a nossa variável de controle (i) é __incrementada__ em +1. Sendo assim, após este segundo ciclo de execução, nossa variável terá o valor de '2'.
 
 
-Após todas as linhas serem executadas, será __incrementado__ +1 a nossa variável de controle (i). </br>
-Agora, nossa variável 'i' vale '2'. </br>
 Novamente, chegamos na condição, onde será perguntado: `i (2) é menor do que quantidadeDeElementos (3)?`
 Esta condição é considerada "true", pois i (2) é menor do que a quantidade de elementos do array (3). 
 ```java
