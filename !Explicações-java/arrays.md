@@ -115,8 +115,8 @@ int quantidadeElementos = listaNomes.length; // retorna 3, pois há 3 elementos 
 ```
 
 Vamos criar um laço de repetição, onde sua variável de controle se inicialize com o valor '0', e a cada execução deste laço, será adicionado +1 a nossa variável. </br>
-Agora vem o segundo passo, definir uma condição para o nosso laço. A nossa condição em pseudo-código é.: 
-- `Variável i é menor do que quantidadeElementos? ` `Sim? (true)`  ->> `execute o bloco` : `Não? (false)` ->> `saia do laço de repetição`
+Agora vem o segundo passo, definir uma condição para o nosso laço. A ideia é que, enquanto nossa variável de controle (i) for menor que a quantidade de elementos do array, o laço deve continuar sendo executado. A nossa condição em pseudo-código é.: 
+- `Variável i é menor do que quantidadeElementos?` `Sim? (true)`  > `execute o bloco` | `Não? (false)` > `saia do laço de repetição`
 
 
 ```java 
