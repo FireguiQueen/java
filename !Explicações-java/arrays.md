@@ -13,7 +13,7 @@ Existem duas formas de criarmos um array.
 
 #### 1. Nesta abordagem, definimos um array e preenchemos _diretamente_ com seus valores.
 - Começamos especificando o tipo de dado (`String`) e, ao lado, colocamos colchetes `[]`.
-- Colocamos um identificador ao nosso array. 
+- Colocamos um identificador `(listaDeNomes)` ao nosso array. 
 - Em seguida, definimos os valores que ele conterá.     
 ```java
     String[] listaDeNomes = {"João", "Paulo", "Guilherme"}; 
