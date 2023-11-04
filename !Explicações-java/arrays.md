@@ -77,7 +77,7 @@ Consequentemente, não podemos realizar a seguinte ação:
 ### Acessando elementos que não foram definidos
 O que ocorre se definirmos um array e não atribuirmos valores a seus elementos? A resposta pode variar de acordo com o tipo de dado definido.
 
-- Se criarmos um array do tipo `byte`, `short`, `int`, `long`, `double` ou `float` sem atribuir valores a seus elementos, o valor padrão será '0' se tentarmos acessá-lo.
+- __Se criarmos um array do tipo `byte`, `short`, `int`, `long`, `double` ou `float` sem atribuir valores a seus elementos, o valor padrão será '0' se tentarmos acessá-lo.__
 ```java
     int[] listaNumeros = new int[2];  
 
@@ -85,7 +85,7 @@ O que ocorre se definirmos um array e não atribuirmos valores a seus elementos?
     listaNumeros[0]; // retorna 0 
 ```
 
-- Se criarmos um array do tipo `boolean` sem atribuir valores a seus elementos, o valor padrão será 'false'.
+- __Se criarmos um array do tipo `boolean` sem atribuir valores a seus elementos, o valor padrão será 'false'.__
 ```java
     boolean[] listaNumeros = new boolean[2];  
 
