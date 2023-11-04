@@ -72,10 +72,9 @@ Consequentemente, não podemos realizar a seguinte ação:
 ```
 
 
-
-
 ### Definir um array e tentando acessar seus valores
-O que acontece se definirmos um array e não definirmos seus elementos? A resposta pode mudar um pouco de acordo com o tipo de dado definido. 
+O que ocorre se definirmos um array e não atribuirmos valores a seus elementos? A resposta pode variar de acordo com o tipo de dado definido.
+
 - Se criarmos um array do tipo `byte`, `short`, `int`, `long`, `double` ou`float` sem definir seus elementos, o valor padrão será '0' caso a gente tente acessar o valor;
 - Se criarmos um array do tipo `boolean` sem definir seus elementos, o valor padrão será 'false';
 - Se criarmos um array de Strings sem definir seus elementos, o valor padrão será o caracter nulo. 
