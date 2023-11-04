@@ -101,7 +101,6 @@ _______________________________________________________________
 - Leitura recomendada: <a href="https://github.com/FireguiQueen/Java/blob/main/!Explica%C3%A7%C3%B5es-java/loops.md">loops</a> 
 
 Iterar um array nada mais é do que _percorrer um array_, ou seja, ser capaz de ir de elemento por elemento. 
-
 Para fazer a iteração, vamos precisar de um laço de repetição. Para esta explicação, usaremos o `for loop`. 
 
 Para iterar um array, obviamente precisamos de um array. Então vamos definir um: 
