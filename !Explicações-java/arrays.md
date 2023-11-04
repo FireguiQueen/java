@@ -52,16 +52,16 @@ Para isso, utilizamos o identificador do nosso array, seguido por colchetes `[]`
     listaDeNomesVazia[2] = "Pedro";  // atribuindo o valor "Pedro" ao indice 2. 
 ```
 
-Pronto, agora nossos valores já forão atribuidos aos indices que estavam vázios. 
-E também, podemos observar que, nosso array está armazenando três elementos: `"Paulão", "Julia" e "Pedro"`.
-Isto significa que, não podemos colocar mais elementos, afinal, foi definido que nosso array iria conter no __máximo__ três elementos. 
+</br>
 
-Sabendo-se disso, sabemos que não poderíamos fazer isso: 
+Agora, nossos valores foram atribuídos aos índices previamente vazios. Observamos que nosso array está armazenando três elementos: "Paulão", "Julia" e "Pedro". Isso significa que não podemos adicionar mais elementos, já que definimos que nosso array pode conter no __máximo__ três elementos (`new String[3]`).
+
+Consequentemente, não podemos realizar a seguinte ação:
 ```java
     // RETORNA ERRO. 
 
-    // atribuindo o valor "Rodrigo" ao indice 3, mas este indice não existe. 
-    listaDeNomesVazia[3] = "Rodrigo"; 
+    // atribuindo o valor "Rodrigo" ao índice 3, mas este índice não existe.
+    listaDeNomesVazia[3] = "Rodrigo";
 ```
 
 Agora podemos acessar os valores que definimos. 
