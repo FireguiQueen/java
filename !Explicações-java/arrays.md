@@ -105,22 +105,25 @@ Para fazer a iteração, vamos precisar de um laço de repetição. Para esta ex
 
 Para iterar um array, obviamente precisamos de um array. Então vamos definir um: 
 ```java
-int[] listaNomes = {"João", "Pedro", "Paulo"};
+String[] listaNomes = {"João", "Pedro", "Paulo"};
 ```
 
-Outra coisa super importante é criar uma variável que armazene a quantidade de elementos que este array contém. 
+Outra coisa super importante é criar uma variável que armazene a quantidade de elementos que o nosso array contém. 
 > é claro, podemos fazer isto _manualmente_, mas __não é uma boa prática__, já que o nosso código não ficaria dinâmico. 
 ```java
 int quantidadeElementos = listaNomes.length; // retorna 3, pois há 3 elementos no vetor "listaNomes". 
 ```
 
 Vamos criar um laço de repetição, onde sua variável de controle se inicialize com o valor '0', e a cada execução deste laço, será adicionado +1 a nossa variável. </br>
-Agora vem o segundo passo, definir uma condição. E na realidade, é algo bem fácil de se compreender.
-A nossa condição traduzida pseudo-código é.: 
-- `Variável i é menor do que quantidadeElementos? `
+Agora vem o segundo passo, definir uma condição para o nosso laço. A nossa condição em pseudo-código é.: 
+- `Variável i é menor do que quantidadeElementos? ` `Sim? (true)`  ->> `execute o bloco` : `Não? (false)` ->> `saia do laço de repetição`
 
-- `Sim? (true)`  ->> `execute o bloco`
-- `Não? (false)` ->> `saia do laço de repetição`
 
+```java 
+    for (int i = 0; i < quantidadeElementos; i++)
+    {
+        System.out.println(listaNomes[i]);
+    }
+```
 
 
