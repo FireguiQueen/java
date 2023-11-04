@@ -177,6 +177,6 @@ Esta última parte é importante, porque se tivéssemos utilizado o operador <= 
 ```java
     System.out.println(listaNomes[3]); // retornaria um erro, já que esse índice não existe.
 ```
->     Ao usar o operador < (menor que) na condição (i < quantidadeDeElementos), você garante que o loop for para quando a variável de controle "i" atingir o último elemento válido do array, evitando acessar índices que não existem.
+> Ao usar o operador < (menor que) na condição (i < quantidadeDeElementos), você garante que o loop for para quando a variável de controle "i" atingir o último elemento válido do array, evitando acessar índices que não existem.
 
->   Se você usasse o operador <= (menor ou igual a), o loop continuaria mesmo quando "i" fosse igual ao número de elementos, o que levaria a tentativas de acesso a índices inexistentes, resultando em erros. Portanto, a escolha do operador < é importante para evitar erros de índice fora dos limites.
+> Se você usasse o operador <= (menor ou igual a), o loop continuaria mesmo quando "i" fosse igual ao número de elementos, o que levaria a tentativas de acesso a índices inexistentes, resultando em erros. Portanto, a escolha do operador < é importante para evitar erros de índice fora dos limites.
