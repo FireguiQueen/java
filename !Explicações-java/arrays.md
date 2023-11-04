@@ -60,7 +60,9 @@ Isto significa que, não podemos colocar mais elementos, afinal, foi definido qu
 Sabendo-se disso, sabemos que não poderíamos fazer isso: 
 ```java
     // RETORNA ERRO. 
-    listaDeNomesVazia[3] = "Rodrigo"; // atribuindo o valor "Rodrigo" ao indice 3, mas este indice não existe. 
+
+    // atribuindo o valor "Rodrigo" ao indice 3, mas este indice não existe. 
+    listaDeNomesVazia[3] = "Rodrigo"; 
 ```
 
 Agora podemos acessar os valores que definimos. 
