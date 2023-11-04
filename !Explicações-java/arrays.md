@@ -33,7 +33,7 @@ Neste exemplo, estamos acessando o índice 0 do nosso array. O índice 0 corresp
 
 #### 2. Nesta abordagem, criamos um array _vazio_ para posteriormente atribuir valores.
 - Começamos especificando o tipo de dado (`String`) e, ao lado, colocamos colchetes `[]`.
-- Colocamos um identificador ao nosso array. 
+- Colocamos um identificador `(listaDeNomesVazia)` ao nosso array. 
 - Em seguida, realizamos uma instância do objeto `String`, adicionando colchetes ao lado e especificando quantos elementos poderão ser armazenados neste array.
 > Este método pode parecer um pouco mais complexo, pois envolve a compreensão de alguns conceitos. No entanto, podemos dizer que estamos apenas criando um array vazio e definindo o limite de elementos que ele pode conter. Se tentarmos adicionar mais elementos do que o permitido, ocorrerão erros.
 
