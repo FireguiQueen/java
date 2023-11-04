@@ -93,6 +93,8 @@ O que ocorre se definirmos um array e não atribuirmos valores a seus elementos?
     listaNumeros[0]; // retorna false 
 ```
 
+</br>
+
 _______________________________________________________________
 
 # Iterando um array
