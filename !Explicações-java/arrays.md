@@ -21,11 +21,11 @@ Existem duas formas de criarmos um array.
 ```
 
 ##### Acessando valores 
-Para acessarmos valores, iremos trabalhar com os índices. O índice indica a posição do elemento dentro do nosso array. Resumidamente, _cada elemento dentro de um array terá seu indice_. O índice 0 (zero), ou 'posição' 0, indica nosso primeiro elemento do array, ou seja, nosso primeiro valor. O índice 1 (um) indica nosso segundo elemento do array, e assim por diante. 
+Para acessar os valores de um vetor, utilizamos os índices. O índice indica a posição do elemento dentro do nosso array. Em resumo, _cada elemento dentro de um array possui um índice_. O índice 0 (zero), ou "posição" 0, representa o primeiro elemento do array, ou seja, o primeiro valor. O índice 1 (um) representa o segundo elemento do array, e assim por diante.
 
-Para acessar um elemento através de seu índice, iremos colocar o identificador do nosso array, e ao seu lado, será colocado colchetes _[]_. Dentro dos colchetes, colocaremos um índice.
+Para acessar um elemento por meio do seu índice, devemos usar o identificador do nosso array, seguido de colchetes `[]`. Dentro dos colchetes, especificamos o índice desejado.
 
-Neste exemplo, estamos acessando o índice 0 do nosso array. O indice 0 se refere ao primeiro elemento. 
+Neste exemplo, estamos acessando o índice 0 do nosso array. O índice 0 corresponde ao primeiro elemento.
 ```java
     listaDeNomes[0]; // João
 ```
@@ -100,4 +100,4 @@ _______________________________________________________________
 
 # Iterando um array
 Iterar um array nada mais é do que _percorrer um array_, ou seja, ser capaz de ir de elemento por elemento. 
- 
+
