@@ -5,4 +5,7 @@
     Normalmente, vejos um vetor que armazena apenas dados que foram definidos pelo seu tipo:
     int[] lista = {100, 200, 300};
 
+    // Acessando valores de um vetor do tipo inteiro:
+    lista[0]; // retorna 100. 
+
     >> Com os vetores multidimensionais, podemos armazenar vetores dentro de vetores.
