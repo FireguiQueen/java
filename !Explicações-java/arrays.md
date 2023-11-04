@@ -1,9 +1,9 @@
 # Arrays 
-Os arrays, também conhecidos como "vetores", são variáveis especiais capazes de armazenar um ou mais valores.
+Os _arrays_, também conhecidos como _"vetores"_, são variáveis especiais capazes de armazenar um ou mais valores.
 
 Os arrays são extremamente úteis quando você precisa lidar com coleções de dados, como armazenar uma lista de nomes, números ou qualquer tipo de informação que possa ser representada como um conjunto de elementos do mesmo tipo.
 
-Pense em um array como uma lista, onde você pode armazenar diversos valores de um determinado tipo. Os valores armazenados nessa "lista" são chamados de elementos. Esses elementos podem ser acessados por meio de uma indicação específica, que chamamos de índice.
+Pense em um array como uma lista, onde você pode armazenar diversos valores de um determinado tipo. Os valores armazenados nessa "lista" são chamados de __elementos__. Esses elementos podem ser acessados por meio de uma indicação específica, que chamamos de índice.
 > É importante lembrar que um array é uma variável capaz de armazenar mais de um valor, e, portanto, é necessário definir o tipo de dado que essa variável irá conter. O array só pode armazenar valores do tipo de dado indicado.
 
 </br>
