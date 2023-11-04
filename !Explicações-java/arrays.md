@@ -160,8 +160,8 @@ Esta condição é avaliada como "verdadeira" porque i (1) é menor do que a qua
 > Após a execução de todas as linhas do laço, a nossa variável de controle (i) é __incrementada__ em +1. Sendo assim, após este segundo ciclo de execução, nossa variável terá o valor de '2'.
 
 
-Novamente, chegamos na condição, onde será perguntado: `i (2) é menor do que quantidadeDeElementos (3)?`
-Esta condição é considerada "true", pois i (2) é menor do que a quantidade de elementos do array (3). 
+Novamente, chegamos à condição, onde a pergunta é: `i (2) é menor do que quantidadeDeElementos (3)?` </br>
+Esta condição é avaliada como "verdadeira" porque i (2) é menor do que a quantidade de elementos do array (3).
 ```java
     System.out.println(listaNomes[2]); // retorna "Paulo", pois é o valor do índice 2. 
 ``` 
