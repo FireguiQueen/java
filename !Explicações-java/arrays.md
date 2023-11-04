@@ -11,10 +11,10 @@ Pense em um array como uma lista, onde você pode armazenar diversos valores de 
 ## Criando um array
 Existem duas formas de criarmos um array. 
 
-#### 1. Nesta forma, definimos um array e _diretamente_ colocamos seus valores.
-- Definimos o tipo de dado (`String`) e ao lado colocamos os colchetes _[]_. 
+#### 1. Nesta abordagem, definimos um array e preenchemos _diretamente_ com seus valores.
+- Começamos especificando o tipo de dado (`String`) e, ao lado, colocamos colchetes `[]`.
 - Colocamos um identificador ao nosso array. 
-- E por fim, dizemos que será recebido uma coleção de dados. 
+- Em seguida, definimos os valores que ele conterá.     
 ```java
     String[] listaDeNomes = {"João", "Paulo", "Guilherme"}; 
 ```
