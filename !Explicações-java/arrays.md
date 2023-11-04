@@ -8,8 +8,8 @@ Pense em um array como uma lista, onde você pode armazenar diversos valores de 
 
 #### Sumário
 [Arrays](https://github.com/FireguiQueen/Java/blob/main/!Explica%C3%A7%C3%B5es-java/arrays.md#criando-um-array")
-- <a href="https://github.com/FireguiQueen/Java/blob/main/!Explica%C3%A7%C3%B5es-java/arrays.md#arrays-multidimensionais"> Arrays multidimensionais </a>
--<a href="https://github.com/FireguiQueen/Java/blob/main/!Explica%C3%A7%C3%B5es-java/arrays.md#iterando-um-array"> Iterando arrays </a> 
+[Arrays multidimensionais](https://github.com/FireguiQueen/Java/blob/main/!Explica%C3%A7%C3%B5es-java/arrays.md#arrays-multidimensionais)
+[Iterando arrays](https://github.com/FireguiQueen/Java/blob/main/!Explica%C3%A7%C3%B5es-java/arrays.md#iterando-um-array) 
 
 </br>
 
