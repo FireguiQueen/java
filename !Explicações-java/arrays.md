@@ -82,7 +82,7 @@ O que ocorre se definirmos um array e não atribuirmos valores a seus elementos?
     int[] listaNumeros = new int[2];  
 
     // acessa o indice 1 do array (segundo elemento). 
-    listaNumeros[0]; // retorna 0 
+    listaNumeros[1]; // retorna 0 
 ```
 
 - __Se criarmos um array do tipo `boolean` sem atribuir valores a seus elementos, o valor padrão será 'false'.__
