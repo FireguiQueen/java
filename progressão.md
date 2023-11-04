@@ -4,7 +4,7 @@
 :-----------: |:-----------------:
 21/10/2023    | Aula 01 até Aula 11
 22/10/2023    | Aula 12 até Aula 14
-23/10/2023    | Aula 18 até Aula 17
+23/10/2023    | Aula 15 até Aula 17
 24/10/2023    | Aula 18 até Aula 19
 25/10/2023    | Aula 20 até Aula 25
 26/10/2023    | Aula 26 até Aula 28
