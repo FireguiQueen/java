@@ -168,19 +168,15 @@ Esta condição é avaliada como "verdadeira" porque i (2) é menor do que a qua
 > Após a execução de todas as linhas do laço, a nossa variável de controle (i) é __incrementada__ em +1. Sendo assim, após este bloco ser executado, nossa variável terá o valor de '3'.
 
 </br>
+</br>
 
-Novamente, chegamos à condição, onde a pergunta é: i (3) é menor do que quantidadeDeElementos (3)?
+Novamente, chegamos à condição, onde a pergunta é: `i (3) é menor do que quantidadeDeElementos (3)?`
 Esta condição é avaliada como "falsa" porque i (3) não é menor do que a quantidade de elementos do array (3).
 
 Esta última parte é importante, porque se tivéssemos utilizado o operador <= em vez de "<", o valor 3 seria igual a 3, e o bloco seria executado, resultando em:
 ```java
     System.out.println(listaNomes[3]); // retornaria um erro, já que esse índice não existe.
 ```
+>     Ao usar o operador < (menor que) na condição (i < quantidadeDeElementos), você garante que o loop for para quando a variável de controle "i" atingir o último elemento válido do array, evitando acessar índices que não existem.
 
-Novamente, chegamos na condição, onde será perguntado: `i (3) é menor do que quantidadeDeElementos (3)?`
-Esta condição é considerada "false", pois i (3) não é menor do que a quantidade de elementos do array (3). 
-
-Esta última parte é bem importante, pois se tivessemos utilizado o operador <= invés do "<", 3 seria igual a 3, logo o bloco seria executado, e isto resultaria em:
-```java
-    System.out.println(listaNomes[3]); // retorna erro, pois este indice não existe. 
-``` 
+>   Se você usasse o operador <= (menor ou igual a), o loop continuaria mesmo quando "i" fosse igual ao número de elementos, o que levaria a tentativas de acesso a índices inexistentes, resultando em erros. Portanto, a escolha do operador < é importante para evitar erros de índice fora dos limites.
