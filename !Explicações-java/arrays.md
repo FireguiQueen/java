@@ -174,13 +174,14 @@ Esta última parte é importante, porque se tivéssemos utilizado o operador <= 
 
 > Se você usasse o operador <= (menor ou igual a), o loop continuaria mesmo quando "i" fosse igual ao número de elementos, o que levaria a tentativas de acesso a índices inexistentes, resultando em erros. Portanto, a escolha do operador < é importante para evitar erros de índice fora dos limites.
 
+
+</br>
+
 _______________________________________________________________
 
 # Arrays multidimensionais
 
 
 
-</br>
 
-_______________________________________________________________
 
