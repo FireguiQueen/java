@@ -74,7 +74,7 @@ Consequentemente, não podemos realizar a seguinte ação:
 </br>
 </br>
 
-### Acessando elementos que não foram definidos
+## Acessando elementos que não foram definidos
 O que ocorre se definirmos um array e não atribuirmos valores a seus elementos? A resposta pode variar de acordo com o tipo de dado definido.
 
 - __Se criarmos um array do tipo `byte`, `short`, `int`, `long`, `double` ou `float` sem atribuir valores a seus elementos, o valor padrão será '0' se tentarmos acessá-lo.__
