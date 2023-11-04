@@ -7,9 +7,9 @@ Pense em um array como uma lista, onde você pode armazenar diversos valores de 
 > É importante lembrar que um array é uma variável capaz de armazenar mais de um valor, e, portanto, é necessário definir o tipo de dado que essa variável irá conter. O array só pode armazenar valores do tipo de dado indicado.
 
 #### Sumário
-- <a href="https://github.com/FireguiQueen/Java/blob/main/!Explica%C3%A7%C3%B5es-java/arrays.md#criando-um-array"> Arrays </a>
-- <a href=""> Arrays multidimensionais </a>
-- <a href=""> Iterando arrays </a> 
+[Arrays](https://github.com/FireguiQueen/Java/blob/main/!Explica%C3%A7%C3%B5es-java/arrays.md#criando-um-array")
+- <a href="https://github.com/FireguiQueen/Java/blob/main/!Explica%C3%A7%C3%B5es-java/arrays.md#arrays-multidimensionais"> Arrays multidimensionais </a>
+-<a href="https://github.com/FireguiQueen/Java/blob/main/!Explica%C3%A7%C3%B5es-java/arrays.md#iterando-um-array"> Iterando arrays </a> 
 
 </br>
 
