@@ -199,7 +199,8 @@ Podemos criar um array multidimensional de duas formas.
 
 #### 1. Nesta abordagem, definimos um array e preenchemos _diretamente_ com seus valores.
 - Tipo de dado: int; 
-- Quantidade de elementos: não definida. se baseia na quantidade de arrays que colocamos na hora.
+- Quantidade de elementos do array pricipal: _se baseia na quantidade de arrays que colocamos na hora._
+- Quantidade de elementos do array secundário: _se baseia na quantidade de arrays que colocamos na hora._
 ```java
     int[][] listaNumero = { {200, 300, 400}, {500, 900, 1200}, {9000, 1000} };
 ```
