@@ -1,3 +1,11 @@
+#### Sumário
+[Arrays](https://github.com/FireguiQueen/Java/blob/main/!Explica%C3%A7%C3%B5es-java/arrays.md#criando-um-array") &nbsp; | &nbsp;
+[Arrays multidimensionais](https://github.com/FireguiQueen/Java/blob/main/!Explica%C3%A7%C3%B5es-java/arrays.md#arrays-multidimensionais) &nbsp; | &nbsp;
+[Iterando arrays](https://github.com/FireguiQueen/Java/blob/main/!Explica%C3%A7%C3%B5es-java/arrays.md#iterando-um-array) 
+
+______________________________________________
+
+
 # Arrays 
 Os _arrays_, também conhecidos como _"vetores"_, são variáveis especiais capazes de armazenar um ou mais valores.
 
@@ -5,11 +13,6 @@ Os arrays são extremamente úteis quando você precisa lidar com coleções de 
 
 Pense em um array como uma lista, onde você pode armazenar diversos valores de um determinado tipo. Os valores armazenados nessa "lista" são chamados de __elementos__. Esses elementos podem ser acessados por meio de uma indicação específica, que chamamos de índice.
 > É importante lembrar que um array é uma variável capaz de armazenar mais de um valor, e, portanto, é necessário definir o tipo de dado que essa variável irá conter. O array só pode armazenar valores do tipo de dado indicado.
-
-#### Sumário
-[Arrays](https://github.com/FireguiQueen/Java/blob/main/!Explica%C3%A7%C3%B5es-java/arrays.md#criando-um-array") &nbsp; | &nbsp;
-[Arrays multidimensionais](https://github.com/FireguiQueen/Java/blob/main/!Explica%C3%A7%C3%B5es-java/arrays.md#arrays-multidimensionais) &nbsp; | &nbsp;
-[Iterando arrays](https://github.com/FireguiQueen/Java/blob/main/!Explica%C3%A7%C3%B5es-java/arrays.md#iterando-um-array) 
 
 </br>
 
