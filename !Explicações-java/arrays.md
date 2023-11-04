@@ -95,3 +95,9 @@ Neste exemplo, usaremos o `boolean`, ou seja, é um vetor que armazena apenas va
     // acessa o indice 0 do array (primeiro elemento). 
     listaNumeros[0]; // retorna false 
 ```
+
+_______________________________________________________________
+
+# Iterando um array
+Iterar um array nada mais é do que _percorrer um array_, ou seja, ser capaz de ir de elemento por elemento. 
+ 
