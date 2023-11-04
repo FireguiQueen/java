@@ -101,17 +101,10 @@ O que ocorre se definirmos um array e não atribuirmos valores a seus elementos?
     listaNumeros[0]; // retorna false 
 ```
 
-</br>
-
-_______________________________________________________________
-
-# Arrays multidimensionais
-
-
 
 </br>
+</br>
 
-_______________________________________________________________
 
 # Iterando um array
 - Leitura recomendada: <a href="https://github.com/FireguiQueen/Java/blob/main/!Explica%C3%A7%C3%B5es-java/loops.md">loops</a> 
@@ -180,3 +173,14 @@ Esta última parte é importante, porque se tivéssemos utilizado o operador <= 
 > Ao usar o operador < (menor que) na condição (i < quantidadeDeElementos), você garante que o loop for para quando a variável de controle "i" atingir o último elemento válido do array, evitando acessar índices que não existem.
 
 > Se você usasse o operador <= (menor ou igual a), o loop continuaria mesmo quando "i" fosse igual ao número de elementos, o que levaria a tentativas de acesso a índices inexistentes, resultando em erros. Portanto, a escolha do operador < é importante para evitar erros de índice fora dos limites.
+
+_______________________________________________________________
+
+# Arrays multidimensionais
+
+
+
+</br>
+
+_______________________________________________________________
+
