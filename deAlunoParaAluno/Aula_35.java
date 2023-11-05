@@ -16,12 +16,15 @@ public class School{
     {
         Scanner userInput = new Scanner(System.in);
 
-
         System.out.print("Digite a quantidade de alunos: ");
         int totalAlunos = userInput.nextInt();
 
         System.out.print("Digite a quantidade de bimestres: ");
         short totalBimestres = userInput.nextShort();
+
+        System.out.print("Digite a media de cada bimestre: ");
+        short totalMedia = userInput.nextShort();
+
 
         // array para armazenar todos os alunos
         String[] alunosNomes = new String[totalAlunos];
@@ -38,33 +41,24 @@ public class School{
             alunosNomes[i] = userInput.next();
             
             // usuario informa a nota deste mesmo aluno em 4 bimestres.
-            for (int j = 0; i < totalBimestres; i++)
+            for (int j = 0; j < totalBimestres; j++)
             {
-                System.out.print("Nota de " + alunosNomes[i] + "no " + (j+1) + "° bimestre: ");
+                System.out.print("Nota de " + alunosNomes[i] + " no " + (j+1) + "° bimestre: ");
                 alunosNotas[i][j] = userInput.nextDouble();
             }
         }
 
         // PRINTA AS NOTAS
-        
-
-/*
-        // Printa todos os alunos da sala e suas notas. 
-        System.out.println("\nNomes \t Notas \t Aprovado");
+        System.out.println("========= =========== ========== ==========");
         for (int i = 0; i < totalAlunos; i++)
         {
-            String aprovado = alunosNotas[i] >= 50? " sim" : " não";
-            System.out.println(alunosNomes[i] + "\t " + alunosNotas[i] + "\t" + aprovado);
+            double totalNota = 0;
+            for (int j = 0; j < totalBimestres; j++)
+            {
+                totalNota += alunosNotas[i][j];
+            }
+            String validarNota = (totalNota / totalBimestres) >= totalMedia? " aprovado(a)" : " reprovado(a)";
+            System.out.println(alunosNomes[i] + "\t" + totalNota + "\t" + validarNota);
         }
-
-        // Printa a media da turma
-        double media = 0; 
-        for (int i = 0; i < totalAlunos; i++)
-        {
-            media += alunosNotas[i];
-        }
-        media /= totalAlunos;
-        System.out.println("\nMedia da turma: " + media);
-*/       
     }
 }
