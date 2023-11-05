@@ -11,7 +11,7 @@ public class Aula_38
         
         // Para isto, iremos separar o nosso programa em DOIS MÉTODOS:
         // 1. Receber informações de entrada (inputs)
-        // 2. Realizar o cálculo necessário e retornar ele. 
+        // 2. Realizar o cálculo necessário e retornar o resultado. 
 
     }
 }
