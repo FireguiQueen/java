@@ -36,12 +36,17 @@ public class Aula_38
 
         // Após essas intruções o usuário será capaz de digitar a base e a altura do triângulo e salvá-las na variável.
         // Mas inda está faltando uma coisa, o nosso método responsável por realizar o cálculo. 
-        // Então vamos invocar ele. 
+        // Então vamos invocar ele. Demtro dos seus parentesis, colocaremos algo chamado "argumentos".
+        // Esses argumentos substituiram os parâmetros.
+        areaTriangulo(base, altura); 
     }
 
-
+    // Dentro dos parentesis deste método, colocaremos nossos parâmetros.
+    // Eles futuramente serão substituidos por valores, que serão os argumentos. 
+    // Podemos pensar que os parâmetros são exatamente como variáveis vazias.
+    // E quando invocamos o método, passaremos argumentos, que são os valores que serão atribuidos a essas variáveis.
     public static int areaTrinagulo(int b, int a)
     {
-        
+
     }
 }
