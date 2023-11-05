@@ -1,3 +1,5 @@
+// REVISÃO: vetores
+
 // Receber nomes de determinada turma;
 // -> numeros de alunos da turma são baseados nos nomes informados pelo usuário
 
@@ -17,16 +19,25 @@ public class School{
         System.out.print("Digite a quantidade de alunos: ");
         int totalAlunos = userInput.nextInt();
 
+        System.out.print("Digite a quantidade de bimestres: ");
+        short totalBimestres = userInput.nextShort();
+
+        // array para armazenar todos os alunos
         String[] alunosNomes = new String[totalAlunos];
-        Double[] alunosNotas = new Double[totalAlunos];
+
+        // array para armazenar outros arrays. Os arrays secundários terão 4 elementos, e cada um representa uma nota de bimestre
+        Double[][] alunosNotas = new Double[totalAlunos][4];
 
         for (int i = 0; i < totalAlunos; i++)
         {
             System.out.print("\nAluno " + (i+1) + ": ");
             alunosNomes[i] = userInput.next();
             
-            System.out.print("Nota de " + alunosNomes[i] + ": ");
-            alunosNotas[i] = userInput.nextDouble();
+            for (int j = 0; i < totalBimestres; i++)
+            {
+                System.out.print("Nota de " + alunosNomes[i] + ": ");
+                alunosNotas[i] = userInput.nextDouble();
+            }
         }
 
 
