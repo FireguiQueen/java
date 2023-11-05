@@ -68,6 +68,8 @@ public class Aula_37
         return x + y;
     }
 
+
+
     // quando o "java" vê este método no método principal, as instruções abaixo serão executadas. 
     public static void askQuestions()
     {
