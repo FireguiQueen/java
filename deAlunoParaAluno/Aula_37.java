@@ -46,8 +46,7 @@ public class Aula_37
             o nosso método "askQuestions", e assim, as linhas deste método serão executadas. 
         */
         askQuestions();
-
-
+        
 
         // Este método é responsável por executar instruções, e no final, retornar um número. 
         // > Se este método não for salvo em uma variável, as instruções continuaram a serem executadas.
