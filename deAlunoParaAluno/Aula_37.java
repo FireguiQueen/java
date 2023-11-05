@@ -47,11 +47,12 @@ public class Aula_37
         */
         askQuestions();
 
-        // Este método é responsável por executar instruções, e no final, retornar um número. 
-        // As instruções se resumem a pergunta ao usuário dois valores, x e y. 
-        // E no final, ela vai retornar a soma de x e y. 
 
-        // Podemos salvar este número em uma variável. Lembre-se, as ações ocorrem da direita para esquerda.
+
+        // Este método é responsável por executar instruções, e no final, retornar um número. 
+        // > Se este método não for salvo em uma variável, as instruções continuaram a serem executadas.
+        // > Mas o valor de retorno será jogado no lixo. 
+        // Lembre-se, as ações ocorrem da direita para esquerda.
         // Então primeiro nossa função será executada, com instruções para receber inputs do usuário.
         // Na última instrução, ela vai retornar a soma entre esses dois números. 
         // Esta soma ficará salvar na variável abaixo.
