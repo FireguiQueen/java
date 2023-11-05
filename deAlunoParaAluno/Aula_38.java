@@ -47,6 +47,6 @@ public class Aula_38
     // E quando invocamos o método, passaremos argumentos, que são os valores que serão atribuidos a essas variáveis.
     public static int areaTrinagulo(int b, int a)
     {
-
+        
     }
 }
