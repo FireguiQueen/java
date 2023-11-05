@@ -15,9 +15,10 @@
     "Void" siginifica vázio, ou seja, é um retorno vazio.
     
     Mas o que significa? Porque precisamos definir o tipo de retorno de nosso método? 
-    Vamos por parte. Quando definimos um método do tipo 'void', estamos informando ao "java"
-    que o papel daquele método será apenas executar instruções. 
-    E isto faz total sentido ao nosso método principal, ele executará instruções e ponto final. 
+
+    Vamos por parte. Quando definimos um método do tipo 'void', estamos informando ao "java" que o papel 
+    daquele método será apenas executar instruções. Logo, métodos do tipo 'void' não retornam nada, e nem podem. 
+    E isto faz total sentido ao nosso método principal (main), ele executará instruções e ponto final. 
 
     Quando dizemos que determinado método é do tipo 'int' estamos dizendo que aquele método
     será capaz de retornar números inteiros. Isto é, após todas as instruções do método serem executadas,
