@@ -26,6 +26,8 @@
     Mas vamos para o código, para entender isto melhor.   
 */
 
+import java.util.Scanner;
+
 public class Aula_37
 {
     public static void main(String[] args)
@@ -38,15 +40,31 @@ public class Aula_37
         askQuestions();
 
         // Este método é responsável por executar instruções, e no final, retornar um número. 
-        somar();
+        // As instruções se resumem a pergunta ao usuário dois valores, x e y. 
+        // E no final, ela vai retornar a soma de x e y. 
 
-        // Podemos salvar este número, em uma variável
+        // Podemos salvar este número em uma variável. Lembre-se, as ações ocorrem da direita para esquerda.
+        // Então primeiro nossa função será executada, com instruções para receber inputs do usuário.
+        // Na última instrução, ela vai retornar a soma entre esses dois números. 
+        // Esta soma ficará salvar na variável abaixo.
+        int total = somar();
+
+        System.out.println(total);
         
     }
 
     public static int somar()
     {
+        Scanner input = new Scanner(System.in);
 
+        System.out.print("Digite um número inteiro X: ");
+        int x = input.nextInt();
+        
+        System.out.print("Digite um número inteiro Y: ");
+        int y = input.nextInt();
+
+        // Return significa "retornar". Isto faz com que esta função "somar()" retorne um número.
+        return x + y;
     }
 
     // quando o "java" vê este método no método principal, as instruções abaixo serão executadas. 
