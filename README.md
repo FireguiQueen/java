@@ -57,16 +57,14 @@ Após a criação do bytecode, ele será lido e interpretado pela JVM.
 
 Finalmente, no conceito do Java, cada sistema possui sua própria JVM. A partir do momento em que temos um arquivo .class, a JVM de qualquer sistema consegue compreender e executar nosso programa. Isso nos leva a afirmar que o Java é uma linguagem _compilada_ e _interpretada_. Primeiramente, ocorre a etapa de compilação, na qual nosso código Java é transformado em um arquivo `.class`. Esse arquivo contém instruções em formato numérico compreensíveis somente pela JVM. Após a geração do arquivo .class, a JVM o interpreta e executa o programa por meio da nossa máquina.
 
-
-
-
+</br>
 
 ### [ET] A linguagem Java é ruim para jogos?
 Pode-se dizer que sim, mas precisamos ter cuidado ao afirmar isso. O fato de o Java ser considerado "inadequado" para o desenvolvimento de jogos não é culpa do Java em si. Antes da era dos smartphones, os celulares utilizavam o Java como a principal plataforma para aplicativos e jogos. Isso ocorria em dispositivos com recursos extremamente limitados, e ainda assim, os jogos eram desenvolvidos em Java.
 
 Atualmente, as linguagens mais populares para o desenvolvimento de jogos são o C# e o Lua. Isso significa que a comunidade dedicou um grande esforço para criar bibliotecas e motores de alto desempenho com essas linguagens. Seria semelhante a desenvolver um jogo em Rust. Ela é uma linguagem altamente eficiente? Sim, mas a comunidade ainda não investiu tempo suficiente para torná-la tão adequada para esse propósito.
 
-
+</br>
 
 ### [OP] Certificados servem para algo? 
 Primeiro, vamos separar algumas coisas. Existem certificados profissionais, nos quais geralmente é necessário passar por uma prova desafiadora sobre o assunto, e você provavelmente terá que pagar para obtê-lo. Um exemplo é o certificado de Java da Oracle. Esses certificados são, de fato, úteis e possivelmente valorizados no mercado. No entanto, mesmo esse tipo de certificado não garante que o profissional seja adequado para uma determinada vaga.
@@ -78,6 +76,7 @@ Provavelmente você nem conhece os cursos, muito menos o instrutor desses cursos
 
 __Conclusão__:  certos certificados, como os da Oracle, AWS, Azure, entre outros, têm utilidade e __podem__ ser valorizados. Por outro lado, os certificados de plataformas como Udemy, Alura e etc, em geral, são inúteis.
 
+</br>
 
 ### [OP] Cursos te preparam para o mercado de trabalho? 
 Nenhum deles tem a capacidade de ensinar a você tudo o que uma vaga requer. Mesmo vagas de estágio podem exigir conhecimentos que não foram abordados em um determinado curso, pois os cursos são projetados para proporcionar uma _introdução_ a uma tecnologia ou assunto específico.
