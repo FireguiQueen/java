@@ -72,7 +72,7 @@ Enquanto 'i' (0) for menor do que 3, execute o bloco.
 
 ##### Funcionamento passo-a-passo a execução do bloco `while`
 
-- Assim que o "java" chegar na linha do laço `while`, ele ira avaliar se a condição é verdadeira (true) ou falsa (false). A nossa expressão é: `i (0) é menor do que 3?`. A expressão é avaliada como __verdadeira__, então o bloco é executado;
+- Assim que o "java" chegar na linha do laço `while`, ele ira avaliar se a condição é verdadeira (true) ou falsa (false). No primeiro cicloc de execução, ou seja, na primeira vez o que `while` for executado, a nossa expressão será: `i (0) é menor do que 3?`. E ela é avaliada como __verdadeira__, então o bloco é executado;
 
 - Dentro do bloco, temos uma instrução de printar "hello" no terminal e uma instrução de incremento. Isto é, pegaremos a variável i, que vale 0 neste momento, e somaremos +1. _Após esta instrução, a variável 'i' vale '1'._
 
