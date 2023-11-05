@@ -1,18 +1,20 @@
 // MÉTODOS II 
 
 /*
-    Entendemos por cima o que são os métodos. 
-    E vimos que eles são executados quando invocados (chamados) em nosso método principal.
+    Entendemos por cima o que são os métodos. Vimos que eles são executados quando invocados (chamados) 
+    em nosso método principal.
 
     O que é o cabeçalho (header) de um método?
     O cabeçalho define como nosso método irá funcionar, qual será seu nome e etc.. 
     - Tipo de acesso (public or private)
-    - Tipo de retorno (void, int, String)
-    - Nome do método ('main' para o método principal e qualquer nome para nossos próprios métodos)
+    - Tipo de retorno (void, int, double..)
+    - Nome do método
 
-    Neste aula, vamos nos aprofundar sobre o tipo de retorno. 
+    
+    Neste aula, vamos nos aprofundar sobre o TIPO DE RETORNO.
     Podemos ver que na função principal, nós utilizamos o tipo 'void'. 
-    "Void" siginifica vázio, ou seja, é um retorno vazio.
+    "Void" siginifica vázio, ou seja, é um retorno vazio. 
+    Isto é, métodos do tipo 'void' não retornam  nenhum valor.
     
     Mas o que significa? Porque precisamos definir o tipo de retorno de nosso método? 
 
