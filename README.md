@@ -29,27 +29,25 @@ Aqui estão algumas perguntas frequentes sobre Java, computação e um pouco de 
 </br>
 
 ### [ET] Java é compilado ou interpretado? O que é JVM? Qual a diferença entre JDK e JDE? 
-__WORA.__ "WORA" significa _"write once, run anywhere"_. Essa expressão se tornou muito popular na comunidade de desenvolvedores devido ao Java. Em português, ela significa: "Escreva uma vez, execute em qualquer lugar". __WORA: E este é um dos propósitos da linguagem Java.__ 
-> O fato de programas Java poderem ser executados em qualquer plataforma traz o conceito de "multiplataforma".
+ ___WORA__: E este é __um__ dos propósitos da linguagem Java._ "WORA" significa _"write once, run anywhere"_. Essa expressão se tornou muito popular na comunidade de desenvolvedores devido ao Java. Em português, ela significa: "Escreva uma vez, execute em qualquer lugar". Isto é, você criará um programa em Java, e terá a possibilidade de rodá-lo em qualquer plataforma. Por isso, o java é conhecido como uma linguagem "multi-plataforma". 
 
 ##### Mas o que é ser multi-plataforma?
-Para responder a essa pergunta, podemos pensar na comunidade "gamer" que joga no PC. A maioria dos jogadores jogam em sistemas operacionais Windows, que é o sistema mais popular entre os jogadores e os usuários de computadores em geral.
+Para responder a essa pergunta, podemos pensar na comunidade "gamer" que joga no PC. A maioria dos jogadores jogam em sistemas operacionais Windows, que não só é o sistema mais popular entre os jogadores, mas também entre usuários em geral.
 
-O desafio surge quando esses jogos nativos do Windows precisam ser executados em outros sistemas operacionais. Geralmente, isso requer que os desenvolvedores modifiquem o código-fonte do jogo para torná-lo compatível com esses sistemas diferentes. A capacidade de Java de ser "multiplataforma" significa que os programas escritos em Java podem ser executados em várias plataformas sem a necessidade de grandes modificações, desde que haja uma Máquina Virtual Java (JVM) disponível para essa plataforma específica.
+O desafio surge quando esses jogos _nativos_ do Windows precisam ser executados em outros sistemas operacionais. Geralmente, isso requer que os desenvolvedores modifiquem o código-fonte do jogo para torná-lo compatível com esses sistemas diferentes (linux, macOS..). A capacidade de Java de ser "multiplataforma" significa que os programas escritos em Java podem ser executados em várias plataformas sem a necessidade de grandes modificações, desde que haja uma Máquina Virtual Java (JVM) disponível para essa plataforma específica.
 
-##### Certo.. Mas como isso funciona exatamente? Como o java consegue fazer isso? 
-Antes de tudo, vamos entender o que é uma máquina virtual. O uso de máquinas virtuais permite a execução de sistemas operacionais distintos simultaneamente em um único computador. Isso significa que podemos simular uma máquina que usa o Windows 7, mesmo que estejamos executando o Windows 11 em nosso computador. Com o uso de software de máquina virtual, somos capazes de ter uma máquina virtual em execução dentro da nossa própria máquina real.
+##### Certo.. Mas como isso funciona exatamente? 
+Antes de tudo, vamos entender o que é uma máquina virtual. O uso de máquinas virtuais permite a execução de sistemas operacionais distintos simultaneamente em um único computador. Isso significa que podemos simular uma máquina que usa o Windows 7, mesmo que estejamos executando o Windows 11 em nosso computador. Ou seja, somos capazes de ter uma _máquina virtual_ em execução dentro da nossa própria _máquina real_.
 
-Os programas escritos em Java __não__ são executados diretamente pelo nosso computador. Um programa em Java é projetado para ser _executado pela JVM_ (Java Virtual Machine). A JVM é uma máquina virtual que roda em nossa máquina real, mas ela é projetada exclusivamente para ler arquivos no formato .class, que são criados a partir do código-fonte Java.
+Os programas escritos em Java __não__ são executados diretamente pelo nosso computador. Um programa em Java é projetado para ser _executado pela JVM_ (Java Virtual Machine). A JVM, como o pŕoprio nome já diz, é uma máquina virtual. O que a distingue de outras máquinas virtuais, é que ela é projetada exclusivamente para ler arquivos no formato .class, que são criados a partir do código-fonte java.
 
-Para entender melhor, podemos observar o processo passo a passo de como um programa Java é executado em qualquer máquina:
+Para entender melhor, podemos observar o processo passo-a-passo de como um programa Java é executado em qualquer máquina:
 1. Escrevemos nosso programa usando a linguagem java; 
 2. Compilamos este programa com o `javac` (java compiller); 
 3. O processo de compilação gera um arquivo chamado ".class", que contém bytecode. 
 4. Este arquivo ".class" é lido e __interpretado__ pela JVM. 
 
-Vimos muitas informações novas, então vamos com calma. O processo de compilação envolve a transformação do código-fonte, que é o código que escrevemos em Java, em uma linguagem que nossas máquinas podem entender. O código-fonte ainda é legível e compreensível por nós.
-> O bytecode gerado é o código que a nossa máquina (JVM) consegue ler e entender.
+Vimos muitas informações novas, então vamos com calma. O processo de compilação na linguagem java envolve a transformação do código-fonte, que é o código que escrevemos em Java, em uma linguagem que a JVM possa entender. 
 
 ![java and class](https://github.com/FireguiQueen/Java/assets/98475125/bd5e74c5-2332-4bea-b09a-4fb5a1cce062)
 
