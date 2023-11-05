@@ -12,7 +12,7 @@ Para criar um loop temos três estruturas: `for`, `while` e `do while`.
 ### Utilidade
 Para mostrar o quão útil um loop é, criaremos um programa onde seu papel é apenas printar a mensagem "hello" 10 vezes. Não se preocupe caso não entenda o código, quero que apenas pense qual parece mais eficiente. 
 
-- 1. Sem loop
+1. Sem loop
 ```java
     System.out.println("Hello");
     System.out.println("Hello");
@@ -26,7 +26,7 @@ Para mostrar o quão útil um loop é, criaremos um programa onde seu papel é a
     System.out.println("Hello");
 ```
 
-- 2. Com loop
+2. Com loop
 ```java
     for (int i = 0; i < 4; i++)
     {
