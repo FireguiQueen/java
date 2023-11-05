@@ -44,8 +44,8 @@ Certo, entendemos __uma__ das utilidades de um laço de repetiçao. Mas como fun
 Podemos dizer que o `while` é o mais simples. Colocaremos ele e, em seguida, vamos abrir e fechar parentensis. 
 Dentro deste parentensis, passaremos uma expressão, caso ela seja avaliada como verdadeira, o bloco do `while` será executado, e após a execução, voltaremos a mesma expressão, e caso ela seja avaliada como falsa, o laço será finalizado. 
 
-Em português, 'while' significa "enquanto", ou seja, __enquanto__ determinada __expressão__ ser __verdadeira__ execute o bloco. </br> 
-Em pseudo-código, o laço abaixo pode ser traduzido como: `Enquanto três for maior que dois, execute o bloco.`.
+Em português, 'while' significa "enquanto", ou seja, __enquanto__ determinada __expressão__ ser __verdadeira__ execute o bloco. Em pseudo-código, o laço abaixo pode ser traduzido como: </br> 
+`Enquanto três for maior que dois, execute o bloco.`.
 ```java
     while (3 > 2)
     {
