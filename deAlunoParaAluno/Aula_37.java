@@ -20,13 +20,18 @@
 
     Vamos por parte. Quando definimos um método do tipo 'void', estamos informando ao "java" que o papel 
     daquele método será apenas executar instruções. Logo, métodos do tipo 'void' não retornam nada, e nem podem. 
-    E isto faz total sentido ao nosso método principal (main), ele executará instruções e ponto final. 
+    E isto faz total sentido ao nosso método principal (main), já que o único objetivo dele, será executar
+    instruções (com essas instruções podemos invocar outros métodos).
 
-    Quando dizemos que determinado método é do tipo 'int' estamos dizendo que aquele método
-    será capaz de retornar números inteiros. Isto é, após todas as instruções do método serem executadas,
-    ele fará um retorno de um número inteiro. 
+    Quando dizemos que determinado método é do tipo 'int' estamos dizendo que aquele método será capaz de 
+    retornar números inteiros. 
+    -> Isto é, após todas as instruções do método serem executadas, ele fará um retorno de um número inteiro. 
 
-    Mas vamos para o código, para entender isto melhor.   
+    Qualquer método que utilize um tipo DIFERENTE de "void" precisará conter a palavra-chave "return".
+    Pois é ela a responsável por dizer "pare de ler instruções deste método e retorne um valor".
+    Podemos compreender o return de duas maneiras:
+    - Palavra responsável por realizar um retorno. Por devolver um valor. 
+    - Palavra responsável por parar de executar o método. Ela vai RETORNAR ao nosso método onde foi invocada.   
 */
 
 import java.util.Scanner;
