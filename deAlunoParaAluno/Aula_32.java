@@ -1,4 +1,4 @@
-// ARRAYS II 
+// ARRAYS II: elementos não definidos & iteração 
 
 public class Aula_32{
     public static void main(String[] args)

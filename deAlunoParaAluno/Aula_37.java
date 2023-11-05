@@ -1,4 +1,4 @@
-// MÉTODOS II 
+// MÉTODOS II: tipos de retorno
 
 /*
     Entendemos por cima o que são os métodos. Vimos que eles são executados quando invocados (chamados) 

@@ -1,4 +1,4 @@
-// Arrays e laços de repetição
+// Arrays I: iteração
 
 import java.util.Scanner; // IGNORAR
 

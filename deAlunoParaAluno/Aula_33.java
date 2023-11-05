@@ -1,4 +1,4 @@
-// BUBBLE SORT
+// ALGORITIMOS I: bubble sort
 /*
     > O QUE É?
     O bubble sort é um algoritimo para você organizar um vetor numérico tanto
