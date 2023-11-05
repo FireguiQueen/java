@@ -83,7 +83,7 @@ Nenhum deles tem a capacidade de ensinar a você tudo o que uma vaga requer. Mes
 
 Os bons cursos do mercado podem, de fato, ensinar muitas coisas úteis e conceitos importantes. Mas é importante saber que todo o conteúdo do curso já está disponível na internet em formato de texto. 
 
-O que verdadeiramente lhe trará experiência e conhecimento são os projetos reais, aqueles que trazem utilidade ao mundo. Os pequenos projetos mostrados em cursos são bem diferentes do que é feito no mundo real. Nos cursos, você tem um guia passo-a-passo e, mesmo que encontre erros, não será muito difícil resolvê-los, uma vez que, em geral, são projetos genéricos.
+O que verdadeiramente lhe trará experiência e conhecimento são os projetos reais, aqueles que trazem utilidade ao mundo. Os pequenos projetos mostrados em cursos são bem diferentes do que é feito no mundo real. Nos cursos, você tem um guia passo-a-passo e, mesmo que encontre erros, não será muito difícil resolvê-los, uma vez que são projetos genéricos.
 
 Na vida real você enfrenta prazos, responsabilidades e, claro, uma complexidade muito maior para concluir um projeto. Lembre-se, há dinheiro envolvido no que você constrói. Obviamente, os projetos pessoais que buscam trazer utilidade e até mesmo possíveis lucros, também podem demandar prazos e "alta" complexidade no desenvolvimento. <q>Tempo é dinheiro</q>.
 Então mesmo que você esteja apenas estudando, busque por desenvolver coisas mais complexas, finja que outras pessoas lerão seu código, construa-o da melhor forma possível.
