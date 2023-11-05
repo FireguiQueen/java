@@ -4,7 +4,8 @@ Bem vindo ao meu repositório sobre Java. Aqui você encontrará cursos, exercí
 ______________
 
 ## Introdução
-Este repositório foi criado não apenas para agrupar todos os cursos, exercícios e projetos pequenos que foram feitos por mim, mas também para servir como uma base para outras pessoas interessadas em aprender Java =).
+Comecei a estudarJava e fiz este repositório, o objetivo é salvar os cursos que eu fiz e alguns exercícios, e claro, como consequência, ele também pode servir como uma base para outras pessoas interessadas em aprender Java.
+> __Todas__ as explicações, sejam elas em arquivos .java ou .markdown foram feitas por mim, ou seja, estão sujeitas a erros. 
 
 ### Como os cursos foram escolhidos?
 Eu seleciono exclusivamente cursos gratuitos. Não acredito que cursos preparem alguém para o mercado, mas os considero úteis para dar início ao aprendizado.
