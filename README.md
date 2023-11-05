@@ -7,11 +7,8 @@ ______________
 Este repositório foi criado não apenas para agrupar todos os cursos, exercícios e projetos pequenos que foram feitos por mim, mas também para servir como uma base para outras pessoas interessadas em aprender Java =).
 
 ### Como os cursos foram escolhidos?
-Eu seleciono exclusivamente cursos gratuitos. Não acredito que esses cursos preparem alguém para o mercado, mas os considero úteis para dar início ao aprendizado.
-
-O primeiro critério foi ignorar todas as "entidades de ensino" focadas mais no marketing do que no ensino. Portanto, você não encontrará cursinhos da Alura ou da Rockeseat aqui.
-
-Alguns cursos foram indicados por amigos, enquanto outros eu busquei em lugares obscuros da web (reddit). Considero sempre analisar o professor, ver sua história e sua experiência como desenvolvedor. 
+Eu seleciono exclusivamente cursos gratuitos. Não acredito que cursos preparem alguém para o mercado, mas os considero úteis para dar início ao aprendizado.
+O primeiro critério foi ignorar todas as "entidades de ensino" focadas mais no marketing do que no ensino. Portanto, você não encontrará cursinhos da Alura ou da Rockeseat aqui. Alguns cursos foram indicados por amigos, enquanto outros eu busquei em lugares obscuros da web (reddit).
 
 ### Instrutores e cursos 
 - __William Suane__, _DevDojo:_ <a href="https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW"> Java virado no Jiraya </a>
