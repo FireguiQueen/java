@@ -1,7 +1,7 @@
 #### Sumário
-[Arrays](https://github.com/FireguiQueen/Java/blob/main/!Explica%C3%A7%C3%B5es-java/arrays.md#criando-um-array") &nbsp; | &nbsp;
-[Arrays multidimensionais](https://github.com/FireguiQueen/Java/blob/main/!Explica%C3%A7%C3%B5es-java/arrays.md#arrays-multidimensionais) &nbsp; | &nbsp;
-[Iterando arrays](https://github.com/FireguiQueen/Java/blob/main/!Explica%C3%A7%C3%B5es-java/arrays.md#iterando-um-array) 
+[Arrays](https://github.com/FireguiQueen/Java/blob/main/!Explica%C3%A7%C3%B5es-java/Arrays.md#iterando-um-array) &nbsp; | &nbsp;
+[Arrays multidimensionais](https://github.com/FireguiQueen/Java/blob/main/!Explica%C3%A7%C3%B5es-java/Arrays.md#arrays-multidimensionais) &nbsp; | &nbsp;
+[Iterando arrays](https://github.com/FireguiQueen/Java/blob/main/!Explica%C3%A7%C3%B5es-java/Arrays.md#iterando-um-array) 
 
 ______________________________________________
 
