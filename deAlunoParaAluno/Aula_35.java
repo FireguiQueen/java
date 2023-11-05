@@ -16,6 +16,7 @@ public class School{
     {
         Scanner userInput = new Scanner(System.in);
 
+
         System.out.print("Digite a quantidade de alunos: ");
         int totalAlunos = userInput.nextInt();
 
@@ -28,19 +29,26 @@ public class School{
         // array para armazenar outros arrays. Os arrays secundários terão 4 elementos, e cada um representa uma nota de bimestre
         Double[][] alunosNotas = new Double[totalAlunos][4];
 
+
+        // RECEBE NOME E NOTAS.
         for (int i = 0; i < totalAlunos; i++)
         {
+            // usuario digita o nome do aluno.
             System.out.print("\nAluno " + (i+1) + ": ");
             alunosNomes[i] = userInput.next();
             
+            // usuario informa a nota deste mesmo aluno em 4 bimestres.
             for (int j = 0; i < totalBimestres; i++)
             {
-                System.out.print("Nota de " + alunosNomes[i] + ": ");
-                alunosNotas[i] = userInput.nextDouble();
+                System.out.print("Nota de " + alunosNomes[i] + "no " + (j+1) + "° bimestre: ");
+                alunosNotas[i][j] = userInput.nextDouble();
             }
         }
 
+        // PRINTA AS NOTAS
+        
 
+/*
         // Printa todos os alunos da sala e suas notas. 
         System.out.println("\nNomes \t Notas \t Aprovado");
         for (int i = 0; i < totalAlunos; i++)
@@ -57,6 +65,6 @@ public class School{
         }
         media /= totalAlunos;
         System.out.println("\nMedia da turma: " + media);
-        
+*/       
     }
 }
