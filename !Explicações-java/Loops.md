@@ -71,12 +71,12 @@ Enquanto 'i' (0) for menor do que 3, execute o bloco.
 
 ##### Funcionamento passo-a-passo a execução do bloco `while`
 
-- Assim que o "java" chegar na linha do laço `while`, ele ira avaliar se a condição é verdadeira (true) ou falsa (false). No primeiro cicloc de execução, ou seja, na primeira vez o que `while` for executado, a nossa expressão será: `i (0) é menor do que 3?`. E ela é avaliada como __verdadeira__, então o bloco é executado;
+- Quando o programa encontra o laço `while`, ele avalia a condição. No primeiro ciclo de execução, ou seja, na primeira vez que o while é executado, a expressão é "i (0) é menor que 3?". E ela é avaliada como verdadeira, e o bloco é executado. Dentro do bloco, temos uma instrução para imprimir "Oi" no console e uma __instrução de incremento__. Isso significa que a variável 'i', que tem o valor 0 neste momento, é _incrementada em 1_. 
+> Agora, a variável 'i' tem o valor 1.
 
-- Dentro do bloco, temos uma instrução de printar "hello" no terminal e uma instrução de incremento. Isto é, pegaremos a variável i, que vale 0 neste momento, e somaremos +1. _Após esta instrução, a variável 'i' vale '1'._
+- No próximo ciclo (2°), a expressão é reavaliada: `i (1) é menor que 3?`. </br> A expressão ainda é verdadeira, então o bloco é executado novamente, e a variável 'i' é incrementada para 2.
+> Agora, a variável 'i' tem o valor 2.
 
-- Agora, será feito a mesma coisa, mas desta vez, a nossa expressão será: `i (1) é menor do que 3?`. Ela será avaliada como __verdadeira__, pois '1' é menor do que três. Então nosso bloco é executado, e logo, nossas instruções também são. Então será somado +1 ao valor de i (1). _Após esta instrução, a variável 'i' vale '2'._
-
-- Novamente, será feito a mesma coisa, mas desta vez, a nossa expressão será: `i (2) é menor do que 3?`. Ela será avaliada como __verdadeira__, pois '2' é menor do que três. Então nosso bloco é executado, e logo, nossas instruções também são. Então será somado +1 ao valor de i (2). _Após esta instrução, a variável 'i' vale '3'._
+- No terceiro ciclo, será feito a mesma coisa, mas desta vez, a nossa expressão será: `i (2) é menor do que 3?`. </br> E la será avaliada como __verdadeira__, pois '2' é menor do que três. Então o bloco é executado novamente, e a variável 'i' é incrementada para 3.
 
 - Novamente, será feito a mesma coisa, mas desta vez, a nossa expressão será: `i (3) é menor do que 3?`. Ela será avaliada como __falsa__, pois '3' __não__ é menor do que três. Então nosso bloco é não executado e o laço é finalizado. 
