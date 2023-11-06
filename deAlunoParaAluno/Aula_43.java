@@ -44,6 +44,7 @@
     tipo: Pessoa juridica 
     numero da conta: 42502-531
     ação: transferir()
+    ação: depositar()
     ação: receber()
     ação: gerarQRCode_deTransferencia()
     ação: gerarQRCode_deRecebimento()
