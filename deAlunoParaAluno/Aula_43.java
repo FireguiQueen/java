@@ -77,7 +77,9 @@
     Isto é, sempre que usarmos nossa ação de aumentar volume, a instrução de aumentar a propriedade
     'volume' em '1' será ativada. 
     Resumidamente, toda vez que a ação ser executada, a propriedade 'volume' aumenta em '1'
+
     ********* ******* ******* ******** ******* ******* ***** ***** **** ***** ******* *******
 
-
+    UMA DAS IDEIAS DE POO, É QUE TODOS AS COISAS DO MUNDO REAL PODEM SER COLOCADAS NO MUNDO DA PROGRAMAÇÃO
+    EM FORMA DE OBJETO.
 */
