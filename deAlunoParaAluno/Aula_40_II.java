@@ -9,8 +9,8 @@ public class Aula_40_II
         // Esta variável será do tipo 'int'. Um tipo de dado PRIMITIVO.
         int numero = 100; 
 
-        // Esta variável será uma variável especial. Um array. 
-        // Será um array de números inteiros. Um vetor é um tipo de dado NÃO-PRIMITIVO. 
+        // Esta variável será uma variável especial. Será um array de números inteiros. 
+        // Vetores são dados NÃO-PRIMITIVOS. 
         int[] numeros = {0, 10, 20};
 
 
@@ -41,9 +41,21 @@ public class Aula_40_II
             Quando passamos a variável 'numero' como argumento, nos passamos o valor '100'.
             E dentro do método, este valor de '100' foi alterado para '500'.
 
-            Mas no nosso método principal, a nossa variável continua 
+            Mas no nosso método principal, a nossa variável continua tendo o mesmo valor de '100'.
+            Pois o que foi passado, foi um valor final.
         */
-        System.out.println(numero); // retorna 50. 
+        System.out.println(numero); // retorna 100. 
+
+        /*
+            As coisas mudam um pouco quando usamos os dados-não primitivos.
+            O nosso método 'numerosInteiros' contém instruções para dizer que o primeiro elemento
+            do array tenha um valor de 50. A questão, é que quando passamos o array como argumento
+            para este método, nós não passamos o ARRAY EM SI, e sim SEU ENDEREÇO.
+
+            Enquanto quando fazemos alterações, mesmo que utilizando um parâmetro, estamos trabalhando
+            diretamente com aquele array. 
+        */
+        System.out.println(numeros); // retorna 50. 
 
     }
 
@@ -53,8 +65,8 @@ public class Aula_40_II
     // Este será responsável por receber um número inteiro como argumento.
     public static void numeroInteiro(int x)
     {
-        // Aqui, vamos dizer que o parâmetro 'num' será 500. 
-        // Isto é, não importa qual valor que o 'num' recebeu dos argumentos. Agora 'num' vale 500.
+        // Aqui, vamos dizer que o parâmetro 'x' será 500. 
+        // Isto é, não importa qual valor que o 'x' recebeu dos argumentos, agora 'x' vale 500.
         x = 500;
     }
 
