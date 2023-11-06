@@ -1,5 +1,5 @@
-    //A PARTIR DESTA AULA (aula 43), OS NOMES DOS NOSSOS ARQUIVOS, DAS NOSSAS CLASSES, TERÃO NOMES
-    // MAIS SIGNIFICATIVOS, POIS NOSSOS ARQUIVOS REPRESENTARÃO OBJETOS.
+    //A PARTIR DESTA AULA (aula 43), ALGUNS NOMES DE ARQUIVOS SERÃO
+    // MAIS SIGNIFICATIVOS, POIS ESSES ARQUIVOS REPRESENTARÃO OBJETOS.
 
 // POO (Object-oriented programming - Programação Orientada a Objetos)
 /*
@@ -83,3 +83,38 @@
     UMA DAS IDEIAS DE POO, É QUE TODOS AS COISAS DO MUNDO REAL PODEM SER COLOCADAS NO MUNDO DA PROGRAMAÇÃO
     EM FORMA DE OBJETO.
 */
+
+public class TV
+{
+    String fabricante = "Sony";
+    boolean ligada = false;
+    byte volume = 0;
+
+    public void ligarDesligar(){
+        ligada = ligada == false? true : false; 
+    }
+
+    public void aumentarVolume(byte volumeDesejado)
+    {
+        // caso o volume já seja 10, nossa função é finalizada.
+        if (volume >= 10) return;
+
+        for (int i = 0; i < volumeDesejado; i++)
+        {
+            if (i >= 10) break;
+            volume++;
+        }
+    }
+
+    public void diminuirVolume(byte volumeDesejado)
+    {
+        // caso o volume já seja 0, nossa função é finalizada.
+        if (volume <= 0) return;
+
+        for (int i = 0; i < volumeDesejado; i++)
+        {
+            if (i >= 10) break;
+            volume++;
+        }
+    }
+}
