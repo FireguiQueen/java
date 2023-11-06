@@ -20,8 +20,8 @@
 </br>
 
 # Java Virado No Jiraya | _DevDojo_
-  Data       | Aulas assistidas    
-:-----------:|:-----------------:
-06/11/2023   | Aula 01 até Aula 
+  Data        | Aulas assistidas    
+:-----------: |:-----------------:
+06/11/2023    | Aula 01 até Aula
 
 
