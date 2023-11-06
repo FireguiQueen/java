@@ -49,6 +49,19 @@
     ação: gerarQRCode_deTransferencia()
     ação: gerarQRCode_deRecebimento()
 
+
+    Vamos nos aprofundar mais um pouco, e pensar como cada propriedade poderia ser feita. Usaremos uma
+    TV como exemplo.
+    Vamos dar as seguintes propriedades: ligada (s/n). Fabricante. Polegedas.
+    
+    Bem, agora podemos pensar. A propriedade ligada pode receber no máximo dois valores: ligado / desligada.
+    Sendo assim, esta propriedade pode ser do tipo boolean.
+
+    O nome da fabricante tende a ser um nome, como Sony, Phillips, LG. Então, para esta propriedade, usaremos
+    o tipo string. 
+
+    As polegedas são números, logo, usaremos o tipo int para representar esta propriedade. 
+
     ********* ******* ******* ******** ******* ******* ***** ***** **** ***** ******* *******
 
     A PARTIR DESTA AULA (aula 43), OS NOMES DOS NOSSOS ARQUIVOS, DAS NOSSAS CLASSES, TERÃO NOMES
