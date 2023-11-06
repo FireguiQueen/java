@@ -31,6 +31,24 @@ public class Aula_42
         return vetorInvertido;
 
         // ENTENDENDO O MÉTODO PASSO-A-PASSO
+        /*
+            - Começamos definindo uma variável que salva a quantidade de elementos do nosso array principal.
+            - Em seguida, criamos um novo array vazio, que contém a mesma quantidade de elementos do array principal.
+            
+            - Criamos um 'for loop'.
+                > Definimos duas variáveis: 
+                    i = 0 (zero)
+                    j = comprimento do array principal -1 (4)
+
+            Porque fizemos o comprimento -1?
+                Quando usamos o ".length" em um array, ele nos retorna a quantidade de elementos.
+                Se o array possui 5 elementos, ele retorna 5. 
+                Mas como trabalhamos com indices, 
+
+    
+
+
+        */
     }    
 
 
