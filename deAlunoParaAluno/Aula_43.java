@@ -35,4 +35,15 @@
     ação: beber()
     ação: esvaziar()
     ação: encher()
+
+
+    Novamente, não podemos dizer que uma conta bancaria é um objeto, mas em Java, podemos.
+
+    conta-itau
+    saldo: R$900
+    tipo: Pessoa juridica 
+    numero da conta: 42502-531
+    ação: transferir()
+    ação: receber()
+    ação: gerarQRCode_deTransferencia()
 */
