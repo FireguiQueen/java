@@ -34,6 +34,17 @@ public class Aula_40_II
         numerosInteiros(numeros);
 
 
+        // MAS QUAL A UTILIDADE DE SABER ISSO? 
+        /*
+            O nosso método 'numeroInteiro()', ele contém instruções para dizer seu parâmetro, o 'x'
+            terá um valor 500.
+            Quando passamos a variável 'numero' como argumento, nos passamos o valor '100'.
+            E dentro do método, este valor de '100' foi alterado para '500'.
+
+            Mas no nosso método principal, a nossa variável continua 
+        */
+        System.out.println(numero); // retorna 50. 
+
     }
 
 
