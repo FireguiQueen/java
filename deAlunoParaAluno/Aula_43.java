@@ -60,7 +60,12 @@
     O nome da fabricante tende a ser um nome, como Sony, Phillips, LG. Então, para esta propriedade, usaremos
     o tipo string. 
 
-    As polegedas são números, logo, usaremos o tipo int para representar esta propriedade. 
+    As polegedas são números, logo, usaremos o tipo int para representar esta propriedade.
+
+
+    Mas as TVs também possuem ações, como por exemplo, aumentar o volume dela.
+    Neste caso, esta ação não é representa como uma propriedade, pois é algo dinâmico.
+    Então, esta ação será uma função. 
 
     ********* ******* ******* ******** ******* ******* ***** ***** **** ***** ******* *******
 
