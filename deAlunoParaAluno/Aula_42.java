@@ -15,7 +15,7 @@ public class Aula_42
 
         for (int i = 0; i < numeros.length; i++)
         {
-            System.out.println(arrayInvertido[0]);
+            System.out.println(arrayInvertido[i]);
         }
     }
 
