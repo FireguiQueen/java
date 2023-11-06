@@ -1,4 +1,4 @@
-// EXERCICIo: invertando um array de inteiros com um método.
+// EXERCICIO: invertando um array de inteiros com um método.
 
 public class Aula_42
 {
