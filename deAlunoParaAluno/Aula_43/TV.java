@@ -5,27 +5,40 @@
     MAS AFINAL, O QUE É UMA CLASSE?
 
     Uma classe é um modelo, um protótipo. 
+
     Vamos pensar numa empresa que fabrica apenas um único tipo de carro. 
     Obviamente, esta empresa já possui o molde do carro definido, podemos pensar nele como: 
     carro {
-        carro: HBL
+        modelo: HBL
         cor: preto
         tipo_de_roda: estrada
         motor: 20 cavalos
-    } 
-    E este molde é o nossa classe.
+    }
+    ESTE MOLDE ACIMA É A NOSSA CLASSE.
+    Os valores "modelo", "cor", "tipo de roda".. São as propriedades desta classe. SÃO AS CARACTERÍSTICAS. 
 
-    Quando este carro é vendido, sua pintura, rodas, e motores podem ser trocados. 
+    Quando este carro é vendido, seu motor, pintura e rodas podem ser trocadas. 
     E neste momento, o carro vira um objeto. 
 
+
     Ou seja, em java, a classe é um molde, e este molde traz consigo propriedades COM ou SEM valores.
-    Esta classe 
+    Neste caso, nossa classe possui propriedades que possuem valores, por exemplo:
+    { cor: preto }, mas em muitos outros casos, criaremos classes que não possui valores para as suas propriedades.
 
-    Tanto as propriedades quanto os métodos desta classe, estão relacionados a ela. 
-    Por exemplo, foi criado a classe TV. Uma TV possui cor, fabricante, opções para ligar/desligar
-    e assim por diante. E tudo que está dentro desta classe, está relacionado a ela. 
-
+    Já um objeto é aquela classe, só que modificada. 
+    Pegamos nossa classe (carro) e trocamos os valores de suas propriedades. 
+    meuCarro {
+        modelo: HBL
+        cor: azul
+        tipo_de_roda: flangeadas
+        motor: 60 cavalos
+    }
 */
+
+
+// Esta é uma classe chamada TV.
+// Quando colocarmos em nosso código e salvármos ela em uma variável, somos capazes de criarmos nossa própria TV
+// Ou seja, um objeto. 
 public class TV
 {
     String fabricante = "Sony";

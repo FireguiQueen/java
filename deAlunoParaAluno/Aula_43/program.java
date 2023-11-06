@@ -1,9 +1,12 @@
+// Nesta pasta, podemos ver que há outro arquivo, chamado 'TV.java'
+// Este arquivo é o nosso programa. Nele temos o método principal.
+// No método principal, podemos colocar a nossa classe em uma variável, criando assim, um objeto. 
+
+// Com este objeto, podemos definir nossos próprios valores. 
 public class program
 {
     public static void main(String[] args)
     {
-        // Nesta pasta, podemos ver que há outro arquivo, chamado 'TV.java'
-        // Este arquivo é o responsável por criar a nossa classe.
 
         // Definimos que uma variável irá receber a nossa classe TV.
         // O 'new' é responsável por fazer a instância, por puxar todas as propriedades e métodos de determinada classe.
