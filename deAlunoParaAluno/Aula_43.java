@@ -49,4 +49,8 @@
     ação: gerarQRCode_deTransferencia()
     ação: gerarQRCode_deRecebimento()
 
+    ********* ******* ******* ******** ******* ******* ***** ***** **** ***** ******* *******
+
+    A PARTIR DESTA AULA (aula 43), OS NOMES DOS NOSSOS ARQUIVOS, DAS NOSSAS CLASSES, TERÃO NOMES
+    MAIS SIGNIFICATIVOS, TERÃO NOMES PARA REPRESENTAR UM OBJETO.
 */
