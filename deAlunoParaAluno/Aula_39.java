@@ -52,6 +52,13 @@ public static int retorna1()
     -- O void é sempre utilizado no nosso método 'main', pois ele não retorna nada, apenas executa 
     -- instruções.
 */
+
+
+// Lista de parâmetros
+/*
+    A lista de parâmetros é o conjunto de parâmetros de um determinado método.
+*/                         //||||         ||
+public static void digaOi(String nome, int idade){}
     
 
 
