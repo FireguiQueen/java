@@ -83,7 +83,7 @@
     UMA DAS IDEIAS DE POO, É QUE TODOS AS COISAS DO MUNDO REAL PODEM SER COLOCADAS NO MUNDO DA PROGRAMAÇÃO
     EM FORMA DE OBJETO.
 */
-package deAlunoParaAluno;
+package Aula_43;
 
 public class TV
 {

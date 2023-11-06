@@ -1,6 +1,6 @@
-package deAlunoParaAluno;
+package Aula_43;
 
-public class u_Aula_43
+public class program
 {
     public static void main(String[] args)
     {
