@@ -46,4 +46,6 @@
     ação: transferir()
     ação: receber()
     ação: gerarQRCode_deTransferencia()
+    ação: gerarQRCode_deRecebimento()
+
 */
