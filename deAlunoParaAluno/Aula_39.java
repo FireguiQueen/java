@@ -33,12 +33,25 @@ public static int retorna1()
 }
 
 
-// Corpo do método / bloco 
+// Corpo do método 
 /*
     O corpo do método nada mais é do que as instruções que são contidas dentro deste método.
     Eles ficam entre duas chaves {}. 
 */
 
 
+// Tipo de retorno
+/*
+    O tipo de retorno de um método é o valor que ele irá retornar pela palavra chave "return".
+    > Se o nosso método precisa retornar um valor inteiro, usaremos um método do tipo "int";
+    > Se o nosso método precisa retornar um valor inteiro mais longo, usaremos um método do tipo "long";
+    > Se o nosso método precisa retornar um valor quebrado, usaremos um método do tipo "double";
+    > Se o nosso método precisa retornar uma string, usaremos um método do tipo "string".
+
+    > Se o nosso método NÃO precisa retornar NENHUM VALOR, podemos colocar um método do tipo "void".
+    -- O void é sempre utilizado no nosso método 'main', pois ele não retorna nada, apenas executa 
+    -- instruções.
+*/
+    
 
 
