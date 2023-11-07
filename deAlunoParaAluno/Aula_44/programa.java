@@ -70,5 +70,10 @@ public class programação{
         // e a variável 'totalProfessores' recebe o parametro 'professores'
         escola Escola02 = new escola(500, 15);
 
+        // aqui acessamos a variável "totalAlunos" do objeto "Escola02".
+        // E como passamos os argumentos no construtor para este objeto, a linha abaixo retornará 500.        
+        System.out.println(Escola02.totalAlunos);
+
+
     }
 }
