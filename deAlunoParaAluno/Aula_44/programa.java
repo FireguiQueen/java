@@ -25,8 +25,8 @@
     
 
     ------ -- - - - - - - - - - 
-    Os objetos são criados a partir de classes.
-
+    Os objetos são instâncias de classes.
+    --- - - - - -- -  - - - - -
 
 */ 
 
@@ -34,7 +34,18 @@
 public class programação{
     public static void main(String[] args)
     {
-        // Criando um
+        // A variável abaixo é responsável por armazenar uma instância da nossa classe.
+
+        // 1. Definimos o tipo de dado: escola
+        // 2. Definimos o nome do nosso objeto: Vladir_HighSchool 
+
+        // 3. Fazemos a instância da nossa classe: new escola(); 
+        escola Vladir_HighSchool = new escola();
+
+        /* 
+            Observe que, na etapa 3, existe o trecho "escola()"
+            E podemos observar que é como se estivessemos executando um método
+
 
     }
 }
