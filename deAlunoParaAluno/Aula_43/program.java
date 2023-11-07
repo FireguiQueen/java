@@ -11,9 +11,10 @@ public class program
         // Definimos que uma variável irá receber a nossa classe TV.
         // O 'new' é responsável por fazer a instância, por puxar todas as propriedades e métodos de determinada classe.
         // neste caso, dizemos que a variável recebe propriedades e métodos da classe TV.
+        // Agora, 'minhaTelevisao' virou um objeto. 
         TV minhaTelevisao = new TV();
 
-
+        minhaTelevisao.fabricante = "Lg"; 
         System.out.println(minhaTelevisao.ligada);
     }
 }

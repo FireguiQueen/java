@@ -1,34 +1,32 @@
-// Esta é a nossa classe, ela será responsável apenas por carregar propriedades e métodos.
-// Como o objetivo é "recriar" uma TV em nosso código java, criaremos uma classe com o nome 'TV'.
+// Esta é a nossa classe, ela será responsável por conter as propriedades e métodos.
 
+// Como o objetivo é "recriar" uma TV em nosso código java, criaremos uma classe com o nome 'TV'.
 /*
     MAS AFINAL, O QUE É UMA CLASSE?
 
     Uma classe é um modelo, um protótipo. 
+    Vamos pensar numa empresa que fabrica apenas um único tipo de carro.
 
-    Vamos pensar numa empresa que fabrica apenas um único tipo de carro. 
-    Obviamente, esta empresa já possui o molde do carro definido, podemos pensar nele como: 
+    Obviamente, esta empresa já possui o molde deste carro. Vamos imaginá-lo sendo assim: 
     carro {
-        modelo: HBL
         cor: preto
         tipo_de_roda: estrada
         motor: 20 cavalos
     }
-    ESTE MOLDE ACIMA É A NOSSA CLASSE.
+    Este MOLDE acima é a nossa CLASSE.
     Os valores "modelo", "cor", "tipo de roda".. São as propriedades desta classe. SÃO AS CARACTERÍSTICAS. 
 
     Quando este carro é vendido, seu motor, pintura e rodas podem ser trocadas. 
     E neste momento, o carro vira um objeto. 
 
-
     Ou seja, em java, a classe é um molde, e este molde traz consigo propriedades COM ou SEM valores.
     Neste caso, nossa classe possui propriedades que possuem valores, por exemplo:
-    { cor: preto }, mas em muitos outros casos, criaremos classes que não possui valores para as suas propriedades.
+    { cor: preto }. 
+    Mas em muitos outros casos, criaremos classes que não possui valores para as suas propriedades.
 
-    Já um objeto é aquela classe, só que modificada. 
-    Pegamos nossa classe (carro) e trocamos os valores de suas propriedades. 
+    Já um objeto é aquela classe, só que modificada. Pegamos nossa classe (carro) e 
+    trocamos os valores de suas propriedades. 
     meuCarro {
-        modelo: HBL
         cor: azul
         tipo_de_roda: flangeadas
         motor: 60 cavalos
