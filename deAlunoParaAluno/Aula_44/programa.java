@@ -44,8 +44,12 @@ public class programação{
 
         /* 
             Observe que, na etapa 3, existe o trecho "escola()"
-            E podemos observar que é como se estivessemos executando um método
+            E podemos observar que é como se estivessemos executando um método.
 
+            Este é um método especial, chamado de "construtor", ou "constructor" em inglês.
+            Os construtores são os responsáveis por criar o objeto em memória, ou seja, 
+            instanciar a classe que foi definida.
+        */
 
     }
 }
