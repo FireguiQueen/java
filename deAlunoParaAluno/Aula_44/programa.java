@@ -62,7 +62,7 @@ public class programação{
             Quando criamos um objeto, ele herda essas propriedades da classe "escola" para ele.
             Agora, nosso objeto possui essas propriedades, e podemos definir nossos próprios valores.
         */
-        escola Escola02 = new escola("")
+        escola Escola02 = new escola("Joseph High School I")
 
     }
 }
