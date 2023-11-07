@@ -7,12 +7,34 @@
     Um objeto utiliza de uma classe para ter seus próprios valores.
 
     Em um contexto fora da programação, podemos pensar em uma cidade.
-    Esta cidade possui escolas. As escolas são classes.
+    Esta cidade possui escolas. A "escola" é uma classe.
 
-    E as escolas desta cidade: 
+    E as escolas desta cidade são objetos.: 
     - Thomas Jefferson High School
     - Academic Magnet High Schoo
     - Signature School
 
-    >> São objetos.
+    Isto é, "escola" é classe, um molde, que traz consigo propriedades (características).
+    Uma escola terá x funcionários, x alunos, x metros quadrados e assim por diante.
+    Essas caracteristicas são conhecidas como "propriedades" de classe. 
+
+    Quando criamos uma escola, por exemplo, vou criar uma escola chamada "Guilherme Pires High School Foundation" 
+    Este escola será um objeto, e ela é uma instância da classe "escola".
+    Isto é, minha escola, ou seja, meu objeto, herdou todas aquelas propriedades da classe "escola".
+    Com isto, eu posso definir meus próprios valores, quantos alunos, professores e metros minha escola tem. 
+    
+
+    ------ -- - - - - - - - - - 
+    Os objetos são criados a partir de classes.
+
+
 */ 
+
+
+public class programação{
+    public static void main(String[] args)
+    {
+        // Criando um
+
+    }
+}
