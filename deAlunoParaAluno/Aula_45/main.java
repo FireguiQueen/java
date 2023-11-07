@@ -38,7 +38,15 @@ public class exemplo
         System.out.println(meuObj_02.x); // retorna 100.
 
 
-        // Agora, com as 
+        // Agora, com as variaveis de classe, quando alteremos ela, independende do objeto, ela altera o valor 
+        // dela mesma para todos os outros objetos.
+        meuObj_01.y = 900;
+        meuObj_02.y = 900;
+
+        // Os valores serão iguais, pois é a mesma variável, mas está sendo acessada em objetos diferentes 
+        System.out.println(meuObj_01.y); // retorna 900
+        System.out.println(meuObj_02.y); // retorna 900
+
     
 
     
