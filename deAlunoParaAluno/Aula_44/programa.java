@@ -62,7 +62,11 @@ public class programação{
             Quando criamos um objeto, ele herda essas propriedades da classe "escola" para ele.
             Agora, nosso objeto possui essas propriedades, e podemos definir nossos próprios valores.
         */
-        escola Escola02 = new escola("Joseph High School I")
+
+        // o construtor envia dois argumentos: 500 e 15;
+        // na nossa classe, este construtor tem dois parâmetros: alunos e professores;
+        // Ou seja, 500 é o argumento para o parâmetro 'alunos', e 15 é o argumento para o pâmetro 'professores'
+        escola Escola02 = new escola(500, 15);
 
     }
 }
