@@ -28,7 +28,7 @@ public class Exemplo{
     }
 
     // Uma variável local é uma variável que tem seu acesso limitado, pois ela foi criada em um escopo
-    // que está dentro do escopo principal: 'EXEMPLO'
+    // que está dentro de outro escopo, o escopo principal: 'EXEMPLO'
 
     // Vamos criar um método, e ele será responsável por criar uma variável do tipo 'int'
     public void criarVar()
@@ -36,15 +36,33 @@ public class Exemplo{
         // essa variável pertence somente a ESTE escopo (criarVar) e a escopos dentro deste escopo.
         int y = 50;
 
+        // outro escopo. Mas ele possui acesso a variável criada no escopo 'pai'
         public void acessarVar()
         {
             y += 50;
         }
     }
 
-    // NÃO PODEMOS FAZER ISSO POIS RETORNA ERRO. O Y PER
-    System.out.println(y)
-    
+    // NÃO PODEMOS FAZER ISSO POIS RETORNA ERRO. A variável 'Y' foi definida no escopo anterior.
+    // System.out.println(y);
+
+
+    // Por que não podemos fazer isto:
+    /*
+        int a = 50;
+        for (int a = 0; a < 50; a++){}
+    */
+
+    // Mas podemos fazer isto:
+    for (int a = 0; a < 50; a++){}
+    int a = 50; 
+
+    // A questão é que, no primeiro exemplo, declaramos uma variável de nome 'a'
+    // e logo abaixo declaramos ela novamente pelo for, e não podemos redeclarar variáveis.
+
+    // No segundo exemplo, o for é executado, e quando ele termina esta variável MORRE, ela não existe mais
+    // e na proxima linha, ela é declarada, como se nunca houvesse sido declarada antes.
+
 
     
 
