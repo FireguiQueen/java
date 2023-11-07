@@ -1,5 +1,4 @@
 // DIFERENÇA ENTRE CLASSE E OBJETO
-
 /*
     Isto será um resumo. Caso queira a explicação completa, vá para a aula 43. 
 
@@ -50,6 +49,20 @@ public class programação{
             Os construtores são os responsáveis por criar o objeto em memória, ou seja, 
             instanciar a classe que foi definida.
         */
+
+
+        /* 
+            O construtor também pode ser utilizado para receber argumentos. 
+            Esses argumentos são enviados ao nosso construtor (que está na nossa classe) e como o construtor
+            é o primeira coisa a ser executada quando criamos um objeto, temos a capacidade de alterar
+            variáveis de instância, criando assim, um objeto com propriedades da classe que possuem valores
+            diferentes.
+
+            Isto é, a nossa classe "escola" conterá as propriedades: totalAlunos e totalProfessores.
+            Quando criamos um objeto, ele herda essas propriedades da classe "escola" para ele.
+            Agora, nosso objeto possui essas propriedades, e podemos definir nossos próprios valores.
+        */
+        escola Escola02 = new escola("")
 
     }
 }
