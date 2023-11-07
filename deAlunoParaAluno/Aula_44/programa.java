@@ -66,6 +66,8 @@ public class programação{
         // o construtor envia dois argumentos: 500 e 15;
         // na nossa classe, este construtor tem dois parâmetros: alunos e professores;
         // Ou seja, 500 é o argumento para o parâmetro 'alunos', e 15 é o argumento para o pâmetro 'professores'
+        // Dentro do corpo do construtor, é dito que a variável 'totalAlunos' recebe o parametro 'alunos'
+        // e a variável 'totalProfessores' recebe o parametro 'professores'
         escola Escola02 = new escola(500, 15);
 
     }
