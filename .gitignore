@@ -3,3 +3,4 @@
 *.xml
 ./deAlunoParaAluno/.idea/
 ./deAlunoParaAluno/.idea
+*.java~
