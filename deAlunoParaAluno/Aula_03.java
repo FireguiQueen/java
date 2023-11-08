@@ -1,6 +1,6 @@
 // COMENTÁRIOS
 
-class Aula_02{
+class Aula_03{
 
     /*
         Em Java, é essencial utilizar as barras duplas (//) para comentários de linha ou as barras com 

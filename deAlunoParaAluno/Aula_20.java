@@ -5,7 +5,7 @@
     ||: operador lógico "or". Ele quer que APENAS UMA das expressões booleanas seja TRUE. 
 */
 
-public class Aula_19{
+public class Aula_20{
     public static void main(String[] args){
         // EXEMPLOS COM: && 
         int num01 = 50;
