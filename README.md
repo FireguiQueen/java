@@ -19,10 +19,10 @@ O primeiro critério foi ignorar todas as "entidades de ensino" focadas mais no 
 </br>
 
 ### FAQ 
-<a href="">Aqui</a> estão algumas perguntas frequentes sobre Java, computação e outros tópicos relacionados a programação.
+<a href="https://github.com/FireguiQueen/Java/blob/main/others/faq.md">Aqui</a> estão algumas perguntas frequentes sobre Java, computação e outros tópicos relacionados a programação.
 
 </br>
 
 #### Progressão
-Você pode ver minha progressão nos cursos por <a href="https://github.com/FireguiQueen/Java/blob/main/progress%C3%A3o.md">aqui</a>.
+Você pode ver minha progressão nos cursos por <a href="https://github.com/FireguiQueen/Java/blob/main/others/progress%C3%A3o.md">aqui</a>.
 
