@@ -22,8 +22,8 @@
 
     INICIALIZAÇÃO:
         Inicializar uma variável consiste em atribuir um valor a uma variável vazia.
-        Ou seja, atribuir pela primeira vez um valor à nossa variável.
-        Caso a nossa variável já tenha um valor definido, se tentarmos adicionar
+        Ou seja, atribuir pela PRIMEIRA vez um valor à nossa variável.
+        Caso a nossa variável já tenha um valor definido, e for adicionado
         um novo valor a ela, isto se chamará reatribuição de valor, ou seja, estamos redefinindo seu valor.
 */
 
@@ -32,11 +32,11 @@ public class Aula_04{
     public static void main(String[] args){
         
         // Esta é uma declaração, e observe que ela não foi inicializada.
-        // Para fazer uma declaração, especificamos o seu tipo de dado: int; e o seu nome: x;
+        // Para fazer a declaração foi informado seu tipo de dado e identificador.
         // O seu tipo de dado é 'int', ou seja, esta variável aceita somente números INTEIROS!
         int x;
         
-        // Esse processo é chamado de inicialização da variável e ocorre quando atribuímos um valor a ela.
+        // Aqui estamos inicializando ela. Ou seja, definindo um valor pela primeira vez a ela.
         x = 50;
 
 
