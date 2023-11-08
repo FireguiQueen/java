@@ -81,6 +81,9 @@ O que verdadeiramente lhe trará experiência e conhecimento são os projetos re
 Na vida real você enfrenta prazos, responsabilidades e, claro, uma complexidade muito maior para concluir um projeto. Lembre-se, há dinheiro envolvido no que você constrói. Obviamente, os projetos pessoais que buscam trazer utilidade e até mesmo possíveis lucros, também podem demandar prazos e "alta" complexidade no desenvolvimento. <q>Tempo é dinheiro</q>.
 Então mesmo que você esteja apenas estudando, busque por desenvolver coisas mais complexas, finja que outras pessoas lerão seu código, construa-o da melhor forma possível.
 
+__Fontes__:
+* https://youtu.be/rkaLB3wOSb8
+
 </br>
 
 __________________________________
