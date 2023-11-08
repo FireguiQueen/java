@@ -20,6 +20,7 @@ O primeiro critério foi ignorar todas as "entidades de ensino" focadas mais no 
 
 ### FAQ 
 <a href="">Aqui</a> estão algumas perguntas frequentes sobre Java, computação e outros tópicos relacionados a programação.
+
 </br>
 
 #### Progressão
