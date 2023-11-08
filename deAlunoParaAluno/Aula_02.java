@@ -11,12 +11,18 @@
     O escopo quem define o grau de ocultação de uma informação, isto é,
     a visibilidade e acessibilidade às variáveis em diferentes partes do programa.
 
-
     Podemos fazer uma analogia com uma cidade.
     Uma cidade possui diversos serviços públicos, como por exemplo, a limpeza e a coleta
     de lixo.
+    Dentro desta cidade há diversos bairros. E esses bairros
+    possuem seus próprios serviços, que, qualquer morador deste bairro, pode utilizar.
 
-    Dentro desta cidade há diversos bairros. Vamos imaginar que esses bairros
+    A cidade é o nosso escopo principal. O bairro é um escopo que está dentro
+    do nosso escopo principal. A cidade não pode utilizar os serviços do bairro, mas o bairro pode utilizar os
+    serviços da cidade.
+
+    Isto é, o escopo pai (cidade) não pode utilizar os serviços do escopo filho (bairro).
+    O escopo filho (bairro) pode utilizar os serviços do escopo pai (cidade).
  */
 
 // A nossa classe 'Aula_02' possui seu próprio escopo.
