@@ -7,7 +7,7 @@
     Para evitar erros, tudo o que não faz parte da sintaxe da linguagem deve ser colocado na forma de comentário,
     como, por exemplo, o que você está lendo agora. Se isso não estivesse dentro de um comentário, a JVM não
     entenderia como compilar essa parte específica do código e retornaria um erro.
-    */
+*/
 
 // EXEMPLOS DE COMENTÁRIOS EXPLICATIVOS.
 class Aula_03 {
