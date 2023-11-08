@@ -4,7 +4,7 @@
     Ou seja, o elemento de um vetor multidimensional é um vetor. 
 */
 
-public class Aula_32
+public class Aula_34
 {
     public static void main(String[] args)
     {
