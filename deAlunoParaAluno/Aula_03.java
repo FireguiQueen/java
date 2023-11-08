@@ -1,10 +1,10 @@
 // COMENTÁRIOS
 /*
-    Em Java, é essencial utilizar comentários. Podemos usar barras duplas (//) para comentários de linha
-    ou barras com asteriscos para comentários de bloco.
+    Em Java, e em diversas outras linguagens, é essencial utilizar os comentários.
+    Podemos usar barras duplas (//) para comentários de linha ou barras com asteriscos para comentários de bloco.
 
-    Usamos comentários para incluir explicações do programa ou de determinado trecho de código.
-    Para evitar erros, tudo o que não faz parte da sintaxe da linguagem deve ser colocado na forma de comentário,
+    Eles são importantes para incluir explicações do programa ou de determinado trecho de código.
+    > para evitar erros, tudo o que não faz parte da sintaxe da linguagem deve ser colocado na forma de comentário,
     como, por exemplo, o que você está lendo agora. Se isso não estivesse dentro de um comentário, a JVM não
     entenderia como compilar essa parte específica do código e retornaria um erro.
 */
