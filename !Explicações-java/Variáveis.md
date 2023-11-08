@@ -1,9 +1,5 @@
-# Introdução
-Não haverá explicações sobre a estrutura das coisas, apenas regras de sintaxe.
+# Variáveis
 
-</br>
-
-## Variáveis
 - Escolha um tipo de dado;
 - Defina um identificador (nome do array);
 - Defina um valor. Este valor precisa ser do mesmo tipo de dado que foi definido na etapa 1.
@@ -13,23 +9,3 @@ Não haverá explicações sobre a estrutura das coisas, apenas regras de sintax
     int z = 100 - 50 // variável z recebe uma expressão. Esta expressão retorna 50 a variável. 
     boolean y = 50 > 50 // variável y recebe uma expressão. Esta expressão retorna 'false' a variável.
 ``` 
-
-</br>
-
-## Array
-
-#### 1.
-1. Defina o tipo de dado do vetor, e ao lado, coloque colchetes para especificar que estamos criando um array;
-2. Defina um identificador (o nome para o nosso vetor);
-3. Defina seus valores. Eles precisam ser do mesmo tipo de dado que foi definido na etapa 1.
-```java
-    int[] identificador = {500, 200, 100};
-```
-
-#### 2.
-1. Defina o tipo de dado do vetor, e ao lado, coloque colchetes para especificar que estamos criando um array;
-2. Defina um identificador (o nome para o nosso vetor);
-3. Defina uma instância, e ao lado, coleque colchetes. Dentro deles, coloque o número máximo de elementos que o array pode conter.
-```java
-    int[] identificador = new int[10]; 
-```
