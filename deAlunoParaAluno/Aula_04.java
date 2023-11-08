@@ -16,7 +16,8 @@
         O tipo de dado da variável é colocado na declaração da variável. O tipo de dado é
         escolhido com base no que precisamos armazenar nela.
         Por exemplo, se precisarmos armazenar um número inteiro, utilizaremos
-        uma variável do tipo 'int'. Se precisarmos armazenar um número decimal, utilizaremos uma variável do
+        uma variável do tipo 'int'.
+        Se precisarmos armazenar um número decimal, utilizaremos uma variável do
         tipo 'double'.
 
     INICIALIZAÇÃO:
