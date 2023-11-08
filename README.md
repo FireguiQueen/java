@@ -18,8 +18,13 @@ O primeiro critério foi ignorar todas as "entidades de ensino" focadas mais no 
 
 </br>
 
+### Progressão
 Você pode ver minha progressão nos cursos por <a href="https://github.com/FireguiQueen/Java/blob/main/progress%C3%A3o.md">aqui</a>.
+
+</br>
+
 ___________________________
+
 
 ## FAQ 
 Aqui estão algumas perguntas frequentes sobre Java, computação e um pouco de mercado. Algumas delas incluirão explicações técnicas (marcadas com a tag ET), e outras apresentarão opiniões pessoais (marcadas como OP). 
