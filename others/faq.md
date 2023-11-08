@@ -31,6 +31,8 @@ Finalmente, no conceito do Java, cada sistema possui sua própria JVM. A partir 
 
 </br>
 
+__________________________________
+
 ### [ET] A linguagem Java é ruim para jogos?
 Pode-se dizer que sim, mas precisamos ter cuidado ao afirmar isso. O fato de o Java ser considerado "inadequado" para o desenvolvimento de jogos não é culpa do Java em si. Antes da era dos smartphones, os celulares utilizavam o Java como a principal plataforma para aplicativos e jogos. Isso ocorria em dispositivos com recursos extremamente limitados, e ainda assim, os jogos eram desenvolvidos em Java.
 
@@ -41,7 +43,8 @@ Atualmente, as linguagens mais populares para o desenvolvimento de jogos são o 
 __________________________________
 
 ### [OP] Certificados servem para algo?
-Primeiro, vamos separar algumas coisas. Existem certificados profissionais, nos quais geralmente é necessário passar por uma prova desafiadora sobre o assunto, e você provavelmente terá que pagar para obtê-lo. Um exemplo é o certificado de Java da Oracle. Esses certificados são, de fato, úteis e possivelmente valorizados no mercado. No entanto, mesmo esse tipo de certificado não garante que o profissional seja adequado para uma determinada vaga.
+Primeiro, vamos separar algumas coisas. Existem certificados profissionais, nos quais geralmente é necessário passar por uma prova desafiadora sobre o assunto, e você provavelmente terá que pagar para obtê-lo. Um exemplo é o certificado de Java da Oracle; de Azure da microsoft; AWS da Amazon e etc. 
+Esses certificados são, de fato, úteis e possivelmente valorizados no mercado. No entanto, mesmo esse tipo de certificado não garante que o profissional seja adequado para uma determinada vaga.
 
 Existem também certificados de conclusão de cursinho, ou seja, após o aluno concluir seu curso (seja da udemy, alura etc..) ele ganhará um certificado de conclusão. Não estou desmerecendo os cursos, só estou dizendo que este tipo de certificado é inútil. O que realmente importa é se você absorveu todo o conteúdo mostrado pelo curso.
 
