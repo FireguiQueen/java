@@ -56,6 +56,9 @@ Vamos pensar nisso: imagine que você seja o RH de uma empresa brasileira e est�
 Provavelmente você nem conhece os cursos, muito menos o instrutor desses cursos. Você nem sabe se os cursos são bons. E mesmo que os cursos sejam excelentes, como você pode ter certeza de que o indivíduo realmente concluiu todos eles, assistiu a todas as aulas e fez todos os exercícios?
 
 __Conclusão__:  certos certificados, como os da Oracle, AWS, Azure, entre outros, têm utilidade e __podem__ ser valorizados. Por outro lado, os certificados de plataformas como Udemy, Alura e etc, em geral, são inúteis.
+
+</br>
+
 __Fontes__:
 [Youtube - Brejas e bugs: A verdade sobre certificados](https://www.youtube.com/watch?v=FGDrvfFn05E&list=PL62G310vn6nEt1kjQGm4mBAsMfmUqFvfS&index=1) &nbsp;
 [Reddit - Devo me preocupar com certificados?](https://www.reddit.com/r/brdev/comments/xpm2ut/devo_me_preocupar_com_certificados/) &nbsp;
