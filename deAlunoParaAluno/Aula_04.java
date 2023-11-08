@@ -2,18 +2,20 @@
 /*
     Uma variável é uma forma inteligente de se armazenar valores na memória RAM.
     Quando jogamos um valor para a memória, seria bom ter uma forma de se referir
-    a ele, para podermos utilizá-lo, e para isto servem as variáveis.
+    a ele, para podermos utilizá-lo posteriormente, e para isto servem as variáveis.
 
+    Em relação as variáveis, temos algumas nomenclaturas, entre elas:
 
     DECLARAÇÃO:
         Uma declaração de variável nada mais é do que simplesmente dizer que uma variável existe.
-        Para declarar uma, colocares o seu tipo de dado e o identificador (nome da variável).
+        Para declarar uma, coloque seu tipo de dado e o identificador (nome da variável).
         Isto faz com que determinado local da memória seja guardado exclusivamente para ela.
         Ao declarar uma variável, podemos colocar ou não o seu valor.
 
     TIPO DE DADO DA VARIÁVEL:
-        O tipo de dado da variável é colocado na declaração da variável, e ele é definido com base
-        no que precisamos armazenar nela. Por exemplo, se precisarmos armazenar um número inteiro, utilizaremos
+        O tipo de dado da variável é colocado na declaração da variável. O tipo de dado é
+        escolhido com base no que precisamos armazenar nela.
+        Por exemplo, se precisarmos armazenar um número inteiro, utilizaremos
         uma variável do tipo 'int'. Se precisarmos armazenar um número decimal, utilizaremos uma variável do
         tipo 'double'.
 
