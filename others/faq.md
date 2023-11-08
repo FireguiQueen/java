@@ -60,12 +60,12 @@ __Conclusão__:  certos certificados, como os da Oracle, AWS, Azure, entre outro
 </br>
 
 __Fontes__:
-[Youtube - Brejas e bugs: A verdade sobre certificados](https://www.youtube.com/watch?v=FGDrvfFn05E&list=PL62G310vn6nEt1kjQGm4mBAsMfmUqFvfS&index=1) &nbsp; &nbsp; | &nbsp; &nbsp;
-[Reddit - Devo me preocupar com certificados?](https://www.reddit.com/r/brdev/comments/xpm2ut/devo_me_preocupar_com_certificados/) &nbsp; &nbsp; | &nbsp; &nbsp;
+[Youtube - Brejas e bugs: A verdade sobre certificados](https://www.youtube.com/watch?v=FGDrvfFn05E&list=PL62G310vn6nEt1kjQGm4mBAsMfmUqFvfS&index=1) &nbsp; | &nbsp;
+[Reddit - Devo me preocupar com certificados?](https://www.reddit.com/r/brdev/comments/xpm2ut/devo_me_preocupar_com_certificados/) &nbsp; | &nbsp; 
 [Reddit - Certificados de cursos online são relevantes para as empresas na hora de contratar?](https://www.reddit.com/r/brdev/comments/rz8q7m/certificados_de_cursos_online_s%C3%A3o_relevantes_para/) &nbsp; &nbsp; | &nbsp; &nbsp; 
-[Reddit - Quais certificados são reconhecidos pelo mercado?](https://www.reddit.com/r/brdev/comments/10d43nl/quais_certificados_s%C3%A3o_reconhecidos_pelo_mercado/) &nbsp; &nbsp; | &nbsp; &nbsp;
-[Reddit - Certificado vale tanto assim para o currículo?](https://www.reddit.com/r/brdev/comments/13d5ane/certificado_vale_tanto_assim_para_o_curr%C3%ADculo/) &nbsp; &nbsp; &nbsp; &nbsp;
-[Reddit - Certificado (pra mostrar no LinkeDisney), é válido?](https://www.reddit.com/r/brdev/comments/17no5xd/certificado_pra_mostrar_no_linkedisney_%C3%A9_v%C3%A1lido/) &nbsp; &nbsp; | &nbsp; &nbsp;
+[Reddit - Quais certificados são reconhecidos pelo mercado?](https://www.reddit.com/r/brdev/comments/10d43nl/quais_certificados_s%C3%A3o_reconhecidos_pelo_mercado/) &nbsp; | &nbsp;
+[Reddit - Certificado vale tanto assim para o currículo?](https://www.reddit.com/r/brdev/comments/13d5ane/certificado_vale_tanto_assim_para_o_curr%C3%ADculo/) &nbsp; | &nbsp;
+[Reddit - Certificado (pra mostrar no LinkeDisney), é válido?](https://www.reddit.com/r/brdev/comments/17no5xd/certificado_pra_mostrar_no_linkedisney_%C3%A9_v%C3%A1lido/) &nbsp; | &nbsp;
 [Reddit - Vale a pena acumular certificados online?](https://www.reddit.com/r/programacao/comments/148bpbm/vale_a_pena_acumular_certificados_online/) &nbsp; &nbsp;
 
 </br>
