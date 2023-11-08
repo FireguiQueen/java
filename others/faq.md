@@ -56,6 +56,14 @@ Vamos pensar nisso: imagine que você seja o RH de uma empresa brasileira e est�
 Provavelmente você nem conhece os cursos, muito menos o instrutor desses cursos. Você nem sabe se os cursos são bons. E mesmo que os cursos sejam excelentes, como você pode ter certeza de que o indivíduo realmente concluiu todos eles, assistiu a todas as aulas e fez todos os exercícios?
 
 __Conclusão__:  certos certificados, como os da Oracle, AWS, Azure, entre outros, têm utilidade e __podem__ ser valorizados. Por outro lado, os certificados de plataformas como Udemy, Alura e etc, em geral, são inúteis.
+__Fontes__:
+[Youtube - Brejas e bugs: A verdade sobre certificados](https://www.youtube.com/watch?v=FGDrvfFn05E&list=PL62G310vn6nEt1kjQGm4mBAsMfmUqFvfS&index=1) &nbsp;
+[Reddit - Devo me preocupar com certificados?](https://www.reddit.com/r/brdev/comments/xpm2ut/devo_me_preocupar_com_certificados/) &nbsp;
+[Reddit - Certificados de cursos online são relevantes para as empresas na hora de contratar?](https://www.reddit.com/r/brdev/comments/rz8q7m/certificados_de_cursos_online_s%C3%A3o_relevantes_para/) &nbsp;
+[Reddit - Quais certificados são reconhecidos pelo mercado?](https://www.reddit.com/r/brdev/comments/10d43nl/quais_certificados_s%C3%A3o_reconhecidos_pelo_mercado/) &nbsp;
+[Reddit - Certificado vale tanto assim para o currículo?](https://www.reddit.com/r/brdev/comments/13d5ane/certificado_vale_tanto_assim_para_o_curr%C3%ADculo/) &nbsp;
+[Reddit - Certificado (pra mostrar no LinkeDisney), é válido?](https://www.reddit.com/r/brdev/comments/17no5xd/certificado_pra_mostrar_no_linkedisney_%C3%A9_v%C3%A1lido/) &nbsp;
+[Reddit - Vale a pena acumular certificados online?](https://www.reddit.com/r/programacao/comments/148bpbm/vale_a_pena_acumular_certificados_online/) &nbsp;
 
 </br>
 
