@@ -6,6 +6,9 @@
 
 // Os colchetes representam um bloco, um escopo.
 /*
+    ! Não se preocupe caso não entenda a explicação, ao longo do tempo, você fácilmente
+    entenderá o que é um escopo.
+
     O escopo determina quais itens (geralmente variáveis) do nosso programa estarão
     disponíveis ou não em outras partes dele.
     O escopo quem define o grau de ocultação de uma informação, isto é,
@@ -32,12 +35,12 @@ class Aula_02
 
     // Este é o nosso método principal e ele indica o PONTO DE PARTIDA do nosso programa;
     // Este método quem derá inicio a execução de todas as instruções de nosso programa.
-    // A class_aula 02 tem seu escopo, e dentro deste escopo, foi criado outro escopo (o método main)
+    //>> class_aula 02 tem seu escopo, e dentro deste escopo, foi criado outro escopo (o método main)
     public static void main(String[] args)
     {
         // ESTE É O ESCOPO DO MÉTODO PRINCIPAL, AQUI SERÁ PASSADO AS INSTRUÇÕES DO NOSSO PROGRAMA.
 
-        // O "println" é o método responsável por imprimir uma mensagem em nosso terminal.
+        // O "println" é responsável por imprimir uma mensagem em nosso terminal.
         // Dentro dos parênteses, passamos uma string que deve estar contida entre aspas duplas.
         System.out.println("Olá!");
 
