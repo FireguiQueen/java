@@ -11,7 +11,7 @@
 
 import java.util.Scanner;
 
-public class School{
+public class Aula_35{
     public static void main(String[] args)
     {
         Scanner userInput = new Scanner(System.in);
