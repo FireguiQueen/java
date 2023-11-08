@@ -1,7 +1,7 @@
 // Tipos de dados - PRIMITIVOS
 
 
-class Aula_06{
+class Aula_07{
 
     public static void main(String[] args){
 
