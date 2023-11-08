@@ -13,10 +13,13 @@ class Aula_02
     // Este método quem derá inicio a execução de todas as instruções de nosso programa.
     // > Caso não coloquemos um método principal (main) esta será uma classe de molde utilizada para criar objetos.
     // > Mas veremos isto mais pra frente.
-    public static void main(String[] args){
-
+    public static void main(String[] args)
+    {
+        // NESTE ESCOPO, QUE PERTENCE AO MÉTODO PRINCIPAL, SERÁ PASSADA AS INSTRUÇÕES DO NOSSO PROGRAMA.
+        
         // O "println" é o método responsável por imprimir uma mensagem em nosso terminal.
         // Dentro dos parênteses, passamos uma string que deve estar contida entre aspas duplas.
         System.out.println("Olá!");
+
     }
 }
