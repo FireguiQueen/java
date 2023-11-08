@@ -1,13 +1,12 @@
-// Matemática 
+// EXERCÍCIO DE MATEMÁTICA
 
 public class Aula_09
 {
-
     public static void main(String[] args)
     {
-        float base = 50; 
-        float high = 120; 
-        float trianguleArea = (base * high) / 2;
+        double base = 50;
+        double altura = 120;
+        double trianguleArea = (base * altura) / 2;
 
         System.out.println("A área do triângulo de base " + base + ", e de altura " + high + " é igual a " + trianguleArea);
         // output: 3000.0 
@@ -17,8 +16,9 @@ public class Aula_09
         // operações numa expressão. - Wikipedia 
 
         // Então por exemplo, na matemática, se tivermos a seguinte expressão: 
-        int calculo = 10 + 10 *2;
-        // será feito PRIMEIRO 10 VEZES dois e depois será somado o 10. O resultado então será '30'. 
+        // >>> 10 + 10 *2;
+        // Será feito primeiramente: 10 * 2 e depois será somado +10.
+        // O resultado então será '30'.
         
         // No java não é diferente, ele funciona da mesma maneira, e assim como na matemática, podemos colocar
         // os parentensis para sinalizar que determinada parte deve ser calculada primeiro. 
