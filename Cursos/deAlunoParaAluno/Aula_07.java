@@ -1,8 +1,7 @@
-// Tipos de dados - PRIMITIVOS
+// TIPOS DE DADOS PRIMITIVOS
 
 
 class Aula_07{
-
     public static void main(String[] args){
 
         // Tipos para números INTEIROS

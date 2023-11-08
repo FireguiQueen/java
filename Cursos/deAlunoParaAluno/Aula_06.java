@@ -1,8 +1,6 @@
-// Números de ponto flutuante
-
+// NÚMEROS DE PONTO FLUTUANTE (decimais)
 
 class Aula_06{
-
     public static void main(String[] args){
 
         // variáveis que armazenam números inteiros usam o tipo 'int'.
@@ -21,26 +19,24 @@ class Aula_06{
         System.out.println(numero_01 / numero_02);
         // output: 37
 
-        // O nosso output foi 37 e não 37.5, ou seja, o nosso número quebrado não apareceu. 
+        // O nosso output foi 37 e não 37.5, ou seja, a parte decimal do valor não apareceu.
 
         // Vemos também o desaparecimento dos números quebrados neste exemplo:
-        System.out.println(4 / 150); 
-        // Logicamente, o resultado correto é '0,02', mas o nosso output será 0. 
-        // Então vemos que de fato, apenas números inteiros estão sendo retornados.
+        // O resultado correto é '0,02', mas o nosso output será 0.
+        System.out.println(4 / 150);
 
 
-        // Você pode pensar: "bem, a solução é bem simples :o, basta colocar o tipo de dado 'double' xD xD"
+        // Podemos pensar que, para ter o valor decimal mostrado, basta colocar nossa expressão em uma variável do tipo 'double'.
         int num0 = 150;
         int num1 = 4;
-        double divisaoFinal = num0 / num1; // 150 dividido por 4. Resultado esperado: 37.5  
-        
+        double divisaoFinal = num0 / num1;
+
         System.out.println(divisaoFinal);
         // ouput: 37 (resultado incorreto..)
 
-        // Mas não, não é assim que o Java funciona. Mas por que?
+        // MAS NÃO, não é assim que o Java funciona.
         /*
             Um número inteiro dividido por outro número inteiro RESULTARÁ SEMPRE em um número inteiro.
-            >> INDEPENDENTE do tipo de dado que irá armazenar eles. 
 
             Quando dizemos que uma variável do tipo 'double' irá armazenar a divisão de 150 por 4, estamos
             apenas dizendo ao Java que aquela variável irá SURPORTAR um valor quebrado. 
@@ -51,6 +47,9 @@ class Aula_06{
             Para obter resultados com casas decimais, pelo menos um dos operandos deve ser um número de 
             ponto flutuante.
         */
+        // PARA OBTER O RESULTADO CORRETO, UM DOS NÚMERO PRECISA SER DE PONTO FLUTUANTE.
+        System.out.println(150 / 4.0);
+        // output: 37.2 (resultado correto).
 
     }
 }
