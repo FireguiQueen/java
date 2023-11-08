@@ -1,17 +1,36 @@
 // VARIÁVEIS
+/*
+
+
+    É claro, esta mesma variável pode ser seu valor reatribuido, ou seja, seu valor trocado.
+
+    DECLARAÇÃO:
+        Uma declaração de variável nada mais é do que simplesmente dizer que uma variável existe.
+        -> Podemos definir um valor a ela ou não.
+
+    TIPO DE DADO DA VARIÁVEL:
+        O tipo de dado da variável é colocado na declaração da variável, e ele é definido com base
+        no que precisamos armazenar nela.
+        Por exemplo, se precisarmos armazenar um número inteiro, utilizaremos uma variável do tipo 'int'.
+        Se precisarmos armazenar um número decimal, utilizaremos uma variável do tipo 'double'.
+
+    INICIALIZAÇÃO E ATRIBUIÇÃO:
+        Inicializar uma variável consiste em atribuir pela primeira vez um valor à nossa variável.
+        Caso a nossa variável já tenha um valor e fazemos uma atribuição, isto se chama reatribuição
+        de valor, ou seja, estamos redefinindo seu valor.
+
+*/
 
 public class Aula_04{
     
     public static void main(String[] args){
         
-        // Esta é uma declaração (declaramos uma variável).
-        // Para fazer uma declaração, especificamos o seu tipo de dado (int) e o seu nome (x).
-        // Como é do tipo "int", a variável aceita somente números INTEIROS!
+        // Esta é uma declaração, e observe que ela não foi inicializada.
+        // Para fazer uma declaração, especificamos o seu tipo de dado: int; e o seu nome: x;
+        // O seu tipo de dado é 'int', ou seja, esta variável aceita somente números INTEIROS!
         int x;
-
-        // Agora, podemos atribuir um valor inteiro a ela;
+        
         // Esse processo é chamado de inicialização da variável e ocorre quando atribuímos um valor a ela.
-        // Usamos o seu nome, um sinal de atribuição (=) e um valor.
         x = 50;
 
 
