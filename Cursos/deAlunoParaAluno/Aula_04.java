@@ -51,7 +51,5 @@ public class Aula_04 {
         // Para concatenar (juntar) valores em Java, usamos o operador '+'. Por exemplo, para juntar o valor da variável + uma string:
         System.out.println("José tem " + x + " anos");
         // Saída (output): "José tem 50 anos"
-
-        /* Observe que no resultado, o valor de x (50) está entre aspas também. Isso acontece porque tudo o que é impresso no terminal é tratado como uma string, mas a variável x mantém seu tipo de dado, que é inteiro (int). */
     }
 }
