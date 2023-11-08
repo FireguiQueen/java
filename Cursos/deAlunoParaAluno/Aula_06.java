@@ -54,6 +54,6 @@ class Aula_06{
         int jj = 50;
         int ll = 20;
         System.out.println( (double)jj / ll);
-        
+
     }
 }

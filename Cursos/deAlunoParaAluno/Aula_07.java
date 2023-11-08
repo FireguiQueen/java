@@ -1,14 +1,13 @@
 // TIPOS DE DADOS PRIMITIVOS
 
-
 class Aula_07{
     public static void main(String[] args){
 
         // Tipos para números INTEIROS
-        byte num;       // para valores muitos baixos  -- utiliza apenas UM byte para formar números;
-        short num1;     // para valores baixos         -- utiliza DOIS bytes para formar números;
-        int num2;       // para valores médios         -- utiliza QUATRO bytes para formar números;
-        long num3;      // para valores altos          -- utiliza OITO bytes para formar números.
+        byte num;       // para valores muitos baixos  -- utiliza apenas UM byte para salvar valores;
+        short num1;     // para valores baixos         -- utiliza DOIS bytes para salvar valores;
+        int num2;       // para valores médios         -- utiliza QUATRO bytes para salvar valores;
+        long num3;      // para valores altos          -- utiliza OITO bytes para salvar valores.
 
 
         // Tipos para números QUEBRADOS

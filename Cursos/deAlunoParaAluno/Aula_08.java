@@ -14,24 +14,24 @@ public class Aula_08{
         // Observe que NÃO podemos usar as palavras-chave do java como bem entendermos.
         // Como no exemplo abaixo, onde tentamos definir que o nome da variável é 'false', mas o 'false' já é
         // uma palavra-chave do java. 
-        int false = 5; // retornará erro.
+        // >> int false = 5; // retornará erro.
 
 
         /*  ******************************  */
 
-        // Existem duas formas de printar uma string no console.: 
-        System.out.println("Oi"); 
-        System.out.print("Oi");
+        // Por agora, existem duas formas de printar uma string no console.:
+        // println & print
+        System.out.println("Olá");
+        System.out.print("Olá");
 
         /* 
-            Elas são bem parecidas, e desempenham a mesma função. A diferença é que a 'println' faz com que a 
-            linha seja quebrada, ou seja, ela cria uma NOVA linha após escrever sua mensagem. Inclusive, podemos 
-            compreender como print line new" (apesar de estar gramaticalmente incorreto em inglês). 
+            Elas são bem parecidas, e desempenham a mesma função.
+            A diferença é que a 'println' faz com que a linha seja quebrada, ou seja, ela cria uma NOVA LINHA após printar sua string.
+            O 'ln' significa 'line'.
 
             Já o print (sem o 'ln') faz com que as strings continuem na mesma linha. 
             Podemos observar isto melhor com os exemplos abaixo:
         */
-
 
         System.out.print("Oi");
         System.out.print("Oi");
@@ -51,7 +51,7 @@ public class Aula_08{
         //         OiOi
 
 
-        // Também existe um caracter especial chamado '\n', que podemos entender como "new line". 
+        // Existe um caracter especial chamado '\n', que podemos entender como "new line".
         // Usamos ele em nossa string, para pular para a próxima linha a partir dele. 
         System.out.println("Olá, \n Tudo bem?");
         // output: Olá,
