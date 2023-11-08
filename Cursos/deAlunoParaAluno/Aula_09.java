@@ -16,7 +16,7 @@ public class Aula_09
         // operações numa expressão. - Wikipedia 
 
         // Então por exemplo, na matemática, se tivermos a seguinte expressão: 
-        // >>> 10 + 10 *2;
+        // >>> 10 + 10 * 2;
         // Será feito primeiramente: 10 * 2 e depois será somado +10.
         // O resultado então será '30'.
         
@@ -26,7 +26,7 @@ public class Aula_09
         int calc1 = 20 + 20 * 2; 
         // ouput: 60; 
 
-        // Agora, primeiro é realizado a soma entre os "vintes" e depois é multiplicado.
+        // Mesma expressão, mas desta vez, usando parentesis.
         int calc2 = (20 + 20) * 2;
         // output: 80;
     }
