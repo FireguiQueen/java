@@ -87,7 +87,7 @@ public class Aula_19 {
          * Pois bem, por que não fazer assim? Fazer isto não é uma boa prática, eis a
          * explicação: O código tende a funcionar da mesma maneira, mas pode resultar
          * em alguns problemas, principalmente se fazemos o uso do 'else'.
-         
+
          * Quando colocamos IFs abaixo de IFs (como no exemplo acima), estamos dizendo
          * ao Java que todas essas condições DEVEM ser analisadas. Isso significa que
          * mesmo se a primeira condição for verdadeira, o código continuará a verificar

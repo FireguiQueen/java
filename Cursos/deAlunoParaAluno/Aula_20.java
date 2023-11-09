@@ -1,12 +1,24 @@
 // Operadores lógicos
-
 /*
-    &&: operador lógico "and". Ele requerer que duas ou mais expressões booleanas sejam TRUE.  
-    ||: operador lógico "or". Ele quer que APENAS UMA das expressões booleanas seja TRUE. 
+    && - Operador lógico "and". Ele requerer que duas ou mais expressões booleanas sejam TRUE para retornar TRUE.
+    || - Operador lógico "or". Ele quer que APENAS UMA das expressões booleanas seja TRUE.
+
+    Os operadores lógicos '&&' e '||' são usados entre duas ou mais expressões.
+    Utilizamos eles para fazer muitas coisas, como por exemplo, validações.
+
+    Vamos pensar em um sistema de login.
+    Ele requerer duas coisas para te dar acesso a sua conta:
+    - Você precisa digitar o nome de usuário corretamente
+    - Você precisa digitar a senha do usuáro corretamente
+
+    Como esta validação requer que ambas as expressões sejam verdadeiras,
+    podemos usar o operador lógico '&&'.
 */
+
 
 public class Aula_20{
     public static void main(String[] args){
+
         // EXEMPLOS COM: && 
         int num01 = 50;
         int num02 = 20; 
