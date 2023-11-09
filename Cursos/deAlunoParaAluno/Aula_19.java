@@ -35,11 +35,11 @@ public class Aula_19 {
             System.out.println("Você é maior de idade.");
         }
 
-        
+
         // Utilizar o 'else if' tem apenas o intuito de adicionar mais condições.
         // Podemos ver outro exemplo abaixo:
         /*
-         * Primeiro, definimos como está a temperatura usando uma variável.
+         -->> Primeiro, definimos como está a temperatura usando uma variável.
          * Depois, utilizando o if, perguntamos se a string é igual a "frio".
 
          * Caso este 'if' acima seja falso, teremos a próxima condição 'else if':
@@ -87,12 +87,12 @@ public class Aula_19 {
          * Pois bem, por que não fazer assim? Fazer isto não é uma boa prática, eis a
          * explicação: O código tende a funcionar da mesma maneira, mas pode resultar
          * em alguns problemas, principalmente se fazemos o uso do 'else'.
-         *
+         
          * Quando colocamos IFs abaixo de IFs (como no exemplo acima), estamos dizendo
          * ao Java que todas essas condições DEVEM ser analisadas. Isso significa que
          * mesmo se a primeira condição for verdadeira, o código continuará a verificar
          * todas as condições subsequentes, o que pode ser ineficiente.
-         *
+
          * E além de ser ineficiente, temos um pequeno problema com o 'else'. Por
          * exemplo, o primeiro "if" foi analisado, e sua condição é verdadeira, logo seu
          * bloco é executado. Como a próxima condicional também é um "if" ela será lida
