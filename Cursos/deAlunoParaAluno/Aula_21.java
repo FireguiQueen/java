@@ -14,10 +14,11 @@ public class Aula_21{
         // Ele faz com que seja retornado TRUE ou FALSE a nossa variável 'isLeap'
         boolean isLeap = (YEAR % 400 == 0) || (YEAR % 4 == 0 && YEAR % 100 != 0);
 
-        // Podemos armazenar 'isLeap' no 'if', pois a variável 'isLeap' está armazenando "true" ou "false".
+        // Podemos armazenar 'isLeap' no 'if' pois a variável 'isLeap' está armazenando "true" ou "false".
         if (isLeap)
         {
             System.out.println("The year is a leap year.");
         }
+        
     }
 }
