@@ -89,7 +89,7 @@ public class Aula_20 {
         // boolean x = 5;
 
         // Não retorna erro. Pois agora a variável 'x' irá valer FALSE devido ao OPERADOR DE COMPARAÇÃO.
-        // Isto é, nossa expressão  "5>5" será analisada e irá retornar um valor boolean. Este valor será salvo na variável. 
+        // Isto é, nossa expressão  "5>5" será analisada e irá retornar um valor boolean. Este valor será salvo na variável.
         boolean x = 5 > 5;
 
 
