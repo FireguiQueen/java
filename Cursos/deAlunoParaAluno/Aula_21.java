@@ -19,6 +19,6 @@ public class Aula_21{
         {
             System.out.println("The year is a leap year.");
         }
-        
+
     }
 }
