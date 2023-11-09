@@ -1,5 +1,4 @@
-// Unix time 
-
+// Unix time
 /*
     A hora Unix é uma forma de representar um carimbo de data/hora, representando a hora como o número 
     de segundos desde 1º de janeiro de 1970 às 00:00:00 UTC. 

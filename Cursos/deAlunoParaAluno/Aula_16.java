@@ -1,4 +1,12 @@
-// ATALHOS DE OPERADORES
+// SYNTATIC SUGAR
+/*
+    wikipedia:
+    um açúcar sintático é uma sintaxe dentro da linguagem de programação que tem
+    por finalidade tornar suas construções mais fáceis de serem lidas e expressas.
+    Ela faz com que o uso da linguagem se torne "mais doce" para o uso humano,
+    permitindo que suas funcionalidades sejam expressas mais claramente,
+    mais concisamente ou, ainda, como um estilo alternativo preferido por alguns.
+*/
 
 public class Aula_16{
     public static void main(String[] args)
