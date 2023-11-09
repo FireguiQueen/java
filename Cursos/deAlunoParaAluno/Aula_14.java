@@ -1,5 +1,4 @@
 // RESTO DA DIVISÃO: %
-
 /* 
     Em Java, e em outras diversas outras linguagens, o operador de resto de divisão é representado pela porcentagem (%).
 
