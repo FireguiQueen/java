@@ -1,15 +1,18 @@
 // CASTING 
-// O casting é uma transformação aplicada em valores numéricos para modificar seu tipo de dado.
-// É o ato de forçarmos uma determinada variável ou valor a ser de um determinado tipo.
+/*
+    O casting é uma transformação aplicada em valores numéricos para modificar seu tipo
+    de dado.
+    É o ato de forçarmos uma determinada variável ou valor a ser de um determinado tipo.
+ */
 
 public class Aula_12{
-
     public static void main(String[] args)
     {
         // Na aula 06 vimos que um número inteiro divido por outro número inteiro sempre resulturá em um valor inteiro.
         /*
             Isto é, 50 dividido por 3 é '16.6666..', ou seja, um valor quebrado. 
-            Porém, no java, se realizarmos este cálculo (50/3), teremos como resultaod, um valor totalmente inteiro.
+            Porém, no java, se realizarmos este cálculo (50/3), teremos como resultado, teremos um valor inteiro
+            que não contém partes decimais.
         */
         System.out.println(50 / 3); 
         // output: 16. 
