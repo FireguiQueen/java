@@ -1,4 +1,4 @@
-// EXERCICIO: Ano bissexto
+// EXERCÍCIO: Ano bissexto
 
 import java.util.Scanner;
 
