@@ -18,23 +18,24 @@ public class Aula_19 {
         }
 
         // Mas como vamos colocar uma mensagem específica para quem inserir uma idade
-        // negativa?
-        // Afinal, idade negativa não existe.
+        // negativa? Afinal, idade negativa não existe.
 
-        // Para isso, NÃO DEVEMOS ADICIONAR MAIS UM "IF" AO CÓDIGO, utilizaremos o
-        // "else if".
-        // O "else if" é como o 'if', porém, ele só é lido caso a condição anterior seja
-        // falsa.
+        // Para isso, vamos colocar mais uma condição. Mas NÃO DEVEMOS ADICIONAR MAIS UM "IF" AO CÓDIGO
+        // Utilizaremos o "else if".
+        // O "else if" é como o 'if', porém, sua condição só é avaliada caso a condição anterior seja falsa.
 
         byte age = 10;
         if (age <= 0) {
             System.out.println("Idade inserida não é válida.");
-        } else if (age <= 18) {
+        } else if (age <= 18) // esta condição é avaliada somente se a anterior for 'false'.
+        {
             System.out.println("Você é menor de idade.");
-        } else {
+        } else
+        {
             System.out.println("Você é maior de idade.");
         }
 
+        
         // Utilizar o 'else if' tem apenas o intuito de adicionar mais condições.
         // Podemos ver outro exemplo abaixo:
         /*
