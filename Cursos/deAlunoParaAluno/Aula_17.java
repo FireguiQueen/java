@@ -1,7 +1,7 @@
 // STRINGS
 /*
     O conceito "string" refere a uma cadeia de caracteres.
-    Ou seja, caracteres separados, que quando unidos, foram uma "string".
+    Ou seja, caracteres separados, que quando unidos, formam uma "string".
  */
 import java.util.Scanner; 
 
