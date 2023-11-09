@@ -1,12 +1,14 @@
 // STRINGS
-
+/*
+    O conceito "string" refere a uma cadeia de caracteres.
+    Ou seja, caracteres separados, que quando unidos, foram uma "string".
+ */
 import java.util.Scanner; 
 
 public class Aula_17{
     public static void main(String[] args)
     {
         Scanner input = new Scanner(System.in);
-
 
         // Define uma string. Ela não é um tipo de dado primitivo, é um objeto. 
         String nome = "Osvaldo";
@@ -32,8 +34,5 @@ public class Aula_17{
         // Com o "nextLine", não temos esta limitação. Ela só para de capturar quando vamos para a próxima linha.
         // Ou seja, quando pressionamos "enter".
         String name02 = input.nextLine();
-
-        System.out.println(name01 + "e" + name02);
-
     }
 }
