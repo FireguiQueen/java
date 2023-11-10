@@ -25,6 +25,6 @@
 # Java Virado No Jiraya | _DevDojo_
   Data        | Aulas assistidas    
 :-----------: |:-----------------:
-09/11/2023    | Aula 01 até Aula
+09/11/2023    | Aula 00 até Aula 03
 
 
