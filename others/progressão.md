@@ -14,7 +14,7 @@
 03/11/2023    | Aula 34
 04/11/2023    | Aula 35 + muitas anotações
 05/11/2023    | Aula 36 até aula 41
-06/11/2023    | Aula 42 até aula 47
+**06/11/2023**    | **Aula 42 até aula 47 _(última aula)_**
 07/11/2023    | Correções de explicações
 08/11/2023    | Correções de explicações
 09/11/2023    | Correções de explicações
@@ -25,6 +25,6 @@
 # Java Virado No Jiraya | _DevDojo_
   Data        | Aulas assistidas    
 :-----------: |:-----------------:
-09/11/2023    | Aula 01 até Aula
+09/11/2023    | Aula 00 até Aula 03
 
 
