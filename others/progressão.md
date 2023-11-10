@@ -26,5 +26,7 @@
   Data        | Aulas assistidas    
 :-----------: |:-----------------:
 09/11/2023    | Aula 00 até Aula 03
+10/11/2023    | Aula 00 até Aula 07
+
 
 
