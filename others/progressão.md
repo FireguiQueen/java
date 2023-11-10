@@ -14,7 +14,7 @@
 03/11/2023    | Aula 34
 04/11/2023    | Aula 35 + muitas anotações
 05/11/2023    | Aula 36 até aula 41
-06/11/2023    | Aula 42 até aula 47
+06/11/2023    | Aula 42 até aula 47 (última aula)
 07/11/2023    | Correções de explicações
 08/11/2023    | Correções de explicações
 09/11/2023    | Correções de explicações
