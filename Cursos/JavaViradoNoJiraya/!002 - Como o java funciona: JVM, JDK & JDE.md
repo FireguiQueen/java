@@ -37,6 +37,13 @@ Isto é, você pode estar utilizando Linux, mas precisa executar um programa que
 Windows. Uma forma de resolver este problema é instalando uma máquina virtual no seu PC, e colocando
 um sistema operacional Windows nela, e através dela você pode executar este programa. 
 
+## Linguagem compilada
+Uma linguagem compilada significa que precisamos compilar o nosso programa feito nesta linguagem.
+Após a criação do nosso programa, o mesmo passará por um processo de compilação. 
+O código contido neste programa não pode ser lido por uma máquina, pois elas só entendem zeros e uns (binário).
+Então, o nosso código será transformado em um código para as máquinas entenderem entenderem. 
+
+
 ## Java Virtual Machine (JVM)
 Após entender alguns "pilares" da computação, podemos, finalmente, entendr a JVM. 
 
@@ -49,11 +56,22 @@ Para que um jogo seja desenvolvido para os sistemas operacionais, o código-font
 alterações, e no fim, acaba que os desenvolvedores precisam "recriar" este jogo para que ele rode por exemplo,
 em um Ubuntu (sistema operacinal linux). 
 
-Um jeito de resolver este problema é com o Java. O java é uma linguagem de programação compilada.
-Isto é, após a criação do nosso programa, que foi escrito em um arquivo .java, este mesmo arquivo passará por um processo
-de compilação. O código deste arquivo será transforma em um código para as máquinas entenderem.
-criaremos nosso arquivo .java, colocaremos nossas instruções nele e
+O java surge para resolver este problema, através da JVM. Programas feitos em Java não foram feitos para
+serem executados diretamente por nossas máquinas, e sim pela JVM (Java Virtual Machine).
+A JVM é uma máquina virtual que é executada dentro da nossa máquina real. E o único papel desta máquina virtual é de 
+entender programas feitos em Java.  
 
+Quando criamos um programa em java, este mesmo programa precisa passar por um processo de compilação. 
+Ou seja, java é uma linguagem compilada, mas é um pouco diferente do comum.
+Após a compilação, será criado um arquivo .class, mas o código deste arquivo não foi feito para ser lido
+diretamente pelo nosso computador, este arquivo foi feito para ser lido pela máquina virtual do Java (JVM).
+Por isso, dizemos que o java é uma linguagem compilada e interpretada ao mesmo tempo.
+1. Escrevemos nosso programa usando a linguagem java;
+2. Compilamos este programa com o javac (java compiller);
+3. O processo de compilação gera um arquivo chamado ".class", que contém bytecode.
+4. Este arquivo ".class" é lido e interpretado pela JVM.
 
+![java and class](https://github.com/FireguiQueen/Java/assets/98475125/bd5e74c5-2332-4bea-b09a-4fb5a1cce062)
 
+![JVM](https://github.com/FireguiQueen/Java/assets/98475125/0f973e29-41f0-424e-b832-634ada8c4d5c)
 
