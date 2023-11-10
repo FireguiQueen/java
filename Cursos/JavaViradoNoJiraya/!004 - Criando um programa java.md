@@ -15,6 +15,6 @@
 
 3. Compile este arquivo; Será gerado um arquivo `.class`
 4. Pegue este arquivo `.class` e mande ele ser lido pela JVM através do comando `java`
-```
+```text
     java primeiroPrograma 
 ```
