@@ -55,3 +55,14 @@ Quando criamos um programa em Java, ele precisa passar por um processo de compil
 
 A capacidade do Java de ser "multiplataforma" significa que os programas escritos em Java podem ser executados em várias
 plataformas sem a necessidade de grandes modificações, desde que haja uma Máquina Virtual Java (JVM) disponível para essa plataforma específica.
+
+<br>
+
+# JDK e JDE
+Para desenvolvedores, usamos o JDK (java development kit), que nada mais é do que um kit de desenvolvimento para
+programadores java. Este kit contém a JVM (para entendremos arquivos .class), contém também o javac, que é o compilador
+responsável pro pegar nosso programa .java e transformá-lo em um .class. E outras ferramentes, como debuggers,
+que são usados para depurar (corrigir falhas e bugs) do nosso código. 
+
+A JDE (java deve)
+
