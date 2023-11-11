@@ -23,7 +23,7 @@ estejam relacionados a soma, subtração, divisão e assim por diante.
 Já no segundo módulo, chamado 'Álgebra', é de se esperar vídeos relacionados a equações, 
 fatoração e outros temas similares. _Podemos imaginar que as seções são os pacotes, e as aulas desta seção são as classes._
 
-![analogia-01](./others/explicacaoPackges.png)
+![analogia-01](./others/analogiaParaPacotes-cursoMatematica.png)
 > Imagem ilustrativa retirada da internet. 
 
 <br>
@@ -33,7 +33,7 @@ Suponha que você goste de tirar muitas fotos e, ao mesmo tempo, valorize a orga
 Para salvar suas fotos, você as deixa em seu PC. O diretório (pasta) que contém suas fotos poderia ser organizado 
 da seguinte maneira: 
 
-![analogia-02](./others/fotosPackages.png)
+![analogia-02](./others/analogiaParaPacotes-fotos.png)
 > As pastas 'fotosEspeciais', 'Animais', 'Viagens'.. São pacotes. E as fotos contidas nesses pacotes, são as classes.
 
 <br>
@@ -82,12 +82,12 @@ Para organizá-los no diretório da empresa, criaremos dois novos pacotes dentro
 O primeiro pacote, chamado `com`, conterá o projeto comercial.
 O segundo pacote, chamado `org`, conterá o projeto insticucional. 
 
-![explicacao-packages](./others/srcExplicacao.png)
+![explicacao-packages](./others/srcPackages.png)
 
 O pacote `com` é o pacote responsável por armazenar os projetos comerciais da empresa.
 Mas no momento, há somente um projeto _comercial_, o 'teachmore'. 
 
-![explicacao-packages](./others/teachmore.png)
+![explicacao-packages](./others/comercialPackages.png)
 
 Talvez tenha ficado um pouco estranho, pois o nome do nosso pacote `com` se tornou `com.teachmore`.
 Na verdade, este ponto final, significa que estamos acessando o pacote `teachmore`.
