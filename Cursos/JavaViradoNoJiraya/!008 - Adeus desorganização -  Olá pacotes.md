@@ -42,7 +42,7 @@ Então, _criaremos dois novos pacotes_ dentro do `src`.
 O pacote `.com` que se refere ao projeto comercial da empresa.
 E o pacote `.org` que se refere ao projeto institucional da empresa que não possui fins lucrativos. 
 
-[explicacao-packages](./others/srcPackages.png
+[explicacao-packages](./others/srcPackages.png)
 
 
 
