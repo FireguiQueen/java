@@ -1,4 +1,4 @@
-> A partir desta aula, as aulas ficaram contidas no diretório `src`. 
+> A partir daqui, as próximas aulas ficaram contidas no diretório `src`. 
 
 # Packages (pacotes)
 Uma classe em Java é um arquivo que guarda instruções sobre como realizar/construir algo. 
@@ -11,8 +11,7 @@ específico no programa. Por exemplo, temos classes para tipos de dados, represe
 conexão com bancos de dados, entre outras funcionalidades. Imagina todas essas classes existindo juntas em um 
 único nível de documento? E as classes que foram desenvolvidas por nós para criar o programa? 
 __Como ficaria a organização desse nosso diretório, hein?!__
-> Os pacotes são, na verdade, subdiretórios contidos no diretório src. Eles são utilizados para organizar 
-> nosso programa e também armazenam as classes usadas no desenvolvimento do programa.
+> Resumindamente: _Os pacotes são subdiretórios contidos no diretório src. Eles são utilizados para organizar nosso programa e também armazenam as classes usadas no desenvolvimento do programa._
 
 <br>
 
@@ -123,3 +122,9 @@ Por fim, o nosso repostório é organizado da seguinte forma:
 ## Utilidade
 A utilidade dos pacotes já está evidente, mas podemos reforçar com o mesmo exemplo. Imagine um novo membro, coreano, ingressando na PowerSoft na equipe de desenvolvimento. Seu foco é trabalhar na interface do site. Como nosso projeto está altamente organizado, em questão de segundos, ele pode localizar a classe responsável pelas interfaces. Isso ilustra o valor dos pacotes na facilitação da localização e gestão de diferentes partes do código, o que é fundamental para novos integrantes entenderem e colaborarem eficientemente.
 
+<br>
+
+______________________
+
+# Import
+O `import` é uma 
