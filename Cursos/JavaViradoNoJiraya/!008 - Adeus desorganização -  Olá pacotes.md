@@ -8,7 +8,7 @@ Podemos fazer uma analogia com um curso, onde nele será organizado varios módu
 teremos o primeiro módulo chamado "Artimética", pelo __nome__, já é de se esperar que os vídeos são relacinados a soma, subtração, divisão e assim por diante.
 Já o segundo módulo, chama-se "Algebra", e pelo seu __nome__, é de se esperar vídeos relacionados a equações, fatoração e etc.
 
-![analogia-01](./others/explicacaoPackages.png)
+![analogia-01](./others/explicacaPackages.png)
 > Imagem ilustrativa retirada da internet
 
 Outro exemplo disso seria o nosso próprio computador. Vamos supor que você goste de tirar muitas
