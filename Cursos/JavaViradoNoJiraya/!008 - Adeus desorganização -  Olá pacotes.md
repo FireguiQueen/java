@@ -96,10 +96,24 @@ Mas a realidade é que, até agora, já foram criados dois pacotes:
 - teachmore
 
 Agora sim, colocaremos pacotes relacionados a funcionalidade da coisa. O nosso projeto
-pode incluir pacotes chamados: controller, view, model, util.. 
+pode incluir pacotes chamados: controller, view, model, util e entre outros.
+Para esta explicação, nosso projeto comercial conterá apenas dois pacotes: view e controller. 
+
+- __View:__
+O "view" é o pacote que contém classes responsáveis pela interface com a qual o usuário interage. 
+É como a janela pela qual você vê e interage com um programa. Ele exibe as informações e os dados de maneira que o usuário 
+possa compreender e interagir de forma fácil e amigável. É a camada que cuida de como as coisas são apresentadas na tela, garantindo que a experiência do usuário seja clara e intuitiva.
+
+- __Controller:__
+O "controller"  é o pacote que possui classes que gerenciam e controlam a lógica por trás das interações do usuário com um 
+aplicativo ou sistema. Imagine o "controller" como um direcionador de tráfego, ele recebe as ações do usuário, 
+processa essas ações e decide o que deve acontecer em seguida. 
 
 ![explicacao-packages](./others/projectPackages.png)
 
 
+Por fim, o nosso repostório é organizado da seguinte forma:
+
+![explicacao-packages](./others/projectPackagesIMG.png)
 
 
