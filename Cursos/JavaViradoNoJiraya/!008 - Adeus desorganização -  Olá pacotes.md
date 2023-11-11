@@ -1,4 +1,4 @@
-> A partir desta aula, todas as outras serão contidas em pacotes. O pacote que contém as próximas aulas é o `src`. 
+> A partir desta aula, as aulas ficaram contidas no diretório `src`. 
 
 # Packages (pacotes)
 Um pacote armazena classes que podem desempenhar diferentes papéis em nosso programa. O Java já disponibiliza 
@@ -19,7 +19,7 @@ __Como ficaria a organização desse nosso diretório, hein?!__
 Pode-se fazer uma analogia com um curso de matemática, onde ele é organizado por vários módulos diferentes. 
 Por exemplo, teremos o primeiro módulo chamado 'Aritmética'. Pelo nome, já é de se esperar que os vídeos 
 estejam relacionados a soma, subtração, divisão e assim por diante. <br> 
-Já o segundo módulo, chamado 'Álgebra', também pelo nome, é de se esperar vídeos relacionados a equações, 
+Já on segundo módulo, chamado 'Álgebra', é de se esperar vídeos relacionados a equações, 
 fatoração e outros temas similares.
 
 ![analogia-01](./others/explicacaoPackges.png)
