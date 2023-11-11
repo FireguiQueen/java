@@ -20,10 +20,10 @@ Pode-se fazer uma analogia com um curso de matemática, onde o mesmo é organiza
 Por exemplo, teremos a primeira seção chamada 'Aritmética'. Pelo nome, já é de se esperar que os vídeos 
 estejam relacionados a soma, subtração, divisão e assim por diante. 
 Já a segunda seção chama-se 'Álgebra', é de se esperar vídeos relacionados a equações, 
-fatoração e outros temas similares. _Podemos imaginar que as seções são os pacotes, e as aulas desta seção são as classes._
+fatoração e outros temas similares. 
+> _Podemos imaginar que as seções são os pacotes, e as aulas desta seção são as classes._
 
 ![analogia-01](./others/analogiaParaPacotes-cursoMatematica.png)
-> Imagem ilustrativa retirada da internet. 
 
 <br>
 
