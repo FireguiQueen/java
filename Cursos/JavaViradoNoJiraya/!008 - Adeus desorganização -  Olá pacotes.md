@@ -59,7 +59,7 @@ e um site intitucional sem fins lucrativos.
 Para estruturar ambos os projetos da empresa, começamos com o diretório chamado `src (source)`. 
 O `src` será responsável por armazenar todos os projetos dessa empresa      .
 
-![explicacao-src](./others/src.png)
+![explicacao-src](./others/onlysrc.png)
 
 - A url do site comercial será: __teachmore.com__ 
 > O “com” no nome de domínio .com indica um site “comercial”. Isso pode abranger sites de negócios, sites que desejam ganhar dinheiro online , sites pessoais, blogs, portfólios e etc.
