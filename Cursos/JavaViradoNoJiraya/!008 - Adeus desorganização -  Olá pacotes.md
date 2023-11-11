@@ -22,12 +22,19 @@ organizado da seguinte maneira:
 ![analogia-02](./others/img.png)
 
 ### Pacotes em pŕatica
-Vamos imaginar, que sua empresa se chama Power Soft e ela está desenvolvendo um website comercial.
-A url do site será: __https://powersoft.com__ 
+Para se criar pacotes, existe uma convenção, isto é, um jeito padronizado de se organizar eles.
+Vamos imaginar, que sua empresa se chama Power Soft e ela está desenvolvendo um website comercial e um site
+de código aberto. Serão dois sites diferentes, com própositos diferentes, mas ambos, pertencem a mesma empresa. 
+
+- A url do site comercial será: __powersoft.com__ 
 > O “com” no nome de domínio .com indica um site “comercial”. Isso pode abranger sites de negócios, sites que desejam ganhar dinheiro online , sites pessoais, blogs, portfólios e etc.
 
-Vamos começar pelo diretório chamado `src (source)`, e nele, será contido todos os nossos pacotes. 
-Dentro do `src` criaremos um pacote referente ao nome do nosso programa. 
+- A url do site de código será: __powersoft.org__
+> O nome é a abreviação para "organização", porque o domínio . org foi projetado, no início, para ser usado em sites de organizações não-comerciais (sem fins lucrativos).
+
+Para organizar toda essa estrutura, Vamos começar pelo diretório chamado `src (source)`.
+O `src` será responsável por armazenar todos os projetos desta empresa. Como ela está trabalhando em dois ambitos: comercial
+e organização. 
 
 O nosso pacote principal será chamado "com.powersoft"
 
