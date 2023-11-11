@@ -58,7 +58,7 @@ Imagine que você trabalhe para uma empresa chamada TeachMore. A TeachMore está
 um site comercial e um site institucional sem fins lucrativos.
 
 Para organizar esses projetos, começamos com um diretório denominado `src (source)`. 
-O src será responsável por armazenar todos os pacotes que serão criados mais adiante.
+__O src será responsável por armazenar todos os pacotes que serão criados mais adiante.__
 
 ![explicacao-src](./others/onlysrc.png)
 
