@@ -11,6 +11,8 @@ Já o segundo módulo, chama-se "Algebra", e pelo seu __nome__, é de se esperar
 ![analogia-01](./others/explicacaoPackges.png)
 > Imagem ilustrativa retirada da internet
 
+<br>
+
 Outro exemplo disso seria o nosso próprio computador. Vamos supor que você goste de tirar muitas
 fotos, e ao mesmo tempo, você é um cara organizado. Sendo assim, o diretório que conterá suas fotos, pode ser
 organizado da seguinte maneira: 
