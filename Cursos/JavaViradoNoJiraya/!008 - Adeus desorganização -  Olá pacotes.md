@@ -118,4 +118,8 @@ Por fim, o nosso repostório é organizado da seguinte forma:
 
 ![explicacao-packages](./others/projectPackagesIMG.png)
 
+<br>
+
+## Utilidade
+A utilidade dos pacotes já está evidente, mas podemos reforçar com o mesmo exemplo. Imagine um novo membro, coreano, ingressando na PowerSoft na equipe de desenvolvimento. Seu foco é trabalhar na interface do site. Como nosso projeto está altamente organizado, em questão de segundos, ele pode localizar a classe responsável pelas interfaces. Isso ilustra o valor dos pacotes na facilitação da localização e gestão de diferentes partes do código, o que é fundamental para novos integrantes entenderem e colaborarem eficientemente.
 
