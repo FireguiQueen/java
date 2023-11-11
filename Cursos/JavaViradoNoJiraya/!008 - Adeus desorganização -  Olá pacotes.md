@@ -43,21 +43,23 @@ ________________
 # Pacotes em prática
 
 ## Convenções
-Para criar pacotes, existe uma convenção, ou seja, um método padronizado de organizá-los.
-Uma forma simples de se entender uma convenção seria pensar na analogia-02. A pasta "pictures" é uma convenção, indicando o armazenamento de fotos.
-O diretório "família" também segue uma convenção, sugerindo o armazenamento de fotos familiares.
-Independentemente do usuário, a pasta "família" claramente sugere o conteúdo das fotos ali armazenadas.
+Para criar pacotes, segue-se uma convenção, ou seja, um método padronizado globalmente na forma como os organizamos.
+Uma forma simples de se entender uma convenção seria pensar na analogia-02. 
+A pasta "pictures" é uma convenção,  indicando o armazenamento de fotos. Do mesmo modo, o diretório "família" segue outra convenção, sugerindo que armazena 
+fotos familiares. Independentemente do usuário, a pasta "família" deixa claro o conteúdo das fotos que ali estão.
 
-Podemos concluir que, por mais que em Java temos o nome "pacote", este conceito já existe há muito tempo e é utilizado
-em diversos lugares. A diferença é que, no Java, os pacotes não servem somente para organizar um projeto, mas os pacotes
-contém funcionalidades que são usadas em diferentes parte do programa. 
+Podemos concluir que, embora o Java use o termo "pacote", esse conceito já existe há muito tempo e é aplicado em diversos 
+contextos. A diferença é que, no Java, os pacotes não apenas _organizam_ um projeto, mas também são usados para armazenar
+diferentes funcionalidades do programa. 
  
+<br>
+
 ## Exemplos
-Imagine que você trabalhe para uma empresa chmada teachMore. A teachMore está desenvolvendo dois projetos, um site comercial
+Imagine que você trabalhe para uma empresa chmada teachMore. A teachMore está desenvolvendo dois projetos: um site comercial
 e um site intitucional sem fins lucrativos. 
 
 Para estruturar ambos os projetos da empresa, começamos com o diretório chamado `src (source)`. 
-O `src` será responsável por armazenar todos os projetos dessa empresa      .
+O `src` será responsável por armazenar todos os pacotes que serão criados posteriormente.
 
 ![explicacao-src](./others/onlysrc.png)
 
