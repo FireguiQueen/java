@@ -65,19 +65,20 @@ __O src será responsável por armazenar todos os pacotes que serão criados mai
 - A url do site comercial será: __teachmore.com__ 
 > O “com” no nome de domínio .com indica um site “comercial”. Isso pode abranger sites de negócios, sites que desejam ganhar dinheiro online , sites pessoais, blogs, portfólios e etc.
 
-- A url do site institucional será: __teachmore.org__
+- A url do site institucional será: __freeteachmore.org__
 > O nome `org` significa "organização". Um domínio '.org' foi projetado, no início, para ser usado em sites de organizações não-comerciais (sem fins lucrativos).
 
 <br>
 
-O projeto comercial será um site dedicado a conectar professores de diversas áreas com alunos que assinam planos. 
-Para um professor dar aula nesse site, é necessário passar por diversas etapas de avaliação para garantir a capacidade 
-de lecionar. Além disso, este projeto também oferecerá remuneração a professores renomados que ministram aulas no site.
+O projeto comercial será um site dedicado a conectar professores de diversas áreas com os alunos que assinam diferentes
+planos na plataforma. Para um professor dar aula nesse site, é necessário passar por diversas etapas de avaliação para 
+garantir a capacidade de lecionar. Além disso, este projeto irá colocará professores renomeados na plataforma (oferecendo uma remuneração
+para ministrarem suas aulas). 
 
-O projeto institucional será um site sem fins lucrativos, mantido pela comunidade, onde qualquer pessoa pode criar 
-sua própria sala de aula virtual e começar a ensinar. Destinado a pessoas que não desejam ou não podem arcar com os custos 
-relacionados à educação. Além disso, para os professores, o site se torna uma excelente plataforma para aprimorar suas 
-habilidades de ensino e, naturalmente, um espaço para educadores que desejam contribuir de forma gratuita.
+O projeto institucional será um site sem fins lucrativos, mantido pela comunidade. Nele qualquer pessoa pode criar 
+sua própria sala de aula virtual e começar a ensinar. Este projeto é destinado a pessoas que não desejam ou não 
+podem arcar com os custos relacionados à educação. Além disso, para os professores, o site se torna uma excelente plataforma 
+para aprimorar suas habilidades de ensino e, naturalmente, um espaço para educadores que desejam contribuir de forma gratuita.
 
 Para organizar esses projetos no diretório da empresa, vamos criar dois novos pacotes dentro de __src__. 
 O primeiro pacote, denominado `com`, abrigará o projeto comercial, enquanto o segundo pacote, `org`, 
@@ -120,7 +121,11 @@ Por fim, o nosso repostório é organizado da seguinte forma:
 <br>
 
 ## Utilidade
-A utilidade dos pacotes já está evidente, mas podemos reforçar com o mesmo exemplo. Imagine um novo membro, coreano, ingressando na PowerSoft na equipe de desenvolvimento. Seu foco é trabalhar na interface do site. Como nosso projeto está altamente organizado, em questão de segundos, ele pode localizar a classe responsável pelas interfaces. Isso ilustra o valor dos pacotes na facilitação da localização e gestão de diferentes partes do código, o que é fundamental para novos integrantes entenderem e colaborarem eficientemente.
+A utilidade dos pacotes já está evidente, mas podemos reforçar com o mesmo exemplo. Imagine um novo membro, coreano, 
+ingressando na techMore na equipe de desenvolvimento. Seu foco é trabalhar na interface do site. 
+Como nosso projeto está altamente organizado, em questão de segundos, ele pode localizar a classe responsável pelas 
+interfaces. Isso ilustra o valor dos pacotes na facilitação da localização e gestão de diferentes partes do código, 
+o que é fundamental para novos integrantes entenderem e colaborarem eficientemente.
 
 <br>
 
