@@ -40,10 +40,19 @@ da seguinte maneira:
 ________________
 
 # Pacotes em prática
-Para criar pacotes, existe uma convenção, ou seja, um método padronizado de organizá-los. 
-Imagine que sua empresa se chama Power Soft e está desenvolvendo um site comercial. 
 
-Para estruturar o nosso diretório, começamos com o diretório chamado `src (source)`. 
+## Convenções
+Para criar pacotes, existe uma convenção, ou seja, um método padronizado de organizá-los.
+Um exemplo de uma "convenção" seria a analogia 02. O diretório "pictures" é uma convenção, pois nos mostra 
+que nele será armazenado fotos.
+O diretório "família" dentro da pasta "pictures" também é uma convenção, pois a pasta "família" 
+naturalmente sugere o armazenamento de fotos da família.
+Independentemente do usuário, ao ver a pasta "família", é claro entender quais fotos ela contém.
+ 
+## Exemplos
+Imagine que sua empresa se chama PowerSoft e está desenvolvendo um site comercial. 
+
+Para estruturar o nosso projeto, começamos com o diretório chamado `src (source)`. 
 O `src` será responsável por armazenar todos os projetos dessa empresa      .
 
 ![explicacao-src](./others/src.png)
@@ -54,12 +63,15 @@ O `src` será responsável por armazenar todos os projetos dessa empresa      .
 - A url do site de código será: __powersoft.org__
 > O nome é a abreviação para "organização", porque o domínio . org foi projetado, no início, para ser usado em sites de organizações não-comerciais (sem fins lucrativos).
 
-A Power Soft está desenvolvendo dois projetos, um será relacionado a área comericial, e o outro, será a parte institucional.
-Então, _criaremos dois novos pacotes_ dentro do `src`. 
+<br>
+
+Há dois projetos da PowerSoft em desenvolvimento:
+- Um site comercial
+- Um site institucional (sem fins lucrativos) 
+Criaremos dois novos pacotes dentro do `src`. O primeiro pacote, chamado `com` conterá projetos relacionados a área comercial.
+O segundo, chamado `org` conterá projetos relacionados a área institucional da empresa. 
 
 ![explicacao-packages](./others/srcPackages.png)
-> O pacote `.com` que se refere ao projeto comercial da empresa. <br>
-> E o pacote `.org` que se refere ao projeto institucional da empresa que não possui fins lucrativos.
 
 
 
