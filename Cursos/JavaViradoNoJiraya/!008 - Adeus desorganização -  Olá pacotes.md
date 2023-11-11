@@ -84,11 +84,5 @@ O segundo pacote, chamado `org`, conterá o projeto insticucional.
 
 ![explicacao-packages](./others/srcExplicacao.png)
 
-> _Para não prolongarm muito esta explicação, focaremos no site comercial._ 
-Dentro do nosso pacote `com`, colocaremos o nome do nosso projeto, o nome do nosso site. 
-> 
-
-
-
-O segundo, chamado `org` conterá projetos relacionados a área institucional da empresa.
-
+O pacote `com` é o pacote responsável por armazenar os projetos comerciais da empresa.
+Mas no momento, há somente um projeto _comercial_, o 'teachmore'. 
