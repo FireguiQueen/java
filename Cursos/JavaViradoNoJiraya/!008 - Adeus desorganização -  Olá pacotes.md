@@ -1,47 +1,50 @@
 > A partir desta aula, todas as outras serão contidas em pacotes. O pacote que contém as próximas aulas é o `src`. 
 
 # Packages (pacotes)
-Um pacote armazena classes, essas classes podem desempenhar diferentes papeis em nosso programa.
-O java já nos disponibiliza milhares de classes que ficam contidas em diferentes pacotes.
-Por exemplo, o pacote `util` do java contém muitas classes, incluindo a classe `Scanner`, e com ela, podemos receber informações 
-do usuário via terminal. 
+Um pacote armazena classes que podem desempenhar diferentes papéis em nosso programa. O Java já disponibiliza 
+milhares de classes contidas em diversos pacotes. Por exemplo, o pacote 'util' do Java contém muitas classes, 
+incluindo a classe Scanner, a qual usamos para receber informações do usuário via terminal.
 
-Um projeto simples pode ser composto por uma quantidade enorme de classes. Onde cada uma desempenha um papel em nosso programa, por exemplo:
-Classes de tipos de dados, representação de texto, números, datas, conexão com banco de dados, entre outras. 
-Imagina todas estas classes juntas existindo em um único nível de documento?
-E as classes desenvolvidas por nós, para criar o programa? Imagina como ficaria este diretório hein?!
-> Os pacotes são na verdade, sub-diretórios que contidos no diretório `src`. Eles são 
-utilizados para organizar o nosso programa. Os pacotes também conterão classes que são usados em nosso programa. 
+Um projeto simples pode ser composto por uma quantidade enorme de classes, cada uma desempenhando um papel 
+específico no programa. Por exemplo, temos classes para tipos de dados, representação de texto, números, datas, 
+conexão com bancos de dados, entre outras funcionalidades. Imagina todas essas classes existindo juntas em um 
+único nível de documento? E as classes que foram desenvolvidas por nós para criar o programa? 
+__Como ficaria a organização desse nosso diretório, hein?!__
+> Os pacotes são, na verdade, subdiretórios contidos no diretório src. Eles são utilizados para organizar 
+> nosso programa e também conterão as classes usadas no desenvolvimento do programa.
 
 <br>
 
 ### Analogia-01
-Podemos fazer uma analogia com um curso, onde nele será organizado varios módulos diferentes, então por exemplo,
-teremos o primeiro módulo chamado "Artimética", pelo __nome__, já é de se esperar que os vídeos são relacinados a soma, subtração, divisão e assim por diante.
-Já o segundo módulo, chama-se "Algebra", e pelo seu __nome__, é de se esperar vídeos relacionados a equações, fatoração e etc.
+Pode-se fazer uma analogia com um curso de matemática, onde ele é organizado por vários módulos diferentes. 
+Por exemplo, teremos o primeiro módulo chamado 'Aritmética'. Pelo nome, já é de se esperar que os vídeos 
+estejam relacionados a soma, subtração, divisão e assim por diante. <br> 
+Já o segundo módulo, chamado 'Álgebra', também pelo nome, é de se esperar vídeos relacionados a equações, 
+fatoração e outros temas similares.
 
 ![analogia-01](./others/explicacaoPackges.png)
-> Imagem ilustrativa retirada da internet
+> Imagem ilustrativa retirada da internet. 
 
 <br>
 
 ### Analogia-02
-Outro exemplo disso seria o nosso próprio computador. Vamos supor que você goste de tirar muitas
-fotos, e ao mesmo tempo, você é um cara organizado. Sendo assim, o diretório que conterá suas fotos, pode ser
-organizado da seguinte maneira:
+Outro exemplo disso seria o nosso próprio computador. Suponha que você goste de tirar muitas fotos e, 
+ao mesmo tempo, valorize a organização. Nesse caso, o diretório que contém suas fotos poderia ser organizado 
+da seguinte maneira: 
 
 ![analogia-02](./others/img.png)
+> As pastas 'fotosEspeciais', 'Animais', 'Viagens'.. São pacotes. E as fotos contidas nesses pacotes, são as classes.
 
 <br>
 
 ________________
 
 # Pacotes em prática
-Para se criar pacotes, existe uma convenção, isto é, um jeito padronizado de se organizar eles.
-Vamos imaginar, que sua empresa se chama Power Soft e ela está desenvolvendo um website comercial. 
+Para criar pacotes, existe uma convenção, ou seja, um método padronizado de organizá-los. 
+Imagine que sua empresa se chama Power Soft e está desenvolvendo um site comercial. 
 
-Para organizar toda essa estrutura, Vamos começar pelo diretório chamado `src (source)`.
-O `src` será responsável por armazenar todos os projetos desta empresa.
+Para estruturar o nosso diretório, começamos com o diretório chamado `src (source)`. 
+O `src` será responsável por armazenar todos os projetos dessa empresa      .
 
 ![explicacao-src](./others/src.png)
 
