@@ -86,3 +86,14 @@ O segundo pacote, chamado `org`, conterá o projeto insticucional.
 
 O pacote `com` é o pacote responsável por armazenar os projetos comerciais da empresa.
 Mas no momento, há somente um projeto _comercial_, o 'teachmore'. 
+
+![explicacao-packages](./others/teachmore.png)
+
+Talvez tenha ficado um pouco estranho, pois o nome do nosso pacote `com` se tornou `com.teachmore`.
+Na verdade, este ponto final, significa que estamos acessando o pacote `teachmore`.
+Mas a realidade é que, até agora, já foram criados dois pacotes:
+- `com`
+- `teachmore`
+
+
+
