@@ -15,9 +15,10 @@ Já o segundo módulo, chama-se "Algebra", e pelo seu __nome__, é de se esperar
 
 Outro exemplo disso seria o nosso próprio computador. Vamos supor que você goste de tirar muitas
 fotos, e ao mesmo tempo, você é um cara organizado. Sendo assim, o diretório que conterá suas fotos, pode ser
-organizado da seguinte maneira: 
+organizado da seguinte maneira:
+
 ![analogia-02](./others/img.png)
 
-Ou seja, por mais que em Java temos o nome "pacote", este conceito já existe há muito tempo.
+__Conclusão:__ por mais que em Java temos o nome "pacote", este conceito já existe há muito tempo.
 A diferença é que, no Java, tods os arquivos dos nossos pacotes estão relacionados ao nosso programa.
 
