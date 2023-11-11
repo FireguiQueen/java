@@ -85,15 +85,21 @@ O segundo pacote, chamado `org`, conterá o projeto insticucional.
 ![explicacao-packages](./others/srcPackages.png)
 
 O pacote `com` é o pacote responsável por armazenar os projetos comerciais da empresa.
-Mas no momento, há somente um projeto _comercial_, o 'teachmore'. 
+Então, por motivos obvio, colocaremos o nosos projeto comercial `teachmore` dentro deste pacote. 
 
 ![explicacao-packages](./others/comercialPackages.png)
 
 Talvez tenha ficado um pouco estranho, pois o nome do nosso pacote `com` se tornou `com.teachmore`.
 Na verdade, este ponto final, significa que estamos acessando o pacote `teachmore`.
 Mas a realidade é que, até agora, já foram criados dois pacotes:
-- `com`
-- `teachmore`
+- com
+- teachmore
+
+Agora sim, colocaremos pacotes relacionados a funcionalidade da coisa. O nosso projeto
+pode incluir pacotes chamados: controller, view, model, util.. 
+
+![explicacao-packages](./others/projectPackages.png)
+
 
 
 
