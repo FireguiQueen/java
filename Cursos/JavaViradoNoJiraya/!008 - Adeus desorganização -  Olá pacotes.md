@@ -2,19 +2,18 @@
 
 # Packages (pacotes)
 Um pacote armazena classes, essas classes podem desempenhar diferentes papeis em nosso programa.
-Por padrão, o java já nos disponibiliza diversas classes que ficam contidas em pacotes.
-Por exemplo, o pacote `util` do java contém a classe `Scanner`, e com ela, podemos receber informações 
+O java já nos disponibiliza milhares de classes que ficam contidas em diferentes pacotes.
+Por exemplo, o pacote `util` do java contém muitas classes, incluindo a classe `Scanner`, e com ela, podemos receber informações 
 do usuário via terminal. 
 
-Um projeto simples pode ser composto por uma quantidade enorme de classes. Essas classes podem ser tanto classes já criadas
-e disponibilizadas por pacotes do java. Onde cada uma desempenha um papel em nosso programa, por exemplo:
+Um projeto simples pode ser composto por uma quantidade enorme de classes. Onde cada uma desempenha um papel em nosso programa, por exemplo:
 Classes de tipos de dados, representação de texto, números, datas, conexão com banco de dados, entre outras. 
 Imagina todas estas classes juntas existindo em um único nível de documento?
-E as classes desenvolvidas por nós, meros desenvolvedores? Imagina como ficaria este diretório hein?!
-
-
+E as classes desenvolvidas por nós, para criar o programa? Imagina como ficaria este diretório hein?!
 > Os pacotes são na verdade, sub-diretórios que contidos no diretório `src`. Eles são 
-utilizados para organizar o nosso programa. 
+utilizados para organizar o nosso programa. Os pacotes também conterão classes que são usados em nosso programa. 
+
+<br>
 
 ### Analogia-01
 Podemos fazer uma analogia com um curso, onde nele será organizado varios módulos diferentes, então por exemplo,
@@ -37,10 +36,9 @@ organizado da seguinte maneira:
 
 ________________
 
-### Pacotes em pŕatica
+# Pacotes em prática
 Para se criar pacotes, existe uma convenção, isto é, um jeito padronizado de se organizar eles.
-Vamos imaginar, que sua empresa se chama Power Soft e ela está desenvolvendo um website comercial e um site
-de código aberto. 
+Vamos imaginar, que sua empresa se chama Power Soft e ela está desenvolvendo um website comercial. 
 
 Para organizar toda essa estrutura, Vamos começar pelo diretório chamado `src (source)`.
 O `src` será responsável por armazenar todos os projetos desta empresa.
