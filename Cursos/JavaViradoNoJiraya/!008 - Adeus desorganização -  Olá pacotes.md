@@ -44,8 +44,8 @@ ________________
 ## Convenções
 Para criar pacotes, segue-se uma convenção, ou seja, um método padronizado globalmente na forma como os organizamos.
 Uma forma simples de se entender uma convenção seria pensar na analogia-02. 
-A pasta "pictures" é uma convenção,  indicando o armazenamento de fotos. Do mesmo modo, o diretório "família" segue outra convenção, sugerindo que armazena 
-fotos familiares. Independentemente do usuário, a pasta "família" deixa claro o conteúdo das fotos que ali estão.
+A pasta "pictures" segue uma convenção,  indicando o armazenamento de fotos. Do mesmo modo, o diretório "família" segue outra convenção, sugerindo que armazena 
+fotos familiares. Independentemente de quem seja o usuário, a pasta "família" deixa claro o conteúdo armazenado na pasta em questão.
 
 Podemos concluir que, embora o Java use o termo "pacote", esse conceito já existe há muito tempo e é aplicado em diversos 
 contextos. A diferença é que, no Java, os pacotes não apenas _organizam_ um projeto, mas também são usados para armazenar
