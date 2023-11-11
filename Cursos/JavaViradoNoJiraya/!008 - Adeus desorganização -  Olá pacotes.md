@@ -1,7 +1,19 @@
 > A partir desta aula, todas as outras serão contidas em pacotes. O pacote que contém as próximas aulas é o `src`. 
 
 # Packages (pacotes)
-Os pacotes são na verdade, sub-diretórios, eles ficam contidos no diretório `src`. Eles são 
+Um pacote armazena classes, essas classes podem desempenhar diferentes papeis em nosso programa.
+Por padrão, o java já nos disponibiliza diversas classes que ficam contidas em pacotes.
+Por exemplo, o pacote `util` do java contém a classe `Scanner`, e com ela, podemos receber informações 
+do usuário via terminal. 
+
+Um projeto simples pode ser composto por uma quantidade enorme de classes. Essas classes podem ser tanto classes já criadas
+e disponibilizadas por pacotes do java. Onde cada uma desempenha um papel em nosso programa, por exemplo:
+Classes de tipos de dados, representação de texto, números, datas, conexão com banco de dados, entre outras. 
+Imagina todas estas classes juntas existindo em um único nível de documento?
+E as classes desenvolvidas por nós, meros desenvolvedores? Imagina como ficaria este diretório hein?!
+
+
+> Os pacotes são na verdade, sub-diretórios que contidos no diretório `src`. Eles são 
 utilizados para organizar o nosso programa. 
 
 ### Analogia-01
@@ -20,6 +32,10 @@ fotos, e ao mesmo tempo, você é um cara organizado. Sendo assim, o diretório 
 organizado da seguinte maneira:
 
 ![analogia-02](./others/img.png)
+
+<br>
+
+________________
 
 ### Pacotes em pŕatica
 Para se criar pacotes, existe uma convenção, isto é, um jeito padronizado de se organizar eles.
