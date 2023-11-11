@@ -16,11 +16,11 @@ __Como ficaria a organização desse nosso diretório, hein?!__
 <br>
 
 ### Analogia-01
-Pode-se fazer uma analogia com um curso de matemática, onde ele é organizado por vários módulos diferentes. 
+Pode-se fazer uma analogia com um curso de matemática, onde o mesmo é organizado por seções. 
 Por exemplo, teremos o primeiro módulo chamado 'Aritmética'. Pelo nome, já é de se esperar que os vídeos 
-estejam relacionados a soma, subtração, divisão e assim por diante. <br> 
-Já on segundo módulo, chamado 'Álgebra', é de se esperar vídeos relacionados a equações, 
-fatoração e outros temas similares.
+estejam relacionados a soma, subtração, divisão e assim por diante. 
+Já no segundo módulo, chamado 'Álgebra', é de se esperar vídeos relacionados a equações, 
+fatoração e outros temas similares. _Podemos imaginar que as seções são os pacotes, e as aulas desta seção são as classes._
 
 ![analogia-01](./others/explicacaoPackges.png)
 > Imagem ilustrativa retirada da internet. 
