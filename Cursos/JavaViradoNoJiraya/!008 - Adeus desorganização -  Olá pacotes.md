@@ -24,7 +24,13 @@ organizado da seguinte maneira:
 ### Pacotes em pŕatica
 Para se criar pacotes, existe uma convenção, isto é, um jeito padronizado de se organizar eles.
 Vamos imaginar, que sua empresa se chama Power Soft e ela está desenvolvendo um website comercial e um site
-de código aberto. Serão dois sites diferentes, com própositos diferentes, mas ambos, pertencem a mesma empresa. 
+de código aberto. 
+
+Para organizar toda essa estrutura, Vamos começar pelo diretório chamado `src (source)`.
+O `src` será responsável por armazenar todos os projetos desta empresa.
+
+![explicacao-src](others/src.png)
+Serão dois sites diferentes, com própositos diferentes, mas ambos, pertencem a mesma empresa. 
 
 - A url do site comercial será: __powersoft.com__ 
 > O “com” no nome de domínio .com indica um site “comercial”. Isso pode abranger sites de negócios, sites que desejam ganhar dinheiro online , sites pessoais, blogs, portfólios e etc.
@@ -32,11 +38,8 @@ de código aberto. Serão dois sites diferentes, com própositos diferentes, mas
 - A url do site de código será: __powersoft.org__
 > O nome é a abreviação para "organização", porque o domínio . org foi projetado, no início, para ser usado em sites de organizações não-comerciais (sem fins lucrativos).
 
-Para organizar toda essa estrutura, Vamos começar pelo diretório chamado `src (source)`.
-O `src` será responsável por armazenar todos os projetos desta empresa. A Power Soft está desenvolvendo tanto um projeto
+ A Power Soft está desenvolvendo tanto um projeto
 voltado a área comericial, quanto um voltado para um organizacional
-
-O nosso pacote principal será chamado "com.powersoft"
 
 
 
