@@ -55,11 +55,11 @@ diferentes funcionalidades do programa.
 <br>
 
 ## Exemplos
-Imagine que você trabalhe para uma empresa chmada teachMore. A teachMore está desenvolvendo dois projetos: um site comercial
-e um site intitucional sem fins lucrativos. 
+Imagine que você trabalhe para uma empresa chamada TeachMore. A TeachMore está desenvolvendo dois projetos: 
+um site comercial e um site institucional sem fins lucrativos.
 
-Para estruturar ambos os projetos da empresa, começamos com o diretório chamado `src (source)`. 
-O `src` será responsável por armazenar todos os pacotes que serão criados posteriormente.
+Para organizar esses projetos, começamos com um diretório denominado `src (source)`. 
+O src será responsável por armazenar todos os pacotes que serão criados mais adiante.
 
 ![explicacao-src](./others/onlysrc.png)
 
@@ -71,35 +71,35 @@ O `src` será responsável por armazenar todos os pacotes que serão criados pos
 
 <br>
 
-O projeto comercial será um site voltado para conectar professores de diferentes áreas com alunos que assinam planos.
-Para um professor dar aula neste site por exemplo, ele precisa passar por diversas etapas, para ver se ele é capacitado
-para lesionar suas aulas. Este projeto também pagará professores renomeados para dar aulas no site.
+O projeto comercial será um site dedicado a conectar professores de diversas áreas com alunos que assinam planos. 
+Para um professor dar aula nesse site, é necessário passar por diversas etapas de avaliação para garantir a capacidade 
+de lecionar. Além disso, este projeto também oferecerá remuneração a professores renomados que ministram aulas no site.
 
-O projeto institucional será um site sem fins lucrativos, onde qualquer pessoa pode abrir sua sala de aula virtual e começar
-a dar aula. Ele é voltado a pessoas que não querem/podem gastar com o ensino. A ideia é que o site seja mantido pela comunidade,
-incluindo pessoas que desejam aprender e muitos professores que estão em inicio de carreira que querem aprender a ensinar. 
-Mas é claro, nada impede de professores renomeados darem aula neste site também.
+O projeto institucional será um site sem fins lucrativos, mantido pela comunidade, onde qualquer pessoa pode criar 
+sua própria sala de aula virtual e começar a ensinar. Destinado a pessoas que não desejam ou não podem arcar com os custos 
+relacionados à educação. Além disso, para os professores, o site se torna uma excelente plataforma para aprimorar suas 
+habilidades de ensino e, naturalmente, um espaço para educadores que desejam contribuir de forma gratuita.
 
-Para organizá-los no diretório da empresa, criaremos dois novos pacotes dentro do `src`.
-O primeiro pacote, chamado `com`, conterá o projeto comercial.
-O segundo pacote, chamado `org`, conterá o projeto insticucional. 
+Para organizar esses projetos no diretório da empresa, vamos criar dois novos pacotes dentro de __src__. 
+O primeiro pacote, denominado `com`, abrigará o projeto comercial, enquanto o segundo pacote, `org`, 
+conterá o projeto institucional."
 
 ![explicacao-packages](./others/srcPackages.png)
 
-O pacote `com` é o pacote responsável por armazenar os projetos comerciais da empresa.
-Então, por motivos obvio, colocaremos o nosos projeto comercial `teachmore` dentro deste pacote. 
+O pacote 'com' é designado para conter os projetos comerciais da empresa. Portanto, por motivos óbvios, nosso projeto 
+comercial 'teachmore' será colocado dentro deste pacote.
 
 ![explicacao-packages](./others/comercialPackages.png)
 
 Talvez tenha ficado um pouco estranho, pois o nome do nosso pacote `com` se tornou `com.teachmore`.
-Na verdade, este ponto final, significa que estamos acessando o pacote `teachmore`.
-Mas a realidade é que, até agora, já foram criados dois pacotes:
-- com
-- teachmore
+Na verdade, este ponto final, significa que estamos acessando o pacote `teachmore`. E isto sugere que temos dois pacotes:
+- __com__
+- __techmore__
 
-Agora sim, colocaremos pacotes relacionados a funcionalidade da coisa. O nosso projeto
-pode incluir pacotes chamados: controller, view, model, util e entre outros.
-Para esta explicação, nosso projeto comercial conterá apenas dois pacotes: view e controller. 
+Agora vamos adicionar pacotes que representam funcionalidades específicas do projeto. No nosso caso, isso pode incluir 
+pacotes como controller, view, model, util e outros. Contudo, para o exemplo em questão, o projeto comercial terá apenas 
+dois pacotes: view e controller. Esses pacotes têm a finalidade de organizar e separar as diferentes partes do projeto, 
+o que facilita a administração e a manutenção do código-fonte.
 
 - __View:__
 O "view" é o pacote que contém classes responsáveis pela interface com a qual o usuário interage. 
