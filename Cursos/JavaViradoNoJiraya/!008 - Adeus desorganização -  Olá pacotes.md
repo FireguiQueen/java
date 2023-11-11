@@ -39,10 +39,10 @@ O `src` será responsável por armazenar todos os projetos desta empresa.
 
 A Power Soft está desenvolvendo dois projetos, um será relacionado a área comericial, e o outro, será a parte institucional.
 Então, _criaremos dois novos pacotes_ dentro do `src`. 
-O pacote `.com` que se refere ao projeto comercial da empresa.
-E o pacote `.org` que se refere ao projeto institucional da empresa que não possui fins lucrativos. 
 
 ![explicacao-packages](./others/srcPackages.png)
+> O pacote `.com` que se refere ao projeto comercial da empresa. <br>
+> E o pacote `.org` que se refere ao projeto institucional da empresa que não possui fins lucrativos.
 
 
 
