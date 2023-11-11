@@ -33,8 +33,8 @@ de código aberto. Serão dois sites diferentes, com própositos diferentes, mas
 > O nome é a abreviação para "organização", porque o domínio . org foi projetado, no início, para ser usado em sites de organizações não-comerciais (sem fins lucrativos).
 
 Para organizar toda essa estrutura, Vamos começar pelo diretório chamado `src (source)`.
-O `src` será responsável por armazenar todos os projetos desta empresa. Como ela está trabalhando em dois ambitos: comercial
-e organização. 
+O `src` será responsável por armazenar todos os projetos desta empresa. A Power Soft está desenvolvendo tanto um projeto
+voltado a área comericial, quanto um voltado para um organizacional
 
 O nosso pacote principal será chamado "com.powersoft"
 
