@@ -81,7 +81,7 @@ habilidades de ensino e, naturalmente, um espaço para educadores que desejam co
 
 Para organizar esses projetos no diretório da empresa, vamos criar dois novos pacotes dentro de __src__. 
 O primeiro pacote, denominado `com`, abrigará o projeto comercial, enquanto o segundo pacote, `org`, 
-conterá o projeto institucional."
+conterá o projeto institucional.
 
 ![explicacao-packages](./others/srcPackages.png)
 
