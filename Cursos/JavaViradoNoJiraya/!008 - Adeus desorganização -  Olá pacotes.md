@@ -28,8 +28,8 @@ fatoração e outros temas similares. _Podemos imaginar que as seções são os 
 <br>
 
 ### Analogia-02
-Outro exemplo disso seria o nosso próprio computador. Suponha que você goste de tirar muitas fotos e, 
-ao mesmo tempo, valorize a organização. Nesse caso, o diretório que contém suas fotos poderia ser organizado 
+Suponha que você goste de tirar muitas fotos e, ao mesmo tempo, valorize a organização. 
+Para salvar suas fotos, você as deixa em seu PC. O diretório (pasta) que contém suas fotos poderia ser organizado 
 da seguinte maneira: 
 
 ![analogia-02](./others/img.png)
