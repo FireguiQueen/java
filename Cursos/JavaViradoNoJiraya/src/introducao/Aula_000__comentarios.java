@@ -11,12 +11,12 @@
 
 
     // ** UTILIDADE **
-    Comentar trechos de código pode ser necessário, mas em geral, a necessidade de comentar
-    pode sugerir que o código pode ser mal elaborado. O ideal é ter um código autoexplicativo.
-    Por isso, em muitos casos, fazer comentários NÃO é uma boa prática.
+    Comentar trechos de código pode ser necessário, mas em geral, a necessidade de comentar pode sugerir que o
+    código pode ser mal elaborado. O ideal é ter um código autoexplicativo. Por isso, em muitos casos,
+    fazer comentários NÃO é uma boa prática.
 
-    Mas a situação muda um pouco a depender da situação.
-    Por exemplo, para se fazer um comentário, temos três opções em java: linha, bloco & doc.
+    Mas a situação muda um pouco a depender da situação. Por exemplo, para se fazer um comentário, temos três tipos em java:
+    linha, bloco & doc.
 
     Os comentários de linha e bloco tendem a ser evitados, pois, como mencionado,
     se precisar explicar pequenos trechos, talvez o código precise de melhorias.
