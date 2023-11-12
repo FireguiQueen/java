@@ -72,7 +72,7 @@ public class Aula_001__tiposPrimitivos {
             Este espaço em memória irá armazenar o valor que colocamos na variável.
 
             O identificador da variável é para conseguirmos nos referenciar
-            a este espaço criado na memória. 
+            a este espaço criado na memória.
          */
 
     }
