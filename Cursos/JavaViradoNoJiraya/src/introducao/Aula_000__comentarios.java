@@ -23,7 +23,7 @@
 
 package introducao;
 
-public class comentarios_009 {
+public class Aula_000__comentarios {
 
     /**
         Isto é um comentário <b>em java doc</b>
