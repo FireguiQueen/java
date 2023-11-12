@@ -22,8 +22,8 @@
     se precisar explicar pequenos trechos, talvez o código precise de melhorias.
 
     Mas o java doc possui uma extrema importância, pois ele é utilizado para comentar MÉTODOS e
-    CLASSES. Isto é, quando você desenvolve uma classe, é importante dizer o que ela faz.
-    A mesma coisa vale para métodos complexos, é importante dizer como ele funciona.
+    CLASSES. E na verdade, 'doc' significa 'documentação', e por isso, é algo um pouco além de simples comentários.
+    O comentário 'doc' é usado para documentar classes e métodos.
     Além disso, o javadoc aceita formatação HTML, tornando os comentários mais legíveis
     e compreensíveis.
 */
