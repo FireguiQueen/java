@@ -1,31 +1,29 @@
-// COMENTÁRIOS: utilidade e tipos
+// COMENTÁRIOS
 /*
     Os comentários são textos que não fazem parte do programa em sí. Eles não interferem no funcionamento do mesmo.
 
-    Os compiladores também são responsáveis por identificar o que não faz parte do programa e, consequentemente,
-    eliminar esses trechos para gerar o arquivo '.class'.
+    O processo de compilação identifica o que não faz parte do programa e, consequentemente, elimina esses trechos para gerar o arquivo '.class'.
     Quando o compilador reconhece um comentário de bloco, por exemplo, ele compreende que todo o conteúdo dentro desse bloco pode ser descartado.
 
-    > RESUMINDO: Em arquivos '.class' não vemos os comentários no bytecode. Isso ocorre porque, quando nosso arquivo '.java' passa pela compilação para se tornar um '.class',
-    e neste processo, os comentários são removidos.
+    > RESUMINDO: Em arquivos '.class' não vemos os comentários no bytecode.
+    Isso ocorre porque, quando nosso arquivo '.java' passa pela compilação para se tornar um '.class', os comentários são removidos
+    durante o processo.
 
 
     // ** UTILIDADE **
     Comentar trechos de código pode ser necessário, mas em geral, a necessidade de comentar pode sugerir que o
-    código pode ser mal elaborado. O ideal é ter um código autoexplicativo. Por isso, em muitos casos,
-    fazer comentários NÃO é uma boa prática.
+    código pode ser mal elaborado. O ideal é priorizar um código autoexplicativo, que elimine a necessidade de comentários.
+    Por essa razão, em muitos casos, a prática de comentar códigos NÃO é recomendada.
 
-    Mas a situação muda um pouco a depender da situação. Por exemplo, para se fazer um comentário, temos três tipos em java:
-    linha, bloco & doc.
+    No entanto, a situação pode variar dependendo do contexto. Por exemplo, em Java, existem três tipos de comentários:
+    de linha, de bloco e o 'javaDoc'.
 
-    Os comentários de linha e bloco tendem a ser evitados, pois, como mencionado,
-    se precisar explicar pequenos trechos, talvez o código precise de melhorias.
+    Comentários de linha e de bloco geralmente são evitados, pois, como mencionado anteriormente, a necessidade de explicar
+    pequenos trechos pode indicar que o código necessita de melhorias estruturais.
 
-    Mas o java doc possui uma extrema importância, pois ele é utilizado para comentar MÉTODOS e
-    CLASSES. E na verdade, 'doc' significa 'documentação', e por isso, é algo um pouco além de simples comentários.
-    O comentário 'doc' é usado para documentar classes e métodos.
-    Além disso, o javadoc aceita formatação HTML, tornando os comentários mais legíveis
-    e compreensíveis.
+    O 'javaDoc', abreviação de "java documentation", é utilizado para documentar MÉTODOS e CLASSES.
+    Ele vai além do conceito de simples comentários.
+    O 'javadoc' é muito bom pois ele aceita formatação HTML, o que torna os comentários mais legíveis e compreensíveis.
 */
 
 package introducao;
@@ -34,15 +32,16 @@ public class Aula_000__comentarios {
 
     /**
         Isto é um comentário <b>em java doc</b>
+        Com ele podemos fazer documentações detalhadas sobre determinada classe ou método.
      */
     public static void main(String[] args)
     {
         // Isto é um comentário de linha.
 
         /*
-            Isto é um comentário de bloco.
-            Tudo que está entre o: barra asterísco e asterísco barra;
-            ficará em forma de comentário.
+            Este é um comentário de bloco.
+            Usado para documentar informações mais extensas,
+            cobrindo trechos maiores de código.
          */
     }
 }
