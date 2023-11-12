@@ -1,4 +1,4 @@
-// COMENTÁRIOS: Utilidade e tipos
+// COMENTÁRIOS: utilidade e tipos
 /*
     Os comentários são textos que não fazem parte do programa em sí. Eles não interferem no funcionamento do mesmo.
 
@@ -6,9 +6,10 @@
     eliminar esses trechos para gerar o arquivo '.class'.
     Quando o compilador reconhece um comentário de bloco, por exemplo, ele compreende que todo o conteúdo dentro desse bloco pode ser descartado.
 
-    Em arquivos '.class' não vemos os comentários no bytecode. Isso ocorre porque, quando nosso arquivo '.java' passa pela compilação para se tornar um '.class',
+    > RESUMINDO: Em arquivos '.class' não vemos os comentários no bytecode. Isso ocorre porque, quando nosso arquivo '.java' passa pela compilação para se tornar um '.class',
     e neste processo, os comentários são removidos.
 
+    // ** UTILIDADE ** 
     Comentar trechos de código pode ser necessário, mas em geral, a necessidade de comentar
     pode sugerir que o código pode ser mal elaborado. O ideal é ter um código autoexplicativo.
     Por isso, em muitos casos, fazer comentários NÃO é uma boa prática.
