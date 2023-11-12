@@ -131,5 +131,39 @@ o que é fundamental para novos integrantes entenderem e colaborarem eficienteme
 
 ______________________
 
-# Import
-O `import` é uma 
+# `package`
+O `package` é uma palavra reservada que __deve__ ser a primeira instrução do nosso programa. E ela quem diz onde a nossa 
+classe está localizada para a JVM. 
+```java
+    // Define onde a nossa classe está localizada. Ela está no diretório "javaViradoNoJiraya". 
+    package javaViradoNoJiraya; 
+
+    /*
+        O nome da nossa classe deve ser justamente o nome do nosso arquivo. 
+        Isto porque, quando o nosso programa for compilado pelo javac e interpretado pela JVM,
+        O que realmente será executado vai ser: 
+        public class javaViradoNoJiraya.nomeDoArquivo
+        
+        Por isso o nome da classe precisa ser o mesmo nome do arquivo. 
+    */
+    public class nomeDoArquivo
+    {
+        public static void main(String[] args) {
+            
+        }
+    }
+
+    
+
+```
+
+# `import`
+O `import` é uma palavra reservada da linguagem java para importar (trazer) classes de outros pacotes para o seu
+programa.
+```java
+    // entramos no pacote util e pegamos a classe "Scanner".
+    import java.util.Scanner; 
+
+    // Agora podemos usar ela em nosso código:
+    Scanner inputUsuario = new Scanner();
+```
