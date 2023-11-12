@@ -1,7 +1,7 @@
 # Programar em Java | _de Aluno para Aluno_
   Data        | Aulas assistidas    
 :-----------: |:-----------------:
-21/10/2023    | Aula 01 até Aula 11
+**21/10/2023**    | **Aula 01 até Aula 11**
 22/10/2023    | Aula 12 até Aula 14
 23/10/2023    | Aula 15 até Aula 17
 24/10/2023    | Aula 18 até Aula 19
@@ -20,6 +20,9 @@
 09/11/2023    | Correções de explicações
 
 </br>
+
+______________
+
 </br>
 
 # Java Virado No Jiraya | _DevDojo_
@@ -27,6 +30,10 @@
 :-----------: |:-----------------:
 09/11/2023    | Aula 00 até Aula 03
 10/11/2023    | Aula 00 até Aula 07
+11/11/2023    | Revisão da Aula 07
+12/11/2023    | Aula 08 até Aula 
+
+
 
 
 
