@@ -1,7 +1,6 @@
 // COMENTÁRIOS
 /*
-    Os comentários são textos que não fazem parte do programa em sí.
-    Eles não interferem no funcionamento do mesmo.
+    Os comentários são textos que não fazem parte do programa em sí. Eles não interferem no funcionamento do mesmo.
     Quando o nosso arquivo '.java' passa pelo compilador, os comentários são removidos.
     Tanto é que, em arquivos '.class', não vemos os comentários feitos no arquivo '.java'.
 
