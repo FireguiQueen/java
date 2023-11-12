@@ -48,7 +48,7 @@ public class Aula_001__tiposPrimitivos {
         int saldoDaConta = 900;
         boolean estaChovendo = true;
 
-
+        /* *** *** *** *** *** *** *** *** *** *** *** */
 
         // DECLARAÇÃO DE VARIÁVEL X INICIALIZAÇÃO DE VARIÁVEL
 
@@ -58,7 +58,7 @@ public class Aula_001__tiposPrimitivos {
         // INICIALIZAR: atribuir (dar) um valor a variável declarada anteriormente
         saldo = 900;
 
-        // Mas em muitos dos casos, fazemos isto ao mesmo tempo: declarar e inicializar:
+        // Mas em muitos dos casos, fazemos a declaração e a inicialização ao mesmo tempo:
         int contaBancaria = 900;
 
 
