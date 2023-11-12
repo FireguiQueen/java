@@ -62,15 +62,17 @@ public class Aula_001__tiposPrimitivos {
         int contaBancaria = 900;
 
 
-        
+
         // VARIÁVEIS RESUMO:
         /*
-            Quando criamos uma variável, estamos criando um espaço na memória.
+            Quando criamos uma variável, estamos criando um ESPAÇO na memória.
+
             Quando inicializamos uma variável, isto é, atribuimos um valor a ela,
             estamos alocando este valor para este espaço em memória.
-            Este espaço em memória irá armazenar o valor que colocamos na variável
+            Este espaço em memória irá armazenar o valor que colocamos na variável.
 
-
+            O identificador da variável é para conseguirmos nos referenciar
+            a este espaço criado na memória. 
          */
 
     }
