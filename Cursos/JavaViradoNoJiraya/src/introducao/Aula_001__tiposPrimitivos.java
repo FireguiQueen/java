@@ -1,19 +1,16 @@
 // TIPOS PRIMITIVOS E VARIÁVEIS
 /*
     Tipos primitivos se referem a valores simples;
-    Por exemplo, o número '900.104.101' é valor grande, mas ele é bem simples, pois são
-    apenas números, não há nenhuma estrutura envolvida.
+    Por exemplo, o número '900.104.101' é valor grande, mas ainda sim é um valor simples, pois são apenas números,
+    não há nenhuma estrutura envolvida.
 
     Por agora, usaremos os tipos de dados primitivos em variáveis.
-    Uma variável é um conceito que engloba: tipo do valor, identificador e valor.
+    ~ Uma variável é um conceito que engloba: tipo do valor, identificador e valor.
 
-    Quanto definimos uma variável, seu valor será jogado em nossa memória RAM,
-    e para acessá-lo, usaremos o seu identificador.
+    Quanto definimos uma variável, seu valor será jogado em nossa memória RAM, e para acessá-lo, usaremos o seu identificador.
     Quando criamos uma variável, estamos guardando o valor em memória para podermos acessá-lo futuramente.
 
-    Os tipos primitivos em variáveis determinam qual tipo de dado ela irá armazenar.
-    Os tipos primitivos são:
-
+    Os tipos primitivos em variáveis determinam qual tipo de dado ela irá armazenar:
     byte    - para valores numéricos extremamente baixos
     short   - para valores numéricos baixos
     int     - para valores numéricos médios
