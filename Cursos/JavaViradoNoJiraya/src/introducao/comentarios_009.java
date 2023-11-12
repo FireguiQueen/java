@@ -27,7 +27,7 @@ package introducao;
 public class comentarios_009 {
 
     /**
-     * Isto é um comentário <b>em java doc</b>
+        Isto é um comentário <b>em java doc</b>
      */
     public static void main(String[] args)
     {
