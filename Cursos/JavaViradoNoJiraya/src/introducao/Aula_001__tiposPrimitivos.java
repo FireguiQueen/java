@@ -9,6 +9,7 @@
 
     Quanto definimos uma variável, seu valor será jogado em nossa memória RAM,
     e para acessá-lo, usaremos o seu identificador.
+    Quando criamos uma variável, estamos guardando o valor em memória para podermos acessá-lo futuramente.
 
     Os tipos primitivos em variáveis determinam qual tipo de dado ela irá armazenar.
     Os tipos primitivos são:
@@ -44,12 +45,33 @@ public class Aula_001__tiposPrimitivos {
 
         // Por convenção, os nomes das variáveis devem sempre começar com letra minúscula.
         // Caso seja um nome composto, as próximas palavras devem começar com letra maíscula.
-        int saldo = 1200;
         int saldoDaConta = 900;
-
         boolean estaChovendo = true;
 
 
+
+        // DECLARAÇÃO DE VARIÁVEL X INICIALIZAÇÃO DE VARIÁVEL
+
+        // DECLARANDO: definimos um espaço na memória que armazenará um valor numérico
+        int saldo;
+
+        // INICIALIZAR: atribuir (dar) um valor a variável declarada anteriormente
+        saldo = 900;
+
+        // Mas em muitos dos casos, fazemos isto ao mesmo tempo: declarar e inicializar:
+        int contaBancaria = 900;
+
+
+        
+        // VARIÁVEIS RESUMO:
+        /*
+            Quando criamos uma variável, estamos criando um espaço na memória.
+            Quando inicializamos uma variável, isto é, atribuimos um valor a ela,
+            estamos alocando este valor para este espaço em memória.
+            Este espaço em memória irá armazenar o valor que colocamos na variável
+
+
+         */
 
     }
 }
