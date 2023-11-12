@@ -4,8 +4,8 @@
     Por exemplo, o número '900.104.101' é valor grande, mas ele é bem simples, pois são
     apenas números, não há nenhuma estrutura envolvida.
 
-    Por agora, usaremos os tipos de dados primitivos em variáveis. Uma variável é um conceito que engloba:
-    tipo do valor, identificador e valor.
+    Por agora, usaremos os tipos de dados primitivos em variáveis.
+    Uma variável é um conceito que engloba: tipo do valor, identificador e valor.
 
     Quanto definimos uma variável, seu valor será jogado em nossa memória RAM,
     e para acessá-lo, usaremos o seu identificador.
@@ -41,6 +41,14 @@ public class Aula_001__tiposPrimitivos {
         // Podemos criar variáveis de outros tipos também, com diferentes valores.
         char letra = 'a';
         System.out.println(letra);
+
+        // Por convenção, os nomes das variáveis devem sempre começar com letra minúscula.
+        // Caso seja um nome composto, as próximas palavras devem começar com letra maíscula.
+        int saldo = 1200;
+        int saldoDaConta = 900;
+
+        boolean estaChovendo = true;
+
 
 
     }
