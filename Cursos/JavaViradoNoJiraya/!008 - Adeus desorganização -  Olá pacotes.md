@@ -139,22 +139,24 @@ classe está localizada para a JVM.
     package javaViradoNoJiraya; 
 
     /*
-        O nome da nossa classe deve ser justamente o nome do nosso arquivo. 
-        Isto porque, quando o nosso programa for compilado pelo javac e interpretado pela JVM,
-        O que realmente será executado vai ser: 
-        public class javaViradoNoJiraya.nomeDoArquivo
-        
+        O nome da nossa classe deve ser justamente o nome do nosso arquivo.
+        > nome do arquivo: nomeDoArquivo
+        > nome da classe: nomeDoArquivo        
         Por isso o nome da classe precisa ser o mesmo nome do arquivo. 
     */
     public class nomeDoArquivo
     {
-        public static void main(String[] args) {
+        public static void main(String[] args) 
+        {
             
         }
     }
-
     
-
+    /*
+        Isto porque, quando o nosso programa for compilado pelo javac e interpretado pela JVM,
+        o que realmente será executado vai ser:
+        public class javaViradoNoJiraya.nomeDoArquivo
+    */
 ```
 
 # `import`
