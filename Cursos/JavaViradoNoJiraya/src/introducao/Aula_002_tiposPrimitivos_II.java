@@ -15,6 +15,11 @@
 
     A primeira etapa é criar um espaço na memória, cuja capacidade de armazenamento é baseada no tipo de dado definido.
     No caso da declaração 'int', espera-se que seja criado um espaço na memória RAM com capacidade para armazenar 4 bytes.
+
+    ** RESUMINDO:
+    Entre os tipos primitivos numéricos inteiros (byte, short, int e long), a quantidade de bits utilizada para criar
+    espaços na memória RAM varia. Quanto maior a quantidade de bits, maior a capacidade de armazenamento desses espaços na memória.
+    E quanto maior a capacidade, maiores números podem ser armazenados
 */
 
 
@@ -32,6 +37,6 @@ public class Aula_002_tiposPrimitivos_II
         // -32768 até 32767
         short y = 30000;
 
-        
+
     }
 }
