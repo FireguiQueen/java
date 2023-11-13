@@ -69,10 +69,13 @@ public class Aula_003_tiposPrimitivos_III
             A mesma coisa vale para valores inteiros.
             Quando um número é digitado, e se ele for menor que 128, ele será considerado por padrão, do tipo byte.
 
-            Caso o valor digitado seja 128 ou maior, ele será do tipo INT.
+            Caso o valor digitado seja 128 ou maior, ele será do tipo 'int'.
         */
-        // Então mesmo que digatamos um numero enorme, que claramente seria 'long', ele será considerado do tipo 'integer'.
-        int 
+        // EXEMPLO:
+        // Dará erro pois o '5000000000000000' é consderado do tipo inteiro.
+        // >> long numeroLongo = 5000000000000000;
 
+        // Precisamos colocar o 'L' no final.
+        long numeroLongo = 5000000000000000L;
     }
 }
