@@ -25,8 +25,11 @@ public class Aula_002_tiposPrimitivos_II
     public static void main(String[] args)
     {
         // Criando uma variável do tipo 'byte' (ela utiliza 1byte para armazenar números)
+        // -128 até 127
         byte x = 120;
 
-        // Criando uma variável do tipo 'short' (ela utiliza 3bytes para armazenar números
+        // Criando uma variável do tipo 'short' (ela utiliza 2bytes para armazenar números)
+        //
+        short y = 30000;
     }
 }
