@@ -4,3 +4,4 @@
 + Loiane groner
 + deAlunoParaAluno (Italo Grossi)
 + Academia dos Devs
++ Elder Moraes
