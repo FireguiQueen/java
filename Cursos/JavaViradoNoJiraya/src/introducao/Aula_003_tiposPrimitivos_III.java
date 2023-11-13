@@ -66,16 +66,17 @@ public class Aula_003_tiposPrimitivos_III
 
         // INTEIROS: byte e int
         /*
-            A mesma coisa vale para valores inteiros.
-            Quando um número é digitado, e se ele for menor que 128, ele será considerado por padrão, do tipo byte.
+            O mesmo princípio se aplica a valores inteiros.
+            Quando um número é inserido e é menor que 128, por padrão, é considerado do tipo byte.
 
-            Caso o valor digitado seja 128 ou maior, ele será do tipo 'int'.
+            Se o valor digitado for 128 ou maior, será do tipo 'int'.
         */
         // EXEMPLO:
-        // Dará erro pois o '5000000000000000' é consderado do tipo inteiro.
+        // Um erro ocorrerá, pois '5000000000000000' é considerado um número inteiro, porém o tipo 'int' aceita somente valores de -2 bilhões até 2 bilhões.
         // >> long numeroLongo = 5000000000000000;
 
-        // Precisamos colocar o 'L' no final.
+        // Para corrigir, precisamos adicionar o 'L' no final, para dizer que na verdade, o valor é do tipo 'long'.
         long numeroLongo = 5000000000000000L;
+
     }
 }
