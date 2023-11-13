@@ -18,15 +18,17 @@
     no tipo de dado definido.
     Como o tipo de dado definido na declaração foi 'int', então, é de se esperar que um espaço na memória RAM
     seja criado com uma capacidade de armazenaot de 4bytes.
-
-    ** ** ** ** ** ** ** ** **
-
 */
 
 package introducao;
 
-public class Aula_002_tiposPrimitivos_II {
-    public static void main(String[] args) {
+public class Aula_002_tiposPrimitivos_II
+{
+    public static void main(String[] args)
+    {
+        // Criando uma variável do tipo 'byte' (ela utiliza 1byte para armazenar números)
+        byte x = 120;
 
+        // Criando uma variável do tipo 'short' (ela utiliza 3bytes para armazenar números
     }
 }
