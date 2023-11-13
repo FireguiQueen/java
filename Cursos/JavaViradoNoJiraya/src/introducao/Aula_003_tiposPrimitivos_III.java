@@ -1,12 +1,11 @@
-// CASTING  &  tipos-primitivos para decimais
+// CASTING & tipos-primitivos para decimais
 /*
     O casting é uma conversão forçada entre valores numéricos.
-    Isto é, temos um valor de determinado tipo e através do 'casting', forçamos ele
+    Ou seja, temos um valor de um determinado tipo e, através do 'casting', forçamos
     a ser de outro tipo.
 
-    Por exemplo, podemos forçar um valor quebrado, como por exemplo, '520.20' em um
+    Por exemplo, podemos forçar um valor quebrado, como '520.20', a ser um
     valor completamente inteiro: 520.
-
 */
 package introducao;
 
@@ -18,27 +17,41 @@ public class Aula_003_tiposPrimitivos_III
         double num = 500.20;
 
         // Em um contexto normal, uma variável do tipo 'int' JAMAIS aceitaria
-        // um valor quebrado, mas através do casting, estamos transformando
-        // aquele valor quebrado em um numero inteiro.
-        int numInteiro = (int)num;
+        // um valor quebrado, mas através do 'casting', estamos transformando
+        // aquele valor quebrado em um número inteiro.
+        int numInteiro = (int) num;
 
+        // Sem o casting, ocorreria erro:
+        // >> int numInteiro = num;
+
+        /* *  IMPORTANTE  * */
+        // A coisa aqui ocorre da direita para a esquerda.
+        // Primeiramente, o valor '500.20' é convertido para um número inteiro por meio do casting.
+        // Assim, o valor resultante é armazenado na variável.
+
+        // *** * * * * * * *** ** * * * * * * * ** * * * * * * *** * * * * * *
 
         // DOUBLE VS FLOAT
         /*
-            O double e o float são a "mesma coisa", a diferença, é uma variável do tipo
-            double utiliza mais bytes para armazenar valores.
-            Isto é, ele é capaz de armazenar numeros decimais maiores.
+          O double e o float são semelhantes, mas a diferença está na quantidade de
+          bytes utilizados para armazenar valores.
+          Um 'double' é capaz de armazenar números decimais maiores.
 
-            Por exemplo, uma variável do tipo double seria capaz de armazenar o seguinte valor:
-            1.55505054050505054235053
+          ->> Por exemplo, uma variável do tipo 'double' seria capaz de armazenar o seguinte valor:
+          - 1.55505054050505054235053
 
-            Mas uma variável do tipo 'float' não seria.
-            A parte decimal precisaria ser menor.
+          * Mas uma variável do tipo 'float' não seria capaz. A parte decimal precisaria ser menor.
 
-            A questão é que, quando escrevemos o nosso valor quebrado, ele sempre
-            será considerado do tipo 'double'.
+          A questão é que, quando escrevemos o nosso valor quebrado, ele sempre
+          será considerado do tipo 'double'.
         */
-        // Por exemplo, aqui temos uma variável do tipo 'float' recebendo um valor quebrado:
+
+        // EXEMPLOS:
+
+        // O valor contido entre parêntesis é do tipo 'double'.
+        System.out.println(500.0);
+
+        // Aqui temos uma variável do tipo 'float' recebendo um valor quebrado:
         // >> float numQuebrado = 5.0;
 
         // O problema é que este '5.0' naturalmente é do tipo 'double'.
