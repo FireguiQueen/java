@@ -1,24 +1,22 @@
 // TIPOS PRIMITIVOS: declaração e tamanho em memória
 /*
-    Cada tipo PRIMITIVO ocupa uma quantidade fixa de bits na memória RAM.
-    Isto é, o tipo 'int' utiliza 4bytes (32 bits) para armazenar números inteiros.
+    Cada tipo primitivo ocupa uma quantidade fixa de bits na memória RAM.
+    Por exemplo, o tipo 'int' utiliza 4 bytes (32 bits) para armazenar números inteiros.
 
-    Isto é, um espaço em memória criado a partir de uma variável do tipo 'int', só consegue armazenar
-    valores entre -2.100.000.000 até +2.100.000.000
-    Isto ocorre justamente porque o int utiliza apenas 4bytes para armazenar números.
-    Se ultrapassarmos, por exemplo, do número '2.100.000.000' precisaremos de mais bits para representar esta quantia.
+    Isso significa que um espaço em memória criado a partir de uma  variável do tipo 'int' pode armazenar valores entre
+    aproximadamente -2.100.000.000 e +2.100.000.000.
+    Para ultrapassar o valor de 2.100.000.000 seria necessário de mais bits para representar a quantia.
+    Para armazenar valores maiores, podemos utilizar o tipo 'long', que utiliza 8 bytes (64 bits) para armazenar números.
 
-    Para armazenar valores mais altos, utilize o tipo 'long'. O tipo 'long' utiliza 8bytes (64bits) para armazenar
-    valores.
+    ** ** * * ** * * * * * * * * * * ** * * * * * * * * ** * * ** * *  **  * * ** * *
 
-    Então, podemos penar que, quando criamos uma variável, por exemplo:
+    Quando declaramos uma variável, como no exemplo:
     int x = 50;
 
-    A primeira coisa a ser feita é, criar um espaço em memória, onde sua capacidade de armzenato se baseia
-    no tipo de dado definido.
-    Como o tipo de dado definido na declaração foi 'int', então, é de se esperar que um espaço na memória RAM
-    seja criado com uma capacidade de armazenaot de 4bytes.
+    A primeira etapa é criar um espaço na memória, cuja capacidade de armazenamento é baseada no tipo de dado definido.
+    No caso da declaração 'int', espera-se que seja criado um espaço na memória RAM com capacidade para armazenar 4 bytes.
 */
+
 
 package introducao;
 
