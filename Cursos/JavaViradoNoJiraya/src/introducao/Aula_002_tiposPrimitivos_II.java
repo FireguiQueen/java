@@ -29,14 +29,27 @@ public class Aula_002_tiposPrimitivos_II
 {
     public static void main(String[] args)
     {
-        // Criando uma variável do tipo 'byte' (ela utiliza 1byte para armazenar números)
+        // Criando uma variável do tipo 'byte'. Utiliza 1byte para armazenar números
         // -128 até 127
         byte x = 120;
 
-        // Criando uma variável do tipo 'short' (ela utiliza 2bytes para armazenar números)
+        // Criando uma variável do tipo 'short'. utiliza 2bytes para armazenar números
         // -32768 até 32767
         short y = 30000;
 
 
+        // O tipo 'char' é usado para armazenar caracteres e utiliza apenas 2 byte na memória.
+        char letra = 'a';
+
+        // Podemos fazer variáveis do tipo 'char' receber números:
+        char ll = 65; // 'A'
+        /*
+            E é isso mesmo, você não leu errado: NÚMEROS. A realidade, é que todo caracter, é na realidade, um número.
+            No fim das contas, a memória RAM só consegue armazenar bits (zeros e uns), então para armazenar caracteres,
+            eles são convertidos em números decimais, que por sua vez são convertidos em números binários.
+        */
+        // Um exemplo prático disso é:
+        char lra = 'a'; // 'a'
+        char lra0 = 97; // 'a'
     }
 }
