@@ -29,7 +29,9 @@ public class Aula_002_tiposPrimitivos_II
         byte x = 120;
 
         // Criando uma variável do tipo 'short' (ela utiliza 2bytes para armazenar números)
-        //
+        // -32768 até 32767
         short y = 30000;
+
+        
     }
 }
