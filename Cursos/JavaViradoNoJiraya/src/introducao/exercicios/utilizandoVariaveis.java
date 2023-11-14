@@ -20,6 +20,6 @@ public class utilizandoVariaveis {
 
         // outro jeito de printar (mais prático)
         System.out.format("Eu, %s, morando no endereço %s %d, confirmo que recebi o salário de %.2f, na data de %s", name, address, cep, salario, data);
-        
+
     }
 }
