@@ -1,5 +1,5 @@
 /**
-    <h1> Exercícios </h1>
+    <b> Exercícios </b>
 
     1. DECLARE (SEM INICIALIZAR) UMA VARIÁVEL DO TIPO INT.
     2. Inicialize ela com um valor inteiro.
@@ -8,8 +8,7 @@
     --------------- -------------  ------------------------
     1. Declare e inicialize uma variável do tipo 'float'.
     --------------- -------------  ------------------------
-    1. Declare e inicialize uma variável do tipo double.
- */
+    1. Declare e inicialize uma variável do tipo double. */
 package introducao.exercicios;
 
 public class definindoVariaveis {
