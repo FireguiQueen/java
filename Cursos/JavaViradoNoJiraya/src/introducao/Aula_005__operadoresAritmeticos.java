@@ -93,7 +93,7 @@ public class Aula_005__operadoresAritmeticos
         System.out.println(numQ / numI); // equivalente a: 30.0 / 7;
 
 
-        
+
         // CASTING
         /*
             O casting pode ser utilizado nessa situação.
