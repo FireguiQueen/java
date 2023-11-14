@@ -41,9 +41,10 @@ public class Aula_005__operadoresAritmeticos
         // Os cálculos dentro dos parênteses ocorrem primeiro, e então a string é concatenada ao valor resultante.
         // Sua idade é: 100
 
-        // Sem os parêtensis, o resultado seria:
-        // Sua idade é: 5050
-        // Pois a string se juntou ao valor de '50', formando uma "nova" string, e esta "nova" string se juntou ao outro 50.
+        // Sem os parênteses, o resultado seria:
+        // "Sua idade é: 5050"
+        // Isso acontece porque a string se une ao valor de '50', formando uma "nova" string, e essa "nova" string se junta ao outro valor de 50.
+
 
 
         // *** ** * * * * ** ** * * ***** * * * * * ** * * * * * * * * ***
@@ -91,6 +92,8 @@ public class Aula_005__operadoresAritmeticos
         int numI = 7;
         System.out.println(numQ / numI); // equivalente a: 30.0 / 7;
 
+
+        
         // CASTING
         /*
             O casting pode ser utilizado nessa situação.
