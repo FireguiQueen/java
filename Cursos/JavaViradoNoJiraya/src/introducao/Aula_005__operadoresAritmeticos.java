@@ -38,6 +38,9 @@ public class Aula_005__operadoresAritmeticos
 
         // *** ** * * * * ** ** * * ***** * * * * * ** * * * * * * * * ***
 
+
+
+
         // UTILIZANDO OS OPERADORES ARITMÉTICOS:
 
         System.out.println(50 + 10 ); // 60
@@ -51,38 +54,38 @@ public class Aula_005__operadoresAritmeticos
 
 
         /* ! IMPORTANTE */
-        // >> NÚMEROS INTEIROS DIVIDIDOS/MULTIPLICADOS POR OUTROS INTEIROS, SEMPRE RESULTARAM EM INTEIROS.
-        // >> DEFINIR O TIPO DE DADO DE UMA VARIÁVEL SÓ INFORMA A ELA SE ELA PODE OU NAO ACEITAR DETERMINADO TIPO DE DADO.
+        // >> DIVISÃO E MULTIPLICAÇÃO DE NÚMEROS INTEIROS SEMPRE RESULTAM EM INTEIROS.
+        // >> DEFINIR O TIPO DE DADO DE UMA VARIÁVEL APENAS DETERMINA SE ELA PODE OU NÃO ACEITAR DETERMINADO TIPO DE DADO.
 
         // EXEMPLOS:
 
-        // Vamos realizar a conta de 30 dividido para 8. O resultado correto é: 3.75
+        // Ao dividir 30 por 8, o resultado correto é 3.75.
         System.out.println(30 / 8); // retorna: 3
-        // O '3' foi retornado porque justamente, inteiros divididos por interiros, sempre resultaram em inteiros.
+        // O '3' foi retornado porque, ao dividir inteiros, o resultado é sempre um inteiro.
 
-        // Mesmo que a variável seja double:
+        // Mesmo se a variável for do tipo double:
         double numero = 30 / 8;
-        // As coisas vão da direita para a esquerda.
-        // Primeiro é realizado a nossa expressão: '30/8'. Como ambos são inteiros, o resultado será um inteiro.
-        // Ao final dela, será resultado em um número inteiro, e este número será salvo na variável.
+        // A computação ocorre da direita para a esquerda.
+        // Primeiramente, a expressão '30/8' é calculada, e como ambos são inteiros, o resultado é inteiro.
+        // Esse número inteiro é então atribuído à variável.
 
-        // Para que obtenhamos o resultado correto, ao menos um valores precisa ser um numero de ponto flutuante.
+        // Para obter o resultado correto, pelo menos um valor precisa ser um número de ponto flutuante.
         double num = 30 / 8.0; // 3.75
 
-        // Quando definimos uma variável do tipo double, seu valor automaticamente receberá um '.0' mesmo que não seja definido.
+        // Ao definir uma variável double, o valor é automaticamente tratado como decimal, mesmo que não explicitamente definido.
         double numQuebrado = 30;
         System.out.println(numQuebrado); // 30.0
 
-        // Por isso, se fizermos a seguinte conta, o resultado será correto:
+        // Portanto, ao realizar o seguinte cálculo, o resultado será correto:
         double numQ = 30;
         int numI = 7;
-        System.out.println(numQ / numI); // seria o mesmo que fazer: 30.0 / 7;
+        System.out.println(numQ / numI); // equivalente a: 30.0 / 7;
 
         // CASTING
         /*
-            Também podemos usar o casting nesta situação.
-            Isto é, temos duas variáveis do tipo 'int', mas na hora do calculo, podemos forçar o valor a virar um double.
+            O casting pode ser utilizado nessa situação.
+            Ou seja, com duas variáveis do tipo 'int', podemos forçar o cálculo a resultar em um double.
         */
-        System.out.println( 30 / (double)7 ); // seria o mesmo que fazer: 30 / 7.0;
+        System.out.println(30 / (double)7); // equivalente a: 30 / 7.0;
     }
 }
