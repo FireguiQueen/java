@@ -25,7 +25,7 @@
 
 package introducao;
 
-public class Aula_001__tiposPrimitivos {
+public class Aula_001___tiposPrimitivos {
     public static void main(String[] args) {
 
         // Criamos uma variável do tipo primitivo "int".

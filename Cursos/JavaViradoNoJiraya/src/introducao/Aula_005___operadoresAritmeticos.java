@@ -5,6 +5,7 @@
     subtração: -
     multiplicação: *
     divisão: /
+    resto da divisão: %
 
     É importante lembrar que o operador de soma (+) não apenas realiza operações aritméticas, mas também é usado para
     concatenar valores. Isso significa unir strings a outras strings ou até mesmo a outros tipos de valores,
@@ -12,7 +13,7 @@
 */
 package introducao;
 
-public class Aula_005__operadoresAritmeticos
+public class Aula_005___operadoresAritmeticos
 {
     public static void main(String[] args)
     {
@@ -54,10 +55,12 @@ public class Aula_005__operadoresAritmeticos
 
         // UTILIZANDO OS OPERADORES ARITMÉTICOS:
 
-        System.out.println(50 + 10 ); // 60
-        System.out.println(50 - 10);  // 40
-        System.out.println(50 * 10);  // 500
-        System.out.println(50 / 10);  // 5
+        System.out.println(50 + 10 );  //>  60
+        System.out.println(50 - 10);   //>  40
+        System.out.println(50 * 10);   //>  500
+        System.out.println(50 / 10);   //>  5
+
+        System.out.println(50 % 10);  // Divide 50 por 10 e retorna o resto dessa divisão. > 0
 
         // Também podemos salvar em variáveis.
         int soma = 50 + 10;
