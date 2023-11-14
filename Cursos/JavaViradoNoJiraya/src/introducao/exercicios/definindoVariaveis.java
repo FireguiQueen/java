@@ -14,7 +14,6 @@ package introducao.exercicios;
 public class definindoVariaveis {
     public static void main(String[] args)
     {
-
         int num;
         num = 500;
 
