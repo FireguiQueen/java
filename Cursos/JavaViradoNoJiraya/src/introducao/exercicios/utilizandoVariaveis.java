@@ -19,6 +19,11 @@ public class utilizandoVariaveis {
         System.out.println("Eu, " + name + ", morando no endereço " + (address +' '+cep) + ", confirmo que recebi o salário de " + salario + " na data de " + data);
 
         // outro jeito de printar (mais prático)
-        System.out.format("Eu, %s, morando no endereço %s %d, confirmo que recebi o salário de %.2f, na data de %s", name, address, cep, salario, data);
+        System.out.format("Eu, %s, morando no endereço %s %d, confirmo que recebi o salário de %.2f, na data de %s \n", name, address, cep, salario, data);
+
+
+        // Para facilitar a questão do endereço, podemos criar uma variável juntando o CEP + ADDRESS.
+        String completeAddress = address+" "+cep;
+        System.out.println(completeAddress);
     }
 }
