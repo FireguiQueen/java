@@ -7,7 +7,7 @@
 */
 package introducao;
 
-public class Aula_004_Strings
+public class Aula_004___Strings
 {
     public static void main(String[] args)
     {

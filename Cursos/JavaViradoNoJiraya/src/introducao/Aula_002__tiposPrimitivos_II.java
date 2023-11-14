@@ -25,7 +25,7 @@
 
 package introducao;
 
-public class Aula_002_tiposPrimitivos_II
+public class Aula_002__tiposPrimitivos_II
 {
     public static void main(String[] args)
     {
