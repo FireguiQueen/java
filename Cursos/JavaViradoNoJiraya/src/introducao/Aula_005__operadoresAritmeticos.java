@@ -36,6 +36,10 @@ public class Aula_005__operadoresAritmeticos
         // Quando somamos, estamos fazendo uma operação matemática
         System.out.println(50 + 50); // 100
 
+        // Assim como na matemática, podemos utilizar os parêntesis para definir a ordem das coisas:
+        System.out.println("Sua idade é: " + (50+50));
+        // Primeiro, os parêtensis são cálculos, e depois, a string se concatena ao valor. 
+
         // *** ** * * * * ** ** * * ***** * * * * * ** * * * * * * * * ***
 
 
