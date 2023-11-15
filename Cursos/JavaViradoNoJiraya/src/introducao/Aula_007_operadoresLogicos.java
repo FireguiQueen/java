@@ -100,5 +100,19 @@ public class Aula_007_operadoresLogicos
         // A idade é maior ou igual a 18  OU  os pais permitiram?
         // Apenas uma precisa ser 'verdadeira' para que a expressão completa retorne 'true'.
 
+
+        // **** **** ****** ******
+
+        // COMO FUNCIONA O OPERADOR LÓGICO OR QUANDO USADO REPETIDAMENTE?
+        // O operador lógico OR é simples: ele compara os dois valores à sua esquerda e à sua direita.
+        // Para retornar true, apenas uma expressão (seja a da direita ou a da esquerda) precisa ser verdadeira.
+        // Neste caso específico:
+        System.out.println(false || true || true || true);
+        // Primeiro, ocorre: false || true --> retorna true.
+        // Com este falso retornado, é avaliado "true || true" --> retorna true.
+        // Novamente, é avaliado: "true || true" --> retorna true.
+        // Por fim, é avaliado: "true || true" --> retorna true.
+        // O resultado final impresso será true.
+
     }
 }
