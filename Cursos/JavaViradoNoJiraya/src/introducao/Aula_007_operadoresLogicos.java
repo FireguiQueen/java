@@ -3,10 +3,8 @@
     São eles:
     and: &&
     or: ||
-    negative: !
 
     Quando usados em expressões, eles fazem com que a expressão retorne 'TRUE' ou 'FALSE'.
-
     O operador 'and' (&&) requer que duas expressões sejam verdadeiras para retornar 'TRUE'.
     O operador 'or' (||) requer que apenas uma das duas expressões seja verdadeira para retornar 'TRUE'.
 */
