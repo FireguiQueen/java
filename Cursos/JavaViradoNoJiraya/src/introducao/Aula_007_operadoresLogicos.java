@@ -99,5 +99,12 @@ public class Aula_007_operadoresLogicos
         // Podemos dizer que a pessoa não tem idade para comprar cerveja. Mas a pergunta foi:
         // A idade é maior ou igual a 18  OU  os pais permitiram? Apenas uma precisa ser 'verdadeira' para que a expressão completa retorne 'true'.
 
+        boolean check = true;
+        switch (true)
+        {
+            case (false):
+                System.out.println("111Olá");
+                break;
+        }
     }
 }
