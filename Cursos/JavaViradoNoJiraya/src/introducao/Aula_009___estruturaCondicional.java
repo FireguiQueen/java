@@ -74,7 +74,7 @@ public class Aula_009___estruturaCondicional
                         carteira -= 5.0;
                         System.out.println("Você pode comprar bebidas alcoólicas");
                 }
-                
+
 
 
         }

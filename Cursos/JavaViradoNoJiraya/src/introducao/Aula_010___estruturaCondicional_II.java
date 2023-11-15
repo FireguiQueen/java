@@ -1,3 +1,13 @@
+// ESTRUTURA CONDICIONAL: ELSE IF / ELSE
+/*
+    A palavra-chave 'if' define a primeira condição para a nossa estrutura como um todo.
+    Mas e se a expressão do bloco 'if' for avaliada como 'false'? Precisamos colocar mais condinções.
+
+    Por exemplo,
+    SE - pessoa tem mais de 30 anos: "pode beber cerveja"
+    SENÃO (se o if anterior for avaliada como false) - pessoa é meno
+*/
+
 package introducao;
 
 public class Aula_010___estruturaCondicional_II
