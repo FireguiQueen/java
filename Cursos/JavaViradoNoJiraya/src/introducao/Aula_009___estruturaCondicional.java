@@ -3,7 +3,7 @@
         O 'if' em português significa "se".
         Se o valor contido dentro dos parênteses for "true", execute o bloco.
 
-        ->> sintaxe
+        ->> sintaxe:
         > if () {}
         - Dentro dos parênteses colocaremos um valor que deve ser boolean. Ou uma expressão, e ela deve retornar 'true' ou 'false'.
         - Dentro das chaves colocaremos as instruções que serão executadas caso a expressão dos parênteses seja avaliada como "true".
@@ -33,6 +33,19 @@ public class Aula_009___estruturaCondicional
 
 
 
+                // EXEMPLO COM EXPRESSÕES
+
+                // Aqui usamos o operador lógico AND (&&) ele requer que ambos os valores/expressões ao seu lado sejam "TRUE".
+                if (true && true)
+                {
+                        System.out.println(" Este bloco será executado! ");
+                }
+
+                // Novamente, usamos o operador AND (&&), mas o bloco não será executado, pois um dois valores/expressões ao seu lado foi "FALSE".
+                if (true && false)
+                {
+                        System.out.println("Este bloco não será executado! ");
+                }
 
 
         }
