@@ -3,14 +3,15 @@
     "Syntactic sugar" é uma forma de sintaxe projetada para tornar as coisas mais fáceis de serem
     lidas ou expressadas. Torna a linguagem "mais doce" para o uso humano.
 
+    Na "syntatatic sugar" temos algumas formas de realizar reatribuições de valores.
     ** São eles:
-    valor da variavel mais outro valor: +=
-    valor da variavel menos outro valor: -=
-    valor da variavel vezes outro valor: *=
-    valro da variável dividido por outro valor: /=
+    variável recebe ela mesma MAIS outro valor: +=
+    variável recebe ela mesma MENOS outro valor: -=
+    variável recebe ela mesma VEZES outro valor: *=
+    variável recebe ela mesma DIVIDA por outro valor: /=
 
-    A ideia por trás deles é que você possa usar o valor da variável
-    juntamente com um operador para realizar a operação desejada.
+    A ideia é que você utilize eles sempre que a variável for receber o valor dela mesma.
+    é que você possa usar o valor da variável juntamente com um operador para realizar a operação desejada.
 */
 
 package introducao;
@@ -18,7 +19,7 @@ public class Aula_008___operadoresDeAtribuicao
 {
     public static void main(String[] args)
     {
-        // EXEMPLOS
+        // EXEMPLO
         /*
             -> Você tem uma conta no banco com R$10.000;
             ->  Você deseja comprar Y produto.
@@ -38,10 +39,12 @@ public class Aula_008___operadoresDeAtribuicao
         // isto é: a variável "saldoContaBancaria" receberá ela mesma MENOS (-) a variável 'precoProduto'.
 
 
-        // Outros exemplos:
+        // ** OUTROS EXEMPLOS:
         int num = 10;
-        num *= 2;  // seria a mesma coisa que fazer: num = num * 2;
+        num *= 2;  // mesma coisa que fazer: num = num * 2;
 
+        int numero = 100;
+        numero *= 2; // mesma coisa que: numero = numero * 2;
         // VALE LEMBRAR QUE, A VARIÁVEL JÁ DEVE POSSUIR UM VALOR. FAZER ISSO RETORNARÁ ERRO.
         //> int numeroInteiro;
         //> numeroInteiro = numeroInteiro * 2;
