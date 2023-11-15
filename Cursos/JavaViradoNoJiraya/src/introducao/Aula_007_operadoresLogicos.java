@@ -68,6 +68,36 @@ public class Aula_007_operadoresLogicos
         // ****** * * ********* * ************ *** ****** ****** * ************ * * *************
 
         // Operador 'or' (||)
+        /*
+            Com o operador 'or', apenas uma das expressões precisa ser verdadeira.
+            Podemos pensar na seguinte situação:
+
+            Você deseja comprar um PS5, para isso, você precisa ter R$5.000.
+            Você possui duas contas bancárias, e seu objetivo é verificar se pelo menos uma dessas
+            contas possui o saldo necessário para comprar o videogame.
+        */
+        double contaBancariaPrincipal = 200;
+        double contaPoupanca = 9000;
+
+        double valorPlaystation = 5000;
+
+        boolean playStationCincoEhCompravel = contaBancariaPrincipal >= valorPlaystation || contaPoupanca >= valorPlaystation;
+        // Expressão completa: contaBancariaPrincipal >= valorPlaystation || contaPoupanca >= valorPlaystation
+        // Aqui, o operador lógico OR (||) verifica se pelo menos uma das condições é 'true'.
+        // Se sim, a expressão completa também é 'true'.
+        // Neste exemplo, a primeira expressão: contaBancariaPrincipal >= valorPlaystation, retorna 'false'.
+        // Mas a segunda retorna 'true'. Logo, a expressão completa nos retorna 'true'.
+
+        // EXEMPLOS:
+        System.out.println(true || true ); // retorna true.
+        System.out.println(true || false ); // retorna true, pois uma das expressões é 'true'.
+        System.out.println(false || false ); // retorna false, pois nenhuma das expressões é 'true'.
+
+        boolean paisPermitiram = true;
+        int age = 15;
+        boolean podeComprarCerveja = paisPermitiram || age >= 18;
+        // Podemos dizer que a pessoa não tem idade para comprar cerveja. Mas a pergunta foi:
+        // A idade é maior ou igual a 18  OU  os pais permitiram? Apenas uma precisa ser 'verdadeira' para que a expressão completa retorne 'true'.
 
     }
 }
