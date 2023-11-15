@@ -5,8 +5,8 @@
 
         ->> sintaxe:
         > if () {}
-        - Dentro dos parênteses colocaremos um valor que deve ser boolean. Ou uma expressão, e ela deve retornar 'true' ou 'false'.
-        - Dentro das chaves colocaremos as instruções que serão executadas caso a expressão dos parênteses seja avaliada como "true".
+        - Dentro dos parênteses colocaremos um valor que deve ser do tipo boolean.. Ou uma expressão, e ela deve retornar 'true' ou 'false'.
+        - Dentro das chaves, colocaremos as instruções que serão executadas caso a expressão dos parênteses seja avaliada como "true".
 */
 
 package introducao;
@@ -60,5 +60,13 @@ public class Aula_009___estruturaCondicional
                         System.out.println("Este bloco será executado! ");
                 }
 
+
+                // Outros exemplos:
+                int age = 18;
+                boolean ehMaiorDeIdade = age >= 18;
+                if (ehMaiorDeIdade)
+                {
+                        System.out.println("Você pode comprar bebidas alcoólicas")
+                }
         }
 }
