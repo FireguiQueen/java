@@ -35,20 +35,19 @@ public class Aula_007_operadoresLogicos
         // Aqui, o operador lógico AND (&&) verifica se ambas as condições são 'true'.
         // Se sim, a expressão completa também é 'true'.
 
-        // LEMBRE-SE, quando utilizad o operador 'AND', para que a expressão completa retorne 'true', as expressões precisam ser verdadeiras.
+        // LEMBRE-SE, ao usar o operador 'AND', a expressão completa retorna 'true' apenas se todas as expressões forem verdadeiras.
 
         // EXEMPLOS:
-        System.out.println(true && true); // true (true pois ambas são verdadeiras)
-        System.out.println(true && false); // false (ambas deveriam ser verdadeiras)
+        System.out.println(true && true); // true (ambas são verdadeiras)
+        System.out.println(true && false); // false (uma delas é falsa)
         System.out.println(true && true && true); // true (todas são verdadeiras)
-        System.out.println(false && true && true); // false (pois nem todas são true).
+        System.out.println(false && true && true); // false (uma delas é falsa)
 
-        // Verificar se poder beber bebidas alcoolicas: precisa ser de maior e ter 5 reais na carteira.
+        // Verificar se pode comprar bebidas alcoólicas: precisa ser maior de idade e ter dinheiro suficiente.
         double carteira = 30.0;
         int idade = 20;
         boolean podeComprarABreja = carteira >= 5 && idade >= 18;
-        // a variável 'podeComprarABreja' irá receber 'TRUE'. Pois a carteira é maior que 5 e a idade é maior que 18.
-
+        // a variável 'podeComprarABreja' receberá 'true' porque a carteira tem mais de 5 e a idade é maior que 18.
 
         // ****** * * ********* * ************ *** ****** ****** * ************ * * *************
 
