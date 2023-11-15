@@ -8,8 +8,7 @@ public class categoriaFutebol
         // entre 15 e 17 =  juvenil
         // maior que 18 = adulta
 
-        int age = 14;
-
+        int age = 148;
         if (age < 15)
         {
             System.out.println("Você faz parte da categoria: infantil");
@@ -20,5 +19,24 @@ public class categoriaFutebol
         {
             System.out.println("Você faz parte da categoria: adulta");
         }
+
+        //  >> ou <<
+
+        int personAge = 14;
+        String categoria = "não definida";
+
+        if (personAge < 15)
+        {
+            categoria = "Infantil";
+        } else if (personAge >= 15 && personAge < 18)
+        {
+            categoria = "Juvenil";
+        } else {
+            categoria = "Adulta";
+        }
+
+        System.out.println("Você faz parte da categoria: " + categoria);
+
+
     }
 }
