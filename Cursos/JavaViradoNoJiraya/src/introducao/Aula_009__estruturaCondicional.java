@@ -28,9 +28,22 @@ public class Aula_009__estruturaCondicional
                         System.out.println("Fique em casa. Está chovendo.");
                 }
 
-
-
                 // Quando o bloco 'if' carrega consigo apenas uma instrução, podemos remover as chaves.
                 if (isRaining) System.out.println("Fique em casa. Está chovendo. ");
+
+
+                // EXEMPLOS
+                /*
+                        Abaixo temos um sistema simples, onde ele determina o quão velho você é com as seguintes palavras:
+                        - Bebê
+                        - Criança
+                        - Adolescente
+                        - Adulto
+                        - Velho
+                */
+                int age = 55;
+
+                if(age >= 0 && age <= 13) System.out.println("Você é NOVO");
+
         }
 }
