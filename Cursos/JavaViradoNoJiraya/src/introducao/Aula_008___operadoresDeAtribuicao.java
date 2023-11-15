@@ -45,23 +45,52 @@ public class Aula_008___operadoresDeAtribuicao
         // VALE LEMBRAR QUE, A VARIAVEL JA DEVE POSSUIR UM VALOR. FAZER ISSO RETORNARÁ ERRO.
         // int numeroInteiro;
         // numeroInteiro = numeroInteiro * 2;
-        // >>>>      ou
+        // >>>>      ou     <<<<
         // int numeroInteiro;
         // numeroInteiro *= 2;
 
 
-        // INCRMENTO E DECREMENTO
+        // INCREMENTO E DECREMENTO
         /*
-            Incrementar nada mais é do que adicionar 1 ao valor da nossa variável.
-            Decrementar significa remover 1 do valor de nossa variável.
+            Incrementar é simplesmente adicionar 1 ao valor da nossa variável,
+            enquanto decrementar significa subtrair 1 do valor da nossa variável.
         */
         double carteira = 2.0;
-        carteira++; // adiciona "+1" ao valor da variável carteira.
+        carteira++; // Adiciona "+1" ao valor da variável 'carteira'.
         System.out.println(carteira); // 3
-        
-        carteira--; // remove "-1" do valor de nossa variável
+
+        carteira--; // Subtrai "-1" do valor da nossa variável.
         System.out.println(carteira); // 2
 
+        // PÓS e PRÉ INCREMENTO
+        // pós
+        carteira++;
+
+        // pré
+        ++carteira;
+
+        /*
+            Mas há alguma diferença? Sim, uma pequena diferença. No entanto, vamos ter algo em mente antes.
+            Lembre-se, tanto o operador de decremento quanto o de incremento são, na verdade, equivalentes a:
+            carteira = carteira + 1;
+
+            Portanto, independentemente de onde o "carteira++" seja colocado, a variável carteira sempre terá seu valor
+            incrementado em 1.
+        */
+        // EXEMPLO:
+        int numeroInt = 10;
+        System.out.println(numeroInt++); // 10  (aqui é printado o valor de 'numeroInt'. Depois é feita a expressão: numeroInt = numeroInt + 1)
+        System.out.println(numeroInt);   // 11  (a linha acima incrementou +1 à variável numeroInt (10))
+
+        // NESTE CASO:
+        int numeroInteiro = 0;
+        System.out.println(numeroInteiro++); // 0
+        // primeiro a nossa variável é impressa  e DEPOIS (pós) a nossa variável terá +1 ao seu valor
+
+        // NESTE CASO:
+        int numInteiro = 0;
+        System.out.println(++numInteiro); // 1
+        // primeiro é adicionado +1 à nossa variável, e aí SIM o valor é impresso.
 
     }
 }
