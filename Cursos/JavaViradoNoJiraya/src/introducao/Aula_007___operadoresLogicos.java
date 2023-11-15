@@ -10,7 +10,7 @@
 */
 package introducao;
 
-public class Aula_007_operadoresLogicos
+public class Aula_007___operadoresLogicos
 {
     public static void main(String[] args)
     {
