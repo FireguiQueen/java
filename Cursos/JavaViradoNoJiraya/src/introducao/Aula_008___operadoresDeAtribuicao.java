@@ -10,8 +10,7 @@
     variável recebe ela mesma VEZES outro valor: *=
     variável recebe ela mesma DIVIDA por outro valor: /=
 
-    A ideia é que você utilize eles sempre que a variável for receber o valor dela mesma.
-    é que você possa usar o valor da variável juntamente com um operador para realizar a operação desejada.
+    >> A ideia é utilizar esses operadores quando a variável for receber o valor dela mesma.
 */
 
 package introducao;
