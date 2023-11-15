@@ -55,8 +55,8 @@ public class Aula_008___operadoresDeAtribuicao
 
         // INCREMENTO E DECREMENTO
         /*
-            Incrementar é simplesmente adicionar 1 ao valor da nossa variável,
-            enquanto decrementar significa subtrair 1 do valor da nossa variável.
+            Incrementar é simplesmente adicionar 1 ao valor da nossa variável.
+            E decrementar significa subtrair 1 do valor da nossa variável.
         */
         double carteira = 2.0;
         carteira++; // Adiciona "+1" ao valor da variável 'carteira'.
@@ -66,10 +66,10 @@ public class Aula_008___operadoresDeAtribuicao
         System.out.println(carteira); // 2
 
         // PÓS e PRÉ INCREMENTO
-        // pós
+        // pós:
         carteira++;
 
-        // pré
+        // pré:
         ++carteira;
 
         /*
@@ -80,7 +80,7 @@ public class Aula_008___operadoresDeAtribuicao
             Portanto, independentemente de onde o "carteira++" seja colocado, a variável carteira sempre terá seu valor
             incrementado em 1.
         */
-        // EXEMPLO:
+        // POR EXEMPLO:
         int numeroInt = 10;
         System.out.println(numeroInt++); // 10  (aqui é printado o valor de 'numeroInt'. Depois é feita a expressão: numeroInt = numeroInt + 1)
         System.out.println(numeroInt);   // 11  (a linha acima incrementou +1 à variável numeroInt (10))
