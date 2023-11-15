@@ -43,6 +43,16 @@ public class Aula_007_operadoresLogicos
         System.out.println(true && true && true); // true (todas são verdadeiras)
         System.out.println(false && true && true); // false (uma delas é falsa)
 
+        // COmo funciona o operador lógico quando estamos usando ele varias vezes? como no exemplo acima?
+        // O operador lógico and é bem simples, ele compara os dois valores: o da esquerda e o da direita.
+        // E para ele retornar true, ambos os valores precisam ser 'true'.
+        // neste caso:
+        System.out.println(false && true && true && true);
+        // primeiro ocorre: false && true -->> retorna false.
+        // Este false fica salvo, e é perguntado "false && true" -->> retorna false.
+        // E novamente, é perguntado: "false && true" --> retorna false.
+        // Por fim, é pergutnado: "false && trye" -->> retorna false.
+
         // Verificar se pode comprar bebidas alcoólicas: precisa ser maior de idade e ter dinheiro suficiente.
         double carteira = 30.0;
         int idade = 20;
