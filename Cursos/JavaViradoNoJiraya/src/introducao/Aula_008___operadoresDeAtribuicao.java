@@ -29,7 +29,7 @@ public class Aula_008___operadoresDeAtribuicao
         double saldoContaBancaria = 10000;
         double precoDoProduto = 300;
         saldoContaBancaria = saldoContaBancaria - precoDoProduto;
-        // Isto é: quero que a variavel "saldoContaBancaria" receba o valor dela (10.000) menos o 'precoDoProduto' (300);
+        // Isto é: quero que a variavel "saldoContaBancaria" receba a variável  'saldoContaBancaria' menos o 'precoDoProduto' (300);
 
         // 2. Syntatic sugar:
         double saldoContaBancaria0 = 10000;
@@ -42,13 +42,14 @@ public class Aula_008___operadoresDeAtribuicao
         int num = 10;
         num *= 2;  // seria a mesma coisa que fazer: num = num * 2;
 
-        // VALE LEMBRAR QUE, A VARIAVEL JA DEVE POSSUIR UM VALOR. FAZER ISSO RETORNARÁ ERRO.
-        // int numeroInteiro;
-        // numeroInteiro = numeroInteiro * 2;
+        // VALE LEMBRAR QUE, A VARIÁVEL JÁ DEVE POSSUIR UM VALOR. FAZER ISSO RETORNARÁ ERRO.
+        //> int numeroInteiro;
+        //> numeroInteiro = numeroInteiro * 2;
         // >>>>      ou     <<<<
         // int numeroInteiro;
         // numeroInteiro *= 2;
 
+        // ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** *****
 
         // INCREMENTO E DECREMENTO
         /*
