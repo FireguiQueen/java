@@ -50,9 +50,17 @@ public class Aula_008___operadoresDeAtribuicao
         // numeroInteiro *= 2;
 
 
-
-
-
+        // INCRMENTO E DECREMENTO
+        /*
+            Incrementar nada mais é do que adicionar 1 ao valor da nossa variável.
+            Decrementar significa remover 1 do valor de nossa variável.
+        */
+        double carteira = 2.0;
+        carteira++; // adiciona "+1" ao valor da variável carteira.
+        System.out.println(carteira); // 3
+        
+        carteira--; // remove "-1" do valor de nossa variável
+        System.out.println(carteira); // 2
 
 
     }
