@@ -61,12 +61,21 @@ public class Aula_009___estruturaCondicional
                 }
 
 
-                // Outros exemplos:
+                // EXEMPLO BREJA:
                 int age = 18;
+                double carteira = 20.50;
+
                 boolean ehMaiorDeIdade = age >= 18;
-                if (ehMaiorDeIdade)
+                boolean temDinheiroPraComprarABreja = carteira >= 5;
+
+                // Ambas os valores precisam ser verdade devido ao operador 'AND' para que o bloco do 'if' seja executado
+                if (ehMaiorDeIdade && temDinheiroPraComprarABreja)
                 {
-                        System.out.println("Você pode comprar bebidas alcoólicas")
+                        carteira -= 5.0;
+                        System.out.println("Você pode comprar bebidas alcoólicas");
                 }
+                
+
+
         }
 }
