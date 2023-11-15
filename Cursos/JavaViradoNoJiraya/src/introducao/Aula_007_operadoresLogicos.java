@@ -56,9 +56,9 @@ public class Aula_007_operadoresLogicos
 
         // Seria a mesma coisa que colocar:
         System.out.println( (false && true) && (true && true) );
-        // é avaliado o primeioro paretensis: (false && true). é retornado 'FALSE'.
-        // Depois é avaliado o segundo parentesis: (true && true). é retornado 'TRUE'.
-        // E depois, temos a expressão final: FALSE && TRUE. é retornado 'false'.
+        // É avaliado o primeiro parêntese: (false && true), retornando 'FALSE'.
+        // Depois é avaliado o segundo parêntese: (true && true), retornando 'TRUE'.
+        // E, por fim, temos a expressão final: FALSE && TRUE, que retorna 'false'.
 
 
         // Verificar se pode comprar bebidas alcoólicas: precisa ser maior de idade e ter dinheiro suficiente.
