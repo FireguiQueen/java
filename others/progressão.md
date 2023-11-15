@@ -26,12 +26,14 @@ ______________
 </br>
 
 # Java Virado No Jiraya | _DevDojo_
-  Data        | Aulas assistidas    
-:-----------: |:-----------------:
-09/11/2023    | Aula 00 até Aula 03
-10/11/2023    | Aula 00 até Aula 07
-11/11/2023    | Revisão da Aula 07
-12/11/2023    | Aula 08 até Aula 12
+  Data            |       Aulas assistidas    
+:-----------:     |:-----------------:
+09/11/2023        | Aula 00 até Aula 03
+10/11/2023        | Aula 04 até Aula 07
+11/11/2023        | Revisão da Aula 07
+12/11/2023        | Aula 08 até Aula 12
+13/11/2023        | Aula 13 até Aula 15 (+ explicações)
+14/11/2023        | Aula 16 até Aula 18 
 
 
 
