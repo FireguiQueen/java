@@ -11,7 +11,7 @@
 
 package introducao;
 
-public class Aula_009__estruturaCondicional
+public class Aula_009___estruturaCondicional
 {
         public static void main(String[] args)
         {
@@ -32,18 +32,8 @@ public class Aula_009__estruturaCondicional
                 if (isRaining) System.out.println("Fique em casa. Está chovendo. ");
 
 
-                // EXEMPLOS
-                /*
-                        Abaixo temos um sistema simples, onde ele determina o quão velho você é com as seguintes palavras:
-                        - Bebê
-                        - Criança
-                        - Adolescente
-                        - Adulto
-                        - Velho
-                */
-                int age = 55;
 
-                if(age >= 0 && age <= 13) System.out.println("Você é NOVO");
+
 
         }
 }
