@@ -29,6 +29,7 @@ public class Aula_009__estruturaCondicional
                 }
 
 
+
                 // Quando o bloco 'if' carrega consigo apenas uma instrução, podemos remover as chaves.
                 if (isRaining) System.out.println("Fique em casa. Está chovendo. ");
         }
