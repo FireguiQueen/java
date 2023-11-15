@@ -40,6 +40,13 @@ public class Aula_006___operadoresDeComparacao
         // Perguntando se DOIS é maior que DEZ
         System.out.println(2 > 10); // false
 
+        // Perguntando se TRÊS é igual a TRÊS
+        System.out.println(3 == 3); // true
+
+        // Perguntando se TRÊS é diferente de TRÊS
+        System.out.println(3 != 3); // false
+
+
 
     }
 }
