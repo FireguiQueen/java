@@ -1,11 +1,12 @@
-// OPERADORES DE ATRIBUIÇÃO (Syntactic sugar)
+// OPERADORES DE ATRIBUIÇÃO - Syntactic sugar
 /*
-    São eles:
-    atribuir um valor: =
+    "Syntatic sugar" é, na verdade, alguns jeitos mais "bonitos" e "simples" de se realizar alguns instruções
+
+    ** São eles:
     valor da variavel mais outro valor: +=
     valor da variavel menos outro valor: -=
     valor da variavel vezes outro valor: *=
-    valro da variável dividido por outro valro: /=
+    valro da variável dividido por outro valor: /=
 
     A ideia deles é que você sempre utilize o valor da variável
     juntamente a um operador
