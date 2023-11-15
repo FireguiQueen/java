@@ -33,7 +33,7 @@ public class Aula_009___estruturaCondicional
 
 
 
-                // EXEMPLO COM EXPRESSÕES
+                // EXEMPLO COM UMA EXPRESSÃO
 
                 // Aqui usamos o operador lógico AND (&&) ele requer que ambos os valores/expressões ao seu lado sejam "TRUE".
                 if (true && true)
@@ -47,6 +47,18 @@ public class Aula_009___estruturaCondicional
                         System.out.println("Este bloco não será executado! ");
                 }
 
+
+                // Aqui usamos o operador lógico OR (||) ele requer que apenas um dos valores/expressões ao seu lado seja "TRUE".
+                if (true || false)
+                {
+                        System.out.println("Este bloco será executado! ");
+                }
+
+                // Este bloco não será executado, pois nem um valor/expressão ao lado do operador é considerado 'true'.
+                if (false || false)
+                {
+                        System.out.println("Este bloco será executado! ");
+                }
 
         }
 }
