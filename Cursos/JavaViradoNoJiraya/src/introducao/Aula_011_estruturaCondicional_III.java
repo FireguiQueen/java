@@ -8,7 +8,8 @@ package introducao;
 
 public class Aula_011_estruturaCondicional_III
 {
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
         // Começaremos com uma expressão e uma interrogação.
         // Caso ela seja avaliada como "true", a primeira parte é retornada, caso seja false, a segunda parte será.
 
@@ -34,7 +35,6 @@ public class Aula_011_estruturaCondicional_III
             coisa que colocar a string no código dessa forma:
             > "Vou comprar o PS5";
 
-
             Ele deve estar assim:
 
             // dando o retorno para uma variável:
@@ -43,7 +43,21 @@ public class Aula_011_estruturaCondicional_III
             ou assim
 
             // dando o retorno para um método:
-            System.out.println(contaBancaria >= 3000 ? "Vou comprar o PS5" : "Não vou comprar o PS5";)
+            System.out.println(contaBancaria >= 3000 ? "Vou comprar o PS5" : "Não vou comprar o PS5");
         */
+
+
+        // OPERADOR CONDICIONAL PODE SUBSTITUIR: IF   ELSE IF   E   ELSE?
+        /*
+            Sim, ele pode, mas você JAMAIS deve fazer isso.
+        */
+        int idade = 19;
+        String categoriaFutebol = (idade <= 15) ? "Infantil" : (idade >= 16 && idade <= 18) ? "Juvenil" : "Adulta";
+
+        // Primeiro, avaliamos a expressão: idade <= 15 (a variável idade é MENOR ou IGUAL a 15?).
+        // Se for "TRUE", será retornado "Infantil"; se for "FALSE", uma expressão diferente será analisada.
+
+        // A expressão a ser analisada é: (idade >= 16 && idade <= 18) (a variável idade é MAIOR ou IGUAL a 16 E MENOR ou IGUAL a 18?).
+        // Se for "TRUE", será retornado "Juvenil"; se for "FALSE", será retornado "Adulta".
     }
 }
