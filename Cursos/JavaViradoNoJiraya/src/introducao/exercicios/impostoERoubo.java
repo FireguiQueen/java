@@ -1,10 +1,15 @@
 package introducao.exercicios;
+import java.util.Scanner;
 
 public class impostoERoubo
 {
     public static void main(String[] args)
     {
-        double annualSalary = 60000;
+        Scanner userInput = new Scanner(System.in);
+
+        System.out.print("Digite seu salário anual: ");
+        double annualSalary = userInput.nextDouble();
+        double liqSalary = annualSalary;
         double totalTaxes;
 
         if (annualSalary >= 0 && annualSalary <= 34712)
@@ -16,9 +21,11 @@ public class impostoERoubo
             totalTaxes = 37.35;
         } else
         {
-            totalTaxes = 49.50;
+            totalTaxes = 49.5;
         }
-        annualSalary -= annualSalary * (totalTaxes / 100);
-        System.out.println("Valor liq.: " + annualSalary + "\nTotal taxes: " + totalTaxes + "%");
+        liqSalary -= liqSalary * (totalTaxes/100);
+        System.out.println("Salário anual: " + annualSalary);
+        System.out.println("Valor liq.: " + liqSalary);
+        System.out.printf("Valor pago de imposto: £%.2f (%.2f%c)", annualSalary * (totalTaxes/100), totalTaxes, '%');
     }
 }
