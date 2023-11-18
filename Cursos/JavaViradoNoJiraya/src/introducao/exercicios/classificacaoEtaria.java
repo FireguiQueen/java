@@ -13,6 +13,7 @@ public class classificacaoEtaria
     {
         Scanner userInput = new Scanner(System.in);
 
+        System.out.print("Digite seu idade: ");
         int pessoaIdade = userInput.nextInt();
         String categoria = "";
         if (pessoaIdade <= 12)
@@ -25,8 +26,6 @@ public class classificacaoEtaria
             categoria = "Adulto";
         }
 
-        System.out.println("Você é:" + categoria);
-
-
+        System.out.println("Você é: " + categoria);
     }
 }
