@@ -13,11 +13,20 @@ package introducao;
 
 public class Aula_012___estruturaCondicional_IV
 {
-    public static void main(String[] args)
-    {
-        switch (10)
-        {
-            case 0:
-                System.out.println("");
+    public static void main(String[] args) {
+        // Aqui definimos o valor que será usado pelos "cases"
+        switch ("João") {
+            // caso este "case" tenha o mesmo valor colocado lá em cima, essas instruções serão executadas
+            case "Maria":
+                System.out.println("Seu apelido pode ser 'Ma' ");
+                break;
+
+            case "João":
+                System.out.println("Seu apelido pode ser Jojo");
+                break;
         }
+
+        // POR QUE USAMOS O BREAK?
+
+    }
 }
