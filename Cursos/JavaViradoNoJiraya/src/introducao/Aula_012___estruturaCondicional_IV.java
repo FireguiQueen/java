@@ -75,5 +75,54 @@ public class Aula_012___estruturaCondicional_IV {
                 System.out.println("Nenhum caso anterior correspondeu ao valor do switch (num) =( ");
         }
         // output: "Nenhum caso anterior correspondeu ao valor do switch (num) =( "
+
+
+        // ** ***** ** ***** ** ***** ** ***** ** ***** ** ***** ** ***** ** *****
+
+
+        // Simplificando a estrutura quando casos diferentes retornam a mesma coisa.
+
+        // EXEMPLO
+        /*
+            Eu tenho preferência pelos números: 4, 5, 6 e 7; portanto, criarei um pequeno programa que imprime um emoticon feliz
+            se um desses números for escolhido. Caso seja qualquer outro número, será um emoticon triste.
+        */
+        byte numeroDaSorte = 5;
+
+        switch (numeroDaSorte)
+        {
+            case 4:
+            case 5:
+            case 6:
+            case 7:
+                System.out.println("  (=  ");
+                break;
+
+            default:
+                System.out.println("  =(   ");
+        }
+
+        /*
+            Lembrando o que foi mencionado: quando não utilizamos o 'break' em um 'case', os próximos 'cases' também serão
+            executados, como instruções. Podemos aproveitar isso a nosso favor. Por exemplo, se o valor da variável for '4',
+            o 'case 4' será executado, que executará o 5, seguido pelo 6 e, por fim, o 'case 7', resultando na impressão do
+            emoticon feliz.
+
+            Se o número escolhido for 5, o 'case 5' será executado, levando à execução do 'case 6', que por sua vez
+            executará o 'case 7', resultando novamente na impressão do emoticon feliz.
+        */
+
+        // MAS TAMBÉM PODEMOS FAZER DESTA FORMA (MAS FIQUE ATENTO POIS ELA NÃO É SUPORTADA EM VERSOES ANTIGAS DO JAVA):
+        byte numeroSorte = 5;
+
+        switch (numeroSorte)
+        {
+            case 4, 5, 6, 7:
+                System.out.println("  (=  ");
+                break;
+
+            default:
+                System.out.println("  =(   ");
+        }
     }
 }
