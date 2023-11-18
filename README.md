@@ -11,9 +11,9 @@ Este repositório foi criado com o propósito de consolidar os cursos que realiz
  Embora eu acredite que cursos por si só não preparem completamente alguém para o mercado, considero-os úteis para iniciar o aprendizado. O principal critério de seleção foi evitar "entidades de ensino" focadas mais em marketing do que em qualidade de ensino. Portanto, este repositório não inclui cursos da Alura ou Rockeseat, por exemplo. Alguns cursos foram indicados por amigos, enquanto outros eu busquei em lugares obscuros da web (reddit).
 
 ### Instrutores e cursos 
-- __William Suane__, _DevDojo:_ "<a href="https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW">Java virado no Jiraya</a>"
-- __Loiane Groner__, _Loiane Trainning:_ "<a href="https://loiane.training/curso/java-basico">Java básico</a>"
-- __Italo Grossi__, _DeAlunoParaAluno:_ "<a href="https://www.youtube.com/playlist?list=PLa75BYTPDNKZLzk3xG-gSXSU_AAq5RP4g">Programar em Java</a>"
+- __William Suane__, _DevDojo:_ <a href="https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW">Java virado no Jiraya</a>
+- __Loiane Groner__, _Loiane Trainning:_ <a href="https://loiane.training/curso/java-basico">Java básico</a>
+- __Italo Grossi__, _DeAlunoParaAluno:_ <a href="https://www.youtube.com/playlist?list=PLa75BYTPDNKZLzk3xG-gSXSU_AAq5RP4g">Programar em Java</a>
 
 </br>
 
