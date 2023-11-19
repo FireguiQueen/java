@@ -49,6 +49,63 @@ public class Aula_014_estruturasDeRepeticao
 
         // ** *** ******* ** *** ******* ** *** ******* ** *** ******* ** *** *******
 
+
         // DO WHILE
+        /*
+            O do-while é bem parecido com o while, mas há uma pequena diferença.
+            No while, primeiro nossa expressão é avaliada, se ela for 'true' o bloco é executado, se for 'false',
+            o while é encerrado.
+
+            no do-while, primeiro o nosso bloco é executado, e depois nossa expressão é avaliada. Isto é, nosso
+            bloco de instruções sempre será executado ao menos uma vez.
+
+            "Atirar primeiro, perguntar depois" ~ do while, 2007
+        */
+        do
+        {
+            System.out.println("Esta mensagem será printada só uma vez");
+        } while (false);
+
+        // 1. Nosso bloco será executado.
+        // 2. Nossa condição é avaliada, se ela for 'false', o do-while é encerrado, se ela for 'true', o bloco 'do' é executado novamente.
+
+        // EXEMPLO PRÁTICO
+        int j = 0;
+        do
+        {
+            System.out.println("O valor é: " + j);
+            j++;
+        } while (j < 3);
+        // OUTPUT:
+        /*
+           * O valor é: 0
+           * O valor é: 1
+           * O valor é: 2
+        */
+
+        // EXPLICANDO CADA CICLO
+        /*
+            Definimos uma variável chamada 'j', seu valor é 0.
+            
+            O bloco 'do' será executado, fazendo com que seja printado:
+            "O valor é: 0"
+            E depois incrementado '+1' ao valor de 'j'.
+
+            -->> Nossa condição é avaliada: j (1) é menor do que 3? TRUE
+            O bloco 'do' será executado, fazendo com que seja printado:
+            "O valor é: 1"
+            E depois incrementado '+1' ao valor de 'j'.
+
+            -->> Nossa condição é avaliada: j (2) é menor do que 3? TRUE
+            O bloco 'do' será executado, fazendo com que seja printado:
+            "O valor é: 2"
+            E depois incrementado '+1' ao valor de 'j'.
+
+            -->> Nossa condição é avaliada: j (3) é menor do que 3? FALSE. Laço finalizado.
+
+
+
+        */
+        // ** *** ******* ** *** ******* ** *** ******* ** *** ******* ** *** *******
     }
 }
