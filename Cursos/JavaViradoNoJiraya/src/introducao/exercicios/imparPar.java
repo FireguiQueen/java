@@ -26,8 +26,9 @@ public class imparPar
             System.out.print("impar");
         }
 
-        // OU
 
+
+        // SEGUNDA FORMA:
         for (int i = 0; i <= range; i++)
         {
             String isOddOrEven = i % 2 == 0? "par" : "ímpar";
