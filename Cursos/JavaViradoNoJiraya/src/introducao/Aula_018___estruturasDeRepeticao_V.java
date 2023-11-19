@@ -29,13 +29,13 @@ public class Aula_018___estruturasDeRepeticao_V {
             quando 'i' é maior que 5.
         */
 
-        // Exemplo 2: Utilizando 'continue' para ignorar números pares.
-        int range = 50;
+        // Exemplo 2: Utilizando 'continue' para ignorar números ímpares.
+        int range = 25;
         for (int i = 0; i <= range; i++) {
-            if (i % 2 == 0) {
-                continue; // Pula para a próxima iteração se 'i' for par.
+            if (i % 2 != 0) {
+                continue; // Pula para a próxima iteração se 'i' for ímpar.
             }
-            System.out.println("É ímpar: " + i);
+            System.out.println("É par: " + i);
         }
 
         /*
