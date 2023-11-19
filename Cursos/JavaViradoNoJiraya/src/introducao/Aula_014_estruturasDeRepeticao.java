@@ -23,27 +23,27 @@ public class Aula_014_estruturasDeRepeticao
         //>     }
 
         // Para fazer uma estrutura que funcione corretamente, utilize variáveis.
-        int i = 0;
-        while (i < 10)
+        int g = 0;
+        while (g < 10)
         {
             System.out.println("Olá");
-            i++;
+            g++;
         }
         /*
             Na primeira vez que o 'while' for executado, será avaliado:
-            i < 10 (a variável 'i' (0) é menor do que 10?)
-            -> Esta expressão resulta em 'true', pois 'i' é menor do que 10. E então, nosso bloco de código é executado.
-            -> Nas instruções deste bloco, dizemos para imprimir "Olá" e incrementar '+1' à variável 'i' (0).
+            i < 10 (a variável 'g' (0) é menor do que 10?)
+            -> Esta expressão resulta em 'true', pois 'g' é menor do que 10. E então, nosso bloco de código é executado.
+            -> Nas instruções deste bloco, dizemos para imprimir "Olá" e incrementar '+1' à variável 'g' (0).
 
-            Agora, na segunda vez, o valor de 'i' foi alterado devido a execução anterior, então será avaliado:
-            i < 10 (a variável 'i' (1) é menor do que 10?)
-            -> Esta expressão resulta em 'true', pois 'i' é menor do que 10. E então, nosso bloco de código é executado.
-            -> Nas instruções deste bloco, dizemos para imprimir "Olá" e incrementar '+1' à variável 'i' (1).
+            Agora, na segunda vez, o valor de 'g' foi alterado devido a execução anterior, então será avaliado:
+            g < 10 (a variável 'g' (1) é menor do que 10?)
+            -> Esta expressão resulta em 'true', pois 'g' é menor do que 10. E então, nosso bloco de código é executado.
+            -> Nas instruções deste bloco, dizemos para imprimir "Olá" e incrementar '+1' à variável 'g' (1).
 
-            Isso irá acontecer até chegar ao ponto em que 'i' vale '9', e será perguntado:
-            i (9) < 10 (true). O bloco de código é executado e nele há instrução de incrementar '+1' à variável 'i'.
-            Agora, 'i' vale 10. E será perguntado:
-            i (10) < 10 (false), o loop 'while' é encerrado.
+            Isso irá acontecer até chegar ao ponto em que 'g' vale '9', e será perguntado:
+            g (9) < 10 (true). O bloco de código é executado e nele há instrução de incrementar '+1' à variável 'g'.
+            Agora, 'g' vale 10. E será perguntado:
+            g (10) < 10 (false), o loop 'while' é encerrado.
         */
 
 
@@ -86,7 +86,7 @@ public class Aula_014_estruturasDeRepeticao
         // EXPLICANDO CADA CICLO
         /*
             Definimos uma variável chamada 'j', seu valor é 0.
-            
+
             O bloco 'do' será executado, fazendo com que seja printado:
             "O valor é: 0"
             E depois incrementado '+1' ao valor de 'j'.
@@ -102,10 +102,42 @@ public class Aula_014_estruturasDeRepeticao
             E depois incrementado '+1' ao valor de 'j'.
 
             -->> Nossa condição é avaliada: j (3) é menor do que 3? FALSE. Laço finalizado.
-
-
-
         */
+
         // ** *** ******* ** *** ******* ** *** ******* ** *** ******* ** *** *******
+
+        // FOR
+        // 1. Definimos uma variável de controle
+        // 2. Colocamos uma expressão: se ela for true o bloco é executado, do contrário, o loop é encerrado
+        // 3. Colocamos um "modificador" para alterar o valor da nossa variável.
+
+        // Em geral, a variável de controle se chamará 'i' (iterador).
+        // Iterador se refere ao verbo 'iterar', ou seja, percorrer.
+        for (int i = 0; i < 10; i++)
+        {
+            System.out.println("O valor de 'i' é: " + i);
+        }
+
+        // Será definido: i = 0;
+        // Será perguntado: i < 10 (0 é menor que 10?)
+        // O bloco será executado, e será printado valor de 'i': 0
+        // E por fim, será incrementado '+1' a variável 'i'.
+
+        // Agora 'i' vale '1'.
+        // Será perguntado: i < 10 (1 é menor que 10?): TRUE
+        // O bloco será executado, e será printado valor de 'i': 1
+        // E por fim, será incrementado '+1' a variável 'i'.
+
+        // E ISSO VAI ATÉ CHEGAR EM 9.
+        // Será perguntado: i < 10 (9 é menor que 10?): TRUE
+        // O bloco será executado, e será printado valor de 'i': 9
+        // E por fim, será incrementado '+1' a variável 'i'.
+
+        // Agora 'i' vale '10'.
+        // Será perguntado: i < 10 (10 é menor que 10?): FALSE. Loop encerrado.
+
+        // AO FIM DE TUDO, O LOOP FOI EXECUTADO 10 VEZES: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 (totaliza 10 vezes)
+        // Por convenção, a variável 'i' tende a começar com o valor de '0'.
+
     }
 }
