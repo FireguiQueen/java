@@ -16,6 +16,11 @@ Alguns cursos foram indicados por amigos, enquanto outros eu busquei em lugares 
 - __Loiane Groner__, _Loiane Trainning:_ <a href="https://loiane.training/curso/java-basico">Java básico</a>
 - __Italo Grossi__, _DeAlunoParaAluno:_ <a href="https://www.youtube.com/playlist?list=PLa75BYTPDNKZLzk3xG-gSXSU_AAq5RP4g">Programar em Java</a>
 
+#### Canais que recomendo
+- devDojo
+- Curso De Tecnologia
+- Elder Moraes 
+
 </br>
 
 ### FAQ 
