@@ -16,7 +16,19 @@ public class Aula_017___estruturasDeRepeticao_IV
                 break;
             }
             System.out.println("Parcela " + i + ": " + valorParcela);
+        }
 
+        System.out.println("--- separador ---");
+        // OU
+
+
+        double valorProduto = 10000;
+        int totalParcelas = 10;
+
+        for (int i = 1; i <= totalParcelas; i++)
+        {
+            double valorDaParcela = valorProduto / i;
+            System.out.println("Parcela " + i + ": " + valorDaParcela);
         }
 
     }
