@@ -36,7 +36,9 @@ ______________
 14/11/2023        | Aula 16 até Aula 18 
 15/11/2023        | Aula 19 até Aula 21
 16/11/2023        | Aula 22 até Aula 23
-18/11/2023        | Aula 24 até Aula 
+18/11/2023        | Aula 24 até Aula 28
+19/11/2023        | Aula 29 até Aula 
+
 
 
 
