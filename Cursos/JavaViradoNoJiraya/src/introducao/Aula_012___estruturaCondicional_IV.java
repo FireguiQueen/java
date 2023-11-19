@@ -115,14 +115,16 @@ public class Aula_012___estruturaCondicional_IV {
         // MAS TAMBÉM PODEMOS FAZER DESTA FORMA (MAS FIQUE ATENTO POIS ELA NÃO É SUPORTADA EM VERSOES ANTIGAS DO JAVA):
         byte numeroSorte = 5;
 
-        switch (numeroSorte)
-        {
-            case 4, 5, 6, 7:
-                System.out.println("  (=  ");
-                break;
+//        switch (numeroSorte)
+//        {
+//            case 4, 5, 6, 7:
+//                System.out.println("  (=  ");
+//                break;
+//
+//            default:
+//                System.out.println("  =(   ");
+//        }
 
-            default:
-                System.out.println("  =(   ");
-        }
+
     }
 }
