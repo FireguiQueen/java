@@ -27,6 +27,10 @@ public class Aula_020___array_II
         System.out.println(arrayDeBooleans[1]); // false
         System.out.println(arrayDeBooleans[2]); // false
 
+        // QUANDO O TIPO DO ARRAY É UM OBJETO, É RETORNADO 'null' (nulo)
+        String[] arrayDeString = new String[1];
+        System.out.println(arrayDeString[0]); // null
+
 
 
     }
