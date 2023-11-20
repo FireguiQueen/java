@@ -40,7 +40,8 @@ public class Aula_019___array
         int[] arrayVazio = new int[3];
 
         // Agora, podemos definir seus valores.
-        // É como entrar numa rua (arrayVazio) e entrar nas casas (valores). Começamos pela "casa 0". 
+        // É como entrar numa rua (arrayVazio) e entrar nas casas (valores). Começamos pela "casa 0".
+        // E após isso, podemos atribuir valores a essas casas. 
         arrayVazio[0] = 30; // posição 0: 30
         arrayVazio[1] = 40; // posição 1: 40
         arrayVazio[2] = 50; // posição 2: 50
