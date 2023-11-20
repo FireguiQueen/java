@@ -15,28 +15,24 @@
     Um array é uma variável especial capaz de armazenar um ou mais valores.
     E esta variável é do tipo de referência. Ss tipos de referência são variáveis que contêm uma referência ou
     endereço de memória que aponta para um objeto.
-    Neste casso, o objeto é o nosso array em si, o objeto é a nossa estrutura que está armazenando diversos valores do mesmo tipo de dado.
-    --> int[] listaDeNumeros = {10, 20, 30};  (um array de números inteiros)
-
-    // Printa o nosso array dessa forma nos informa, na verdade, o endereço do objeto.
-    // Pois como foi dito anteriormente, a variável salva o endereço de onde nossos valores estão armazenados.
-    --> System.out.println(listaDeNumeros);    // [I@3fee733d
-
-    // Para printar um elemento (valor) de um array, você deve utilizar os colchetes.
-    // Fazer isso, é equivalente a chegar numa rua e acessar uma casa.
-    // A rua é o nosso array, e ela contem diversas casas (valores).
-    --> System.out.println(listaDeNumeros[0]);  // 10
-
-
-
 */
 package introducao;
 
 
 public class Aula_019___array
 {
-    public static void main(String[] args) {
-        int[] lista1 = {10, 30};
-        int[] lista0 = {10, 30};
+    public static void main(String[] args)
+    {
+        // Neste casso, o objeto é o nosso array em si, o objeto é a nossa estrutura que está armazenando diversos valores do mesmo tipo de dado.
+        int[] listaDeNumeros = {10, 20, 30};  // um array de números inteiros
+
+        // Printa o nosso array dessa forma nos informa, na verdade, o endereço do objeto.
+        // Pois como foi dito anteriormente, a variável salva o endereço de onde nossos valores estão armazenados.
+        System.out.println(listaDeNumeros);    // [I@3fee733d
+
+        // Para printar um elemento (valor) de um array, você deve utilizar os colchetes.
+        // Fazer isso, é equivalente a chegar numa rua e acessar uma casa.
+        // A rua é o nosso array, e ela contem diversas casas (valores).
+        System.out.println(listaDeNumeros[0]);  // 10
     }
 }
