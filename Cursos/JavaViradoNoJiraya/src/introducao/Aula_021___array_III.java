@@ -1,7 +1,7 @@
 // ARRAY: iterando (percorrendo)
 /*
     "Iterar um array" é a mesma coisa que "percorrer um array", isto é, acessar cada um dos elementos do array.
-    Para iterar, podemos usar o for loop.
+    -> Para iterar, podemos usar o for loop.
 */
 package introducao;
 
@@ -9,7 +9,7 @@ public class Aula_021___array_III
 {
     public static void main(String[] args)
     {
-        // define um array de números inteiros. O array pode conter no máximo 2 elementos.
+        // define um array de números inteiros. O array pode conter no máximo 3 elementos.
         int[] numerosInteiros = new int[3];
 
         /*
@@ -34,8 +34,9 @@ public class Aula_021___array_III
 
         // EXPLICANDO
         /*
-            A condição precisa ser "MENOR" pois para acessar um valor de um array, usamos seu indice.
-            Então por exemplo, se o array possui 3 elementos, ele possui 2 indices: 0, 1 e 2.
+            A condição precisa ser "MENOR" pois para acessar um valor de um array, usamos seu indice (sua posição).
+            A posição 0 representa o primeiro elemento, a posição 1 é o segundo elemento e assim por diante..
+            Então por exemplo, se o array possui 3 elementos, ele possui 2 indices (posições): 0, 1 e 2.
 
             Primeiro é definido uma variável 'i' e seu valor é '0'.
             > Temos a condição: 0 < quantidadeElementos (3)?
