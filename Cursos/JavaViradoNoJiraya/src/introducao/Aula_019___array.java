@@ -45,5 +45,13 @@ public class Aula_019___array
         arrayVazio[0] = 30; // posição 0: 30
         arrayVazio[1] = 40; // posição 1: 40
         arrayVazio[2] = 50; // posição 2: 50
+
+        // NÃO PODEMOS FAZER ISTO, POIS A POSIÇÃO '3' NÃO EXISTE
+        // > arrayVazio[3] = 60;
+
+        // LEMBRÊ-SE, CRIAR UM ARRAY DE 3 ELEMENTOS GERA TRÊS INDICES (POSIÇÕES).
+        // indice 0
+        // indice 1
+        // indice 2
     }
 }
