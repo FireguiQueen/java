@@ -1,4 +1,4 @@
-// ARRAYS
+// ARRAYS: o que é; declaração; enderaçamento, elementos..
 /*
     Um array é variável capaz de armazenar uma coleção de dados, isto é, um conjunto de elementos do mesmo tipo.. Ou
     em outras palavras, um array é uma estrutura que armazena diversos valores do mesmo tipo.
@@ -53,5 +53,6 @@ public class Aula_019___array
         // indice 0
         // indice 1
         // indice 2
+
     }
 }
