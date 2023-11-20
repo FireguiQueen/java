@@ -67,9 +67,20 @@ public class Aula_021___array_III
             O bloco seria executado.
             > System.out.println(numerosInteiros[3]); // printa o valor da posição 3 (mas ele não existe. Retorna erro.)
 
-
-
         */
 
+        // ***** ****** ****** * ****** ****** * * * ***** ****** * ****** ****** ******
+
+        // Bem, talvez agora você tenha entendido o porque a variável 'i' do 'for loop' começa sempre com o valor 0.
+        // Todo array começa pela posição zero, isto é, o primeor valor de um array terá a posição 0.
+        // Se o nosso 'for loop' começar com o valor de '1', estaremos ignorando o primeiro valor do array.
+
+        int[] centenas = {500, 200, 300};
+
+        for (int i = 1; i < centenas.length; i++)
+        {
+            System.out.println( centenas[i] );
+        }
+        // output: 200, 300
     }
 }
