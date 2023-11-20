@@ -38,7 +38,7 @@ public class Aula_022___array_III
             Se 'num' fosse do tipo 'boolean', estariamos tentando fazer:
             num = numerosInteiros[0] (num = 100);
 
-            E valores booleanos não podem receber números. 
+            E valores booleanos não podem receber números.
         */
 
     }
