@@ -12,7 +12,7 @@ public class Aula_024___array_V
         int[][] lista = { {50, 20}, {10, 20} };
 
         // cada iteração deste 'for' a variável "mainArr" recebe um array.
-        // como a variável "mainArr" irá receber um array, ela precisa conter os "[]"
+        // como a variável "mainArr" irá receber um array de arrays, ela precisa conter os "[]"
         for (int mainArr[]: lista)
         {
             // cada iteração deste 'for' a variável "num" recebe um elemento do array contido na variável "mainArr"
