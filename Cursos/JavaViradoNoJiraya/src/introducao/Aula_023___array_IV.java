@@ -5,8 +5,10 @@
 
 package introducao;
 
-public class Aula_023___array_IV {
-    public static void main(String[] args) {
+public class Aula_023___array_IV
+{
+    public static void main(String[] args)
+    {
         // Nosso array principal representa uma escola.
         // Os arrays dentro dele são os andares, e os valores são as salas.
         int[][] andaresEscola = { {1000, 1001, 1002}, {2000, 2001, 2002}, {3000, 3001, 3002} };
