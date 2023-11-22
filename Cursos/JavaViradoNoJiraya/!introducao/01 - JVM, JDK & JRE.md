@@ -13,10 +13,10 @@ Mas é importante saber que cada sistema operacional é desenvolvido de uma mane
 compreender e executar ações. Isso é crucial para a computação, pois permite o desenvolvimento de sistemas focados em 
 objetivos específicos. Por exemplo, uma pessoa com uma máquina extremamente limitada pode usar um sistema operacional 
 chamado "Lubuntu". O Lubuntu é projetado para ser leve em máquinas com recursos limitados.
-Pessoas que estudam ou trabalham com cibersegurança podem usar um sistema operacional chamado "Kali Linux", 
-voltado para atender a essas necessidades, com diversas ferramentas específicas. 
+Pessoas que estudam ou trabalham com cibersegurança podem usar um sistema operacional chamado "Kali Linux", que é
+voltado para atender a essas necessidades, com diversas ferramentas específicas para hacking por exemplo. 
 
-Podemos concluir que cada sistema tem um nicho específico, embora existam também sistemas, como o Windows e o Kubuntu, 
+Podemos concluir que cada sistema tem um nicho específico, embora existam também sistemas, como o Windows e o Ubuntu, 
 que buscam atender a diversos públicos, incluindo gamers, programadores e usuários comuns.
 
 Entre todos esses sistemas com propósitos diferentes, é natural pensar que cada um é construído de uma maneira única. 
@@ -40,7 +40,7 @@ As linguagens compiladas são aquelas em que o código fonte é compilado antes 
 arquivo executável que pode ser executado diretamente pelo sistema operacional.
 
 Uma linguagem compilada significa que precisamos compilar nosso programa escrito nessa linguagem.
-Após a criação do programa, ele passará por um processo de compilação, pois o código contido nesse programa não pode ser lido diretamente por uma máquina, já que ela entende apenas zeros e uns (formato binário). 
+Após a criação do código fonte do programa, ele passará por um processo de compilação, pois o código contido nesse programa não pode ser lido diretamente por uma máquina, já que ela entende apenas zeros e uns (formato binário). 
 Então, nosso código será transformado em um formato que as máquinas conseguem compreender.
 
 > a linguagem C é uma linguagem compilada, mas o código que escrevemos nela é incompreensível para o computador.
@@ -60,21 +60,23 @@ em formato binário, composta por zeros e uns.
 ## Java Virtual Machine (JVM)
 Após compreender alguns "pilares" da computação, podemos finalmente entender a JVM.
 
-Quando um software é desenvolvido, geralmente ele tem um público-alvo específico, como um jogo. Para desenvolver um jogo, 
-ou qualquer outro software, precisamos de uma linguagem de programação. Surge um problema quando os jogadores estão em 
+Quando um software é desenvolvido, geralmente ele tem um público-alvo, como um jogo. Para desenvolver um jogo, 
+ou qualquer outro software, precisamos de uma linguagem de programação. Mas surge um problema quando os jogadores estão em 
 sistemas operacinais diferentes, em sua maioria, em sistemas Windows (Win 10 e Win 11). 
 Geralmente, os jogos são desenvolvidos para rodar em sistemas Windows, o que pode ser um obstáculo para usuários de MacOS 
 ou Linux que desejam jogar esses games. 
 Para adaptar um jogo aos diferentes sistemas operacionais, o código-fonte precisa ser modificado, e os desenvolvedores 
 muitas vezes precisam "recriar" o jogo para que ele rode, por exemplo, em um Ubuntu (sistema operacional Linux).
 
-O Java surge como uma solução para esse problema, através da JVM. Os programas feitos em Java não são feitos para serem executados diretamente em nossas máquinas, mas sim pela JVM (Java Virtual Machine). A JVM é uma máquina virtual que é executada dentro da nossa máquina real, e seu único papel é entender e executar programas feitos em Java.
+O Java surge como uma solução para esse problema, através da JVM. Os programas feitos em Java não são feitos para serem executados diretamente em nossas máquinas, 
+mas sim pela JVM (Java Virtual Machine). A JVM é uma máquina virtual que é executada dentro da nossa máquina real, e seu único papel é entender e executar programas feitos em Java.
 
-Quando criamos um programa em Java, ele precisa passar por um processo de compilação. Ou seja, o Java é uma linguagem compilada, mas de uma maneira um pouco diferente do comum. Após a compilação, é criado um arquivo .class, mas o código desse arquivo não foi feito para ser lido diretamente pelo nosso computador. Esse arquivo foi feito para ser lido pela máquina virtual do Java (JVM). Por isso, dizemos que o Java é uma linguagem compilada e interpretada ao mesmo tempo.
+Quando criamos um programa em Java, ele precisa passar por um processo de compilação. Ou seja, o Java é uma linguagem compilada, mas de uma maneira um pouco diferente do comum. 
+Após a compilação, é criado um arquivo .class, onde o código deste arquivo foi feito para ser lido pela máquina virtual do Java (JVM). Por isso, dizemos que o Java é uma linguagem compilada e interpretada ao mesmo tempo.
 
 1. Escrevemos nosso programa usando a linguagem Java;
 2. Compilamos este programa com o javac (Java compiler);
-3. O processo de compilação gera um arquivo chamado ".class", que contém bytecode (código que a JVM consegue ler);
+3. O processo de compilação gera um arquivo chamado ".class", que contém bytecode(código que a JVM consegue ler);
 4. Este arquivo ".class" é lido e interpretado pela JVM.
 
 ![java and class](https://github.com/FireguiQueen/Java/assets/98475125/bd5e74c5-2332-4bea-b09a-4fb5a1cce062)
