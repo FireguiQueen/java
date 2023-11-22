@@ -23,7 +23,7 @@ Já a segunda seção chama-se 'Álgebra', é de se esperar vídeos relacionados
 fatoração e outros temas similares. 
 > _Podemos imaginar que as seções são os pacotes, e as aulas desta seção são as classes._
 
-![analogia-01](./others/analogiaParaPacotes-cursoMatematica.png)
+![analogia-01](../others/analogiaParaPacotes-cursoMatematica.png)
 
 <br>
 
@@ -32,7 +32,7 @@ Suponha que você goste de tirar muitas fotos e, ao mesmo tempo, valorize a orga
 Para salvar suas fotos, você as deixa em seu PC. O diretório (pasta) que contém suas fotos poderia ser organizado 
 da seguinte maneira: 
 
-![analogia-02](./others/analogiaParaPacotes-fotos.png)
+![analogia-02](../others/analogiaParaPacotes-fotos.png)
 > As pastas 'fotosEspeciais', 'Animais', 'Viagens'.. São pacotes. E as fotos contidas nesses pacotes, são as classes.
 
 <br>
@@ -60,7 +60,7 @@ um site comercial e um site institucional sem fins lucrativos.
 Para organizar esses projetos, começamos com um diretório denominado `src (source)`. 
 __O src será responsável por armazenar todos os pacotes que serão criados mais adiante.__
 
-![explicacao-src](./others/onlysrc.png)
+![explicacao-src](../others/onlysrc.png)
 
 - A url do site comercial será: __teachmore.com__ 
 > O “com” no nome de domínio .com indica um site “comercial”. Isso pode abranger sites de negócios, sites que desejam ganhar dinheiro online , sites pessoais, blogs, portfólios e etc.
@@ -84,12 +84,12 @@ Para organizar esses projetos no diretório da empresa, vamos criar dois novos p
 O primeiro pacote, denominado `com`, abrigará o projeto comercial, enquanto o segundo pacote, `org`, 
 conterá o projeto institucional.
 
-![explicacao-packages](./others/srcPackages.png)
+![explicacao-packages](../others/srcPackages.png)
 
 O pacote 'com' é designado para conter os projetos comerciais da empresa. Portanto, por motivos óbvios, nosso projeto 
 comercial 'teachmore' será colocado dentro deste pacote.
 
-![explicacao-packages](./others/comercialPackages.png)
+![explicacao-packages](../others/comercialPackages.png)
 
 Talvez tenha ficado um pouco estranho, pois o nome do nosso pacote `com` se tornou `com.teachmore`.
 Na verdade, este ponto final, significa que estamos acessando o pacote `teachmore`. E isto sugere que temos dois pacotes:
@@ -111,12 +111,12 @@ O "controller"  é o pacote que possui classes que gerenciam e controlam a lógi
 aplicativo ou sistema. Imagine o "controller" como um direcionador de tráfego, ele recebe as ações do usuário, 
 processa essas ações e decide o que deve acontecer em seguida. 
 
-![explicacao-packages](./others/projectPackages.png)
+![explicacao-packages](../others/projectPackages.png)
 
 
 Por fim, o nosso repostório é organizado da seguinte forma:
 
-![explicacao-packages](./others/projectPackagesIMG.png)
+![explicacao-packages](../others/projectPackagesIMG.png)
 
 <br>
 
