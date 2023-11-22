@@ -1,33 +1,61 @@
 # Introdução ao Java
 
-## Sistemas operacionais (en: OS; pt: SO)
+## Sistemas operacionais
 O sistema operacional (Windows 11, Windows 10, macOS, Ubuntu) é um software, e podemos dizer que ele é o principal 
 software do nosso computador.
 
 O sistema operacional é responsável por realizar diversas tarefas, incluindo:
 - Estabelecer comunicação entre os softwares de nossas máquinas e os hardwares conectados a ela.
 - Gerenciar recursos para nossos softwares (ex: quanto de RAM determinado porgrma pode utilizar)
-- Estabelecer limites de acesso, segurança e etc
+- Estabelecer limites de acesso, segurança e etc.
 
 Mas é importante saber que cada sistema operacional é desenvolvido de uma maneira específica, e cada um tem sua forma de
 compreender e executar ações. Isso é crucial para a computação, pois permite o desenvolvimento de sistemas focados em 
 objetivos específicos. Por exemplo, uma pessoa com uma máquina extremamente limitada pode usar um sistema operacional 
-chamado "Lubuntu", projetado para ser leve em máquinas com recursos limitados. Pessoas que trabalham ou estudam 
-cibersegurança podem usar um sistema operacional chamado "Kali Linux", voltado para atender a essas necessidades, com diversas 
-ferramentas específicas. Assim, fica claro que cada sistema tem um nicho específico, embora existam também sistemas, como o Windows, 
+chamado "Lubuntu". O Lubuntu é projetado para ser leve em máquinas com recursos limitados.
+Pessoas que estudam ou trabalham com cibersegurança podem usar um sistema operacional chamado "Kali Linux", 
+voltado para atender a essas necessidades, com diversas ferramentas específicas. 
+
+Podemos concluir que cada sistema tem um nicho específico, embora existam também sistemas, como o Windows e o Kubuntu, 
 que buscam atender a diversos públicos, incluindo gamers, programadores e usuários comuns.
 
 Entre todos esses sistemas com propósitos diferentes, é natural pensar que cada um é construído de uma maneira única. 
 Lembre-se, um sistema operacional é, em última análise, apenas um tipo de software.
 
-## Máquinas virtuais 
-O propósito de uma máquina virtual é ser uma máquina que roda em nossa máquina real. Por exemplo, sua máquina pode estar utilizando o Windows 11, mas com um software de máquinas virtuais, você pode emular uma máquina dentro da sua própria máquina, daí o termo "máquina virtual".
+<br>
 
-Elas têm várias utilidades, incluindo permitir que usuários de outros sistemas executem softwares desenvolvidos para rodar em outro sistema operacional. Por exemplo, se você estiver utilizando o Linux, mas precisar executar um programa que só funciona em sistemas Windows, pode resolver esse problema instalando uma máquina virtual no seu PC e colocando um sistema operacional Windows nela. Através dessa máquina virtual, é possível executar o programa desejado.
+## Máquinas virtuais 
+O propósito de uma máquina virtual é ser uma máquina que roda em nossa máquina real. 
+Por exemplo, sua máquina pode estar utilizando o Windows 11, mas com um software de virtualização, você pode 
+emular uma máquina dentro da sua própria máquina, daí o termo "máquina virtual".
+
+Elas têm várias utilidades. Uma delas, por exemplo, é permitir que usuários de um sistema operacinal específico execute 
+softwares  desenvolvidos para rodar em outro sistema operacional. Por exemplo, se você estiver utilizando o Linux, 
+mas precisar executar um programa que só funciona em sistemas Windows, pode resolver esse problema instalando uma máquina virtual no seu PC e colocando um sistema operacional Windows nela. Através dessa máquina virtual, é possível executar o programa desejado.
+
+</br>
 
 ## Linguagem compilada
-Uma linguagem compilada significa que precisamos compilar nosso programa feito nessa linguagem. Após a criação do programa, ele passará por um processo de compilação. O código contido nesse programa não pode ser lido por uma máquina, já que elas só entendem zeros e uns (binário). Então, nosso código será transformado em um formato que as máquinas conseguem compreender.
+As linguagens compiladas são aquelas em que o código fonte é compilado antes da execução, gerando um 
+arquivo executável que pode ser executado diretamente pelo sistema operacional.
 
+Uma linguagem compilada significa que precisamos compilar nosso programa escrito nessa linguagem.
+Após a criação do programa, ele passará por um processo de compilação, pois o código contido nesse programa não pode ser lido diretamente por uma máquina, já que ela entende apenas zeros e uns (formato binário). 
+Então, nosso código será transformado em um formato que as máquinas conseguem compreender.
+
+> a linguagem C é uma linguagem compilada, mas o código que escrevemos nela é incompreensível para o computador.
+```c
+    #include <stdio.h>
+    
+    int main(void)
+    {
+        printf("Hello world!");
+    }
+```
+
+Para que o programa acima seja executado pela nossa máquina, ele precisa passar pelo processo de compilação 
+(que engloba diversas outras ações). Após essa etapa, teremos um arquivo que conterá a representação do programa 
+em formato binário, composta por zeros e uns.
 
 ## Java Virtual Machine (JVM)
 Após compreender alguns "pilares" da computação, podemos finalmente entender a JVM.

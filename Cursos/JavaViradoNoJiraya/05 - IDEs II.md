@@ -1,5 +1,3 @@
-> Ambas as aulas (006 e 007) são relacionados ao IntelliJ, por isso, há somente um arquivo `.md` para representar as duas.
-
 # IDEs - IntelliJ
 Como é algo bem simples de se aprender, deixarei [aqui](https://youtu.be/ds3t9C2A50U?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW&t=142) o vídeo da aula onde o WIlliam mostra
 um pouco da IDE que estamos utilizando.
