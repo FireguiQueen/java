@@ -28,6 +28,7 @@ Curso | Professor/entidade | Duração
 
 ### Aprofundamento em java
 Curso | Professor/entidade | Duração
+:-- | :--: |:--: | 
 [Java virado no Jiraya](https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW) | William Suane, devDojo | 47h 20min
 
 ## 🎓 Cursos 
