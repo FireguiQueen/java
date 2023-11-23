@@ -1,4 +1,4 @@
-package javacore.introducaoClasses.classes;
+package javacore.OrientacaoAObjetos.criandoClassesEObjetos.classes;
 
 public class Pessoa
 {
