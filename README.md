@@ -1,7 +1,7 @@
 <h1 align="start"> Java </h1> 
 <p align="start"> Bem vindo ao meu repositório sobre Java. Aqui você encontrará cursos, explicações e alguns exercícios. </p>
 
-<p align="right"> <img width="330" src="https://github.com/FireguiQueen/Java/assets/98475125/58645afa-b40e-46f3-a1b9-ae12b31dbf5b"/> </p>
+<img align="right" width="330" src="https://github.com/FireguiQueen/Java/assets/98475125/58645afa-b40e-46f3-a1b9-ae12b31dbf5b"/> </p>
 
 ______________
 
