@@ -1,5 +1,4 @@
-package javacore.OrientacaoAObjetos.criandoClassesEObjetos.classes;
-import javacore.OrientacaoAObjetos.criandoClassesEObjetos.classes.Carro; // importando a classe para o nosso programa.
+package javacore.A_orientacaoAObjetos.criandoClassesEObjetos.classes;
 
 public class CriandoObjetos_01
 {
