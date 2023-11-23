@@ -1,7 +1,7 @@
 package javacore.introducaoClasses;
 import javacore.introducaoClasses.classes.Carro; // importando a classe para o nosso programa.
 
-public class criandoObjetos_01
+public class CriandoObjetos_01
 {
     public static void main(String[] args)
     {
