@@ -2,7 +2,7 @@
 <p align="center"> 
   Bem vindo ao meu repositório sobre Java. Aqui você encontrará cursos, explicações e alguns exercícios.
 </p> --> 
-<img width="900" height="1" src="https://github.com/FireguiQueen/Java/assets/98475125/58645afa-b40e-46f3-a1b9-ae12b31dbf5b"/> 
+<img width="900" height="100" src="https://github.com/FireguiQueen/Java/assets/98475125/58645afa-b40e-46f3-a1b9-ae12b31dbf5b"/> 
 
 # Introdução
 Este repositório foi criado com o intuito de reunir cursos, explicações e exercícios desenvolvidos durante o meu estudo de Java. Além disso, sinta-se livre para utilizá-lo como uma referência para um aprendizado gratuito. =)
