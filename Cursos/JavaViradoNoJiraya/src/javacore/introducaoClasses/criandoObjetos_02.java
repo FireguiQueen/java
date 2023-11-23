@@ -1,28 +1,25 @@
 package javacore.introducaoClasses;
 
-import javacore.introducaoClasses.classes.Carro; // importando a classe clarro.
+import javacore.introducaoClasses.classes.Carro; // Importando a classe Carro.
 
-public class criandoObjetos_02
-{
-    public static void main(String[] args)
-    {
+public class CriandoObjetos_02 {
+    public static void main(String[] args) {
         Carro novoCarro = new Carro();
 
-        // Note que no arquivo "Carro.java" (a nossa classe) não contém valores definidos as propriedades.
-        // Mas como aquelas propriedades, que no fim acabam sendo variáveis da classe, estão no escopo global, elas já possuem valores pré-definidos.
+        // Observe que no arquivo "Carro.java" (nossa classe), as propriedades não têm valores definidos.
+        // Como essas propriedades (variáveis de classe) estão no escopo global, elas têm valores padrão predefinidos.
 
-        System.out.println(novoCarro.cor); // retorna 'null' pois a propriedade 'cor' é do tipo String (que é um objeto)
-        System.out.println(novoCarro.totalRodas); // retorna '0' pois a propriedade 'totalRodas' é do tipo 'integer'
+        System.out.println(novoCarro.cor); // Retorna 'null' porque a propriedade 'cor' é do tipo String (um objeto).
+        System.out.println(novoCarro.totalRodas); // Retorna '0' porque a propriedade 'totalRodas' é do tipo 'integer'.
 
         /*
-            Mas note que não é muito bom DEFINIR os valores em nossa classe, pois todos os objetos instânciados dela receberam aqueles valores.
-            Por exemplo, a propriedade "placa" da classe "carro" tem um valor definido, mas isto é ruim, pois todos os
-            carros herdaram este valor. Então por padrão, todos os carros criados a partir desta classe, terão a mesma
-            placa.
+            No entanto, não é uma prática recomendada DEFINIR valores em nossa classe, pois todos os objetos instanciados dela
+            receberão esses valores. Por exemplo, a propriedade "placa" da classe "Carro" tem um valor definido, o que não é ideal,
+            pois todos os carros herdarão esse valor. Portanto, por padrão, todos os carros criados a partir dessa classe
+            terão a mesma placa.
 
-            Mas é claro, ela pode ser alterada.
+            Entretanto, essa placa pode ser alterada individualmente para cada objeto:
             novoCarro.placa = "qualquerOutraCoisa".
         */
-
     }
 }
