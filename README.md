@@ -14,10 +14,15 @@ O critério predominante de seleção visou evitar instituições educacionais c
 
 ## Sumário 
 + __Introdução em java:__ _Este segmento abrange tópicos introdutórios, apresentando conceitos fundamentais como variáveis, loops, arrays, operadores lógicos, condições, métodos, tipos de dados e uma introdução à Programação Orientada a Objetos (POO)._
-+ __Aprofundamento em java:__ _Aqui, além dos conceitos básicos, adentramos em tópicos mais complexos. Serão abordados temas avançados de POO (herança, polimorfismo, etc.), modificadores de acesso, tratamento de exceções, expressões regulares, sincronização de threads, testes unitários, entre outros._
++ __Aprofundamento em java:__ _Aqui, além dos conceitos básicos, adentramos em tópicos mais complexos. Serão abordados temas avançados de POO (herança, polimorfismo, etc.), collectors, tratamento de exceções, expressões regulares, sincronização de threads, testes unitários, entre outros._
 + __Especialização em tecnologias:__ _Este segmento é destinado àqueles que buscam aprofundar seus conhecimentos em tecnologias que facilitam e potencializam a produtividade na criação de aplicações Java para o backend._
 
 <br>
+
+Curso | Entidade/professor | Duração
+:-- | :--: |:--: | 
+[Programar em Java] (https://www.youtube.com/playlist?list=PLa75BYTPDNKZLzk3xG-gSXSU_AAq5RP4g) | Italo Grossi, deAlunParaAluno | 14h
+
 
 ## 🎓 Cursos 
 - __William Suane__, _DevDojo:_ <a href="https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW">Java virado no Jiraya</a>
