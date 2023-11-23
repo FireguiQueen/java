@@ -1,8 +1,9 @@
+<img width="800" src="https://github.com/FireguiQueen/Java/assets/98475125/58645afa-b40e-46f3-a1b9-ae12b31dbf5b"/> 
+
 <h1 align="center"> Java </h1> 
 <p align="center"> 
   Bem vindo ao meu repositório sobre Java. Aqui você encontrará cursos, explicações e alguns exercícios.
 </p>
-<img width="800" src="https://github.com/FireguiQueen/Java/assets/98475125/58645afa-b40e-46f3-a1b9-ae12b31dbf5b"/> 
 
 
 ______________
