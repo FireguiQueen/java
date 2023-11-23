@@ -15,6 +15,8 @@ public class carsObjects
         System.out.println("Nome: " + fiatUno.nome + "\nModelo: " + fiatUno.modelo + "\nAno: " + fiatUno.ano);
 
 
-
+        bwm.nome = "BMW";
+        bwm.modelo = " 320i M Sport";
+        bwm.ano = 2023;
     }
 }
