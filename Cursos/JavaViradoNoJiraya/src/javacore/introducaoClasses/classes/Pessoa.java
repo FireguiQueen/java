@@ -2,7 +2,7 @@ package javacore.introducaoClasses.classes;
 
 public class Pessoa
 {
-    String name;
-    int idade;
-    double peso;
+    public String name;
+    public int idade;
+    public double peso;
 }
