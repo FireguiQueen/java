@@ -22,6 +22,6 @@ public class Main {
         // Se a gente atribuir a variável 'aluno' uma nova referência, a refereência antiga será perdida, e nunca mais seremos capazes de acessar o objeto criado.
         // Por consequência, este objeto perdido tende a ser excluido pela JVM para o programa utilizar menos recursos.
         aluno = new Estudante(); // agora a variável 'aluno' está armazenando outro endereço.
-        System.out.println(aluno); // 4617c264 
+        System.out.println(aluno); // 4617c264
     }
 }
