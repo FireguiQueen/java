@@ -13,5 +13,16 @@ public class criandoObjetos_02
 
         System.out.println(novoCarro.cor); // retorna 'null' pois a propriedade 'cor' é do tipo String (que é um objeto)
         System.out.println(novoCarro.totalRodas); // retorna '0' pois a propriedade 'totalRodas' é do tipo 'integer'
+
+        /*
+            Mas note que não é muito bom DEFINIR os valores em nossa classe, pois todos os objetos instânciados dela receberam aqueles valores.
+            Por exemplo, a propriedade "placa" da classe "carro" tem um valor definido, mas isto é ruim, pois todos os
+            carros herdaram este valor. Então por padrão, todos os carros criados a partir desta classe, terão a mesma
+            placa.
+
+            Mas é claro, ela pode ser alterada.
+            novoCarro.placa = "qualquerOutraCoisa".
+        */
+
     }
 }
