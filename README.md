@@ -27,7 +27,7 @@ Alguns cursos foram indicados por amigos, enquanto outros eu busquei em lugares 
 ### Introdução em java
 Curso | Professor/entidade | Duração
 :-- | :--: |:--: | 
-[Programar em Java](https://www.youtube.com/playlist?list=PLa75BYTPDNKZLzk3xG-gSXSU_AAq5RP4g) | Italo Grossi, deAlunParaAluno | 14h
+[Programar em Java](https://www.youtube.com/playlist?list=PLa75BYTPDNKZLzk3xG-gSXSU_AAq5RP4g) | Italo Grossi, deAlunoParaAluno | 14h
 
 ### Aprofundamento em java
 Curso | Professor/entidade | Duração
