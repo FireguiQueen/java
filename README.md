@@ -1,5 +1,5 @@
-<h1 align="center" > Java </h1> 
-Bem vindo ao meu repositório sobre Java. Aqui você encontrará cursos, exercícios e explicações.
+<h1 align="center"> Java </h1> 
+<p align="center"> Bem vindo ao meu repositório sobre Java. Aqui você encontrará cursos, exercícios e explicações. </p>
 
 ______________
 
