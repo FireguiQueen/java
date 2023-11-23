@@ -1,5 +1,6 @@
 # Classes
-Todo arquivo feito em java é uma classe. Tanto é que em todo arquivo `.javca`, veremos o seguinte trecho:
+Em Java, _todo arquivo é uma classe_. Em cada arquivo com extensão .java, encontramos o seguinte padrão:
+
 ```java
     public class nomeDoArquivo
     {
@@ -7,17 +8,21 @@ Todo arquivo feito em java é uma classe. Tanto é que em todo arquivo `.javca`,
     }
 ```
 
-A classe que contém o trecho `public static void main(String[] args)` geralmente é a nossa classe principal, o nosso programa.
-Será ela a responsável por executar este método "public static void main.." e executar as instruções do programa.
-E claro, através deste método principal da classe, podemos chamar outros métodos e criar __objetos__.
+Normalmente, a classe principal é aquela que incorpora o método `public static void main(String[] args)`. 
+Por meio deste método específico, é possível não apenas iniciar a execução do programa, mas também coordenar a 
+execução de instruções, invocar outros métodos e instanciar objetos. Essencialmente, essa classe serve como a 
+representação central do nosso programa, encapsulando a lógica inicial e coordenando as operações subsequentes.
+
 
 # Objetos
-Pense em objetos como objetos da vida real, por exemplo, uma caneca. A caneca terá diversas caracteristicas, das quais,
-chamamos de "propriedades". Isto é, uma caneca pode ter a propriedade "cor", "altura", "largura" e etc. 
+Pense nos objetos do Java como representações digitais de objetos/entidades da vida real. 
+Cada objeto, como uma caneca, possui diversas características, e na programação, são conhecidas como "propriedades". 
+Por exemplo, uma caneca pode incluir as propriedades como "cor", "altura" e "largura".
 
-Os objetos são criados a partir de uma __classe de dominio__. Em geral, esse tipo de classe não terá um método principal.
-Este tipo de classe será um molde para __criar objetos__. Então por exemplo, teremos uma classe chamada "caneca", esta 
-classe irá conter as propriedades desta caneca:
+Essencialmente, um objeto é uma instância de uma __classe de domínio__. Esta classe, por exemplo, pode se chamar "Caneca", 
+e ela serve como um modelo para a criação de objetos futuros. Os objetos criados com base nesta classe herdarão suas 
+propriedades, mas cada instância pode ter valores diferentes para essas propriedades, refletindo as variações entre as 
+entidades representadas.
 ```java
     public class Caneca
     {
@@ -27,8 +32,9 @@ classe irá conter as propriedades desta caneca:
     }
 ```
 
-Com a _classe de dominio_ criada, agora somos capazes de ir no nosso programa principal e criar nossos objetos. 
-Agora podemos criar infinitas canecas, cada uma com propriedades diferentes.
+Com a classe de domínio Caneca criada, agora podemos ir para o nosso programa principal e instanciar objetos. 
+Isso nos permite criar um número infinito de canecas, cada uma com propriedades únicas.
+
 ```java
     import Caneca; // linha responsável por importar a classe 'caneca' para o nosso arquivo "programaPrincipal". Sem este import, não podemos usar este classe.
 
@@ -52,12 +58,44 @@ Agora podemos criar infinitas canecas, cada uma com propriedades diferentes.
     }
 ```
 
-Talvez o código não esteja claro a você, mas note que, através da classe "Caneca", nós criamos duas canecas diferentes,
-e elas possuem valores de propriedades diferentes uma da outra. E esta caneca gerada a partir da classe "Caneca" é
-chamada de __objeto__. Tudo aquilo que é criado a partir de uam classe, é chamado de objeto. 
+Talvez o código não esteja totalmente claro, mas observe que, por meio da classe "Caneca", criamos duas canecas distintas, 
+cada uma com valores de propriedades diferentes. Essas canecas, geradas a partir da classe "Caneca", são conhecidas como 
+objetos. Tudo o que é instanciado a partir de uma classe é denominado objeto.
 
-
-Aqui podemos ver uma imagem ilustrativa. Onde o "car" é a nossa classe, e ela seria um molde. Os carros: Maruti, Audi e BMW
-são os objetos que foram criados a partir desta classe.
+Podemos visualizar essa relação de classe e objetos através de uma representação gráfica. Neste contexto, considere o 
+"carro" como nossa classe, atuando como um molde. Os carros individuais, como Maruti, Audi e BMW, representam os objetos 
+que foram criados com base nesse molde (a classe).
 
 ![classAndObjects](../../../others/classAndObjects.png)
+
+
+E, é claro, objetos na programação podem representar não apenas coisas físicas, mas também entidades abstratas da 
+vida real, como uma pessoa. Por exemplo, podemos ter um objeto chamado "Otavio", criado a partir de uma classe chamada Pessoa. 
+
+```java
+    public class Pessoa
+    {
+        String corDaPele;
+        String nome; 
+        int idade;
+    }
+```
+```java
+    import pessoa; 
+
+    public class programaPrincipal
+    {
+        public static void main(String[] args) 
+        {
+            Pessoa otavio = new Pessoa();  
+            
+            otavio.corDaPele = "negro";
+            otavio.nome = "Otavio";
+            otavio.idade = 27; 
+        }
+    }
+```
+No exemplo acima, a classe Pessoa atua como um modelo, especificando as propriedades que uma pessoa pode ter. 
+Em seguida, no programa principal, criamos uma instância dessa classe chamada "otavio", atribuindo valores específicos 
+às suas propriedades. Isso demonstra como as classes podem ser usadas para modelar tanto objetos físicos quanto 
+entidades conceituais na programação.
