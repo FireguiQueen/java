@@ -13,6 +13,7 @@ Por meio deste método específico, é possível não apenas iniciar a execuçã
 execução de instruções, invocar outros métodos e instanciar objetos. Essencialmente, essa classe serve como a 
 representação central do nosso programa, encapsulando a lógica inicial e coordenando as operações subsequentes.
 
+<br>
 
 # Objetos
 Pense nos objetos do Java como representações digitais de objetos/entidades da vida real. 
@@ -58,6 +59,8 @@ Isso nos permite criar um número infinito de canecas, cada uma com propriedades
     }
 ```
 
+<br>
+
 Talvez o código não esteja totalmente claro, mas observe que, por meio da classe "Caneca", criamos duas canecas distintas, 
 cada uma com valores de propriedades diferentes. Essas canecas, geradas a partir da classe "Caneca", são conhecidas como 
 objetos. Tudo o que é instanciado a partir de uma classe é denominado objeto.
@@ -67,6 +70,8 @@ Podemos visualizar essa relação de classe e objetos através de uma representa
 que foram criados com base nesse molde (a classe).
 
 ![classAndObjects](../../../others/classAndObjects.png)
+
+<br>
 
 
 E, é claro, objetos na programação podem representar não apenas coisas físicas, mas também entidades abstratas da 
