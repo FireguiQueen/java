@@ -2,13 +2,13 @@
 <p align="center"> 
   Bem vindo ao meu repositório sobre Java. Aqui você encontrará cursos, explicações e alguns exercícios.
 </p> --> 
-<img width="900" src="https://github.com/FireguiQueen/Java/assets/98475125/58645afa-b40e-46f3-a1b9-ae12b31dbf5b"/> 
+<img width="900" height="500" src="https://github.com/FireguiQueen/Java/assets/98475125/58645afa-b40e-46f3-a1b9-ae12b31dbf5b"/> 
 
 # Introdução
-Este repositório foi criado com o intuito de reunir cursos concluídos e exercícios desenvolvidos durante o estudo de Java. Além disso, serve como uma referência valiosa para quem busca aprendizado gratuito. =)
+Este repositório foi criado com o intuito de reunir cursos, explicações e exercícios desenvolvidos durante o meu estudo de Java. Além disso, sinta-se livre para utilizá-lo como uma referência para um aprendizado gratuito. =)
 
 ## Como os cursos foram escolhidos?
-O critério predominante de seleção visou evitar instituições educacionais com ênfase excessiva em estratégias de marketing em detrimento da qualidade de ensino. Nesse sentido, este repositório exclui cursos de entidades como Alura e Rocketseat. 
+Evitei "instituições educacionais" com ênfase excessiva em estratégias de marketing em detrimento da qualidade de ensino. Nesse sentido, este repositório exclui algumas plataformas como: Alura, Rocketseat, DankiCode e etc. 
 
 Alguns cursos foram indicados por amigos, enquanto outros eu busquei em lugares obscuros da web (reddit).
 >  Embora eu acredite que cursos por si só não preparem alguém para o mercado, considero-os úteis para iniciar o aprendizado.
@@ -18,7 +18,7 @@ Alguns cursos foram indicados por amigos, enquanto outros eu busquei em lugares 
 ## Sumário 
 + __Introdução em java:__ _Este segmento abrange tópicos introdutórios, apresentando conceitos fundamentais como variáveis, loops, arrays, operadores lógicos, condições, métodos, tipos de dados e uma introdução à Programação Orientada a Objetos (POO)._
 + __Aprofundamento em java:__ _Aqui, além dos conceitos básicos, adentramos em tópicos mais complexos. Serão abordados temas avançados de POO (herança, polimorfismo, etc.), collectors, tratamento de exceções, expressões regulares, sincronização de threads, testes unitários, entre outros._
-+ __Especialização em tecnologias:__ _Este segmento é destinado àqueles que buscam aprofundar seus conhecimentos em tecnologias que facilitam e potencializam a produtividade na criação de aplicações Java para o backend._
++ __Especializações:__ _Este segmento é destinado àqueles que buscam aprofundar seus conhecimentos em tecnologias que facilitam e potencializam a produtividade na criação de aplicações Java para o backend._
 
 <br>
 
