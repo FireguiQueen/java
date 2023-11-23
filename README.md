@@ -4,9 +4,6 @@
 </p>
 <img width="900" src="https://github.com/FireguiQueen/Java/assets/98475125/58645afa-b40e-46f3-a1b9-ae12b31dbf5b"/> 
 
-
-______________
-
 # Introdução
 Este repositório foi criado com o intuito de reunir cursos concluídos e exercícios desenvolvidos durante o estudo de Java. Além disso, serve como uma referência valiosa para quem busca aprendizado gratuito. =)
 
