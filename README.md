@@ -8,7 +8,7 @@
 Este repositório foi criado com o intuito de reunir cursos, explicações e exercícios desenvolvidos durante o meu estudo de Java. Além disso, sinta-se livre para utilizá-lo como uma referência para um aprendizado gratuito. =)
 
 ## Como os cursos foram escolhidos?
-O critério predominante de seleção visou evitar instituições educacionais com ênfase excessiva em estratégias de marketing em detrimento da qualidade de ensino. Nesse sentido, este repositório exclui cursos de entidades como Alura e Rocketseat. 
+Evitei "instituições educacionais" com ênfase excessiva em estratégias de marketing em detrimento da qualidade de ensino. Nesse sentido, este repositório exclui algumas plataformas como: Alura, Rocketseat, DankiCode e etc. 
 
 Alguns cursos foram indicados por amigos, enquanto outros eu busquei em lugares obscuros da web (reddit).
 >  Embora eu acredite que cursos por si só não preparem alguém para o mercado, considero-os úteis para iniciar o aprendizado.
