@@ -11,7 +11,7 @@ O principal critério de seleção foi evitar "entidades de ensino" onde o foco 
 Alguns cursos foram indicados por amigos, enquanto outros eu busquei em lugares obscuros da web (reddit).
 >  Embora eu acredite que cursos por si só não preparem alguém para o mercado, considero-os úteis para iniciar o aprendizado.
 
-### Instrutores e cursos 
+### 🎓 Instrutores e cursos 
 - __William Suane__, _DevDojo:_ <a href="https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW">Java virado no Jiraya</a>
 - __Loiane Groner__, _Loiane Trainning:_ <a href="https://loiane.training/curso/java-basico">Java básico</a>
 - __Italo Grossi__, _DeAlunoParaAluno:_ <a href="https://www.youtube.com/playlist?list=PLa75BYTPDNKZLzk3xG-gSXSU_AAq5RP4g">Programar em Java</a>
