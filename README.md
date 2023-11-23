@@ -21,7 +21,7 @@ O critério predominante de seleção visou evitar instituições educacionais c
 
 Curso | Entidade/professor | Duração
 :-- | :--: |:--: | 
-[Programar em Java] (https://www.youtube.com/playlist?list=PLa75BYTPDNKZLzk3xG-gSXSU_AAq5RP4g) | Italo Grossi, deAlunParaAluno | 14h
+![Programar em Java] (https://www.youtube.com/playlist?list=PLa75BYTPDNKZLzk3xG-gSXSU_AAq5RP4g) | Italo Grossi, deAlunParaAluno | 14h
 
 
 ## 🎓 Cursos 
