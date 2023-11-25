@@ -17,7 +17,7 @@ representação central do nosso programa, encapsulando a lógica inicial e coor
 
 # Objetos
 Pense nos objetos do Java como representações digitais de objetos/entidades da vida real. 
-Cada objeto, como uma caneca, possui diversas características, e na programação, são conhecidas como "propriedades". 
+Cada objeto, como uma caneca, possui diversas características, e na programação, são conhecidas como "propriedades" ou "atributos". 
 Por exemplo, uma caneca pode incluir as propriedades como "cor", "altura" e "largura".
 
 Essencialmente, um objeto é uma instância de uma __classe de domínio__. Esta classe, por exemplo, pode se chamar "Caneca", 
@@ -33,8 +33,8 @@ entidades representadas.
     }
 ```
 
-Com a classe de domínio Caneca criada, agora podemos ir para o nosso programa principal e instanciar objetos. 
-Isso nos permite criar um número infinito de canecas, cada uma com propriedades únicas.
+Com a classe de domínio 'Caneca' criada, agora podemos ir para o nosso programa principal e instanciar (criar) objetos. 
+Isso nos permite criar um número infinito de canecas, cada uma com valores únicos para as propriedades.
 
 ```java
     import Caneca; // linha responsável por importar a classe 'caneca' para o nosso arquivo "programaPrincipal". Sem este import, não podemos usar este classe.
@@ -65,8 +65,8 @@ Talvez o código não esteja totalmente claro, mas observe que, por meio da clas
 cada uma com valores de propriedades diferentes. Essas canecas, geradas a partir da classe "Caneca", são conhecidas como 
 objetos. Tudo o que é instanciado a partir de uma classe é denominado objeto.
 
-Podemos visualizar essa relação de classe e objetos através de uma representação gráfica. Neste contexto, considere o 
-"carro" como nossa classe, atuando como um molde. Os carros individuais, como Maruti, Audi e BMW, representam os objetos 
+Podemos visualizar essa relação de classe e objetos através de uma representação visual. Neste contexto, considere o 
+"carro" como nossa classe de domínio, atuando como um molde. Os carros individuais, como Maruti, Audi e BMW, representam os objetos 
 que foram criados com base nesse molde (a classe).
 
 ![classAndObjects](../../../others/classAndObjects.png)
