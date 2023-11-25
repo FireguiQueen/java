@@ -29,6 +29,7 @@
 
 package javacore.A_orientacaoAObjetos.metodos;
 
+
 // Classe de domínio:
 public class Aviao {
 
@@ -52,7 +53,14 @@ public class Aviao {
     // O 'return' é utilizado para os métodos retornarem valores. Quando invocarmos o método no programa principal,
     // o valor do 'return' aparecerá. E por isso, métodos com retornos podem ser colocados em variáveis.
     // Se a gente quiser que o método retorne um número inteiro, precisamos definir o tipo como 'int' ou 'long'.
-    public int quantidadePoltronas() {
+    public int quantidadePoltronas()
+    {
         return 410;
+    }
+
+    // Se a gente precisar que o método retorne uma String, então, o tipo precisa ser 'String'.
+    public String fraseDoDia()
+    {
+        return "Olá passageiros, um bom dia a todos. Agradecemos por estarem voando conosco. Será uma viagem rápida e tranquila";
     }
 }
