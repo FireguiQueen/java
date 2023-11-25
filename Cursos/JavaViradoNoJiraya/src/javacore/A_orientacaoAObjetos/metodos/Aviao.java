@@ -22,7 +22,7 @@
     etc.
 
     Um método nada mais é do que um agrupamento de instruções em um bloco, e caso queiramos executar essas instruções,
-    basta invocar o método.
+    basta invocar este "bloco" pelo seu nome.
     Dito isso, podemos entender que os métodos são formas de executar ações.
     E claro, eles possuem muitas utilidades, uma delas é deixar um código claro e sem repetições.
 */
@@ -30,18 +30,22 @@
 package javacore.A_orientacaoAObjetos.metodos;
 
 // Classe de domínio:
-public class Aviao {
+public class Aviao
+{
+
     // Propriedades
     public String cor;
     public double largura;
     public double altura;
 
     // Métodos
-    public void abrirPortas() {
+    public void abrirPortas()
+    {
         System.out.println("As portas foram abertas!");
     }
 
-    public void fecharPortas() {
+    public void fecharPortas()
+    {
         System.out.println("As portas foram fechadas!");
     }
 }
