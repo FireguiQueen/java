@@ -1,4 +1,4 @@
-package javacore.A_orientacaoAObjetos.criandoClassesEObjetos.classes;
+package javacore.A_orientacaoAObjetos.ClassesEObjetos.dominios;
 
 public class Pessoa
 {
