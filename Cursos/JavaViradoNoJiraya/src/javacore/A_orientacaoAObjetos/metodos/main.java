@@ -5,11 +5,17 @@ public class main
 {
     public static void main(String[] args)
     {
-        Aviao boing747 = new Aviao();
+        Aviao boeing747 = new Aviao();
 
         // Podemos executar/inovocar nosso métodos agora.
-        boing747.abrirPortas();
+        boeing747.abrirPortas();
 
-        boing747.fecharPortas();
+        boeing747.fecharPortas();
+
+
+        // Como o nosso método "quantidadePoltronas" faz um retorno, este retorno precisa ser colocado em algum lugar.
+        int poltronas = boeing747.quantidadePoltronas(); // retorna o número 410 para a variável 'poltronas'.
+
+        System.out.println(poltronas);
     }
 }

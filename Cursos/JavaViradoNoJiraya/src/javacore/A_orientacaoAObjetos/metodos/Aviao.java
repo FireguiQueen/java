@@ -30,8 +30,7 @@
 package javacore.A_orientacaoAObjetos.metodos;
 
 // Classe de domínio:
-public class Aviao
-{
+public class Aviao {
 
     // Propriedades
     public String cor;
@@ -39,13 +38,21 @@ public class Aviao
     public double altura;
 
     // Métodos
-    public void abrirPortas()
-    {
+    // O 'void' é utilizado para representar o tipo de retorno do método.
+    // Caso queiramos que determinado método apenas execute ações, usamos o tipo 'void', que significa 'vazio'.
+    // Isto é, é um método sem retorno.
+    public void abrirPortas() {
         System.out.println("As portas foram abertas!");
     }
 
-    public void fecharPortas()
-    {
+    public void fecharPortas() {
         System.out.println("As portas foram fechadas!");
+    }
+
+    // O 'return' é utilizado para os métodos retornarem valores. Quando invocarmos o método no programa principal,
+    // o valor do 'return' aparecerá. E por isso, métodos com retornos podem ser colocados em variáveis.
+    // Se a gente quiser que o método retorne um número inteiro, precisamos definir o tipo como 'int' ou 'long'.
+    public int quantidadePoltronas() {
+        return 410;
     }
 }
