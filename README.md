@@ -22,7 +22,7 @@ Alguns cursos foram indicados por amigos, enquanto outros eu busquei em lugares 
 
 <br>
 
-## 🎓 Cursos 
+## 🎓 Formação geral 
 
 ### Introdução à java
 Curso | Professor/entidade | Duração
