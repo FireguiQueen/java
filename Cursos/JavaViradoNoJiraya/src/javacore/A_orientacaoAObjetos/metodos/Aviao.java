@@ -63,4 +63,13 @@ public class Aviao {
     {
         return "Olá passageiros, um bom dia a todos. Agradecemos por estarem voando conosco. Será uma viagem rápida e tranquila";
     }
+
+
+    // PARÂMETROS
+    // O parâmetro é utilizado para os métodos serem capazes de receber inputs (entradas de informação)
+    // Os parâmetros são variáveis locais do método, e essas variáveis terão valores atribuidos quando invocarmos o método.
+    public void ativarMotor(boolean portasEstaoFechadas)
+    {
+        System.out.println(portasEstaoFechadas? "Motor ligado" : "As portas não estão fechadas!");
+    }
 }
