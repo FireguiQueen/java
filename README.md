@@ -28,18 +28,18 @@ Alguns cursos foram indicados por amigos, enquanto outros eu busquei em lugares 
 ### Introdução à java
 Curso | Professor/entidade | Duração
 :-- | :--: |:--: | 
-[Programar em Java](https://www.youtube.com/playlist?list=PLa75BYTPDNKZLzk3xG-gSXSU_AAq5RP4g) | Italo Grossi, deAlunoParaAluno | 07h 40min
+[Programar em Java](https://www.youtube.com/playlist?list=PLa75BYTPDNKZLzk3xG-gSXSU_AAq5RP4g) | Italo Grossi, <br>deAlunoParaAluno | 07h 40min
 
 ### Aprofundamento em java
 Curso | Professor/entidade | Duração
 :-- | :--: |:--: | 
-[Java virado no Jiraya](https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW) | William Suane, devDojo | 46h 50min
-[Java módulo I](https://loiane.training/curso/java-basico) | Loiane Groner, loianeTrainning | 31h 52min
+[Java virado no Jiraya](https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW) | William Suane, <br>devDojo | 46h 50min
+[Java módulo I](https://loiane.training/curso/java-basico) | Loiane Groner, <br>loianeTrainning | 31h 52min
 
 ### Especialização
 Curso | Professor/entidade | Duração
 :-- | :--: |:--: | 
-[ Spring Boot Essentials](https://www.youtube.com/playlist?list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H) | William Suane, devDojo | 47h 20min
+[ Spring Boot Essentials](https://www.youtube.com/playlist?list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H) | William Suane, <br>devDojo | 47h 20min
 
 ### Conteúdos adicionais 
 Origem | nome | Descrição
