@@ -43,7 +43,7 @@ Curso | Professor/entidade | Duração
 
 ### Conteúdos adicionais 
 Origem | nome | Descrição
-:-- | :--: |
+:-- | :--: | :--:
 Youtube | [Brejas e Bugs](https://www.youtube.com/playlist?list=PL62G310vn6nEt1kjQGm4mBAsMfmUqFvfS) | Conteúdos relacionados ao mercado; opiniões pessoais; assuntos técnicos |
 
 
