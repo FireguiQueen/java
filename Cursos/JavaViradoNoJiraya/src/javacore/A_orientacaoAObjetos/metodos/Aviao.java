@@ -90,4 +90,32 @@ public class Aviao {
     {
         System.out.println(portasEstaoFechadas? "Motor ligado" : "As portas não estão fechadas!");
     }
+
+    // Através dos parâmetros, nós iremos receber tipos primitivos e tipos não-primitivos.
+
+    /*
+        Quando invocamos o método na classe principal e passamos uma variável do tipo primitivo, nós
+        estamos passando o valor dela diretamente, é como se fosse uma cópia.
+
+        Por exemplo:
+        int num = 40;
+
+        // isto:
+        metodoAleatorio(num);
+
+        // seria a mesma coisa que isto:
+        metodoAleatorio(40);
+    */
+    // Independente do caso, este valor será salvo na variável 'numero'.
+    public void metodoAleatorio(int numero)
+    {
+        // variável 'numero' vale 40.
+        System.out.println(numero);
+
+        // Agora ela irá valer 10.
+        numero = 10;
+        System.out.println(10);
+    }
+    // E por motivos obvios, isto não irá alterar a variável da classe principal, a 'num'.
+    
 }
