@@ -42,8 +42,10 @@ Curso | Professor/entidade | Duração
 [ Spring Boot Essentials](https://www.youtube.com/playlist?list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H) | William Suane, devDojo | 47h 20min
 
 ### Conteúdos adicionais 
-Origem | Contéudos
+Origem | nome | Descrição
 :-- | :--: |
+Youtube | [Brejas e Bugs](https://www.youtube.com/playlist?list=PL62G310vn6nEt1kjQGm4mBAsMfmUqFvfS) | Conteúdos relacionados ao mercado; opiniões <br> pessoais; assuntos técnicos 
+Youtube | Brejas e Bugs | Conteúdos relacionados ao mercado; opiniões <br> pessoais; assuntos técnicos 
 
 
 </br>
