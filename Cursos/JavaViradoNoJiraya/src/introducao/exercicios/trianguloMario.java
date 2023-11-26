@@ -19,9 +19,8 @@ public class trianguloMario
 
         for (int i = 0; i < tamanhoPiramide; i++)
         {
-            for (int j = 0; j < i; j++)
-            {
-                System.out.print("#");
+            for (int j = 1; j < ; j++) {
+
             }
             System.out.println("oi");
         }
