@@ -35,7 +35,7 @@ Curso | Professor/entidade | Duração
 [Java virado no Jiraya](https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW) | William Suane, devDojo | 46h 50min
 [Java módulo I](https://loiane.training/curso/java-basico) | Loiane Groner, loianeTrainning | 31h 52min
 
-### Especialização em tecnologias
+### Especialização
 Curso | Professor/entidade | Duração
 :-- | :--: |:--: | 
 [ Spring Boot Essentials](https://www.youtube.com/playlist?list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H) | William Suane, devDojo | 47h 20min
