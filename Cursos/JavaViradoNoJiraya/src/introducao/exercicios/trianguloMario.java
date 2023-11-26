@@ -7,16 +7,11 @@ public class trianguloMario
     public static void main(String[] args)
     {
         int tamanhoPiramide = takeInfomations();
-
-        for (int i = 0; i < tamanhoPiramide; i++)
-        {
-            System.out.println("oi");
-        }
-
+        buildPyramid(tamanhoPiramide);
     }
 
 
-    public static int takeInfomations()
+    private static int takeInfomations()
     {
         Scanner userIn = new Scanner(System.in);
 
@@ -33,5 +28,24 @@ public class trianguloMario
         return tamanhoPiramide;
     }
 
+    private static void buildPyramid(int tamanhoPiramide)
+    {
+        for (int i = 0; i < tamanhoPiramide; i++)
+        {
+
+            for (int j = (tamanhoPiramide - 1); j > i; j--)
+            {
+                System.out.print(' ');
+            }
+
+            for (int j = 0; j < (i + 1); j++)
+            {
+                System.out.print(i>=1? "##": " #");
+
+            }
+            System.out.println();
+
+        }
+    }
 
 }
