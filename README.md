@@ -48,7 +48,8 @@ Origem | Nome | Descrição
 :-- | :--: | :--:
 Youtube | [devDojo, <br> Brejas e Bugs](https://www.youtube.com/playlist?list=PL62G310vn6nEt1kjQGm4mBAsMfmUqFvfS) | Conteúdos relacionados ao mercado; <br> opiniões pessoais; assuntos técnicos; <br>experiências pessoais |
 Youtube | [Curso de tecnologia, <br> POR QUE APRENDER](https://www.youtube.com/playlist?list=PLYYr-pCjVCeDkS-LDMB_pF0u9q99ESFvs) | Dicas de mercado; opiniões e<br> experiências pessoais;  
-
+Youtube | [Java Champions Brasucas](https://www.youtube.com/playlist?list=PL-zC883FSfIogsdBgl-ReV-FssfRH1otg) | Um desenvolvedor java que atua há anos no mercado
+conversa com<br> Java Champions brasileiros para conhecer um pouco mais das suas histórias <br>e o que de fato esse reconhecimento significa em suas carreiras.
 
 </br>
 
