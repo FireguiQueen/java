@@ -45,6 +45,7 @@ Curso | Professor/entidade | Duração
 Origem | nome | Descrição
 :-- | :--: | :--:
 Youtube | [Brejas e Bugs](https://www.youtube.com/playlist?list=PL62G310vn6nEt1kjQGm4mBAsMfmUqFvfS) | Conteúdos relacionados ao mercado; <br> opiniões pessoais; assuntos técnicos; <br>experiências pessoais |
+Youtube | [POR QUE APRENDER](https://www.youtube.com/playlist?list=PLYYr-pCjVCeDkS-LDMB_pF0u9q99ESFvs) | Dicas de mercado; opiniões e<br> experiências pessoais;  
 
 
 </br>
