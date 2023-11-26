@@ -46,9 +46,9 @@ Curso | Professor/entidade | Duração
 ### Conteúdos adicionais 
 Origem | Nome | Descrição
 :-- | :--: | :--:
-Youtube | [devDojo, <br> Brejas e Bugs](https://www.youtube.com/playlist?list=PL62G310vn6nEt1kjQGm4mBAsMfmUqFvfS) | Papo cabeça regado a suco de laranja (breja)<br> entre desenvolvedores. Opinião nua e crua sobre os mais variados assuntos. |
-Youtube | [Curso de tecnologia, <br> POR QUE APRENDER](https://www.youtube.com/playlist?list=PLYYr-pCjVCeDkS-LDMB_pF0u9q99ESFvs) | Dicas de mercado; opiniões e<br> experiências pessoais;  
-Youtube | [Java Champions Brasucas](https://www.youtube.com/playlist?list=PL-zC883FSfIogsdBgl-ReV-FssfRH1otg) | Um desenvolvedor java que atua há anos no mercado conversa com<br> Java Champions brasileiros para conhecer um pouco mais das <br>suas histórias e o que de fato esse<br> reconhecimento significa em suas carreiras.
+Youtube | [devDojo, <br> __Brejas e Bugs__](https://www.youtube.com/playlist?list=PL62G310vn6nEt1kjQGm4mBAsMfmUqFvfS) | Papo cabeça regado a suco de laranja (breja)<br> entre desenvolvedores. Opinião nua e crua sobre os mais variados assuntos. |
+Youtube | [Curso de tecnologia, <br> __POR QUE APRENDER__](https://www.youtube.com/playlist?list=PLYYr-pCjVCeDkS-LDMB_pF0u9q99ESFvs) | Dicas de mercado; opiniões e<br> experiências pessoais;  
+Youtube | [Elder Moraes, <br> __Java Champions Brasucas__](https://www.youtube.com/playlist?list=PL-zC883FSfIogsdBgl-ReV-FssfRH1otg) | Um desenvolvedor java que atua há anos no mercado conversa com<br> Java Champions brasileiros para conhecer um pouco mais das <br>suas histórias e o que de fato esse<br> reconhecimento significa em suas carreiras.
 
 </br>
 
