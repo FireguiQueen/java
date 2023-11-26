@@ -15,7 +15,10 @@ public class main
 
         // Como o nosso método "quantidadePoltronas" faz um retorno, este retorno precisa ser colocado em algum lugar.
         int poltronas = boeing747.quantidadePoltronas(); // retorna o número 410 para a variável 'poltronas'.
-
         System.out.println(poltronas);
+
+        // Aqui estamos usando uma função que possui parâmetros, sendo assim, ela precisa receber argumentos.
+        // Os argumentos serão passados entre parêntesis.
+        boeing747.ativarMotor(true);
     }
 }
