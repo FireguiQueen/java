@@ -38,7 +38,13 @@ ______________
 16/11/2023        | Aula 22 até Aula 23
 18/11/2023        | Aula 24 até Aula 28
 19/11/2023        | Aula 29 até Aula 34
-20/11/2023        | Aula 35 até Aula 
+20/11/2023        | Aula 35 até Aula 38
+21/11/2023        | Aula 38 até Aula 39 
+22/11/2023        | Aula 39 até Aula 40 
+23/11/2023        | Aula 41 até Aula 44 
+25/11/2023        | Aula 44 até Aula 45
+
+
 
 
 
