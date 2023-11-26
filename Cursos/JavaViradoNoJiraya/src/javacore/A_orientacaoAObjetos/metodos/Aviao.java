@@ -30,7 +30,7 @@
 package javacore.A_orientacaoAObjetos.metodos;
 
 
-// Classe de domínio:
+// --> classe de domínio:
 public class Aviao {
 
     // Propriedades
@@ -42,16 +42,19 @@ public class Aviao {
     // O 'void' é utilizado para representar o tipo de retorno do método.
     // Caso queiramos que determinado método apenas execute ações, usamos o tipo 'void', que significa 'vazio'.
     // Isto é, é um método sem retorno.
-    public void abrirPortas() {
+    public void abrirPortas()
+    {
         System.out.println("As portas foram abertas!");
     }
 
-    public void fecharPortas() {
+    public void fecharPortas()
+    {
         System.out.println("As portas foram fechadas!");
     }
 
-    // O 'return' é utilizado para os métodos retornarem valores. Quando invocarmos o método no programa principal,
-    // o valor do 'return' aparecerá. E por isso, métodos com retornos podem ser colocados em variáveis.
+    // O 'return' é utilizado para os métodos retornarem valores.
+    // Quando invocarmos o método no programa principal, o valor do 'return' aparecerá.
+    // E por isso, métodos com retornos podem ser colocados em variáveis.
     // Se a gente quiser que o método retorne um número inteiro, precisamos definir o tipo como 'int' ou 'long'.
     public int quantidadePoltronas()
     {
@@ -63,6 +66,21 @@ public class Aviao {
     {
         return "Olá passageiros, um bom dia a todos. Agradecemos por estarem voando conosco. Será uma viagem rápida e tranquila";
     }
+
+    // Assim que o método lê a instrução "return", ele faz o retorno e finaliza sua execução.
+    // Métodos do tipo 'void' podem fazer retorno contanto que sejam retornos vazios.
+    public void retorno()
+    {
+        if (true)
+        {
+            return;
+        }
+        System.out.println("olá!"); // está instrução não será lida pois a função já fez um retorno.
+    }
+
+
+    /* ** ** ***** **** ***** ** ** ***** **** ***** ***** *** ** * ************ ***** *** ** * ************ */
+
 
 
     // PARÂMETROS
