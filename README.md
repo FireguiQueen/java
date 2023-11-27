@@ -4,7 +4,7 @@
 </p> --> 
 <img width="900" height="500" src="https://github.com/FireguiQueen/Java/assets/98475125/58645afa-b40e-46f3-a1b9-ae12b31dbf5b"/> 
 
-# Introdução
+# Introdução :wave:
 Bem-vindo ao meu repositório __Java__! Aqui, compartilho cursos, explicações e exercícios que desenvolvi ao longo do meu estudo desta incrível linguagem de programação. Sinta-se à vontade para explorar e utilizar este repositório como uma fonte gratuita de conhecimento. A jornada de aprendizado é mais rica quando compartilhada. Aproveite! =)
 
 ## Como os cursos foram escolhidos?
