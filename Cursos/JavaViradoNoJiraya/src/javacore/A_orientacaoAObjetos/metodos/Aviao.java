@@ -133,10 +133,4 @@ public class Aviao {
         arrayDeNumeros[0] = 30;
     }
 
-
-
-
-
-
-    */
 }
