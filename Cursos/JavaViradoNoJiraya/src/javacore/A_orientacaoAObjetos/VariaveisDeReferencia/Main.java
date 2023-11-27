@@ -1,4 +1,4 @@
-package javacore.A_orientacaoAObjetos.variaveisDeReferencia;
+package javacore.A_orientacaoAObjetos.VariaveisDeReferencia;
 
 public class Main {
 
