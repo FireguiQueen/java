@@ -5,7 +5,7 @@
 <img width="900" height="500" src="https://github.com/FireguiQueen/Java/assets/98475125/58645afa-b40e-46f3-a1b9-ae12b31dbf5b"/> 
 
 # Introdução
-Este repositório foi criado com o intuito de reunir cursos, explicações e exercícios desenvolvidos durante o meu estudo de Java. Além disso, sinta-se livre para utilizá-lo como uma referência para um aprendizado gratuito. =)
+Bem-vindo ao meu repositório __Java__! Aqui, compartilho cursos, explicações e exercícios que desenvolvi ao longo do meu estudo desta incrível linguagem de programação. Sinta-se à vontade para explorar e utilizar este repositório como uma fonte gratuita de conhecimento. A jornada de aprendizado é mais rica quando compartilhada. Aproveite! =)
 
 ## Como os cursos foram escolhidos?
 Evitei "instituições educacionais" com ênfase excessiva em estratégias de marketing em detrimento da qualidade de ensino. Nesse sentido, este repositório exclui algumas plataformas como: Alura, Rocketseat, DankiCode e etc. 
