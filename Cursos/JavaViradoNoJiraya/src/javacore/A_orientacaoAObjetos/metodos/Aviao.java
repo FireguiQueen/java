@@ -117,5 +117,26 @@ public class Aviao {
         System.out.println(10);
     }
     // E por motivos obvios, isto não irá alterar a variável da classe principal, a 'num'.
-    
+
+
+    // A situação muda quando passamos um valor não-primitivo como argumento.
+    /*
+        int[] listaNumeros = {10, 50, 100};
+        metodoAleatorio02(listaNumeros);
+    */
+    public void metodoAleatorio02(int[] arrayDeNumeros)
+    {
+        // Através da instrução 'metodoAleatorio02(listaNumeros);', o array é passado ao parâmetro "arrayDeNumeros".
+        // Mas lembre-se, o parâmetro 'arrayDeNumeros' não irá receber o array, e sim sua referência, ou seja, onde ele este localizado em memória.
+        
+
+
+    }
+
+
+
+
+
+
+    */
 }
