@@ -128,9 +128,9 @@ public class Aviao {
     {
         // Através da instrução 'metodoAleatorio02(listaNumeros);', o array é passado ao parâmetro "arrayDeNumeros".
         // Mas lembre-se, o parâmetro 'arrayDeNumeros' não irá receber o array, e sim sua referência, ou seja, onde ele este localizado em memória.
-        
 
-
+        // Então se a gente fizer isto, o nosso array principal será afetado. Afinal, estamos utilizando sua referência.
+        arrayDeNumeros[0] = 30;
     }
 
 
