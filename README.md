@@ -15,7 +15,7 @@ Alguns cursos foram indicados por amigos, enquanto outros eu busquei em lugares 
 
 <br>
 
-## Sumário 
+## Sumário 📜 
 + __Introdução em java:__ _Este segmento abrange tópicos introdutórios, apresentando conceitos fundamentais como variáveis, loops, arrays, operadores lógicos, condições, métodos, tipos de dados e uma introdução à Programação Orientada a Objetos (POO)._
 + __Aprofundamento em java:__ _Além dos conceitos básicos, é explorado tópicos mais complexos, como herança, polimorfismo, collectors, tratamento de exceções, expressões regulares, sincronização de threads, testes unitários e outros aspectos avançados de Programação Orientada a Objetos._
 + __Especializações:__ _Destinado àqueles que buscam aprofundar seus conhecimentos em tecnologias que facilitam e potencializam a produtividade na criação de aplicações Java para o backend._
