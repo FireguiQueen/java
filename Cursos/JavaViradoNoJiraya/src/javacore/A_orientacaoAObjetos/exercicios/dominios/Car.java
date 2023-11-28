@@ -1,4 +1,4 @@
-package javacore.A_orientacaoAObjetos.z_Exercicios.dominios;
+package javacore.A_orientacaoAObjetos.exercicios.dominios;
 
 public class Car
 {

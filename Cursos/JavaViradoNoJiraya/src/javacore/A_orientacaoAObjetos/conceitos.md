@@ -104,3 +104,11 @@ No exemplo acima, a classe Pessoa atua como um modelo, especificando as propried
 Em seguida, no programa principal, criamos uma instância dessa classe chamada "otavio", atribuindo valores específicos 
 às suas propriedades. Isso demonstra como as classes podem ser usadas para modelar tanto objetos físicos quanto 
 entidades conceituais na programação.
+
+<br>
+<br>
+
+____________________________________
+
+#   
+
