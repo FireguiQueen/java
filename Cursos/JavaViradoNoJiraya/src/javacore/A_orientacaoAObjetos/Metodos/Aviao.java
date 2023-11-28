@@ -33,9 +33,9 @@ package javacore.A_orientacaoAObjetos.Metodos;
 public class Aviao
 {
     // Propriedades
+    public String empresa;
     public String cor;
-    public double largura;
-    public double altura;
+    public double velMaxima;
 
 
     // Métodos
@@ -72,7 +72,8 @@ public class Aviao
     // Assim que o método lê a instrução "return", ele faz o retorno e finaliza sua execução.
     // Métodos do tipo 'void' podem fazer retorno contanto que sejam retornos vazios.
     public void retorno() {
-        if (true) {
+        if (true)
+        {
             return;
         }
         System.out.println("olá!"); // esta instrução não será lida, pois a função já fez um retorno.
@@ -89,7 +90,6 @@ public class Aviao
     {
         System.out.println(portasEstaoFechadas ? "Motor ligado" : "As portas não estão fechadas!");
     }
-
 
 
     // Através dos parâmetros, nós podemos receber tipos primitivos e tipos não-primitivos.
@@ -132,4 +132,26 @@ public class Aviao
         // Então se a gente fizer isto, o nosso array principal será afetado. Afinal, estamos utilizando sua referência.
         arrayDeNumeros[0] = 30;
     }
+
+
+    /* ** ** ***** **** ***** ** ** ***** **** ***** ***** *** ** * ************ ***** *** ** * ************ */
+
+    // THIS
+    /*
+        A palavra-chave 'this' é muito utilizada em métodos de classe de domínio.
+        Veja bem, quando criamos um objeto, sabemos que o mesmo foi instanciado a partir de uma classe.
+
+        E claro, este objeto herda as propriedades e métodos da classe.
+        O 'this' que se encontra em um método da classe também será herdado, e ele faz referência ao contexto atual.
+
+        Por exemplo, quando criamos um objeto chamado 'aluno_Guilherme', o 'this' apontará para o objeto 'aluno_Guilherme'.
+        Quando criamos um objeto chamado 'boeing747', o 'this' fará referência ao objeto 'boeing747'.
+    */
+    public void printInformacoes()
+    {
+        System.out.println(this.empresa);
+        System.out.println(this.velMaxima);
+        System.out.println(this.cor);
+    }
+
 }
