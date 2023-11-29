@@ -1,13 +1,15 @@
 // COESÃO
 /*
-    Coesão, um princípio fundamental no design orientado a objetos, refere-se à organização e foco de uma classe, garantindo que ela tenha um propósito único e bem definido.
-    Em termos simples, quanto mais focada uma classe, maior será a sua coesão.
+    Coesão, um princípio fundamental no design orientado a objetos, refere-se à organização e foco de uma classe,
+    garantindo que ela tenha um propósito único e bem definido. Em termos simples, quanto mais focada uma classe,
+    maior será a sua coesão.
 
-    Considere criar duas classes: "Aluno" e "Professor". A classe "Aluno" terá propriedades como "nome", "idade", "id",
-    "anoDeEscolaridade" e etc. A classe "professor" terá "nome", "idade", "id", "disciplina" e etc.
+    Considere criar duas classes: "Aluno" e "Professor". A classe "Aluno" terá propriedades como "nome", "idade",
+    "id", "anoDeEscolaridade" e etc. A classe "professor" terá "nome", "idade", "id", "disciplina" e etc.
 
-    Tecnicamente, é totalmente possível criar apenas uma única classe representando tanto o 'aluno' quanto o 'professor',
-    No entanto, essa abordagem NÃO é coesa, pois mistura responsabilidades e torna o código menos claro.
+    Tecnicamente, é totalmente possível criar apenas uma única classe representando tanto o 'aluno'
+    quanto o 'professor', no entanto, essa abordagem NÃO é coesa, pois mistura responsabilidades e
+    torna o código menos claro.
 */
 
 package javacore.A_orientacaoAObjetos.ClassesEObjetos.Cohesion;
@@ -26,4 +28,5 @@ public class Aluno
 
 }
 
-// NO PACOTE "DOMINIOS", você pode encontrar dois subpacotes: "coesao" e "nao_coesao". Sinta-se livre para observar com mais clareza este conceito.
+// NO PACOTE "DOMINIOS", você pode encontrar dois subpacotes: "coesao" e "nao_coesao". Sinta-se livre para
+// observar com mais clareza este conceito.
