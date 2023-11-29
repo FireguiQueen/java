@@ -8,7 +8,7 @@
     Tecnicamente, seria possível ter uma única classe abrangendo propriedades tanto de "Aluno" quanto de "Professor". No entanto, essa abordagem não é coesa, pois mistura responsabilidades e torna o código menos claro.
 */
 
-package javacore.A_orientacaoAObjetos.Cohesion;
+package javacore.A_orientacaoAObjetos.ClassesEObjetos.Cohesion;
 
 // Exemplo de algo NÃO-COESO
 public class Aluno
