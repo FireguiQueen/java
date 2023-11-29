@@ -43,6 +43,9 @@ ______________
 22/11/2023        | Aula 39 até Aula 40 
 23/11/2023        | Aula 41 até Aula 44 
 25/11/2023        | Aula 44 até Aula 45
+26/11/2023        | Aula 46 até Aula 49
+27/11/2023        | Aula 50 até Aula 53
+28/11/2023        | Correção de explicações<br>das aulas anteriores
 
 
 
