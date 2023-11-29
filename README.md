@@ -21,7 +21,7 @@ Alguns cursos foram indicados por amigos, enquanto outros eu busquei em lugares 
 + __Especializações:__ _Destinado àqueles que buscam aprofundar seus conhecimentos em tecnologias que facilitam e potencializam a produtividade na criação de aplicações Java para o backend._
 
   
-+ __Conteúdos adicionais:__ _Neste tópico, você encontrará playlists e vídeos relacionados a diversos temas do mundo da programação. Estes não são cursos, e os materiais contidos aqui não necessariamente abordarão tópicos técnicos._
++ __Conteúdos adicionais:__ _Neste tópico, você encontrará playlists e vídeos relacionados a diversos temas do mundo da programação. Os materiais contidos aqui nem sempre abordarão tópicos técnicos._
 
 <br>
 
