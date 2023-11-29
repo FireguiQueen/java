@@ -32,7 +32,7 @@ ______________
 10/11/2023        | Aula 04 até Aula 07
 11/11/2023        | Revisão da Aula 07
 12/11/2023        | Aula 08 até Aula 12
-13/11/2023        | Aula 13 até Aula 15 (+ explicações)
+13/11/2023        | Aula 13 até Aula 15<br>+ (muitas explicações)
 14/11/2023        | Aula 16 até Aula 18 
 15/11/2023        | Aula 19 até Aula 21
 16/11/2023        | Aula 22 até Aula 23
