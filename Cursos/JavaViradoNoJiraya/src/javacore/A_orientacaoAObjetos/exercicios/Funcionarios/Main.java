@@ -1,6 +1,9 @@
 package javacore.A_orientacaoAObjetos.exercicios.Funcionarios;
 
-public class Empresa
+import javacore.A_orientacaoAObjetos.exercicios.Funcionarios.dominions.Funcionario;
+import javacore.A_orientacaoAObjetos.exercicios.Funcionarios.dominions.EmpresaRelatorio;
+
+public class Main
 {
     public static void main(String[] args)
     {

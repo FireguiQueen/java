@@ -1,4 +1,4 @@
-package javacore.A_orientacaoAObjetos.exercicios.Funcionarios;
+package javacore.A_orientacaoAObjetos.exercicios.Funcionarios.dominions;
 
 public class Funcionario
 {
