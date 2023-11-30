@@ -35,13 +35,14 @@ Curso | Professor/entidade | Duração
 ### Aprofundamento em java
 Curso | Professor/entidade | Duração
 :-- | :--: |:--: | 
-[Java virado no Jiraya](https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW) | William Suane, <br>devDojo | 46h 50min
-[Java módulo I](https://loiane.training/curso/java-basico) | Loiane Groner, <br>loianeTrainning | 31h 52min
+[Java virado no Jiraya](https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW) | William Suane, <br>devDojo         | 46h 50min
+[Java módulo I](https://loiane.training/curso/java-basico)                                        | Loiane Groner, <br>loianeTrainning | 31h 52min
 
 ### Especialização
 Curso | Professor/entidade | Duração
 :-- | :--: |:--: | 
-[ Spring Boot Essentials](https://www.youtube.com/playlist?list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H) | William Suane, <br>devDojo | 47h 20min
+[Spring Boot Essentials](https://www.youtube.com/playlist?list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H) | William Suane, <br>devDojo | 47h 20min
+[Maratona JSF](https://www.youtube.com/playlist?list=PL62G310vn6nHSNpACkELWiPlM8J8z8t5J)           | William Suane, <br>devDojo | 15h 42min
 
 <br>
 
