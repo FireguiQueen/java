@@ -37,6 +37,7 @@ Curso | Professor/entidade | Duração
 :-- | :--: |:--: | 
 [Java virado no Jiraya](https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW) | William Suane, <br>devDojo         | 46h 50min
 [Java módulo I](https://loiane.training/curso/java-basico)                                        | Loiane Groner, <br>loianeTrainning | 31h 52min
+[POO no Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY) | Gustavo Guanabara, <br>Curso em vídeo | 11h 56min
 
 ### Especialização
 Curso | Professor/entidade | Duração
