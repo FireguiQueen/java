@@ -16,8 +16,7 @@ public class Main
         funcionario_001.age = 32;
         funcionario_001.salary = new double[]{500, 200, 300};
 
-        relatorio.dadosDoFuncionario(funcionario_001);
-        relatorio.mediaSalarial(funcionario_001);
+        relatorio.imprimirDadosDoFuncionario(funcionario_001);
 
 
     }
