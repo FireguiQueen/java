@@ -1,9 +1,9 @@
-package javacore.A_orientacaoAObjetos.exercicios.dominios;
+package javacore.A_orientacaoAObjetos.exercicios.Funcionarios;
+
+import javacore.A_orientacaoAObjetos.exercicios.Funcionarios.Funcionario;
 
 public class EmpresaRelatorio
 {
-
-
     public void dadosDoFuncionario(Funcionario funcionario)
     {
         int totalSalarios = funcionario.salary.length;
@@ -13,12 +13,12 @@ public class EmpresaRelatorio
 
         for (int i = 0; i < totalSalarios; i++)
         {
-            System.out.println("Salário: " + funcionario.salary[i]);
+            System.out.println("Salário -" + (i+1) + funcionario.salary[i]);
 
         }
     }
 
-    public double mediaSalarial(Funcionario funcionario)
+    public void mediaSalarial(Funcionario funcionario)
     {
         int totalSalarios = funcionario.salary.length;
         double valorTotal = 0;
@@ -26,6 +26,6 @@ public class EmpresaRelatorio
         {
             valorTotal += funcionario.salary[i];
         }
-        return valorTotal / totalSalarios;
+        System.out.println(valorTotal / totalSalarios);
     }
 }
