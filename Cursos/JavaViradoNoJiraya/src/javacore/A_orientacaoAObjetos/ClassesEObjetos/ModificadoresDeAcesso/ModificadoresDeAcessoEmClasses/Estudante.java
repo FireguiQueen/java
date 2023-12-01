@@ -16,7 +16,7 @@
     E fazer isto só é possível pois nossa classe está publica.
 */
 
-package javacore.A_orientacaoAObjetos.ClassesEObjetos.ModificadoresDeAcesso_GettersESetters.ModificadoresDeAcessoEmClasses;
+package javacore.A_orientacaoAObjetos.ClassesEObjetos.ModificadoresDeAcesso.ModificadoresDeAcessoEmClasses;
 
 public class Estudante
 {
