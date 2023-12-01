@@ -1,4 +1,4 @@
-package javacore.A_orientacaoAObjetos.ClassesEObjetos.Cohesion.dominios.coesao;
+package javacore.A_orientacaoAObjetos.ArquiteturaDeSoftware.Cohesion.dominios.coesao;
 
 // Classe coesa. Ela é bem específica
 public class Estudante

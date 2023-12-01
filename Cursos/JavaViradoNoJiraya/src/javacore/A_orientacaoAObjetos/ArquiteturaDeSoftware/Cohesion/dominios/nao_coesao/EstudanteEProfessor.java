@@ -1,4 +1,4 @@
-package javacore.A_orientacaoAObjetos.ClassesEObjetos.Cohesion.dominios.nao_coesao;
+package javacore.A_orientacaoAObjetos.ArquiteturaDeSoftware.Cohesion.dominios.nao_coesao;
 
 // CLASSE NÃO-COESA. Uma coisa horrível de se ver.
 public class EstudanteEProfessor

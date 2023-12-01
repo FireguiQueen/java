@@ -12,7 +12,7 @@
     torna o código menos claro.
 */
 
-package javacore.A_orientacaoAObjetos.ClassesEObjetos.Cohesion;
+package javacore.A_orientacaoAObjetos.ArquiteturaDeSoftware.Cohesion;
 
 // Exemplo de algo NÃO-COESO
 public class Aluno
