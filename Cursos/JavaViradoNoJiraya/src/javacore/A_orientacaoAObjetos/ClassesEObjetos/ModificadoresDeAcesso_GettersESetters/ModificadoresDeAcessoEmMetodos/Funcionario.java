@@ -1,4 +1,5 @@
 package javacore.A_orientacaoAObjetos.ClassesEObjetos.ModificadoresDeAcesso_GettersESetters.ModificadoresDeAcessoEmMetodos;
 
-public class Funcionario {
+public class Funcionario
+{
 }
