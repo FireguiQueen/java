@@ -12,7 +12,7 @@
     Para isso, criaremos um parâmetro para ele, e quando o objeto for invocado em outra classe juntamente a este
     metodo, ele irá passar como argumento o valor que deseja atribruir a propriedade.
 
-    O método 'get' tem o objetivo de pegar um valor de uma propriedade e retornar ele. 
+    O método 'get' tem o objetivo de pegar um valor de uma propriedade e retornar ele.
 */
 package javacore.A_orientacaoAObjetos.ClassesEObjetos.ModificadoresDeAcesso.ModificadoresDeAcessoEmVariaveis;
 
@@ -20,6 +20,6 @@ public class Aviao
 {
     // Propriedades: a partir de agora, você sempre deve as deixar em "private"!
     private String modelo;
+    private int capacidadePessoas;
     private int ano;
-    private
 }
