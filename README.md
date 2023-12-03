@@ -54,7 +54,10 @@ Origem | Nome | Descrição
 Youtube | [devDojo, <br> __Brejas e Bugs__](https://www.youtube.com/playlist?list=PL62G310vn6nEt1kjQGm4mBAsMfmUqFvfS) | Papo cabeça regado a suco de laranja (breja) entre desenvolvedores. <br> Opinião nua e crua sobre os mais variados assuntos. |
 Youtube | [Curso de tecnologia, <br> __POR QUE APRENDER__](https://www.youtube.com/playlist?list=PLYYr-pCjVCeDkS-LDMB_pF0u9q99ESFvs) | Dicas de mercado; opiniões e experiências pessoais;  
 Youtube | [Elder Moraes, <br> __Java Champions Brasucas__](https://www.youtube.com/playlist?list=PL-zC883FSfIogsdBgl-ReV-FssfRH1otg) | Podcast com Java Champions brasileiros, explorando suas histórias e experiências como desenvolvedores.
+
 </br>
+
+__________________________
 
 ### FAQ 
 <a href="https://github.com/FireguiQueen/Java/blob/main/others/faq.md">Aqui</a> estão algumas perguntas frequentes sobre Java, computação e outros tópicos relacionados a programação.
