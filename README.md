@@ -31,13 +31,13 @@ Alguns cursos foram indicados por amigos, enquanto outros eu busquei em lugares 
 ### Introdução à java
 Curso | Professor/entidade | Duração
 :-- | :--: |:--: | 
-[Programar em Java](https://www.youtube.com/playlist?list=PLa75BYTPDNKZLzk3xG-gSXSU_AAq5RP4g) | Italo Grossi, <br>deAlunoParaAluno | _07h 40min_
+[Programar em Java](https://www.youtube.com/playlist?list=PLa75BYTPDNKZLzk3xG-gSXSU_AAq5RP4g) | Italo Grossi, <br>deAlunoParaAluno | 07h 40min
 
 ### Aprofundamento em java
 Curso | Professor/entidade | Duração
 :-- | :--: |:--: | 
-[Java virado no Jiraya](https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW) | William Suane, <br>devDojo         | _46h 50min_
-[Java módulo I](https://loiane.training/curso/java-basico)                                        | Loiane Groner, <br>loianeTrainning | _31h 52min_
+[Java virado no Jiraya](https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW) | William Suane, <br>devDojo         | 46h 50min
+[Java módulo I](https://loiane.training/curso/java-basico)                                        | Loiane Groner, <br>loianeTrainning | 31h 52min
 [POO no Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY) | Gustavo Guanabara, <br>Curso em vídeo | 11h 56min
 
 ### Especialização
