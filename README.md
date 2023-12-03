@@ -62,8 +62,6 @@ __________________________
 ### FAQ 
 <a href="https://github.com/FireguiQueen/Java/blob/main/others/faq.md">Aqui</a> estão algumas perguntas frequentes sobre Java, computação e outros tópicos relacionados a programação.
 
-</br>
-
 #### Progressão
-Você pode ver minha progressão nos cursos por <a href="https://github.com/FireguiQueen/Java/blob/main/others/progress%C3%A3o.md">aqui</a>.
+Detalhes da minha progressão nos cursos podem ser vistos <a href="https://github.com/FireguiQueen/Java/blob/main/others/progress%C3%A3o.md">aqui</a>.
 
