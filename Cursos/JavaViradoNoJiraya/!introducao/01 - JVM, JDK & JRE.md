@@ -28,7 +28,7 @@ Uma máquina virtual têm várias utilidades. Uma delas é permitir que usuário
 softwares desenvolvidos para rodar em outro sistema operacional. Por exemplo, se você estiver utilizando o Linux, 
 mas precisar executar um programa que só funciona em sistemas Windows, pode resolver esse problema instalando uma máquina virtual. 
 
-</br>
+<br>
 
 ## Linguagem compilada
 As linguagens compiladas são aquelas em que o código fonte é compilado antes da execução, gerando um arquivo executável diretamente utilizado pelo sistema operacional.
@@ -49,6 +49,8 @@ Nesse contexto, uma linguagem compilada implica que o programa escrito precisa s
 Para que o programa acima seja executado pela nossa máquina, ele precisa passar pelo processo de compilação 
 (que engloba diversas outras ações). Após essa etapa, teremos um arquivo que conterá a representação do programa 
 em formato binário, composta por zeros e uns.
+
+<br>
 
 ## Java Virtual Machine (JVM)
 Após compreender alguns "pilares" da computação, podemos finalmente entender a JVM.
