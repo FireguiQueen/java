@@ -31,14 +31,12 @@ mas precisar executar um programa que só funciona em sistemas Windows, pode res
 </br>
 
 ## Linguagem compilada
-As linguagens compiladas são aquelas em que o código fonte é compilado antes da execução, gerando um 
-arquivo executável que pode ser executado diretamente pelo sistema operacional.
+As linguagens compiladas são aquelas em que o código fonte é compilado antes da execução, gerando um arquivo executável diretamente utilizado pelo sistema operacional.
 
-Uma linguagem compilada significa que precisamos compilar nosso programa escrito nessa linguagem.
-Após a criação do código fonte do programa, ele passará por um processo de compilação, pois o código contido nesse programa não pode ser lido diretamente por uma máquina, já que ela entende apenas zeros e uns (formato binário). 
-Então, nosso código será transformado em um formato que as máquinas conseguem compreender.
+Nesse contexto, uma linguagem compilada implica que o programa escrito precisa ser compilado. Após a criação do código fonte, este passa por um processo de compilação, uma vez que o código contido não pode ser lido diretamente pela máquina, que compreende apenas a linguagem binária de zeros e uns. Assim, o código é transformado em um formato compreensível pelas máquinas.
 
-> a linguagem C é uma linguagem compilada, mas o código que escrevemos nela é incompreensível para o computador.
+#### Exemplo
+> A linguagem C é uma linguagem compilada. O código que escrevemos nela é incompreensível para o computador.
 ```c
     #include <stdio.h>
     
