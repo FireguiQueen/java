@@ -1,37 +1,32 @@
 # Introdução ao Java
 
 ## Sistemas operacionais
-O sistema operacional (Windows 11, Windows 10, macOS, Ubuntu) é um software, e podemos dizer que ele é o principal 
-software do nosso computador.
+Um sistema operacional, seja ele o Windows 11, Windows 10, macOS, Ubuntu, etc., é apenas um software. Podemos afirmar que ele é o principal programa do nosso computador.
 
 O sistema operacional é responsável por realizar diversas tarefas, incluindo:
 - Estabelecer comunicação entre os softwares de nossas máquinas e os hardwares conectados a ela.
 - Gerenciar recursos para nossos softwares (ex: quanto de RAM determinado porgrma pode utilizar)
 - Estabelecer limites de acesso, segurança e etc.
 
-Mas é importante saber que cada sistema operacional é desenvolvido de uma maneira específica, e cada um tem sua forma de
-compreender e executar ações. Isso é crucial para a computação, pois permite o desenvolvimento de sistemas focados em 
-objetivos específicos. Por exemplo, uma pessoa com uma máquina extremamente limitada pode usar um sistema operacional 
-chamado "Lubuntu". O Lubuntu é projetado para ser leve em máquinas com recursos limitados.
+Cada sistema operacional é desenvolvido de maneira específica, e cada um possui sua própria forma de compreender e executar ações. Isso é crucial para a computação, pois possibilita o desenvolvimento de sistemas adaptados a necessidades particulares.
+
+Indivíduos com computadores mais antigos podem optar pelo Lubuntu, um sistema operacional projetado para proporcionar desempenho eficiente em máquinas com recursos limitados.
 Pessoas que estudam ou trabalham com cibersegurança podem usar um sistema operacional chamado "Kali Linux", que é
-voltado para atender a essas necessidades, com diversas ferramentas específicas para hacking por exemplo. 
+voltado para atender a essas necessidades, pois ṕossui diversas ferramentas específicas para hacking. 
 
 Podemos concluir que cada sistema tem um nicho específico, embora existam também sistemas, como o Windows e o Ubuntu, 
 que buscam atender a diversos públicos, incluindo gamers, programadores e usuários comuns.
 
-Entre todos esses sistemas com propósitos diferentes, é natural pensar que cada um é construído de uma maneira única. 
-Lembre-se, um sistema operacional é, em última análise, apenas um tipo de software.
-
 <br>
 
 ## Máquinas virtuais 
-O propósito de uma máquina virtual é ser uma máquina que roda em nossa máquina real. 
-Por exemplo, sua máquina pode estar utilizando o Windows 11, mas com um software de virtualização, você pode 
+O propósito de uma máquina virtual é ser justamente uma máquina virtual que é executada em nossa máquina real. 
+Sua máquina pode estar utilizando o Windows 11, mas com um software de virtualização, você pode 
 emular uma máquina dentro da sua própria máquina, daí o termo "máquina virtual".
 
-Elas têm várias utilidades. Uma delas, por exemplo, é permitir que usuários de um sistema operacinal específico execute 
-softwares  desenvolvidos para rodar em outro sistema operacional. Por exemplo, se você estiver utilizando o Linux, 
-mas precisar executar um programa que só funciona em sistemas Windows, pode resolver esse problema instalando uma máquina virtual no seu PC e colocando um sistema operacional Windows nela. Através dessa máquina virtual, é possível executar o programa desejado.
+Uma máquina virtual têm várias utilidades. Uma delas é permitir que usuários de um sistema operacinal específico execute 
+softwares desenvolvidos para rodar em outro sistema operacional. Por exemplo, se você estiver utilizando o Linux, 
+mas precisar executar um programa que só funciona em sistemas Windows, pode resolver esse problema instalando uma máquina virtual. 
 
 </br>
 
