@@ -1,6 +1,6 @@
-package javacore.A_orientacaoAObjetos.ClassesEObjetos.IntroducaoObjetos;
+package javacore.A_orientacaoAObjetos.IntroducaoObjetos;
 
-import javacore.A_orientacaoAObjetos.ClassesEObjetos.IntroducaoObjetos.dominios.Carro;
+import javacore.A_orientacaoAObjetos.IntroducaoObjetos.dominios.Carro;
 
 public class CriandoObjetos_02 {
     public static void main(String[] args) {

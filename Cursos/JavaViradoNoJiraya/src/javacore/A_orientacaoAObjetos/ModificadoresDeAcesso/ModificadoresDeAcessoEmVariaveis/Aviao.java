@@ -21,7 +21,7 @@
 
     Uma classe que irá utilizar desta classe de domínio jamais deveria ter acesso DIRETO as propriedades daqui.
 */
-package javacore.A_orientacaoAObjetos.ClassesEObjetos.ModificadoresDeAcesso.ModificadoresDeAcessoEmVariaveis;
+package javacore.A_orientacaoAObjetos.ModificadoresDeAcesso.ModificadoresDeAcessoEmVariaveis;
 
 public class Aviao
 {

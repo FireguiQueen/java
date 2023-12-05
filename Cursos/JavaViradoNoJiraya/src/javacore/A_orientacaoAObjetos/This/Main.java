@@ -6,8 +6,8 @@
     Para entender melhor, você pode acessar a classe "Aviao" no pacote "dominios" para ver a utilização do 'this'.
 */
 
-package javacore.A_orientacaoAObjetos.ClassesEObjetos.This;
-import javacore.A_orientacaoAObjetos.ClassesEObjetos.This.dominios.Aviao;
+package javacore.A_orientacaoAObjetos.This;
+import javacore.A_orientacaoAObjetos.This.dominios.Aviao;
 
 public class Main
 {

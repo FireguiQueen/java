@@ -4,7 +4,7 @@
     própria classe terão acesso a este método.
 */
 
-package javacore.A_orientacaoAObjetos.ClassesEObjetos.ModificadoresDeAcesso.ModificadoresDeAcessoEmMetodos;
+package javacore.A_orientacaoAObjetos.ModificadoresDeAcesso.ModificadoresDeAcessoEmMetodos;
 
 public class Funcionario
 {

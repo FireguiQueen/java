@@ -9,7 +9,7 @@
     O "this" faz referência ao seu contexto, e neste contexto, estamos no objeto "aviao".
 */
 
-package javacore.A_orientacaoAObjetos.ClassesEObjetos.This.dominios;
+package javacore.A_orientacaoAObjetos.This.dominios;
 
 public class Aviao
 {

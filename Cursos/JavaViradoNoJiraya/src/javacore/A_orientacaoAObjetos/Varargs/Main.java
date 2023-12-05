@@ -3,7 +3,7 @@
     Um método também pode receber um array através do parâmetro.
     E para isso, podemos fazer de duas formas.
 */
-package javacore.A_orientacaoAObjetos.ClassesEObjetos.Varargs;
+package javacore.A_orientacaoAObjetos.Varargs;
 
 public class Main
 {
