@@ -39,4 +39,20 @@ public class Aviao
     {
         this.ano = ano;
     }
+
+
+    // método para pegar o valro da propriedade "modelo".
+    public String getModelo()
+    {
+        return this.modelo;
+    }
+
+    // método para pegar o valro da propriedade "modelo".
+    public int getAno()
+    {
+        return this.ano;
+    }
+
+
+
 }
