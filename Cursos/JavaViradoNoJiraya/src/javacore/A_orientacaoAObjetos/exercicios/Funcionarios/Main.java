@@ -12,9 +12,9 @@ public class Main
 
         Funcionario funcionario_001 = new Funcionario();
 
-        funcionario_001.name = "Joaquim";
-        funcionario_001.age = 32;
-        funcionario_001.salary = new double[]{500, 200, 300};
+        funcionario_001.setName("Joaquim");
+        funcionario_001.setAge((short)32);
+        funcionario_001.setSalary(new double[]{500, 200, 300});
 
         relatorio.imprimirDadosDoFuncionario(funcionario_001);
 

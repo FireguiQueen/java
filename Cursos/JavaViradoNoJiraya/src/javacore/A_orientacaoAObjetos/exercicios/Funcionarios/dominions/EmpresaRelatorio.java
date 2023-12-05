@@ -4,16 +4,16 @@ public class EmpresaRelatorio
 {
     public void imprimirDadosDoFuncionario(Funcionario funcionario)
     {
-        if (funcionario.salary == null || funcionario.name == null) return;
+        if (funcionario.getSalary() == null || funcionario.getName() == null) return;
 
-        int totalSalarios = funcionario.salary.length;
+        int totalSalarios = funcionario.getSalary().length;
 
-        System.out.println("Nome: " + funcionario.name);
-        System.out.println("Idade: " + funcionario.age);
+        System.out.println("Nome: " + funcionario.getName());
+        System.out.println("Idade: " + funcionario.getAge());
 
         for (int i = 0; i < totalSalarios; i++)
         {
-            System.out.println(("Salário - " + (i+1) )+ ": " + funcionario.salary[i]);
+            System.out.println(("Salário - " + (i+1) )+ ": " + funcionario.getSalary()[i]);
 
         }
         imprimirMediaSalarial(funcionario);
@@ -21,13 +21,13 @@ public class EmpresaRelatorio
 
     public void imprimirMediaSalarial(Funcionario funcionario)
     {
-        if (funcionario.salary == null || funcionario.name == null) return;
+        if (funcionario.getSalary() == null || funcionario.getName() == null) return;
 
-        int totalSalarios = funcionario.salary.length;
+        int totalSalarios = funcionario.getSalary().length;
         double valorTotal = 0;
         for (int i = 0; i < totalSalarios; i++)
         {
-            valorTotal += funcionario.salary[i];
+            valorTotal += funcionario.getSalary()[i];
         }
         System.out.println("Média salarial: " + (valorTotal / totalSalarios));
     }

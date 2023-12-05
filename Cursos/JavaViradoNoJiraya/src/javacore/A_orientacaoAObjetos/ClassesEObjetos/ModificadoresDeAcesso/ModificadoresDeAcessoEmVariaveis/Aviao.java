@@ -41,6 +41,8 @@ public class Aviao
     }
 
 
+
+    
     // método para pegar o valro da propriedade "modelo".
     public String getModelo()
     {
