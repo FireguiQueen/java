@@ -69,7 +69,7 @@ Podemos visualizar essa relação de classe e objetos através de uma representa
 "carro" como nossa classe de domínio, atuando como um molde. Os carros individuais, como Maruti, Audi e BMW, representam os objetos 
 que foram criados com base nesse molde (a classe).
 
-![classAndObjects](../../../others/classAndObjects.png)
+![classAndObjects](../../../others/explicacoes/classAndObjects.png)
 
 <br>
 
