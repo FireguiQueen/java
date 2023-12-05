@@ -25,5 +25,5 @@ package javacore.A_orientacaoAObjetos.ClassesEObjetos.ModificadoresDeAcesso.Modi
 
 public class Estudante
 {
-    // ... 
+    // ...
 }
