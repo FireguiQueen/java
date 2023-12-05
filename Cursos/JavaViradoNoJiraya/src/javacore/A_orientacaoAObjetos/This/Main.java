@@ -7,7 +7,6 @@
 */
 
 package javacore.A_orientacaoAObjetos.This;
-import javacore.A_orientacaoAObjetos.This.dominios.Aviao;
 
 public class Main
 {
