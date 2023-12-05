@@ -4,12 +4,9 @@ public class Main
 {
     public static void main(String[] args)
     {
+
         // Podemos fazer isto porque a classe "Funcionario" está pública.
         Funcionario funcionario001 = new Funcionario();
-
-
-        // O método "mensagemBoasVindas" foi criado na classe "Funcionario".
-        // Por consequência, o objeto "funcionario001" também herdou este método.
 
         // Nós estamos na classe "Main" e estamos acessando um método de outra classe.
         // >> Só podemos acessar este método porque ele é PÚBLICO (PUBLIC).
@@ -17,7 +14,8 @@ public class Main
 
         // O método "historiaEmpresa" é privado, ou seja, apenas instruções do objeto herdado poderão acessá-lo.
         // Fazer isto retornará erro:
-        // > funcionario001.historiaEmpresa();
+        // >    funcionario001.historiaEmpresa();
+
 
         /*
             Para você poder acessar um método privado a partir de outra classe, você precisará ter um método público
