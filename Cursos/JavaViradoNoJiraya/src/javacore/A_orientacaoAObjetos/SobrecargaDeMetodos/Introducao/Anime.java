@@ -36,8 +36,9 @@
     Ela consiste em você criar, por exemplo, dois métodos com o mesmo nome. Porém, o outro método criado, conterá
     os mesmo parâmetros porém com alguns novos.
 
-    Isto faz com que a nossa classe principal não seja quebrada. Pois mesmo passando apenas 3 argumentos ao método
-    ainda irá funcionar.
+    # Agora, na classe 'Main', podemos criar instâncias da classe 'Anime' usando tanto o método original quanto o
+    método modificado.
+    # Dessa forma, a classe 'Main' pode lidar com ambas as versões do método 'init()', garantindo a compatibilidade com o código existente.
 
 */
 package javacore.A_orientacaoAObjetos.SobrecargaDeMetodos.Introducao;
@@ -53,11 +54,31 @@ public class Anime
     private int anoDeLancamento;
     private String descricao;
 
-
+    // método original (criado no inicio do projeto)
     public void init(String nome, int numeroEpisodios, String genero)
     {
         this.nome = nome;
         this.numeroEpisodios = numeroEpisodios;
         this.genero = genero;
+    }
+
+    // método modificado (criado para que instâncias que utilizem o original não quebrem)
+    public void init(String nome, int numeroEpisodios, String genero, int anoDeLancamento, String descricao)
+    {
+        this.nome = nome;
+        this.numeroEpisodios = numeroEpisodios;
+        this.genero = genero;
+
+        this.anoDeLancamento = anoDeLancamento;
+        this.descricao = descricao;
+    }
+
+    public void printInf()
+    {
+        System.out.println("Nome: " + this.nome);
+        System.out.println("N. Eps: " + this.numeroEpisodios);
+        System.out.println("Gênero: " + this.genero);
+        System.out.println("Ano de lançamento: " + this.anoDeLancamento);
+        System.out.println("Descricao: " + this.descricao);
     }
 }
