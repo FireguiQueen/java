@@ -10,7 +10,7 @@
     Por padrão, caso não haja um construtor em sua classe, o construtor é gerado automaticamente durante a compilação.
 
     Com os construtores, podemos realizar a inicialização OBRIGATÓRIA das propriedades de um objeto.
-    Em contraste aos métodos "setters", que são comumente utilizados para atribuir valores após a criação do objeto,
+    Em contraste aos métodos "setters", que são comumente utilizados para atribuir valores APÓS a criação do objeto,
     os construtores possibilitam que os valores sejam passados diretamente no momento da instância.
 
     Nesta classe, 'Estudante', o construtor dela é definido para aceitar dois parâmetros: nome e idade.

@@ -41,7 +41,7 @@
     # Dessa forma, a classe 'Main' pode lidar com ambas as versões do método 'init()', garantindo a compatibilidade com o código existente.
 
 */
-package javacore.A_orientacaoAObjetos.SobrecargaDeMetodos.Introducao;
+package javacore.A_orientacaoAObjetos.Sobrecarga.Metodos;
 
 public class Anime
 {
