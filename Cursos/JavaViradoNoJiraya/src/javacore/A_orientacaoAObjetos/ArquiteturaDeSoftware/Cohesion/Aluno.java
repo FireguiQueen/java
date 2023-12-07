@@ -39,3 +39,9 @@ public class Aluno
 // NO PACOTE "DOMINIOS", você pode encontrar dois subpacotes: "coesao" e "nao_coesao".
 // Sinta-se livre para observar com mais clareza este conceito.
 // ** *** ** ** *** *** ** *** ** ** *** ***  ** *** ** ** *** ***
+
+
+
+cu = ['a', 'v', 'i', 'a', 'o']
+r = "_ _ _ _ _"
+
