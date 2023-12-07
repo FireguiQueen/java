@@ -40,8 +40,3 @@ public class Aluno
 // Sinta-se livre para observar com mais clareza este conceito.
 // ** *** ** ** *** *** ** *** ** ** *** ***  ** *** ** ** *** ***
 
-
-
-cu = ['a', 'v', 'i', 'a', 'o']
-r = "_ _ _ _ _"
-
