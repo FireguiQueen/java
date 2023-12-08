@@ -5,6 +5,7 @@ public class Anime
     private String nome;
     private int anoDeLancamento;
     private String categoria;
+    private int idadeRecomendada;
 
 
     // CONSTRUTOR ORIGINAL.
@@ -29,5 +30,31 @@ public class Anime
         this.nome = nome;
         this.anoDeLancamento = anoDeLancamento;
         this.categoria = categoria;
+    }
+
+
+    // ELIMINANDO REDUNDANCIA.
+    /*
+        Observe que este segundo constructor utiliza o mesmos "this" do constructor
+        original, a diferença é que ele está utilizando um "this" a mais, afinal, ele
+        possui um parametro a mais.
+
+        Para eleminar esta redundancia, podemos fazer da seguinte forma:
+        - this()
+
+        Lembre-se, o this se refere ao contexto atual. Então utilizar "this()"
+        seria a mesma coisa que "Anime()".
+        Porém, fazendo: "Anime()" poderia ser um problema.
+        Pois caso a gente crie um objeto com um nome diferente de "Anime()", estariamos
+        tentando acessar um constructor que nao existe.
+
+        --> Se um objeto é criado com o nome de "Anime00", então, seu constructor se chamará
+        "Anime00". Por isso, o "this()" é super importante, ele vai se referir ao contexto
+        onde está.  
+    */
+    public Anime(String nome, int anoDeLancamento, String categoria, int idadeRecomendada)
+    {
+        this(nome, anoDeLancamento, categoria);
+        this.idadeRecomendada = idadeRecomendada;
     }
 }
