@@ -9,6 +9,6 @@ public class Main
 
         // Este objeto foi criado a partir do segundo constructor. Ele pede mais um argumento: categoria, do tipo String.
         Anime anime002 = new Anime("Shingeki no Kyojin", 2009, "Ação/Drama");
-        
+
     }
 }
