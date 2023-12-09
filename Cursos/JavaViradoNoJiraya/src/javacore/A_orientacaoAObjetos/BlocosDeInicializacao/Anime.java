@@ -19,7 +19,7 @@ public class Anime
     {
         this.nome = nome;
     }
-    
+
     // Isto é um bloco de inicialização.
     {
         /*
