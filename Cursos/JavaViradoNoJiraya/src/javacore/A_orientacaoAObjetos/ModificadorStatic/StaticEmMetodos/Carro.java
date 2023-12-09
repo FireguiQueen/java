@@ -1,4 +1,5 @@
 package javacore.A_orientacaoAObjetos.ModificadorStatic.StaticEmMetodos;
 
-public class Carro {
+public class Carro
+{
 }
