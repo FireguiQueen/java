@@ -9,7 +9,7 @@
     Vamos analisar alguns exemplos para entender melhor como o 'continue' funciona.
 */
 
-package introducao;
+package introducao.EstruturasDeRepeticao;
 
 public class Aula_018___estruturasDeRepeticao_V {
     public static void main(String[] args) {

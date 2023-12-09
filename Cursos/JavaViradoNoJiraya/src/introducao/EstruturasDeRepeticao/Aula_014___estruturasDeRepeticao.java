@@ -3,7 +3,7 @@
     As estruturas de repetição são utilizadas para repetir determinada instrução/bloco de instruções.
     Elas são de importância para um código limpo e dinâmico.
 */
-package introducao;
+package introducao.EstruturasDeRepeticao;
 
 public class Aula_014___estruturasDeRepeticao
 {

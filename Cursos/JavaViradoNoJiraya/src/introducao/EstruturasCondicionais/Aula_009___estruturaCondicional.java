@@ -9,7 +9,7 @@
         - Dentro das chaves, colocaremos as instruções que serão executadas caso a expressão dos parênteses seja avaliada como "true".
 */
 
-package introducao;
+package introducao.EstruturasCondicionais;
 
 public class Aula_009___estruturaCondicional
 {

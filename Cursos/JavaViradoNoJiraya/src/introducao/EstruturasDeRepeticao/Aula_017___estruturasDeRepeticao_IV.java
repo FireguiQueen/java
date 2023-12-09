@@ -1,6 +1,6 @@
 // ESTRUTURAS DE REPETIÇÃO: BREAK
 // --> EXERCÍCIO <--
-package introducao;
+package introducao.EstruturasDeRepeticao;
 
 public class Aula_017___estruturasDeRepeticao_IV
 {

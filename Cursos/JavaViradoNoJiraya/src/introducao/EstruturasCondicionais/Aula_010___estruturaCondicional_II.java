@@ -14,7 +14,7 @@
     Podemos dizer que o 'índice 2' é uma CONSEQUÊNCIA da condição anterior não acontecer.
 */
 
-package introducao;
+package introducao.EstruturasCondicionais;
 
 public class Aula_010___estruturaCondicional_II
 {

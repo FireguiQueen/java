@@ -1,5 +1,5 @@
 // ARRAYS MULTIDIMENSIONAIS: tipos de inicialização
-package introducao;
+package introducao.Array;
 
 public class Aula_025___array_VI
 {

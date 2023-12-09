@@ -8,7 +8,7 @@
     Ao estabelecer uma condição específica, caso seja avaliada como verdadeira,
     a execução do 'break' ocorre, interrompendo as próximas iterações do loop.
 */
-package introducao;
+package introducao.EstruturasDeRepeticao;
 
 public class Aula_016___estruturasDeRepeticao_III
 {

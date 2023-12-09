@@ -3,7 +3,7 @@
     O operador ternário é utilizado para substituir uma estrutura condicional simples,
     que envolva apenas um "if" e um "else".
 */
-package introducao;
+package introducao.EstruturasCondicionais;
 
 
 public class Aula_011___estruturaCondicional_III

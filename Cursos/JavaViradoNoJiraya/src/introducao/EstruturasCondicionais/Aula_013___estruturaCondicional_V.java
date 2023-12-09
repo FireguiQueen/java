@@ -1,7 +1,7 @@
 // -> EXERCÍCIO <-
 // ESTRUTURA CONDICIONAL: SWITCH CASE
 
-package introducao;
+package introducao.EstruturasCondicionais;
 
 public class Aula_013___estruturaCondicional_V
 {

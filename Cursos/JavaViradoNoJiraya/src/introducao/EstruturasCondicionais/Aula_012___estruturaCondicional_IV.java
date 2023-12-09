@@ -9,7 +9,7 @@
     Caso haja correspondência entre algum CASE em relação ao valor que foi passado para o switch, as instruções
     associadas a esse caso serão executadas.
 */
-package introducao;
+package introducao.EstruturasCondicionais;
 
 public class Aula_012___estruturaCondicional_IV {
     public static void main(String[] args) {

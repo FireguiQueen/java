@@ -4,7 +4,7 @@
     Teremos uma variável, e a cada ciclo, será atribuido um elemento do array para ela.
 */
 
-package introducao;
+package introducao.Array;
 
 public class Aula_022___array_III
 {

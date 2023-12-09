@@ -16,7 +16,7 @@
     E esta variável é do tipo de referência. Ss tipos de referência são variáveis que contêm uma referência ou
     endereço de memória que aponta para um objeto.
 */
-package introducao;
+package introducao.Array;
 
 
 public class Aula_019___array

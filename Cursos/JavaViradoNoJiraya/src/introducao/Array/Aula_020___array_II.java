@@ -7,7 +7,7 @@
     - char: '\u0000' (é o caracter nulo)
     - boolean: false
 */
-package introducao;
+package introducao.Array;
 
 public class Aula_020___array_II
 {

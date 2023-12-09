@@ -13,7 +13,7 @@
     >> A ideia é utilizar esses operadores quando a variável for receber o valor dela mesma.
 */
 
-package introducao;
+package introducao.d_Operadores;
 public class Aula_008___operadoresDeAtribuicao
 {
     public static void main(String[] args)

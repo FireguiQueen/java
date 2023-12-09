@@ -1,7 +1,7 @@
 // ESTRUTURAS DE REPETIÇÃO
 // -> EXERCÍCIO <-
 
-package introducao;
+package introducao.EstruturasDeRepeticao;
 
 public class Aula_015___estruturasDeRepeticao_II
 {
