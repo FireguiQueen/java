@@ -1,4 +1,4 @@
-package javacore.A_orientacaoAObjetos.IntroducaoMetodos;
+package javacore.A_orientacaoAObjetos.Metodos;
 
 public class Main
 {

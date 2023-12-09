@@ -27,7 +27,7 @@
     E claro, eles possuem muitas utilidades, uma delas é deixar um código claro e sem repetições.
 */
 
-package javacore.A_orientacaoAObjetos.IntroducaoMetodos;
+package javacore.A_orientacaoAObjetos.Metodos;
 
 // --> classe de domínio:
 public class Aviao

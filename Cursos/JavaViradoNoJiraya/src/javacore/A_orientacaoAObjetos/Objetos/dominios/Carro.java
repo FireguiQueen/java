@@ -1,4 +1,4 @@
-package javacore.A_orientacaoAObjetos.IntroducaoObjetos.dominios;
+package javacore.A_orientacaoAObjetos.Objetos.dominios;
 
 public class Carro
 {
