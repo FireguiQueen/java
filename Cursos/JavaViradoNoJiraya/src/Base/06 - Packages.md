@@ -130,8 +130,8 @@ o que é fundamental para novos integrantes entenderem e colaborarem eficienteme
 ______________________
 
 # `package`
-O `package` é uma palavra reservada que __deve__ ser a primeira instrução do nosso programa. E ela quem diz onde a nossa 
-classe está localizada para a JVM. 
+O `package` é uma palavra reservada que __deve__ ser a primeira instrução do nosso programa. E ela quem diz em que pacote nossa 
+classe está localizada. 
 ```java
     // Define onde a nossa classe está localizada. Ela está no diretório "javaViradoNoJiraya". 
     package javaViradoNoJiraya; 
