@@ -29,7 +29,7 @@ Alguns cursos foram indicados por amigos, enquanto outros eu busquei em lugares 
 ## 🎓 Formação geral 
 
 ### Introdução à java
-Curso | Professor/entidade | Duração
+Curso &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp | Professor/entidade | Duração
 :-- | :--: |:--: | 
 [Programar em Java](https://www.youtube.com/playlist?list=PLa75BYTPDNKZLzk3xG-gSXSU_AAq5RP4g) | Italo Grossi, <br>deAlunoParaAluno | 07h 40min
 
