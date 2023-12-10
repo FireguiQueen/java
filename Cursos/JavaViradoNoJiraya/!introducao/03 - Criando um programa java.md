@@ -13,7 +13,9 @@
         }
     }
 ```
-> Não se preocupe em entender o código por agora. Apenas saiba que `public class primeiroPrograma` é a nossa classe, é o nosso programa em si. O `public static void main(..)` é o método principal do nosso programa, isto é, todas as nossas instruções devem ser contidas nele por agora. Este é o método principal, e ele que da o ponto de partida para o nosso programa. A linha que contém o `println("Olá..")` é a linha responsável por printar (imprimir) uma mensagem em nosso terminal.
+> Não se preocupe em entender o código por agora. Apenas saiba que `public class primeiroPrograma` é a nossa classe, é o nosso programa em si. <br>
+> O `public static void main(..)` é o método principal do nosso programa, isto é, todas as nossas instruções devem ser contidas nele por agora. Este é o método principal, e ele que da o ponto de partida para o nosso programa. <br>
+> A linha que contém o `println("Olá..")` é a linha responsável por printar (imprimir) uma mensagem em nosso terminal.
 
 <br>
 
