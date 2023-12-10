@@ -1,5 +1,7 @@
 # Introdução ao Java
 
+<br>
+
 ## Sistemas operacionais
 Um sistema operacional, seja ele o Windows 11, Windows 10, macOS, Ubuntu, etc., é apenas um software. Podemos afirmar que ele é o principal programa do nosso computador.
 
