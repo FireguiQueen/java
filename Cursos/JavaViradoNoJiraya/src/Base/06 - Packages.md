@@ -1,5 +1,3 @@
-> A partir daqui, as próximas aulas ficaram contidas no diretório `src`. 
-
 # Packages (pacotes)
 Uma classe em Java é um arquivo que guarda instruções sobre como realizar/construir algo. 
 No Java, existem classes que já vêm prontas, nos ajudando a adicionar novos recursos sem precisar criar tudo do zero. Essas milhares de classes ficam contidas em diversos __pacotes__. 
