@@ -12,8 +12,9 @@ public class Main
         boeing747.abrirPortas();
         boeing747.fecharPortas();
 
-        // O nosso método "quantidadePoltronas" faz um retorno.
-        // E por isso, este método ser colocado em algum lugar quando for chamado.
+
+        // O método "quantidadePoltronas" faz um retorno.
+        // E por isso, este método deve ser colocado em uma variável, para armazenar este retorno.
         int poltronas = boeing747.quantidadePoltronas(); // retorna o número inteiro 410 para a variável 'poltronas'.
         System.out.println(poltronas);
 
@@ -24,11 +25,14 @@ public class Main
         /* ** ** ***** **** ***** ** ** ***** **** ***** ***** *** ** * ************ ***** *** ** * ************ */
 
 
-        // Aqui estamos chamando um método que possui parâmetros, sendo assim, ela precisa receber argumentos.
-        // Os parâmetros são variáveis locais do método, os argumentos são os valores que aquelas variáveis irão receber.
-        // O 'true' abaixo é um argumento, e ele será salvo na variável portasFechadas do método abaixo.
+        /*
+            Aqui estamos chamando um método que possui parâmetros, sendo assim, ela precisa receber
+            argumentos quando for invocado.
+
+            Os parâmetros são variáveis locais do método, os argumentos são os valores que aquelas variáveis
+            irão receber quando o método for executado.
+        */
+        // O 'true' abaixo é um argumento, e ele será salvo na variável 'portasEstaoFechadas' do método abaixo.
         boeing747.ativarMotor(true);
-
-
     }
 }
