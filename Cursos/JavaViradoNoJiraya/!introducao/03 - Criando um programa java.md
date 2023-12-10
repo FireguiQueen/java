@@ -15,8 +15,7 @@
 
 <br>
 
-3. Após escrever o programa, compile-o
-> (será gerado um arquivo `.class`)
+3. Após escrever o programa, compile-o (será gerado um arquivo `.class`)
 
 5. Pegue este arquivo `.class` e mande ele ser lido pela JVM através do comando `java`
 ```text
