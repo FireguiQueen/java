@@ -11,6 +11,5 @@ A verdadeira fortaleza das IDEs reside em suas extensões. Estas são complement
 
 ### IDEs Java
 Para se desenvolver em java, as IDEs mais recomendas são: 
-
-+[eclipse](https://www.eclipse.org/) 
-+[IntelliJ](https://www.jetbrains.com/idea/). 
++ <a href="https://www.eclipse.org/">Eclipse</a> 
++ <a href="https://www.jetbrains.com/idea/">InteliiJ<a> 
