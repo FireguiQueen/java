@@ -1,4 +1,4 @@
-# Criando um programa em java
+# Criando, compilando e executando um programa feito em java
 
 1. Crie um arquivo com a extensão `.java`
 2. O nome deste arquivo deve ser o mesmo nome da __classe__
