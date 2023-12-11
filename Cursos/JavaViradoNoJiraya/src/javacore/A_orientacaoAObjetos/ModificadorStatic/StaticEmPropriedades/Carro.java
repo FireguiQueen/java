@@ -1,4 +1,4 @@
-// ATRIBUTOS STATIC
+// ATRIBUTOS ESTÁTICOS (static)
 /*
     Quando uma variável é declarada como "static", ela se torna associada à classe em vez de pertencer
     a instâncias individuais da classe (objetos).
