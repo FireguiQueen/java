@@ -1,21 +1,25 @@
 // MODIFICADORES DE ACESSO EM MÉTODOS
 /*
-    Quando definimos um método como "private", significa que apenas as instruções dentro da
-    própria classe terão acesso a este método.
+    A utilização do modificador de acesso "private" ao definir um método implica que somente o próprio
+    objeto ao qual o método pertence terá permissão para chamá-lo. Isso significa que outras partes do
+    programa não terão acesso direto a esse método.
+
+    Resumidamente, um método private só pode acessado pelo seu próprio objeto.
+    Outras classes não terão acesso a este método diretamente.
 */
 
 package javacore.A_orientacaoAObjetos.ModificadoresDeAcesso.ModificadoresDeAcessoEmMetodos;
 
 public class Funcionario
 {
-    // Método público. Quando um objeto for criado a partir desta classe, podemos acessar este método.
-    // Exemplo: funcionario.mensagemBoasVindas();     <--- é possível.
+    // MÉTODO PÚBLICO. Quando um objeto for criado a partir desta classe, podemos acessar este método.
+    // Exemplo: funcionario.mensagemBoasVindas();   <--- é possível.
     public void mensagemBoasVindas()
     {
         System.out.println("Olá, seja muito bem-vindo!");
     }
 
-    // Método privado. Apenas instruções dentro desta classe têm acesso a este método.
+    // MÉTODO PRIVADO. Apenas instruções dentro desta classe têm acesso a este método.
     // Exemplo: funcionario.historiaEmpresa();     <--- não é possível.
     private void historiaEmpresa()
     {
