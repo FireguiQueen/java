@@ -1,18 +1,26 @@
-// MODIFICADORES DE ACESSO: PRIVATE EM VARIÁVEIS (propriedades/atributos)
+// MODIFICADORES DE ACESSO EM VARIÁVEIS (propriedades/atributos)
 /*
-    Talvez você se pergunte:
-        Quando criarmos um objeto a apartir desta classe, como vamos definir e retornar os valores dessas propriedades?
-        Afinal, elas estão privadas, ou seja, nenhuma outra classe terá acesso a elas.
+    É bastante comum designarmos nossas variáveis de instância (propriedades associadas a uma classe
+    de domínio) com o modificador "private".
 
-    Bem isto é verdade, nenhuma classe terá acesso as variáveis privadas dos objetos.
-    E para isso, iremos definir métodos públicos.
-    Eles são: get e set.
+    A utilização do "private" confere a essas variáveis um caráter privado, restringindo o acesso
+    exclusivamente ao objeto que as contém.
 
-    O método 'set' tem o objetivo de definir um valor para a propriedade do objeto.
+    Você pode se questionar:
+     Ao criar um objeto a partir desta classe que contém atributos privados, como podemos definir e ler os
+     valores desses atributos? Afinal, eles são privadas, o que significa que nenhuma outra classe terá
+     permissão para acessar diretamente essas variáveis.
+
+    É verdade que, por padrão, essas variáveis são inacessíveis de fora do objeto.
+    No entanto, para possibilitar a manipulação dessas propriedades, definimos métodos públicos,
+    geralmente métodos 'get' e 'set', que permitem a leitura e modificação controlada dessas
+    variáveis privadas.
+
+    - O método 'set' tem o objetivo de definir um valor para o atributo do objeto.
     Para isso, criaremos um parâmetro para ele, e quando o objeto for invocado em outra classe juntamente a este
     metodo, ele irá passar como argumento o valor que deseja atribruir a propriedade.
 
-    O método 'get' tem apenas o objetivo de pegar um valor de uma propriedade e retornar ele.
+    - O método 'get' tem apenas o objetivo de pegar um valor de uma propriedade e retornar ele.
 
     // /// / // /// / // /// / // /// / // /// / // /// / // /// / // /// / // /// / // /// /
 
@@ -25,6 +33,7 @@ package javacore.A_orientacaoAObjetos.ModificadoresDeAcesso.ModificadoresDeAcess
 
 public class Aviao
 {
+    // atributos privados da classe:
     private String modelo;
     private int ano;
 
@@ -41,20 +50,16 @@ public class Aviao
     }
 
 
-
     
-    // método para pegar o valro da propriedade "modelo".
+    // método para pegar o valor da propriedade "modelo".
     public String getModelo()
     {
         return this.modelo;
     }
 
-    // método para pegar o valro da propriedade "modelo".
+    // método para pegar o valor da propriedade "ano".
     public int getAno()
     {
         return this.ano;
     }
-
-
-
 }
