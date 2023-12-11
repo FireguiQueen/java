@@ -4,14 +4,16 @@
     um dos modificadores de acesso: o "public".
 
     Quando definimos uma classe pública, estamos dizendo que outras classes do nosso programa
-    podem fazer uso dela, ou seja, criar objetos.
+    podem fazer uso dela.
 
     /// /// /// ////// ////// ////// ////// ////// ////// ////// ////// ////// ///
 
-    A classe 'Estudante' é uma classe-de-domínio, isto é, ela é uma classe que será utilizada para instanciar
-    objetos que representarão estudantes.
-    Para isso, ela precisa ser pública, pois se ela fosse "private" (privada) não teríamos acesso a ela em outras
-    classes, consequentemencia, seria impossível criar objetos atraves desta classe.
+
+    A classe 'Estudante' é uma classe de domínio, isto é, ela é uma classe que será utilizada para instanciar
+    objetos que representarão estudantes. Para isso, ela precisa ser pública, pois se ela fosse "private"
+    (privada) não teríamos acesso a ela em outras classes, consequentemencia, seria impossível criar
+    objetos atraves desta classe.
+
 
     /// /// /// ////// ////// ////// ////// ////// ////// ////// ////// ////// ///
 
@@ -23,6 +25,7 @@
 
 package javacore.A_orientacaoAObjetos.ModificadoresDeAcesso.ModificadoresDeAcessoEmClasses;
 
+// CLASSE PÚBLICA.
 public class Estudante
 {
     // ...
