@@ -1,23 +1,23 @@
-// MODIFICADORES DE ACESSO:
+// MODIFICADORES DE ACESSO EM CLASSES
 /*
-    Podemos ver que sempre quando definimos uma classe, um método, ou até mesmo uma variável, nós utilizamos
-    um dos modificadores de acesso: o "public".
+    Podemos observar que, ao definirmos uma classe, utilizamos a palavra-chave 'public'.
+    O 'public' é um modificador de acesso que, quando aplicado a uma classe, determina a visibilidade dela
+    para outras classes.
 
-    Quando definimos uma classe pública, estamos dizendo que outras classes do nosso programa
-    podem fazer uso dela.
-
-    /// /// /// ////// ////// ////// ////// ////// ////// ////// ////// ////// ///
-
-
-    A classe 'Estudante' é uma classe de domínio, isto é, ela é uma classe que será utilizada para instanciar
-    objetos que representarão estudantes. Para isso, ela precisa ser pública, pois se ela fosse "private"
-    (privada) não teríamos acesso a ela em outras classes, consequentemencia, seria impossível criar
-    objetos atraves desta classe.
-
+    Ao declararmos uma classe como pública, estamos indicando que outras classes dentro do nosso programa
+    têm permissão para utilizá-la.
 
     /// /// /// ////// ////// ////// ////// ////// ////// ////// ////// ////// ///
 
-    Quando você for utilizar esta classe na sua classe 'Main', você dará a seguinte instrução:
+    A classe 'Estudante' é uma classe de domínio, ou seja, ela é projetada para instanciar (criar) objetos que
+    representam estudantes. Para cumprir essa função, é necessário que ela seja pública.
+    Se fosse declarada como "private" (privada), não teríamos acesso a ela em outras classes, tornando impossível
+    a criação de objetos por meio desta classe.
+
+    /// /// /// ////// ////// ////// ////// ////// ////// ////// ////// ////// ///
+
+    Quando você for utilizar a classe "Estudante" na sua classe 'Main' para criar um objeto,
+    você dará a seguinte instrução:
     > Estudante aluno001 = new Estudante();
 
     E fazer isto só é possível pois nossa classe está pública.
@@ -28,5 +28,6 @@ package javacore.A_orientacaoAObjetos.ModificadoresDeAcesso.ModificadoresDeAcess
 // CLASSE PÚBLICA.
 public class Estudante
 {
-    // ...
+    public String nome;
+    public int idade;
 }
