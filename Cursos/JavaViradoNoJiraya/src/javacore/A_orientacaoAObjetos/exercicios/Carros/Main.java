@@ -1,5 +1,5 @@
 package javacore.A_orientacaoAObjetos.exercicios.Carros;
-import javacore.A_orientacaoAObjetos.exercicios.Carros.dominios.Car;
+import javacore.A_orientacaoAObjetos.exercicios.Carros.Domain.Car;
 
 public class Main
 {

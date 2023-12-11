@@ -1,4 +1,4 @@
-package javacore.A_orientacaoAObjetos.exercicios.Funcionarios.dominions;
+package javacore.A_orientacaoAObjetos.exercicios.Funcionarios.Domain;
 
 public class EmpresaRelatorio
 {
