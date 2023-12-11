@@ -8,13 +8,18 @@ public class Main
         // Podemos fazer isto porque a classe "Funcionario" está pública.
         Funcionario funcionario001 = new Funcionario();
 
-        // Nós estamos na classe "Main" e estamos acessando um método de outra classe.
+        // Nós estamos na classe "Main". Estamos acessando um método de um objeto.
         // >> Só podemos acessar este método porque ele é PÚBLICO (PUBLIC).
         funcionario001.mensagemBoasVindas();
 
-        // O método "historiaEmpresa" é privado, ou seja, apenas instruções do objeto herdado poderão acessá-lo.
-        // Fazer isto retornará erro:
-        // >    funcionario001.historiaEmpresa();
+
+        /*
+            O método "historiaEmpresa" é privado, ou seja, apenas instruções dentro do objeto herdado poderão
+            acessá-lo.
+
+            // Fazer isto retornará erro:
+        */
+        // >   funcionario001.historiaEmpresa();
 
 
         /*
