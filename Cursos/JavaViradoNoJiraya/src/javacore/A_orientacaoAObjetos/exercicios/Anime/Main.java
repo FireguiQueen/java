@@ -14,5 +14,6 @@ public class Main
         );
 
         anime001.getAllInformation();
+
     }
 }
