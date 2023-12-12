@@ -5,6 +5,7 @@ public class Main
 {
     public static void main(String[] args)
     {
+
         Anime anime001 = new Anime
         (
         "Steins;gate", "Ação/drama", "5pb",
