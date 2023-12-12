@@ -1,4 +1,8 @@
 package javacore.tests;
 
-public class Domain {
+public class Domain
+{
+    {
+        System.out.println("oi");
+    }
 }
