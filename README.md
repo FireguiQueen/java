@@ -1,7 +1,3 @@
-<!--<h1 align="center"> Java </h1> 
-<p align="center"> 
-  Bem vindo ao meu repositório sobre Java. Aqui você encontrará cursos, explicações e alguns exercícios.
-</p> --> 
 <img width="900" height="500" src="https://github.com/FireguiQueen/Java/assets/98475125/58645afa-b40e-46f3-a1b9-ae12b31dbf5b"/> 
 
 # Introdução :wave:
@@ -55,7 +51,6 @@ Youtube | [devDojo, <br> __Brejas e Bugs__](https://www.youtube.com/playlist?lis
 Youtube | [Curso de tecnologia, <br> __POR QUE APRENDER__](https://www.youtube.com/playlist?list=PLYYr-pCjVCeDkS-LDMB_pF0u9q99ESFvs) | Dicas de mercado; opiniões e experiências pessoais.
 Youtube | [Robert Silva, <br> __Carreira de TI__](https://www.youtube.com/playlist?list=PLg7nVxv7fa6fosHM9R3RlgCPt7aure5EE) | ..
 Youtube | [Elder Moraes, <br> __Java Champions Brasucas__](https://www.youtube.com/playlist?list=PL-zC883FSfIogsdBgl-ReV-FssfRH1otg) | Podcast com Java Champions brasileiros, explorando suas histórias e experiências como desenvolvedores.
-
 
 </br>
 
