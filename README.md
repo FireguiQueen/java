@@ -1,6 +1,7 @@
 <img width="900" height="500" src="https://github.com/FireguiQueen/Java/assets/98475125/58645afa-b40e-46f3-a1b9-ae12b31dbf5b"/> 
 
-
+<p>The <abbr title="Hyper Text Markup Language">HTML</abbr> specification
+is maintained by the <abbr title="World Wide Web Consortium">W3C</abbr>.</p>
 
 # Introdução :wave:
 Bem-vindo ao meu repositório __Java__! Aqui, compartilho cursos, explicações e exercícios que desenvolvi ao longo do meu estudo desta incrível linguagem. Sinta-se à vontade para explorar e utilizar este repositório como uma fonte gratuita de conhecimento. <br>
