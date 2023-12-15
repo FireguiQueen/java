@@ -44,7 +44,7 @@ Curso &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs
 Curso &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Professor/entidade | Duração
 :-- | :--: |:--: | 
 [Spring Boot Essentials](https://www.youtube.com/playlist?list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H) | William Suane, <br>devDojo | 47h 20min
-[:warning: <abbr title="oi"> Maratona JSF<abbr>](https://www.youtube.com/playlist?list=PL62G310vn6nHSNpACkELWiPlM8J8z8t5J)           | William Suane, <br>devDojo | 15h 42min
+[:warning: <abbr title="oi"> Maratona JSF</abbr>](https://www.youtube.com/playlist?list=PL62G310vn6nHSNpACkELWiPlM8J8z8t5J)           | William Suane, <br>devDojo | 15h 42min
 
 <br>
 
