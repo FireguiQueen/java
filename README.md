@@ -3,8 +3,6 @@
 
 
 # Introdução :wave:
-[tttt]: voticomer
-
 Bem-vindo ao meu repositório __Java__! Aqui, compartilho cursos, explicações e exercícios que desenvolvi ao longo do meu estudo desta incrível linguagem. Sinta-se à vontade para explorar e utilizar este repositório como uma fonte gratuita de conhecimento. <br>
 <q>A jornada de aprendizado é mais rica quando compartilhada.</q> Aproveite! =)
 
@@ -49,7 +47,7 @@ Curso &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs
 :-- | :--: |:--: | 
 [Spring Boot Essentials](https://www.youtube.com/playlist?list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H) | William Suane, <br>devDojo | 47h 20min
 [:warning: <abbr title="oi"> Maratona JSF</abbr>](https://www.youtube.com/playlist?list=PL62G310vn6nHSNpACkELWiPlM8J8z8t5J)           | William Suane, <br>devDojo | 15h 42min
-
+<abbr title="oi"> Maratona JSF</abbr>
 <br>
 
 ### Conteúdos adicionais 
