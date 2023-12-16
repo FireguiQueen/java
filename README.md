@@ -1,7 +1,3 @@
-<!--<h1 align="center"> Java </h1> 
-<p align="center"> 
-  Bem vindo ao meu repositório sobre Java. Aqui você encontrará cursos, explicações e alguns exercícios.
-</p> --> 
 <img width="900" height="500" src="https://github.com/FireguiQueen/Java/assets/98475125/58645afa-b40e-46f3-a1b9-ae12b31dbf5b"/> 
 
 # Introdução :wave:
@@ -23,6 +19,10 @@ Alguns cursos foram indicados por amigos, enquanto outros eu busquei em lugares 
 
   
 + __Conteúdos adicionais:__ _Neste tópico, você encontrará playlists e vídeos relacionados a diversos temas do mundo da programação. Os materiais contidos aqui nem sempre abordarão tópicos técnicos._
+  
+#### Requisitos
+Não há nenhum requisito caso você queira começar em "introdução ao Java", mas é altamente recomendado entender como um computador funciona. 
+Aprender isso te ajudará a compreender muitos conceitos ao longo de sua jornada em Java (ou em qualquer outra tecnologia).
 
 <br>
 
@@ -43,8 +43,9 @@ Curso &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs
 ### Especialização 🌟
 Curso &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Professor/entidade | Duração
 :-- | :--: |:--: | 
-[Spring Boot Essentials](https://www.youtube.com/playlist?list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H) | William Suane, <br>devDojo | 47h 20min
-[Maratona JSF](https://www.youtube.com/playlist?list=PL62G310vn6nHSNpACkELWiPlM8J8z8t5J)           | William Suane, <br>devDojo | 15h 42min
+[Spring Boot Essentials](https://www.youtube.com/playlist?list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H)  | William Suane, <br>devDojo | 47h 20min
+[:warning: Maratona JSF](https://www.youtube.com/playlist?list=PL62G310vn6nHSNpACkELWiPlM8J8z8t5J)  | William Suane, <br>devDojo | 15h 42min
+
 
 <br>
 
@@ -55,7 +56,6 @@ Youtube | [devDojo, <br> __Brejas e Bugs__](https://www.youtube.com/playlist?lis
 Youtube | [Curso de tecnologia, <br> __POR QUE APRENDER__](https://www.youtube.com/playlist?list=PLYYr-pCjVCeDkS-LDMB_pF0u9q99ESFvs) | Dicas de mercado; opiniões e experiências pessoais.
 Youtube | [Robert Silva, <br> __Carreira de TI__](https://www.youtube.com/playlist?list=PLg7nVxv7fa6fosHM9R3RlgCPt7aure5EE) | ..
 Youtube | [Elder Moraes, <br> __Java Champions Brasucas__](https://www.youtube.com/playlist?list=PL-zC883FSfIogsdBgl-ReV-FssfRH1otg) | Podcast com Java Champions brasileiros, explorando suas histórias e experiências como desenvolvedores.
-
 
 </br>
 
