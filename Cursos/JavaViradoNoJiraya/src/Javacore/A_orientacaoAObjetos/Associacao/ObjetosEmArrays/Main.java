@@ -12,7 +12,9 @@ public class Main
 
         // Ambas as variáveis: p1 e p2 salvam as referências dos objetos criados, logo,
         // este array nada mais é do que uma lista de referências para objetos da classe "Personagem".
-        Personagem[] personagens = new Personagem[]{p1, p2};
+        Personagem[] personagens = new Personagem[2];
+        personagens[0] = p1;
+        personagens[1] = p2;
 
         for (int i = 0; i < personagens.length; i++)
         {
