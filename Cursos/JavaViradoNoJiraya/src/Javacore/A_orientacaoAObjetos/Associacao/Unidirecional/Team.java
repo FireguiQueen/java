@@ -1,7 +1,7 @@
 // Classes-de-domínio do TIME.
 /*
-    Esta classe é responsável por criar objetos que irão representar um time de futebol.
-    Este classe não possui nenhuma ligação com a classe "Player" (cuja representa um jogador de futebol)
+    Esta classe é responsável por criar objetos que irão representar times de futebol.
+    Este classe não possui nenhuma ligação com a classe "Player" (cuja representa um jogador de futebol).
 */
 package Javacore.A_orientacaoAObjetos.Associacao.Unidirecional;
 
