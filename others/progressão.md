@@ -50,9 +50,11 @@ ______________
 31/11/2023        | Reassistido Aula 54
 04/12/2023        | Ajuste no readme do <br>repositório de java
 05/12/2023        | Aula 57 até Aula 59
-08/12/2023        | Aula 59 até aula 62
+08/12/2023        | Aula 59 até Aula 62
 09/12/2023        | Editando o repositório
 11/12/2023        | Aula 62 até Aula 63
+15/12/2023        | Aula 64
+19/12/2023        | Aula 65 até Aula 
 
 
 
