@@ -7,7 +7,7 @@ Um sistema operacional, seja ele o Windows 11, Windows 10, macOS, Ubuntu, etc., 
 
 O sistema operacional é responsável por realizar diversas tarefas, incluindo:
 - Estabelecer comunicação entre os softwares de nossas máquinas e os hardwares conectados a ela.
-- Gerenciar recursos para nossos softwares (ex: quanto de RAM determinado porgrma pode utilizar)
+- Gerenciar recursos para nossos softwares (ex: quanto de RAM determinado programa pode utilizar)
 - Estabelecer limites de acesso, segurança e etc.
 
 Cada sistema operacional é desenvolvido de maneira específica, e cada um possui sua própria forma de compreender e executar ações. Isso é crucial para a computação, pois possibilita o desenvolvimento de sistemas adaptados a necessidades particulares.
