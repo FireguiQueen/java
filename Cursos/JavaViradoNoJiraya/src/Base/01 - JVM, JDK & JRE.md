@@ -22,13 +22,12 @@ que buscam atender a diversos públicos, incluindo gamers, programadores e usuá
 <br>
 
 ## Máquinas virtuais 
-O propósito de uma máquina virtual é ser justamente uma máquina virtual que é executada em nossa máquina real. 
-Sua máquina pode estar utilizando o Windows 11, mas com um software de virtualização, você pode 
+Por mais óbvio que seja ler isso, o propósito de uma máquina virtual é ser justamente uma máquina virtual que é executada em nossa máquina real. Sua máquina pode estar utilizando o Windows 11, mas com um software de virtualização, você pode 
 emular uma máquina dentro da sua própria máquina, daí o termo "máquina virtual".
 
-Uma máquina virtual têm várias utilidades. Uma delas é permitir que usuários de um sistema operacinal específico execute 
-softwares desenvolvidos para rodar em outro sistema operacional. Por exemplo, se você estiver utilizando o Linux, 
-mas precisar executar um programa que só funciona em sistemas Windows, pode resolver esse problema instalando uma máquina virtual. 
+Uma máquina virtual apresenta diversas utilidades. Uma delas é permitir que usuários de um sistema operacional específico executem softwares desenvolvidos para outro sistema operacional. Por exemplo, se você estiver utilizando o Linux, mas precisar rodar um programa exclusivo para sistemas Windows, pode resolver esse impasse instalando uma máquina virtual.
+
+Além disso, as máquinas virtuais são valiosas para testar programas maliciosos. Todo o potencial dano causado por tais programas ocorre na máquina virtual, protegendo assim o sistema principal.
 
 <br>
 
