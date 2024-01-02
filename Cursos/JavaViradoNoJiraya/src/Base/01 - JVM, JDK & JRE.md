@@ -52,7 +52,7 @@ Para que o programa acima seja executado em nossa máquina, é necessário passa
 <br>
 
 ## Java Virtual Machine (JVM)
-Após compreender alguns "pilares" da computação, podemos finalmente entender a JVM.
+Após compreender alguns "pilares" da computação, podemos finalmente entender a JVM (ou pelo menos __começar__ a entender).
 
 Normalmente, os softwares são desenvolvidos para serem executados em sistemas Windows, dado o amplo uso desse sistema operacional. No entanto, isso pode se tornar um obstáculo para usuários de MacOS ou Linux que desejam utilizar esses programas. Para adaptar um software aos diferentes sistemas operacionais, o código-fonte precisa ser modificado, e frequentemente os desenvolvedores precisam 'recriar' o software para garantir sua funcionalidade em, por exemplo, um Ubuntu (sistema operacional Linux).
 
