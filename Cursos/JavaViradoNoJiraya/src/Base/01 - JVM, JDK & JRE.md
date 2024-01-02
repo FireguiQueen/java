@@ -32,12 +32,12 @@ Além disso, as máquinas virtuais são valiosas para testar programas malicioso
 <br>
 
 ## Linguagem compilada
-As linguagens compiladas são aquelas em que o código fonte é compilado antes da execução, gerando um arquivo executável diretamente utilizado pelo sistema operacional.
+As linguagens compiladas são aquelas em que o código-fonte é compilado antes da execução, gerando um arquivo executável diretamente utilizado pelo sistema operacional.
 
-Nesse contexto, uma linguagem compilada implica que o programa escrito precisa ser compilado. Após a criação do código fonte, este passa por um processo de compilação, uma vez que o código contido não pode ser lido diretamente pela máquina, que compreende apenas a linguagem binária de zeros e uns. Assim, o código é transformado em um formato compreensível pelas máquinas.
+Uma linguagem compilada implica que o programa escrito nela precisa passar por um processo de compilação. Após a criação do código-fonte, este é submetido a um processo de compilação, uma vez que o código contido não pode ser lido diretamente pela máquina, que compreende apenas a linguagem binária de zeros e uns. Dessa forma, o código-fonte é transformado em um formato compreensível pelas máquinas.
 
 #### Exemplo
-> A linguagem C é uma linguagem compilada. O código que escrevemos nela é incompreensível para o computador.
+> A linguagem C é uma linguagem compilada. O código que escrevemos nela é incompreensível para o nosso computador.
 ```c
     #include <stdio.h>
     
@@ -47,9 +47,7 @@ Nesse contexto, uma linguagem compilada implica que o programa escrito precisa s
     }
 ```
 
-Para que o programa acima seja executado pela nossa máquina, ele precisa passar pelo processo de compilação 
-(que engloba diversas outras ações). Após essa etapa, teremos um arquivo que conterá a representação do programa 
-em formato binário, composta por zeros e uns.
+Para que o programa acima seja executado em nossa máquina, é necessário passar pelo processo de compilação (que abrange diversas outras ações). E após essa etapa, teremos um arquivo contendo a representação do programa em formato binário (composto por zeros e uns). Somente então, nosso computador será capaz de ler e executar o nosso programa.
 
 <br>
 
