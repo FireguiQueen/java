@@ -14,7 +14,7 @@ Cada sistema operacional é desenvolvido de maneira específica, e cada um possu
 
 Indivíduos com computadores mais antigos podem optar pelo Lubuntu, um sistema operacional projetado para proporcionar desempenho eficiente em máquinas com recursos limitados.
 Pessoas que estudam ou trabalham com cibersegurança podem usar um sistema operacional chamado "Kali Linux", que é
-voltado para atender a essas necessidades, pois ṕossui diversas ferramentas específicas para hacking. 
+voltado para atender a essas necessidades, pois ele possui diversas ferramentas específicas para hacking. 
 
 Podemos concluir que cada sistema tem um nicho específico, embora existam também sistemas, como o Windows e o Ubuntu, 
 que buscam atender a diversos públicos, incluindo gamers, programadores e usuários comuns.
