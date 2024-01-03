@@ -54,11 +54,13 @@ Para que o programa acima seja executado em nossa máquina, é necessário passa
 ## Java Virtual Machine (JVM)
 Após compreender alguns "pilares" da computação, podemos finalmente entender a JVM (ou pelo menos __começar__ a entender).
 
-Normalmente, os softwares são desenvolvidos para serem executados em sistemas Windows, dado o amplo uso desse sistema operacional. No entanto, isso pode se tornar um obstáculo para usuários de MacOS ou Linux que desejam utilizar esses programas. Para adaptar um software aos diferentes sistemas operacionais, o código-fonte precisa ser modificado, e frequentemente os desenvolvedores precisam 'recriar' o software para garantir sua funcionalidade em, por exemplo, um Ubuntu (sistema operacional Linux).
+Normalmente, os softwares são desenvolvidos para serem executados em sistemas Windows, dado o amplo uso desse sistema operacional. E isso pode se tornar um obstáculo para usuários de MacOS ou Linux que desejam utilizar esses programas, afinal, eles foram feitos para rodar em Windows. 
 
-O Java surge como uma solução para esse desafio por meio da JVM (Java Virtual Machine). Os programas desenvolvidos em Java não são destinados a serem executados diretamente em nossas máquinas, mas sim pela JVM, uma máquina virtual que opera dentro da nossa máquina real. Seu único papel é compreender e executar programas feitos em Java.
+Para adaptar um software aos diferentes sistemas operacionais, o código-fonte precisa ser modificado, e frequentemente os desenvolvedores precisam 'recriar' o software para garantir sua funcionalidade em outros sistemas operacionais. 
 
-Quando criamos um programa em Java, ele precisa passar por um processo de compilação. Ou seja, o Java é sim uma linguagem compilada (mas de uma maneira um pouco diferente do comum). Após a compilação, é criado um arquivo .class, onde o código deste arquivo foi feito para ser lido pela máquina virtual do Java (JVM). Por isso, dizemos que o Java é uma linguagem compilada e interpretada ao mesmo tempo.
+O Java surge como uma solução para este problema por meio da JVM (Java Virtual Machine). Os programas desenvolvidos em Java não são destinados a serem executados diretamente em nossas máquinas, mas sim pela JVM, uma máquina virtual do java, que opera dentro da nossa máquina real. Seu único papel é compreender e executar programas feitos em Java.
+
+Quando criamos um programa em Java, ele precisa passar por um processo de compilação. Ou seja, o Java é sim uma linguagem compilada (mas de uma maneira um pouco diferente do comum). Após a compilação, é criado um arquivo `.class`, e o código deste arquivo foi feito para ser lido pela máquina virtual do Java (JVM). Por isso, dizemos que o Java é uma linguagem _compilada e interpretada_ ao mesmo tempo.
 
 1. Escrevemos nosso programa usando a linguagem Java;
 2. Compilamos este programa com o javac (Java compiler);
