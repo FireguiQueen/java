@@ -77,11 +77,9 @@ plataformas sem a necessidade de grandes modificações, desde que haja uma Máq
 <br>
 
 # JDK e JRE
-Para os desenvolvedores, utilizamos o JDK (Java Development Kit), que nada mais é do que um kit de desenvolvimento para
-programadores Java. Este kit contém a JVM (para entender arquivos .class) e também o javac, que é o compilador responsável por pegar nosso programa 
-.java e transformá-lo em um .class. Além disso, inclui outras ferramentas, como depuradores, usados para depurar (corrigir falhas e bugs) em nosso código.
+O JDK (Java Development Kit) nada mais é do que um kit de desenvolvimento para programadores Java. Este kit contém a JVM e também o javac, que é o compilador responsável por pegar nosso programa `.java` e transformá-lo em um `.class`. Além disso, inclui outras ferramentas, como depuradores por exemplo.
 
 O JRE (Java Runtime Environment) é focado para aqueles usuários comuns que desejam apenas executar programas feitos em Java.
-Por exemplo, esse tipo de usuário não precisa instalar um compilador e um depurador, afinal, ele não vai desenvolver nada, 
+Esse tipo de usuário não precisa instalar um compilador e um depurador, afinal, ele não vai desenvolver nada, 
 apenas executar e interagir com os programas. 
 
