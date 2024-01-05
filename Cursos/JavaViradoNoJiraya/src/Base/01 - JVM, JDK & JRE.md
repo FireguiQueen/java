@@ -3,26 +3,24 @@
 <br>
 
 ## Sistemas operacionais
-Um sistema operacional, seja ele o Windows 11, Windows 10, macOS, Ubuntu, etc., é apenas um software. Podemos afirmar que ele é o principal programa do nosso computador.
+Um sistema operacional, seja ele o Windows 10, macOS, Ubuntu, etc., é o principal software do nosso computador.
 
-O sistema operacional é responsável por realizar diversas tarefas, incluindo:
+O sistema operacional é responsável por realizar diversas tarefas, algumas delas são:
 - Estabelecer comunicação entre os softwares de nossas máquinas e os hardwares conectados a ela.
 - Gerenciar recursos para nossos softwares (ex: quanto de RAM determinado programa pode utilizar)
 - Estabelecer limites de acesso, segurança e etc.
 
-Cada sistema operacional é desenvolvido de maneira específica, e cada um possui sua própria forma de compreender e executar ações. E isso é crucial para a computação em geral, pois possibilita o desenvolvimento de sistemas adaptados a necessidades particulares.
+Cada sistema operacional é desenvolvido de maneira diferente, e cada um possui sua própria forma de compreender e executar ações. E isso é crucial para a computação em geral, pois possibilita o desenvolvimento de sistemas adaptados a necessidades particulares.
 
-Indivíduos com computadores mais antigos podem optar pelo Lubuntu, um sistema operacional projetado para proporcionar desempenho eficiente em máquinas com recursos limitados.
-Pessoas que estudam ou trabalham com cibersegurança podem usar um sistema operacional chamado "Kali Linux", que é
-voltado para atender a essas necessidades, pois ele possui diversas ferramentas específicas para hacking. 
+Indivíduos com computadores mais antigos podem optar pelo "Lubuntu", um sistema operacional projetado para proporcionar desempenho eficiente em máquinas com recursos limitados. Pessoas que estudam ou trabalham com cibersegurança podem usar um sistema operacional chamado "Kali Linux", que é voltado para atender a essas necessidades, pois ele possui inúmeras ferramentas específicas para o hacking. A própria Tesla possui um sistema operacinal, e ele é projetado para controlar todas as funções do veículo, desde a navegação até os sensores de segurança.
 
-Podemos concluir que cada sistema tem um nicho específico, embora existam também sistemas, como o Windows e o Ubuntu, 
+Podemos concluir que cada sistema tem um nicho específico, embora existam também diversos sistemas, como o Windows e o Ubuntu, 
 que buscam atender a diversos públicos, incluindo gamers, programadores e usuários comuns.
 
 <br>
 
 ## Máquinas virtuais 
-Por mais óbvio que seja ler isso, o propósito de uma máquina virtual é ser justamente uma máquina virtual que é executada em nossa máquina real. Sua máquina pode estar utilizando o Windows 11, mas com um software de virtualização, você pode 
+O propósito de uma máquina virtual é ser justamente uma máquina virtual que é executada em nossa máquina real. Sua máquina pode estar utilizando o Windows 11, mas com um software de virtualização, você pode 
 emular uma máquina dentro da sua própria máquina, daí o termo "máquina virtual".
 
 Uma máquina virtual apresenta diversas utilidades. Uma delas é permitir que usuários de um sistema operacional específico executem softwares desenvolvidos para outro sistema operacional. Por exemplo, se você estiver utilizando o Linux, mas precisar rodar um programa exclusivo para sistemas Windows, pode resolver esse impasse instalando uma máquina virtual.
@@ -32,7 +30,7 @@ Além disso, as máquinas virtuais são valiosas para testar programas malicioso
 <br>
 
 ## Linguagem compilada
-As linguagens compiladas são aquelas em que o código-fonte é compilado antes da execução, gerando um arquivo executável diretamente utilizado pelo sistema operacional.
+As linguagens compiladas são aquelas em que o código-fonte é compilado antes da execução, gerando um arquivo executável que posteriormente será utilizado pelo sistema operacional.
 
 Uma linguagem compilada implica que o programa escrito nela precisa passar por um processo de compilação. Após a criação do código-fonte, este é submetido a um processo de compilação, uma vez que o código contido não pode ser lido diretamente pela máquina, que compreende apenas a linguagem binária de zeros e uns. Dessa forma, o código-fonte é transformado em um formato compreensível pelas máquinas.
 
@@ -77,9 +75,6 @@ plataformas sem a necessidade de grandes modificações, desde que haja uma Máq
 <br>
 
 # JDK e JRE
-O JDK (Java Development Kit) nada mais é do que um kit de desenvolvimento para programadores Java. Este kit contém a JVM e também o javac, que é o compilador responsável por pegar nosso programa `.java` e transformá-lo em um `.class`. Além disso, inclui outras ferramentas, como depuradores por exemplo.
+O JDK (Java Development Kit) é essencialmente um conjunto de ferramentas de desenvolvimento projetado para programadores Java. Dentro deste kit, encontramos a JVM (Java Virtual Machine) e o javac, que funciona como o compilador encarregado de transformar o código-fonte Java (.java) em um formato executável (.class). Além desses elementos fundamentais, o JDK também abrange outras utilidades, como depuradores, proporcionando um ambiente completo para o desenvolvimento Java, desde a criação até a depuração do código.
 
-O JRE (Java Runtime Environment) é focado para aqueles usuários comuns que desejam apenas executar programas feitos em Java.
-Esse tipo de usuário não precisa instalar um compilador e um depurador, afinal, ele não vai desenvolver nada, 
-apenas executar e interagir com os programas. 
-
+O JRE (Java Runtime Environment) é direcionado aos usuários comuns que simplesmente desejam executar programas desenvolvidos em Java. Para esse público, não é necessário instalar um compilador ou um depurador, uma vez que eles não estarão envolvidos no processo de desenvolvimento. O foco do JRE está na execução e interação com os programas Java de maneira eficiente, oferecendo a funcionalidade essencial para usuários finais sem a necessidade de recursos avançados de desenvolvimento.
