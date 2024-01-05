@@ -1,9 +1,11 @@
 # Criando, compilando e executando um programa feito em java
 
 1. Crie um arquivo com a extensão `.java`;
-2. O nome deste arquivo deve ser o mesmo nome da __classe__. Se o nome da classe é `primeiroPrograma`, este deve ser o nome do nosso arquivo;
+![exemplo](https://github.com/FireguiQueen/Java/assets/98475125/e98decca-e1a4-453a-bb8e-ea2e0cbad010)
 
-3. Escreve as instruções do programa:
+3. O nome deste arquivo deve ser o mesmo nome da __classe__. Se o nome da classe é `primeiroPrograma`, este deve ser o nome do nosso arquivo;
+
+4. Escreve as instruções do programa:
 ```java
     public class primeiroPrograma
     {
