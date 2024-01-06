@@ -75,7 +75,7 @@ plataformas sem a necessidade de grandes modificações, desde que haja uma Máq
 <br>
 
 # JDK e JRE
-O JDK (Java Development Kit) é essencialmente um conjunto de ferramentas de desenvolvimento projetado para programadores Java. Dentro deste kit, encontramos a JVM (Java Virtual Machine) e o javac, que funciona como o compilador encarregado de transformar o código-fonte Java (.java) em um formato executável (.class). Além desses elementos fundamentais, o JDK também abrange outras utilidades, como depuradores, proporcionando um ambiente completo para o desenvolvimento Java, desde a criação até a depuração do código.
+O JDK (Java Development Kit) é essencialmente um conjunto de ferramentas de desenvolvimento projetado para programadores Java. Dentro deste kit, encontramos a JVM (Java Virtual Machine), o javac (java compiler) e classes prontas que trazem funcionalidades ao programa sem precisarmos criá-las do zero. Além desses elementos fundamentais, o JDK também abrange outras utilidades, como depuradores, proporcionando um ambiente completo para o desenvolvimento Java, desde a criação até a depuração do código.
 
 O JRE (Java Runtime Environment) é direcionado aos usuários comuns que simplesmente desejam executar programas desenvolvidos em Java. Para esse público, não é necessário instalar um compilador ou um depurador, uma vez que eles não estarão envolvidos no processo de desenvolvimento. O foco do JRE está na execução e interação com os programas Java de maneira eficiente, oferecendo a funcionalidade essencial para usuários finais sem a necessidade de recursos avançados de desenvolvimento.
 
