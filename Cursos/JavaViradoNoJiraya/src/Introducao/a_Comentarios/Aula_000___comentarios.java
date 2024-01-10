@@ -27,7 +27,6 @@
     o código necessita de melhorias estruturais.
 
     O 'javaDoc', abreviação de "java documentation", é utilizado para documentar MÉTODOS e CLASSES.
-    Ele vai além do conceito de simples comentários.
     O 'javadoc' é muito bom pois ele aceita formatação HTML, o que torna os comentários mais legíveis e compreensíveis.
 */
 
