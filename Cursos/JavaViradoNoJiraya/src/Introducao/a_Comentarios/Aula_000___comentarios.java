@@ -13,13 +13,18 @@
     // ** UTILIDADE **
     Comentar trechos de código pode ser necessário, mas em geral, a necessidade de comentar pode sugerir que o
     código pode ser mal elaborado. O ideal é priorizar um código autoexplicativo, que elimine a necessidade de comentários.
-    Por essa razão, em muitos casos, a prática de comentar códigos NÃO é recomendada.
+    Por essa razão, em muitos casos, a prática de comentar códigos NÃO é recomendada. Mas é claro, a situação pode variar 
+    dependendo do contexto.
+    
+    // ** TIPOS DE COMENTÁRIOS EM JAVA** 
+    - de linha 
+    - de bloco 
+    - javaDoc
 
-    No entanto, a situação pode variar dependendo do contexto. Por exemplo, em Java, existem três tipos de comentários:
-    de linha, de bloco e o 'javaDoc'.
-
-    Comentários de linha e de bloco geralmente são evitados, pois, como mencionado anteriormente, a necessidade de explicar
-    pequenos trechos pode indicar que o código necessita de melhorias estruturais.
+    
+    Comentários de linha (utilizado para comentar em uma única linha) e de bloco (utilizado para comentar em diversas linhas) 
+    geralmente são evitados, pois, como mencionado anteriormente, a necessidade de explicar pequenos trechos pode indicar que 
+    o código necessita de melhorias estruturais.
 
     O 'javaDoc', abreviação de "java documentation", é utilizado para documentar MÉTODOS e CLASSES.
     Ele vai além do conceito de simples comentários.
