@@ -1,17 +1,17 @@
 // TIPOS PRIMITIVOS E VARIÁVEIS
 /*
+    -> Quando definimos uma variável, seu valor será jogado em nossa memória RAM, e para acessá-lo, usaremos o seu identificador.
+    -> Em java, para se criar uma variável, é necessário informar o tipo de dado que ela irá apontar/guardar. 
+    
     Tipos primitivos se referem a valores simples;
     Por exemplo, o número '900.104.101' é um valor grande, mas ainda sim é um valor simples, pois são apenas números,
-    não há nenhuma estrutura envolvida.
+    não há nenhuma estrutura complexa envolvida.
 
     Por agora, usaremos os tipos de dados primitivos em variáveis.
     ~ Uma variável é um conceito que engloba: 
     1. tipo do valor armazenado; 
     2. identificador;
     3. valor.
-
-    Quanto definimos uma variável, seu valor será jogado em nossa memória RAM, e para acessá-lo, usaremos o seu identificador.
-    Quando criamos uma variável, estamos guardando um valor em memória para podermos acessá-lo futuramente.
 
     Os tipos primitivos em variáveis determinam qual tipo de dado ela irá armazenar:
     byte   - para valores numéricos extremamente baixos
@@ -28,18 +28,20 @@
 
 package introducao.b_TiposPrimitivos;
 
-public class Aula_001___tiposPrimitivos {
-    public static void main(String[] args) {
+public class Aula_001___tiposPrimitivos 
+{
+    public static void main(String[] args) 
+    {
 
         // Criamos uma variável do tipo primitivo "int".
-        // O tipo 'int' é capaz de armazenar, APROXIDAMENTE, valores entre -2.600.000.00 até +2.600.000.000
+        // O tipo 'int' é capaz de armazenar, APROXIMADAMENTE, valores entre -2.600.000.00 até +2.600.000.000
         int numero = 500;
 
         // Para ter acesso daquele valor, usaremos o identificador dele.
         System.out.println(numero);
 
 
-        // Podemos criar variáveis de outros tipos também, com diferentes valores.
+        // Podemos criar variáveis de outros tipos, com diferentes valores.
         char letra = 'a';
         System.out.println(letra);
 
@@ -48,8 +50,10 @@ public class Aula_001___tiposPrimitivos {
         int saldoDaConta = 900;
         boolean estaChovendo = true;
 
+        
         /* *** *** *** *** *** *** *** *** *** *** *** */
 
+        
         // DECLARAÇÃO DE VARIÁVEL X INICIALIZAÇÃO DE VARIÁVEL
 
         // DECLARANDO: definimos um espaço na memória que armazenará um valor numérico
@@ -62,8 +66,7 @@ public class Aula_001___tiposPrimitivos {
         int contaBancaria = 900;
 
 
-
-        // VARIÁVEIS RESUMO:
+        // ** RESUMO **
         /*
             Quando criamos uma variável, estamos criando um ESPAÇO na memória.
 
@@ -73,7 +76,7 @@ public class Aula_001___tiposPrimitivos {
 
             O identificador da variável é para conseguirmos nos referenciar
             a este espaço criado na memória.
-         */
+        */
 
     }
 }
