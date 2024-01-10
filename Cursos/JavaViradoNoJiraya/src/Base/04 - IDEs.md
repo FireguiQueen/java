@@ -1,7 +1,5 @@
 # IDE (integrated development environment)
-Uma IDE é um software que agrega uma variedade de ferramentas e recursos projetados para auxiliar os desenvolvedores 
-durante todo o ciclo de vida do desenvolvimento de software. Seu objetivo é proporcionar um ambiente centralizado e 
-eficiente para escrever, testar, depurar e gerenciar código.
+Uma IDE (Ambiente de Desenvolvimento Integrado) é um software que reúne uma variedade de ferramentas e recursos projetados para auxiliar os desenvolvedores ao longo de todo o ciclo de vida do desenvolvimento de software. E não é só isso; as IDEs também são amplamente utilizadas para modificar arquivos que envolvem bastante texto, como, por exemplo, arquivos _markdown_ (como este que você está lendo agora). Seu principal objetivo é oferecer um ambiente centralizado e eficiente para escrever, testar, depurar e gerenciar código.
 
 ### Mais do que um Editor
 Embora seja verdade que um simples editor de texto, como o Bloco de Notas, pode ser usado para escrever código, as IDEs oferecem muito mais do que isso. Destaque de sintaxe, autocompletar, correção automática e alertas para possíveis redundâncias/erros são apenas algumas das funções de uma IDE.
