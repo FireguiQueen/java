@@ -10,7 +10,7 @@ Este diretório é criado para configuração do nosso ambiente.
 Nada muito relevante no momento.
 
 ### `out` 
-Este diretório é criado quando compilamos nossos arquivos `.java`. 
+Este diretório é criado quando compilamos nossos arquivos `.java`. <br>
 Out significa "saída", é justamente isso, a compilação gera uma saída de informação (o arquivo `.class`) e ele fica
 salvo no diretório 'out'.
 
