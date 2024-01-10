@@ -29,16 +29,16 @@ public class Aula_002___tiposPrimitivos_II
 {
     public static void main(String[] args)
     {
-        // Criando uma variável do tipo 'byte'. Utiliza 1byte para armazenar números
+        // Utiliza 1 byte para armazenar números
         // -128 até 127
         byte x = 120;
 
-        // Criando uma variável do tipo 'short'. utiliza 2bytes para armazenar números
+        // Utiliza 2bytes para armazenar números
         // -32768 até 32767
         short y = 30000;
 
 
-        // O tipo 'char' é usado para armazenar caracteres e utiliza apenas 2 byte na memória.
+        // O tipo 'char' é usado para armazenar caracteres. Utiliza apenas 2 byte na memória.
         char letra = 'a';
 
         // Podemos fazer variáveis do tipo 'char' receber números:
