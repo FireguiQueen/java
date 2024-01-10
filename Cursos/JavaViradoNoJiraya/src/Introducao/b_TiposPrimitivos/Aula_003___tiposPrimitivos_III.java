@@ -1,11 +1,9 @@
 // CASTING & valores tipos-primitivos e seus tipos
 /*
     O casting é uma conversão forçada entre valores numéricos.
-    Ou seja, temos um valor de um determinado tipo e, através do 'casting', forçamos
-    a ser de outro tipo.
+    Ou seja, temos um valor de um determinado tipo e, através do 'casting', forçamos a ser de outro tipo.
 
-    Por exemplo, podemos forçar um valor quebrado, como '520.20', a ser um
-    valor completamente inteiro: 520.
+    Por exemplo, podemos forçar um valor quebrado, como '520.20', a ser um valor completamente inteiro: 520.
 */
 package introducao.b_TiposPrimitivos;
 
