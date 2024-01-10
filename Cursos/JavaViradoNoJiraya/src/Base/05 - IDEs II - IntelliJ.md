@@ -1,6 +1,5 @@
 # IDE - IntelliJ
-Deixarei [aqui](https://youtu.be/ds3t9C2A50U?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW&t=142) a vídeo-aula onde o William mostra
-um pouco da IDE que estamos utilizando no curso.
+Deixarei [aqui](https://youtu.be/ds3t9C2A50U?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW&t=142) a vídeo-aula onde o William mostra um pouco da IDE que estamos utilizando neste curso.
 
 <br>
 
