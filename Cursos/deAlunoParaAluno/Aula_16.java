@@ -1,7 +1,7 @@
 // SYNTATIC SUGAR
 /*
     Wikipedia:
-    O 'açúcar sintático' é uma sintaxe dentro da linguagem de programação que tem
+    A syntatic sugar é um tipo de sintaxe dentro da linguagem de programação que tem
     por finalidade tornar suas construções mais fáceis de serem lidas e expressas.
 
     Ela faz com que o uso da linguagem se torne "mais doce" para o uso humano,
