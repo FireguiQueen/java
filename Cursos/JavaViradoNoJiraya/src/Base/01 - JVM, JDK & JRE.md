@@ -1,6 +1,10 @@
 # Introdução ao Java
 
-## Sistemas operacionais
+____________
+
+## Sistema operacional
+
+### O que são sistemas operacionais?
 Um sistema operacional, seja ele o Windows 10, macOS, Ubuntu, etc., é o principal software do nosso computador.
 
 O sistema operacional é responsável por realizar diversas tarefas, algumas delas são:
@@ -8,6 +12,7 @@ O sistema operacional é responsável por realizar diversas tarefas, algumas del
 - Gerenciar recursos para nossos softwares (ex: quanto de RAM determinado programa pode utilizar)
 - Estabelecer limites de acesso, segurança e etc.
 
+### Por que existem tantos sistemas operacionais? 
 Cada sistema operacional é desenvolvido de maneira diferente, e cada um possui sua própria forma de compreender e executar ações. E isso é crucial para a computação em geral, pois possibilita o desenvolvimento de sistemas adaptados a necessidades particulares.
 
 Indivíduos com computadores mais antigos podem optar pelo "Lubuntu", um sistema operacional projetado para proporcionar desempenho eficiente em máquinas com recursos limitados. Pessoas que estudam ou trabalham com cibersegurança podem usar um sistema operacional chamado "Kali Linux", que é voltado para atender a essas necessidades, pois ele possui inúmeras ferramentas específicas para o hacking. A própria Tesla possui um sistema operacinal, e ele é projetado para controlar todas as funções do veículo, desde a navegação até os sensores de segurança.
