@@ -2,7 +2,7 @@
 
 ____________
 
-## Sistema operacional
+## Sistema operacional (SO)
 
 ### O que são sistemas operacionais?
 Um sistema operacional, seja ele o Windows 10, macOS, Ubuntu, etc., é o principal software do nosso computador.
@@ -12,12 +12,20 @@ O sistema operacional é responsável por realizar diversas tarefas, algumas del
 - Gerenciar recursos para nossos softwares (ex: quanto de RAM determinado programa pode utilizar)
 - Estabelecer limites de acesso, segurança e etc.
 
+### Windows e Linux não são sistemas operacionais, mas por quê? 
+Ambos os famosos sistemas operacionais, linux e Windows, na verdade, não são sistemas operacinais. Eles são o que chamamos de "Kernel". Kernel, em português, significa "núcleo".
+
+Um Kernel é a base para qualquer sistema operacional. A Microsoft, empresa cuja já desenvolveu diversos sistemas operacionais (Win 10, Win 7, Win XP..) é a dona do Kernel Windows. O Kernel Windows é justamente o núcleo utilizado para a criação de novos sistemas operacionais. Todo sistema operacional Windows, seja ele o Windows 10 ou qualquer outro, utiliza do Kernel Windows.
+
+A mesma coisa vale para sistemas operacionais criados através do Kernel Linux. A diferença é que o Kernel Linux pode ser usada de maneira livre, qualquer pessoa pode utilizá-lo para criar seus próprios sistemas operacionais. 
+
+
 ### Por que existem tantos sistemas operacionais? 
 Cada sistema operacional é desenvolvido de maneira diferente, e cada um possui sua própria forma de compreender e executar ações. E isso é crucial para a computação em geral, pois possibilita o desenvolvimento de sistemas adaptados a necessidades particulares.
 
-Indivíduos com computadores mais antigos podem optar pelo "Lubuntu", um sistema operacional projetado para proporcionar desempenho eficiente em máquinas com recursos limitados. Pessoas que estudam ou trabalham com cibersegurança podem usar um sistema operacional chamado "Kali Linux", que é voltado para atender a essas necessidades, pois ele possui inúmeras ferramentas específicas para o hacking. A própria Tesla possui um sistema operacinal, e ele é projetado para controlar todas as funções do veículo, desde a navegação até os sensores de segurança.
+Tamanha variedade de sistemas operacionais surgem para atingir diferentes necessidades. Por exemplo, indivíduos com computadores mais antigos podem optar pelo "Lubuntu", um sistema operacional projetado para proporcionar desempenho eficiente em máquinas com recursos limitados. Pessoas que estudam ou trabalham com cibersegurança podem usar um sistema operacional chamado "Kali Linux", que é voltado para atender a essas necessidades, pois ele possui inúmeras ferramentas específicas para o hacking. A própria Tesla possui um sistema operacinal baseado em Linux, e ele é projetado para controlar todas as funções do veículo, desde a navegação até os sensores de segurança.
 
-Podemos concluir que cada sistema tem um nicho específico, embora existam também diversos sistemas, como o Windows e o Ubuntu, 
+Cada sistema tem um nicho específico, embora existam também diversos sistemas, como o Windows e o Ubuntu, 
 que buscam atender a diversos públicos, incluindo gamers, programadores e usuários comuns.
 
 <br>
