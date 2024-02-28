@@ -13,20 +13,20 @@ O sistema operacional é responsável por realizar diversas tarefas, algumas del
 - Estabelecer limites de acesso, segurança e etc.
 
 ### Windows e Linux não são sistemas operacionais, mas por quê? 
-Ambos os famosos sistemas operacionais, linux e Windows, na verdade, não são sistemas operacinais. Eles são o que chamamos de "Kernel". Kernel, em português, significa "núcleo".
+Ambos os famosos sistemas operacionais, Linux e Windows, na verdade, não são sistemas operacinais. Eles são o que chamamos de "Kernel", em português, "núcleo". Portanto, quando nos referimos a um "sistema operacional Linux", estamos, na verdade, falando de um sistema operacional construído sobre o Kernel Linux.
 
-Um Kernel é a base para qualquer sistema operacional. A Microsoft, empresa cuja já desenvolveu diversos sistemas operacionais (Win 10, Win 7, Win XP..) é a dona do Kernel Windows. O Kernel Windows é justamente o núcleo utilizado para a criação de novos sistemas operacionais. Todo sistema operacional Windows, seja ele o Windows 10 ou qualquer outro, utiliza do Kernel Windows.
+Um Kernel é a base para qualquer sistema operacional. A Microsoft, empresa que já desenvolveu diversos sistemas operacionais (Win 10, Win 7, Win XP e etc.), é a detentora do Kernel Windows. Todo sistema operacional Windows, seja ele o Windows 10 ou qualquer outro, utiliza o Kernel Windows. 
 
-A mesma coisa vale para sistemas operacionais criados através do Kernel Linux. A diferença é que o Kernel Linux pode ser usada de maneira livre, qualquer pessoa pode utilizá-lo para criar seus próprios sistemas operacionais. 
+E assim como o Kernel Windows, a mesma lógica se estende aos sistemas operacionais desenvolvidos com base no Kernel Linux. A distinção crucial é que o Kernel Windows __pertence__ a Microsoft, e apenas ela pode utilizá-lo. Este Kernel foi desenvolvido para atender as necessidades da empresa em criar seus próprios sistemas operacionais para agradar seus usuários.
+ 
+Enquanto o Kernel Linux é de código aberto, e é mantido por uma comunidade enorme de desenvolvedores e empresas ao redor do mundo. E isto permite  permitindo que qualquer pessoa o utilize livremente o Kerne Linux para desenvolver seus próprios sistemas operacionais. 
 
 
-### Por que existem tantos sistemas operacionais? 
-Cada sistema operacional é desenvolvido de maneira diferente, e cada um possui sua própria forma de compreender e executar ações. E isso é crucial para a computação em geral, pois possibilita o desenvolvimento de sistemas adaptados a necessidades particulares.
+### Por que existem tantos sistemas operacionais baseados no Kernel Linux? 
+Entre os sistemas operacionais baseados em Linux, podemos citar:
+Xubuntu, Ubuntu, Debian, PopOS, Mint, LinuxOS, Steam OS e etc..
 
-Tamanha variedade de sistemas operacionais surgem para atingir diferentes necessidades. Por exemplo, indivíduos com computadores mais antigos podem optar pelo "Lubuntu", um sistema operacional projetado para proporcionar desempenho eficiente em máquinas com recursos limitados. Pessoas que estudam ou trabalham com cibersegurança podem usar um sistema operacional chamado "Kali Linux", que é voltado para atender a essas necessidades, pois ele possui inúmeras ferramentas específicas para o hacking. A própria Tesla possui um sistema operacinal baseado em Linux, e ele é projetado para controlar todas as funções do veículo, desde a navegação até os sensores de segurança.
-
-Cada sistema tem um nicho específico, embora existam também diversos sistemas, como o Windows e o Ubuntu, 
-que buscam atender a diversos públicos, incluindo gamers, programadores e usuários comuns.
+Tamanha variedade existe para atender a necessidades particulares. Indivíduos com computadores mais antigos podem optar pelo "Lubuntu", um sistema operacional projetado para proporcionar desempenho eficiente em máquinas com recursos limitados. Pessoas que estudam ou trabalham com cibersegurança podem usar um sistema operacional chamado "Kali Linux", que é voltado para atender a essas necessidades, pois ele possui inúmeras ferramentas específicas para o hacking. A própria Tesla possui um sistema operacinal baseado em Linux, e ele é projetado para controlar todas as funções do veículo, desde a navegação até os sensores de segurança. 
 
 <br>
 
