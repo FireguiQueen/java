@@ -65,7 +65,7 @@ Após compreender alguns "pilares" da computação, podemos finalmente entender 
 
 Normalmente, os softwares são desenvolvidos para serem executados em sistemas Windows, dado o amplo uso desse sistema operacional. E isso pode se tornar um obstáculo para usuários de MacOS ou Linux que desejam utilizar esses programas, afinal, eles foram feitos para rodar em Windows. 
 
-Para adaptar um software aos diferentes sistemas operacionais, o código-fonte precisa ser modificado, e frequentemente os desenvolvedores precisam 'recriar' o software para garantir sua funcionalidade em outros sistemas operacionais. 
+Para adaptar um software aos diferentes sistemas operacionais, o código-fonte precisa ser modificado, e frequentemente os desenvolvedores precisam 'recriar' o software para garantir sua funcionalidade em outros sistemas operacionais de forma nativa. 
 
 O Java surge como uma solução para este problema por meio da JVM (Java Virtual Machine). Os programas desenvolvidos em Java não são destinados a serem executados diretamente em nossas máquinas, mas sim pela JVM, uma máquina virtual do java, que opera dentro da nossa máquina real. Seu único papel é compreender e executar programas feitos em Java.
 
