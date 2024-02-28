@@ -1,12 +1,12 @@
 # Criando, compilando e executando um programa feito em java
 
-### 1. Crie um arquivo com a extensão `.java`;
+#### 1. Crie um arquivo com a extensão `.java`;
 
 ![ex](https://github.com/FireguiQueen/Java/assets/98475125/9215ea5e-a6dc-4fb5-a42a-e91be996b447)
 
 <br>
 
-### 2. O nome deste arquivo deve ser o mesmo nome da __classe__. Se o nome da classe é `MeuPrimeiroPrograma`, este deve ser o nome do nosso arquivo;
+#### 2. O nome deste arquivo deve ser o mesmo nome da __classe__. Se o nome da classe é `MeuPrimeiroPrograma`, este deve ser o nome do nosso arquivo;
  
 ![ex](https://github.com/FireguiQueen/Java/assets/98475125/d64e81df-edf7-4f7d-9f80-2872ad57e9d2)
 
