@@ -73,7 +73,7 @@ Quando criamos um programa em Java, ele precisa passar por um processo de compil
 
 1. Escrevemos nosso programa usando a linguagem Java;
 2. Compilamos este programa com o javac (Java compiler);
-3. O processo de compilação gera um arquivo chamado ".class", que contém bytecode(código que a JVM consegue ler);
+3. O processo de compilação gera um arquivo chamado ".class", que contém bytecode (código que a JVM consegue ler);
 4. Este arquivo ".class" é lido e interpretado pela JVM.
 
 ![java and class](https://github.com/FireguiQueen/Java/assets/98475125/bd5e74c5-2332-4bea-b09a-4fb5a1cce062)
