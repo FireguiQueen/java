@@ -33,14 +33,15 @@ Tamanha variedade existe para atender a necessidades particulares. Indivíduos c
 ____________
 
 ## Máquinas virtuais 
-O propósito de uma máquina virtual é ser justamente uma máquina virtual que é executada em nossa máquina real. Sua máquina pode estar utilizando o Windows 11, mas com um software de virtualização, você pode 
-emular uma máquina dentro da sua própria máquina, daí o termo "máquina virtual".
+O propósito de uma máquina virtual é ser justamente uma máquina virtual que é executada em nossa máquina real. Sua máquina pode estar utilizando o Windows 11, mas com um software de virtualização, você pode emular uma máquina que utilize outro sistema operacional. E isso tudo ocorrendo dentro da sua própria máquina, daí o termo "máquina virtual".
 
-Uma máquina virtual possui diversas utilidades, sendo uma delas a capacidade de permitir que usuários de um sistema operacional específico executem softwares desenvolvidos para outro sistema operacional. Por exemplo, se estiver utilizando o macOS, mas necessitar rodar um programa exclusivo para sistemas Windows, é possível resolver esse impasse por meio de uma máquina virtual.
+Uma máquina virtual possui diversas utilidades, sendo uma delas a capacidade de permitir que usuários de um sistema operacional específico executem softwares desenvolvidos para outro sistema operacional. Por exemplo, se você estiver utilizando o macOS, mas necessitar rodar um programa exclusivo para sistemas Windows, é possível resolver esse impasse por meio de uma máquina virtual.
 
 Além disso, as máquinas virtuais são valiosas para testar programas maliciosos. Todo o potencial dano causado por tais programas ocorre na máquina virtual, protegendo assim o sistema principal.
 
 <br>
+
+____________
 
 ## Linguagem compilada
 As linguagens compiladas são aquelas em que o código-fonte é compilado antes da execução, gerando um arquivo executável que posteriormente será utilizado pelo sistema operacional.
