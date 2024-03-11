@@ -30,6 +30,8 @@ Tamanha variedade existe para atender a necessidades particulares. Indivíduos c
 
 <br>
 
+____________
+
 ## Máquinas virtuais 
 O propósito de uma máquina virtual é ser justamente uma máquina virtual que é executada em nossa máquina real. Sua máquina pode estar utilizando o Windows 11, mas com um software de virtualização, você pode 
 emular uma máquina dentro da sua própria máquina, daí o termo "máquina virtual".
