@@ -4,7 +4,16 @@ ____________
 
 ## Sistema operacional (SO)
 
-### O que são sistemas operacionais?
+### O que são sistemas operacionais? O que é hardware e software? 
+Uma grande parte das pessoas que utilizam computadores, seja um laptop, celular, table, "enxergam" a máquina como sendo apenas o sistema operacional, como se o hardware _não existisse_.
+
+Na cabeça de usuários comuns, o computador funciona de um jeito muito simples. É só ligar, esperar e utilizar, elas não conseguem pensar em toda a complexidade envolvida para as açõoes ocorrerem. Quando a pessoa liga uma máquina que possui o Windows 10 por exemplo, na cabeça dela, toda a interface fornecida por este sistema operacinal é a máquina em si. Mas é claro, não há nenhum problema ter este tipo de ignorancia em relação a computação, principalmente se você não depende tanto dos computadores em sua vida. Mas como desenvolvedores, é crucial sabermos como uma máquina funciona. De qualquer modo, já está óbvio que tudo feito em nossos computadores operam de maneiras complexas. 
+
+Para uma máquina funcionar, será necessário diversos componentes eletrônicos interligados, e cada um desempenhando um papel diferente. E eles, nós chamamos de __hardware__. O hardware foi feito para gerar informação e processar dados, mas não para mostrá-los.   Nós não nos preocupamos com a maneira como é feita a comunicação entre os programas e os dispositivos. Os softwares (incluindo os sitemas operacionais) buscam criar __camadas__ para isso, fazendo com que o usuário veja apenas o lado bonito da coisa. 
+
+
+
+
 Um sistema operacional, seja ele o Windows 10, macOS, Ubuntu, etc., é o principal software do nosso computador.
 
 O sistema operacional é responsável por realizar diversas tarefas, algumas delas são:
