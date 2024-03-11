@@ -19,7 +19,7 @@ Um Kernel é a base para qualquer sistema operacional. A Microsoft, empresa que 
 
 E assim como o Kernel Windows, a mesma lógica se estende aos sistemas operacionais desenvolvidos com base no Kernel Linux. A distinção crucial é que o Kernel Windows __pertence__ a Microsoft, e apenas ela pode utilizá-lo. Este Kernel foi desenvolvido para atender as necessidades da empresa em criar seus próprios sistemas operacionais para agradar seus usuários.
  
-Enquanto o Kernel Linux é de código aberto, e é mantido por uma comunidade enorme de desenvolvedores e empresas ao redor do mundo. E isto permite  permitindo que qualquer pessoa o utilize livremente o Kerne Linux para desenvolver seus próprios sistemas operacionais. 
+Enquanto o Kernel Linux é de código aberto, e é mantido por uma comunidade enorme de desenvolvedores e empresas ao redor do mundo. Isso possibilita que qualquer pessoa utilize livremente o Kernel Linux para desenvolver seus próprios sistemas operacionais, contanto que ela esteja em conformidade com as licenças associadas. No caso do Kernel Linux, a licença predominante é a GPL (GNU General Public License), que requer que qualquer modificação feita no código-fonte seja também distribuída sob os termos da GPL. Portanto, ao criar sistemas operacionais baseados no Kernel Linux, é crucial respeitar e aderir às disposições da GPL e de outras licenças aplicáveis, garantindo assim a integridade e a ética do software open source.
 
 
 ### Por que existem tantos sistemas operacionais baseados no Kernel Linux? 
