@@ -24,7 +24,7 @@ Enquanto o Kernel Linux é de código aberto, e é mantido por uma comunidade en
 
 ### Por que existem tantos sistemas operacionais baseados no Kernel Linux? 
 Entre os sistemas operacionais baseados em Linux, podemos citar inúmeros sistemas, incluindo:
-> Xubuntu, Ubuntu, Debian, PopOS, Mint, LinuxOS, Steam OS e etc..
+> Xubuntu, Ubuntu, Debian, PopOS, Mint, LinuxOS, Steam OS, Fedora, Arch Linux, openSUSE, Manjaro, CentOS, Elementary OS, Kali Linux, Solus..
 
 Tamanha variedade existe para atender a necessidades particulares. Indivíduos com computadores mais antigos podem optar pelo "Lubuntu", um sistema operacional projetado para proporcionar desempenho eficiente em máquinas com recursos limitados. Pessoas que estudam ou trabalham com cibersegurança podem usar um sistema operacional chamado "Kali Linux", que é voltado para atender a essas necessidades, pois ele possui inúmeras ferramentas específicas para o hacking. A própria Tesla possui um sistema operacinal baseado em Linux, e ele é projetado para controlar todas as funções do veículo, desde a navegação até os sensores de segurança. 
 
