@@ -3,8 +3,6 @@
 # Introdução :wave:
 Bem-vindo ao meu repositório de __Java__! Aqui, compartilho cursos, explicações e exercícios que desenvolvi ao longo do meu estudo desta maravilhosa linguagem. Sinta-se à vontade para explorar e utilizar este repositório como uma fonte gratuita de conhecimento. 
 
-<br>
-
 <q cite="Guilherme P.">A jornada de aprendizado é mais rica quando compartilhada.</q> Aproveite! =)
 
 ## Como os cursos foram escolhidos?
