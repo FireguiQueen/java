@@ -11,6 +11,8 @@ Para os usuários comuns, a operação de um computador parece ser extremamente 
 
 > Mas é claro, não há nenhum problema em ter esse nível de desconhecimento sobre computação, especialmente se você não depende tanto dos computadores em sua vida. No entanto, como desenvolvedores, é crucial que saibamos como uma máquina funciona.
 
+<br>
+
 Para uma máquina funcionar, será necessário diversos componentes eletrônicos interligados, e cada um desempenhando um papel diferente. E eles, nós chamamos de __hardware__. O hardware foi feito para gerar informação e processar dados, mas não para mostrá-los.   Nós não nos preocupamos com a maneira como é feita a comunicação entre os programas e os dispositivos. Os softwares (incluindo os sitemas operacionais) buscam criar __camadas__ para isso, fazendo com que o usuário veja apenas o lado bonito da coisa. 
 
 
