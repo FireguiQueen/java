@@ -23,6 +23,8 @@ O sistema operacional é responsável por realizar diversas tarefas, algumas del
 - Gerenciar recursos para nossos softwares (ex: quanto de RAM determinado programa pode utilizar)
 - Estabelecer limites de acesso, segurança e etc.
 
+____________
+
 ### Windows e Linux não são sistemas operacionais, mas por quê? 
 Ambos os famosos sistemas operacionais, Linux e Windows, na verdade, não são sistemas operacinais. Eles são o que chamamos de "Kernel", em português, "núcleo". Portanto, quando nos referimos a um "sistema operacional Linux", estamos, na verdade, falando de um sistema operacional construído sobre o Kernel Linux.
 
