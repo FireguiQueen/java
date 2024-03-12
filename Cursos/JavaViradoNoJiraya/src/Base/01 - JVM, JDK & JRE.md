@@ -5,9 +5,11 @@ ____________
 ## Sistema operacional (SO)
 
 ### O que são sistemas operacionais? O que é hardware e software? 
-Uma grande parte das pessoas que utilizam computadores, seja um laptop, celular, tablet, 'enxergam' a máquina como sendo apenas o sistema operacional, como se o hardware _não existisse_.
+Uma grande parte das pessoas que utilizam computadores, seja um laptop, celular, tablet, 'enxergam' a máquina como sendo apenas o sistema operacional, como se o hardware _não existisse_. 
 
-Na cabeça de usuários comuns, o computador funciona de um jeito muito simples. É só ligar, esperar e utilizar; não se passa pela cabeça dela toda a complexidade envolvida para as ações ocorrerem. Quando a pessoa liga uma máquina que possui o Windows 10, por exemplo, na cabeça dela, toda a interface fornecida por este sistema operacional é a máquina em si. Mas é claro, não há nenhum problema em ter esse nível de desconhecimento sobre computação, especialmente se você não depende tanto dos computadores em sua vida. No entanto, como desenvolvedores, é crucial que saibamos como uma máquina funciona.
+Para os usuários comuns, a operação de um computador parece ser extremamente simples: basta ligá-lo, esperar e começar a usar. Eles não têm ideia da complexidade por trás das operações que ocorrem. Por exemplo, quando uma pessoa liga uma máquina que possui o Windows 10, na cabeça dela, toda a interface fornecida por este sistema operacional é a máquina em si. Caso haja erros e bugs com a interface do sistema operacional, a primeira reação é pensar: "Este computador está com problema!". Sendo que, na verdade, foi um bug ocasionado pelo sistema operacional, e não houve nenhum mau funcionamento dos componentes (placa de vídeo, memória RAM, etc.).  
+
+> Mas é claro, não há nenhum problema em ter esse nível de desconhecimento sobre computação, especialmente se você não depende tanto dos computadores em sua vida. No entanto, como desenvolvedores, é crucial que saibamos como uma máquina funciona.
 
 Para uma máquina funcionar, será necessário diversos componentes eletrônicos interligados, e cada um desempenhando um papel diferente. E eles, nós chamamos de __hardware__. O hardware foi feito para gerar informação e processar dados, mas não para mostrá-los.   Nós não nos preocupamos com a maneira como é feita a comunicação entre os programas e os dispositivos. Os softwares (incluindo os sitemas operacionais) buscam criar __camadas__ para isso, fazendo com que o usuário veja apenas o lado bonito da coisa. 
 
