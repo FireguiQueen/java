@@ -51,8 +51,11 @@ Curso &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs
 
 ### Conteúdos adicionais 
 + [devDojo, <br> __Brejas e Bugs__](https://www.youtube.com/playlist?list=PL62G310vn6nEt1kjQGm4mBAsMfmUqFvfS)
+<br>
 + [Curso de tecnologia, <br> __POR QUE APRENDER__](https://www.youtube.com/playlist?list=PLYYr-pCjVCeDkS-LDMB_pF0u9q99ESFvs)
-+ [Robert Silva, <br> __Carreira de TI__](https://www.youtube.com/playlist?list=PLg7nVxv7fa6fosHM9R3RlgCPt7aure5EE) 
+<br>
++ [Robert Silva, <br> __Carreira de TI__](https://www.youtube.com/playlist?list=PLg7nVxv7fa6fosHM9R3RlgCPt7aure5EE)
+<br>
 + [Elder Moraes, <br> __Java Champions Brasucas__](https://www.youtube.com/playlist?list=PL-zC883FSfIogsdBgl-ReV-FssfRH1otg) 
 
 </br>
