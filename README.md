@@ -49,7 +49,7 @@ Curso &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs
 
 <br>
 
-### Conteúdos adicionais 
+### Conteúdos adicionais 🔍
 + [devDojo, <br> __Brejas e Bugs__](https://www.youtube.com/playlist?list=PL62G310vn6nEt1kjQGm4mBAsMfmUqFvfS)
 <br>
 
