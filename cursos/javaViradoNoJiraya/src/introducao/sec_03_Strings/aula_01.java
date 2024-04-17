@@ -6,9 +6,9 @@
     Uma string NÃO é um tipo de dado primitivo.
     String é um objeto, mas não se preocupe com isto agora.
 */
-package introducao.c_Strings;
+package introducao.sec_03_Strings;
 
-public class Aula_004___Strings
+public class aula_01
 {
     public static void main(String[] args)
     {

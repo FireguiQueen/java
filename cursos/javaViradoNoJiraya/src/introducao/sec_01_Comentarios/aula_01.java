@@ -30,9 +30,9 @@
     O 'javadoc' é muito bom pois ele aceita formatação HTML, o que torna os comentários mais legíveis e compreensíveis.
 */
 
-package introducao.a_Comentarios;
+package introducao.sec_01_Comentarios;
 
-public class Aula_000___comentarios
+public class aula_01
 {
 
     /**
