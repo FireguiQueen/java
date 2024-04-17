@@ -11,9 +11,9 @@
     Os operadores de comparação SEMPRE irão retornar um valor booleano.
     Ou seja, quando colocados em expressões, será sempre retornado 'TRUE' ou 'FALSE'.
 */
-package introducao.d_Operadores;
+package introducao.sec_04_Operadores;
 
-public class Aula_006___operadoresDeComparacao
+public class aula_02
 {
     public static void main(String[] args)
     {

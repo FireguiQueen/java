@@ -13,8 +13,9 @@
     >> A ideia é utilizar esses operadores quando a variável for receber o valor dela mesma.
 */
 
-package introducao.d_Operadores;
-public class Aula_008___operadoresDeAtribuicao
+package introducao.sec_04_Operadores;
+
+public class aula_04
 {
     public static void main(String[] args)
     {

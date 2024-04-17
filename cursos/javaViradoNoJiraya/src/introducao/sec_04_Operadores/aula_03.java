@@ -8,9 +8,9 @@
     O operador 'and' (&&) requer que duas expressões sejam verdadeiras para retornar 'TRUE'.
     O operador 'or' (||) requer que apenas uma das duas expressões seja verdadeira para retornar 'TRUE'.
 */
-package introducao.d_Operadores;
+package introducao.sec_04_Operadores;
 
-public class Aula_007___operadoresLogicos
+public class aula_03
 {
     public static void main(String[] args)
     {

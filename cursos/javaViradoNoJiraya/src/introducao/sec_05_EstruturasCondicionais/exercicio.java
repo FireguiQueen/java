@@ -1,9 +1,10 @@
 // -> EXERCÍCIO <-
+
 // ESTRUTURA CONDICIONAL: SWITCH CASE
 
-package introducao.e_EstruturasCondicionais;
+package introducao.sec_05_EstruturasCondicionais;
 
-public class Aula_013___estruturaCondicional_V
+public class exercicio
 {
     public static void main(String[] args)
     {

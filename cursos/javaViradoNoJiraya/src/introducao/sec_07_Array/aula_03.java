@@ -3,9 +3,9 @@
     "Iterar um array" é a mesma coisa que "percorrer um array", isto é, acessar cada um dos elementos do array.
     -> Para iterar, podemos usar o for loop.
 */
-package introducao.g_Array;
+package introducao.sec_07_Array;
 
-public class Aula_021___array_III
+public class aula_03
 {
     public static void main(String[] args)
     {

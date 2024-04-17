@@ -7,9 +7,9 @@
     - char: '\u0000' (é o caracter nulo)
     - boolean: false
 */
-package introducao.g_Array;
+package introducao.sec_07_Array;
 
-public class Aula_020___array_II
+public class aula_02
 {
     public static void main(String[] args)
     {

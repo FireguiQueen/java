@@ -1,7 +1,7 @@
 // ARRAYS MULTIDIMENSIONAIS: tipos de inicialização
-package introducao.g_Array;
+package introducao.sec_07_Array;
 
-public class Aula_025___array_VI
+public class aula_07
 {
     public static void main(String[] args)
     {

@@ -26,9 +26,9 @@
     boolean - para valores booleanos (true ou false)
  */
 
-package introducao.b_TiposPrimitivos;
+package introducao.sec_02_TiposPrimitivos;
 
-public class Aula_001___tiposPrimitivos 
+public class aula_01
 {
     public static void main(String[] args) 
     {

@@ -16,10 +16,10 @@
     E esta variável é do tipo de referência. Ss tipos de referência são variáveis que contêm uma referência ou
     endereço de memória que aponta para um objeto.
 */
-package introducao.g_Array;
+package introducao.sec_07_Array;
 
 
-public class Aula_019___array
+public class aula_01
 {
     public static void main(String[] args)
     {

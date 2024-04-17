@@ -3,9 +3,9 @@
     O conceito de "for each" que aprendemos na aula "array_III" também pode se aplicar
     para arrays multidimensionais.
 */
-package introducao.g_Array;
+package introducao.sec_07_Array;
 
-public class Aula_024___array_V
+public class aula_06
 {
     public static void main(String[] args)
     {

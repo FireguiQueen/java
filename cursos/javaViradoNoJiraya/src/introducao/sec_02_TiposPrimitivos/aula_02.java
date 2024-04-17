@@ -23,9 +23,9 @@
 */
 
 
-package introducao.b_TiposPrimitivos;
+package introducao.sec_02_TiposPrimitivos;
 
-public class Aula_002___tiposPrimitivos_II
+public class aula_02
 {
     public static void main(String[] args)
     {

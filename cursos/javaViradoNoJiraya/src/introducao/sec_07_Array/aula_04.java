@@ -4,9 +4,9 @@
     Teremos uma variável, e a cada ciclo, será atribuido um elemento do array para ela.
 */
 
-package introducao.g_Array;
+package introducao.sec_07_Array;
 
-public class Aula_022___array_III
+public class aula_04
 {
     public static void main(String[] args)
     {
