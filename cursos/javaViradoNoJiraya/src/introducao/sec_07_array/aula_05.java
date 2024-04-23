@@ -3,7 +3,7 @@
     Arrays multidimensionais são arrays que contêm outros arrays.
 */
 
-package introducao.sec_07_Array;
+package introducao.sec_07_array;
 
 public class aula_05
 {

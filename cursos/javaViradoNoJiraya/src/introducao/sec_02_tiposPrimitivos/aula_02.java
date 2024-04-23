@@ -23,7 +23,7 @@
 */
 
 
-package introducao.sec_02_TiposPrimitivos;
+package introducao.sec_02_tiposPrimitivos;
 
 public class aula_02
 {

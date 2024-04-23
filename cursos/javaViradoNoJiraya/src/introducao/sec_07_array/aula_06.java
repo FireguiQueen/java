@@ -3,7 +3,7 @@
     O conceito de "for each" que aprendemos na aula "array_III" também pode se aplicar
     para arrays multidimensionais.
 */
-package introducao.sec_07_Array;
+package introducao.sec_07_array;
 
 public class aula_06
 {

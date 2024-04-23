@@ -7,7 +7,7 @@
     - char: '\u0000' (é o caracter nulo)
     - boolean: false
 */
-package introducao.sec_07_Array;
+package introducao.sec_07_array;
 
 public class aula_02
 {

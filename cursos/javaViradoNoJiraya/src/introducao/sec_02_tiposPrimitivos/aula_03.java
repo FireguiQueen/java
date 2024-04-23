@@ -5,7 +5,7 @@
 
     Por exemplo, podemos forçar um valor quebrado, como '520.20', a ser um valor completamente inteiro: 520.
 */
-package introducao.sec_02_TiposPrimitivos;
+package introducao.sec_02_tiposPrimitivos;
 
 public class aula_03
 {

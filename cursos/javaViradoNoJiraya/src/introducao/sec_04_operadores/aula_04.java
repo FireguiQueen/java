@@ -13,7 +13,7 @@
     >> A ideia é utilizar esses operadores quando a variável for receber o valor dela mesma.
 */
 
-package introducao.sec_04_Operadores;
+package introducao.sec_04_operadores;
 
 public class aula_04
 {

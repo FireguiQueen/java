@@ -2,7 +2,7 @@
 
 // ESTRUTURA CONDICIONAL: SWITCH CASE
 
-package introducao.sec_05_EstruturasCondicionais;
+package introducao.sec_05_estruturasCondicionais;
 
 public class exercicio
 {

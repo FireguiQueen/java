@@ -3,7 +3,7 @@
     "Iterar um array" é a mesma coisa que "percorrer um array", isto é, acessar cada um dos elementos do array.
     -> Para iterar, podemos usar o for loop.
 */
-package introducao.sec_07_Array;
+package introducao.sec_07_array;
 
 public class aula_03
 {

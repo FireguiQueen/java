@@ -11,7 +11,7 @@
     Os operadores de comparação SEMPRE irão retornar um valor booleano.
     Ou seja, quando colocados em expressões, será sempre retornado 'TRUE' ou 'FALSE'.
 */
-package introducao.sec_04_Operadores;
+package introducao.sec_04_operadores;
 
 public class aula_02
 {

@@ -11,7 +11,7 @@
     concatenar valores. Isso significa unir strings a outras strings ou até mesmo a outros tipos de valores,
     como números e booleanos, resultando em uma nova string que combina todos esses elementos.
 */
-package introducao.sec_04_Operadores;
+package introducao.sec_04_operadores;
 
 public class aula_01
 {
