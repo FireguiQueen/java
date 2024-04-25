@@ -57,7 +57,18 @@ ______________
     19/12/2023    | Aula 65 até Aula 
 
 
+<br>
 
+______________
+
+# Lógica de programação Virado no Jiraya
+  Data            |       Aulas assistidas    
+:-----------:     |:-----------------:
+25/04/2024        |
+
+
+
+<br>
 
 
 
