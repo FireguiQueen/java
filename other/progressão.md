@@ -19,11 +19,11 @@
 08/11/2023    | Correções de explicações
 09/11/2023    | Correções de explicações
 
-</br>
+<br>
 
 ______________
 
-</br>
+<br>
 
 # Java Virado No Jiraya | _DevDojo_
   Data            |       Aulas assistidas    
@@ -57,7 +57,18 @@ ______________
 19/12/2023        | Aula 65 até Aula 
 
 
+<br>
 
+______________
+
+# Lógica de programação Virado no Jiraya
+  Data            |       Aulas assistidas    
+:-----------:     |:-----------------:
+25/04/2024        |
+
+
+
+<br>
 
 
 
