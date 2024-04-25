@@ -32,6 +32,7 @@ Aprender isso te ajudará a compreender muitos conceitos ao longo de sua jornada
 Curso &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Professor/entidade | Duração
 :-- | :--: |:--: | 
 [Programar em Java](https://www.youtube.com/playlist?list=PLa75BYTPDNKZLzk3xG-gSXSU_AAq5RP4g) | Italo Grossi, <br>deAlunoParaAluno | 07h 40min
+[Lógica de programação<br> Virado no Jiraya] | William Suane, <br>devDojo | 09h 19min
 
 ### Aprofundamento em java 📚 
 Curso &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Professor/entidade | Duração
