@@ -61,6 +61,8 @@ ______________
 
 ______________
 
+<br>
+
 # Lógica de programação Virado no Jiraya
 |        Data |       Aulas assistidas  |  
 :-----------:|:-----------------:|
