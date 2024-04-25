@@ -1,6 +1,6 @@
 # Programar em Java | _de Aluno para Aluno_
       Data      | Aulas assistidas    
-|:--------------:|:-----------------:|
+:--------------:|:-----------------:
  **21/10/2023** | **Aula 01 até Aula 11**
    22/10/2023   | Aula 12 até Aula 14
    23/10/2023   | Aula 15 até Aula 17
@@ -63,7 +63,7 @@ ______________
 
 # Lógica de programação Virado no Jiraya
        Data       |       Aulas assistidas    
-|:----------------:|:-----------------:
+:----------------:|:-----------------:
     25/04/2024    |
 
 
