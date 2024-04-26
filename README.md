@@ -9,6 +9,8 @@ Bem-vindo ao meu repositório de __Java__! Aqui, compartilho cursos, explicaçõ
 Evitei "instituições educacionais" com ênfase excessiva em estratégias de marketing em detrimento da qualidade de ensino. E por isso, este repositório não possui algumas plataformas bem conhecidas, entre elas: Alura, Rocketseat, DankiCode e etc. 
 >  Embora eu acredite que cursos por si só não preparem alguém para o mercado, considero-os úteis para iniciar o aprendizado.
 
+### _Minhas_ anotações pessoais são relevantes? 
+__De forma resumida: não__. Este repositório foi criado com o intuito de divulgar bons conteúdos relacionados à programação (Java em específico). Minhas anotações e explicações pessoais contidas no diretório "cursos" podem parecer desorganizadas e não muito intuitivas. No entanto, em meu repositório do curso de ciência da computação de Harvard, acredito que fiz um trabalho muito bom que vale a pena sua leitura, caso você ainda não compreenda como os computadores funcionam por trás dos panos.
 
 <br>
 
