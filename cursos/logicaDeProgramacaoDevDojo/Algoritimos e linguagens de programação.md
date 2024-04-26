@@ -12,7 +12,7 @@ No entanto, é importante notar que os algoritmos em nossos programas podem ser 
 
 1. Olhar para os dois lados: direita e esquerda.
 2. Há carros vindo?
-+ Não: Atravessar a rua.
-+ Sim: Eles estão longe?
-+ + &nbsp;&nbsp;&nbsp;Sim: Atravessar a rua.
-+ + &nbsp;&nbsp;&nbsp;Não: Aguardar os carros passarem.
++ __Não__: Atravessar a rua.
++ __Sim__: Eles estão longe?
++ + __SIM__: Atravessar a rua.
++ + __NÃO__: Aguardar os carros passarem.
