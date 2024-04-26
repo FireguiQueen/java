@@ -14,5 +14,5 @@ No entanto, é importante notar que os algoritmos em nossos programas podem ser 
 2. Há carros vindo?
 + Não: Atravessar a rua.
 + Sim: Eles estão longe?
-+ &nbsp;&nbsp;&nbsp;Sim: Atravessar a rua.
-+ &nbsp;&nbsp;&nbsp;Não: Aguardar os carros passarem.
++ + &nbsp;&nbsp;&nbsp;Sim: Atravessar a rua.
++ + &nbsp;&nbsp;&nbsp;Não: Aguardar os carros passarem.
