@@ -16,3 +16,8 @@ No entanto, é importante notar que os algoritmos em nossos programas podem ser 
 + __SIM__: Eles estão longe?
 + + __SIM__: Atravessar a rua.
 + + __NÃO__: Aguardar os carros passarem.
+
+## Linguagem de máquina
+A linguagem de máquina nada mais é do que uma sequência de zeros e uns, representando estados de desligado e ligado. Essa é a única linguagem que nossos computadores são capazes de compreender diretamente.
+
+No entanto, seria extremamente difícil e pouco prático para nós, desenvolvedores, utilizá-la. Por isso, criamos as __linguagens de programação de alto nível__.
