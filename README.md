@@ -10,7 +10,7 @@ Evitei "instituições educacionais" com ênfase excessiva em estratégias de ma
 >  Embora eu acredite que cursos por si só não preparem alguém para o mercado, considero-os úteis para iniciar o aprendizado.
 
 ### _Minhas_ anotações pessoais são relevantes? 
-__De forma resumida: não__. Este repositório foi criado com o intuito de divulgar bons conteúdos relacionados à programação (Java em específico). Minhas anotações e explicações pessoais contidas no diretório "cursos" podem parecer desorganizadas e não muito intuitivas. No entanto, em meu repositório do curso de ciência da computação de Harvard, acredito que fiz um trabalho muito bom que vale a pena sua leitura, caso você ainda não compreenda como os computadores funcionam por trás dos panos.
+__De forma resumida: não__. Este repositório foi criado com o intuito de divulgar bons conteúdos relacionados à programação (Java em específico). Minhas anotações e explicações pessoais contidas no diretório "[cursos](https://github.com/FireguiQueen/Java/tree/main/cursos)" podem parecer desorganizadas e não muito intuitivas. No entanto, em meu repositório do curso de ciência da computação de Harvard, acredito que fiz um trabalho muito bom que vale a pena sua leitura, caso você ainda não compreenda como os computadores funcionam por trás dos panos.
 
 <br>
 
