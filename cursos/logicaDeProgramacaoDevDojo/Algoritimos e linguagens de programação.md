@@ -1,6 +1,6 @@
-# Algoritimos e linguagems de programação
+# Algoritmos e Linguagens de Programação
 
-## Algorítimos
+## Algoritmos
 Algoritmos podem ser definidos como um conjunto de instruções para resolver um problema específico.
 
 Na vida cotidiana, também utilizamos algoritmos, como por exemplo, atravessar uma rua. Para isso, geralmente seguimos um algoritmo simples:
