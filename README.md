@@ -35,7 +35,7 @@ Aprender isso te ajudará a compreender muitos conceitos ao longo de sua jornada
 ### Introdução à java ☕ 
  Curso &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                                                      |                                   Professor/entidade                                    | Duração
 :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------:|:--: | 
- [Programar em Java](https://www.youtube.com/playlist?list=PLa75BYTPDNKZLzk3xG-gSXSU_AAq5RP4g) | [:file_folder:](https://github.com/FireguiQueen/Java/tree/main/cursos/deAlunoParaAluno) | Italo Grossi, <br>deAlunoParaAluno | 07h 40min
+ [Programar em Java](https://www.youtube.com/playlist?list=PLa75BYTPDNKZLzk3xG-gSXSU_AAq5RP4g) \| [:file_folder:](https://github.com/FireguiQueen/Java/tree/main/cursos/deAlunoParaAluno) | Italo Grossi, <br>deAlunoParaAluno | 07h 40min
  [Lógica de programação<br> Virado no Jiraya](https://www.youtube.com/playlist?list=PL62G310vn6nH-uBTKREcUWDkOi2Q9n4OZ)                                                                   |                               William Suane, <br>devDojo                                | 09h 19min
 
 ### Aprofundamento em java 📚 
