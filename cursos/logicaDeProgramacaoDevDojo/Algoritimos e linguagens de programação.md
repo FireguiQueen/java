@@ -26,4 +26,6 @@ A linguagem de máquina nada mais é do que uma sequência de bits (dígitos bin
 
 Nos "primórdios" da computação, foi criado o assembly, uma linguagem de programação. A ideia por trás do assembly era trabalhar com uma linguagem um pouco mais compreensível e menos verbosa do que zeros e uns. E para criar um programa final, o código feito nesta linguagem seria __compilado__ para linguagem de máquina.
 
+Como podemos observar na imagem abaixo, as linguagens "high-level" (de alto nível) contêm palavras do vocabulário inglês. A linguagem assembly também as possui, mas em termos de complexidade na compreensão do código, ela é consideravelmente mais desafiadora. 
+
 ![computer](https://github.com/FireguiQueen/Java/assets/98475125/a46d78c2-2e34-450c-b7a5-6a186c90dc9f)
