@@ -28,4 +28,7 @@ Nos "primórdios" da computação, foi criado o assembly, uma linguagem de progr
 
 Como podemos observar na imagem abaixo, as linguagens "high-level" (de alto nível) contêm palavras do vocabulário inglês. A linguagem assembly também as possui, mas em termos de complexidade na compreensão do código, ela é consideravelmente mais desafiadora. 
 
-![computer](https://github.com/FireguiQueen/Java/assets/98475125/a46d78c2-2e34-450c-b7a5-6a186c90dc9f)
+![computer](https://github.com/FireguiQueen/Java/assets/98475125/a46d78c2-2e34-450c-b7a5-6a186c90dc9f) 
+
+![csexamples](https://github.com/FireguiQueen/Java/assets/98475125/4b9fe8ff-543b-4054-8e57-43e3e34e51d3)
+
