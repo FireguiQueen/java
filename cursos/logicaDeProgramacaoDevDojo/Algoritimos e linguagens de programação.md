@@ -22,9 +22,10 @@ No entanto, é importante notar que os algoritmos em nossos programas podem ser 
 <br>
 
 ## Linguagem de máquina
-A linguagem de máquina nada mais é do que uma sequência de zeros e uns, representando estados de desligado e ligado. Essa é a única linguagem que nossos computadores são capazes de __compreender__.
+A linguagem de máquina nada mais é do que uma sequência de bits (dígitos binários), ou seja, zeros e uns (representando estados de desligado e ligado). Essa é a única linguagem que nossos computadores são capazes de __compreender__. No entanto, seria extremamente difícil e nada prático para nós, desenvolvedores, utilizá-la. Por isso, criamos as linguagens de programação de alto nível.
 
-No entanto, seria extremamente difícil e pouco prático para nós, desenvolvedores, utilizá-la. Por isso, criamos as __linguagens de programação de alto nível__.
+Nos "primórdios" da computação, foi criado o assembly, uma linguagem de programação. A ideia por trás do assembly era trabalhar com uma linguagem um pouco mais compreensível e menos verbosa do que zeros e uns. E para criar um programa final, o código feito nesta linguagem seria __compilado__ para linguagem de máquina.
+
 
 
 ![image](https://github.com/FireguiQueen/Java/assets/98475125/3a238f1d-3a33-437c-9d0a-b1e999cc6601)
