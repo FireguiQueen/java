@@ -27,6 +27,3 @@ A linguagem de máquina nada mais é do que uma sequência de bits (dígitos bin
 Nos "primórdios" da computação, foi criado o assembly, uma linguagem de programação. A ideia por trás do assembly era trabalhar com uma linguagem um pouco mais compreensível e menos verbosa do que zeros e uns. E para criar um programa final, o código feito nesta linguagem seria __compilado__ para linguagem de máquina.
 
 
-
-![image](https://github.com/FireguiQueen/Java/assets/98475125/3a238f1d-3a33-437c-9d0a-b1e999cc6601)
-
