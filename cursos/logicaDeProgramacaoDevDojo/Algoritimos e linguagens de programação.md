@@ -22,9 +22,14 @@ No entanto, é importante notar que os algoritmos em nossos programas podem ser 
 ____________________
 
 ## Linguagem de máquina
-A linguagem de máquina nada mais é do que uma sequência de bits (dígitos binários), ou seja, zeros e uns (representando estados de desligado e ligado). Essa é a única linguagem que nossos computadores são capazes de __compreender__. No entanto, seria extremamente difícil e nada prático para nós, desenvolvedores, utilizá-la. Por isso, criamos as linguagens de programação de alto nível.
+A linguagem de máquina (ou linguagem de montagem) é a única linguagem que nossos computadores são capazes de __compreender__. Esta linguagem nada mais é do que uma sequência de bits (dígitos binários), ou seja, zeros e uns. O número 0 (zero) representa o estado de _desligado_, e o número 1 (um) representa o estado de _ligado_. Com esta junção de zeros e uns, somos capazes de representar informações, e por consquência, desenvolver softwares (jogos, drivers, aplicativos comuns e etc..).    
+
+No entanto, seria extremamente difícil e nada prático para nós, desenvolvedores, utilizá-la para a crição de software. Por isso, criamos as linguagens de programação de alto nível.
 
 Nos "primórdios" da computação, foi criado o assembly, uma linguagem de programação. A ideia por trás do assembly era trabalhar com uma linguagem um pouco mais compreensível e menos verbosa do que zeros e uns. E para criar um programa final, o código feito nesta linguagem seria __compilado__ para linguagem de máquina.
+
+![cs3](https://github.com/FireguiQueen/Java/assets/98475125/fab22565-c394-4bbc-8ecb-eaf320039160)
+
 
 Como podemos observar na imagem abaixo, as linguagens "high-level" (de alto nível) contêm palavras do vocabulário inglês. A linguagem assembly também as possui, mas em termos de complexidade na compreensão do código, ela é consideravelmente mais desafiadora. 
    
