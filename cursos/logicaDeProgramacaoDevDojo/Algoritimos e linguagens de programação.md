@@ -33,6 +33,10 @@ Para se concluir o desenvolvimento de um programa, o código feito nessa linguag
 
 ![cs3](https://github.com/FireguiQueen/Java/assets/98475125/fab22565-c394-4bbc-8ecb-eaf320039160)
 
+### Linguagens de programação: High-level e low-level
+Uma linguagem "high-level" é quando sua sintaxe é voltada para o entendimento humano. Isso significa que esse tipo de linguagem é muito mais intuitivo, amigável e mais fácil de aprender. Além disso, elas possuem uma alta portabilidade, isto é, são capazes de serem executadas diferentes tipos de sistemas sem grandes alterações. 
+
+Uma linguagem de programação de baixo nível é aquela em que a escrita do código é mais próxima da linguagem entendida pela máquina. Isso implica em uma sintaxe mais complexa e menos comandos intuitivos. Programas escritos em linguagens de baixo nível geralmente apresentam menor portabilidade. Por exemplo, ao comparar com linguagens de alto nível como C++, onde o código fonte é compilado e adaptado com base no hardware do usuário, linguagens de baixo nível como Assembly não passam por esse processo de compilação específica. Consequentemente, um código escrito em Assembly para um computador de 1994 pode não funcionar em máquinas com hardwares mais modernos.
 
 Como podemos observar na imagem abaixo, as linguagens "high-level" (de alto nível) contêm palavras do vocabulário inglês. A linguagem assembly também as possui, mas em termos de complexidade na compreensão do código, ela é consideravelmente mais desafiadora. 
    
