@@ -1,9 +1,11 @@
 # Algoritmos e Linguagens de Programação
 
-## Algoritmos
-Algoritmos podem ser definidos como um conjunto de instruções para resolver um problema específico.
+## Algoritimos
+Algoritmos são utilizados para resolver problemas de forma eficiente e prática. Um algoritimo Pode ser definido como um conjunto de instruções para resolver um problema específico.
 
-Na vida cotidiana, também utilizamos algoritmos, como por exemplo, atravessar uma rua. Para isso, geralmente seguimos um algoritmo simples:
+Algoritmos frequentemente são relacionados diretamente à computação, onde o código de um software é formado por um ou mais algoritimos. Cada um desempenhando um papel crucial para o funcionamento do programa.
+
+Mas a realidade é que os algoritmos não são exclusivos da computação e também estão presentes em nossa vida cotidiana, como, por exemplo, atravessar uma rua. Para isso, geralmente seguimos um algoritmo simples:
 
 1. Olhar para os dois lados: direita e esquerda.
 2. Se houver carros vindo, esperar. Se não houver carros, atravessar a rua.
