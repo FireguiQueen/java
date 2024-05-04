@@ -27,7 +27,13 @@ A linguagem de máquina nada mais é do que uma sequência de bits (dígitos bin
 Nos "primórdios" da computação, foi criado o assembly, uma linguagem de programação. A ideia por trás do assembly era trabalhar com uma linguagem um pouco mais compreensível e menos verbosa do que zeros e uns. E para criar um programa final, o código feito nesta linguagem seria __compilado__ para linguagem de máquina.
 
 Como podemos observar na imagem abaixo, as linguagens "high-level" (de alto nível) contêm palavras do vocabulário inglês. A linguagem assembly também as possui, mas em termos de complexidade na compreensão do código, ela é consideravelmente mais desafiadora. 
-
+   
 ![csexamples](https://github.com/FireguiQueen/Java/assets/98475125/4b9fe8ff-543b-4054-8e57-43e3e34e51d3)
 
-### 
+### Diferentes formas de programar: Uma única forma de compreender.
+Para criar um software nós podemos optar por linguagens de alto nível, como Java, C e C++ (...), ou adentrar o mundo das linguagens de baixo nível, como o Assembly. Até mesmo a linguagem de máquina está ao nosso alcance para expressar nossas ideias em código.
+
+Porém, independente da linguagem escolhida, todas compartilham um propósito singular: passar por um processo de compilação para se traduzir em uma sequência de zeros e uns, a __única__ linguagem que nossas máquinas conseguem compreender.
+
+Alguns podem argumentar que esta afirmação não se aplica às linguagens interpretadas, como o JavaScript, onde o código não é compilado diretamente para binário. Em vez disso, ele é interpretado por um motor, como o V8 do Google. No entanto, mesmo nesses casos, o código é eventualmente traduzido para linguagem de montagem para que a máquina possa compreendê-lo.
+
