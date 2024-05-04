@@ -26,7 +26,8 @@ A linguagem de máquina (ou linguagem de montagem) é a única linguagem que nos
 
 No entanto, seria extremamente difícil e nada prático para nós, desenvolvedores, utilizá-la para a crição de software. Por isso, criamos as linguagens de programação de alto nível.
 
-Nos "primórdios" da computação, foi criado o assembly, uma linguagem de programação. A ideia por trás do assembly era trabalhar com uma linguagem um pouco mais compreensível e menos verbosa do que zeros e uns. E para criar um programa final, o código feito nesta linguagem seria __compilado__ para linguagem de máquina.
+## Assembly
+Nos "primórdios" da computação, foi criado o assembly, que na época, poderia ser considerada uma __linguagem de programação de alto nível__. A ideia por trás do assembly era trabalhar com uma linguagem um pouco mais compreensível e menos verbosa do que __zeros e uns__. Para concluir o desenvolvimento do programa, o código feito nessa linguagem seria __compilado para linguagem de máquina__. Em outras palavras, o software desenvolvido em assembly passaria por um processo de tradução, resultando em código de máquina.
 
 ![cs3](https://github.com/FireguiQueen/Java/assets/98475125/fab22565-c394-4bbc-8ecb-eaf320039160)
 
