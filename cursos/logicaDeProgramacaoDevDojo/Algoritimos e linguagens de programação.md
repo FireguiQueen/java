@@ -12,12 +12,12 @@ Mas a realidade é que os algoritmos não são exclusivos da computação e tamb
 
 No entanto, é importante notar que os algoritmos em nossos programas podem ser muito mais complexos. Por exemplo, o algoritmo mencionado anteriormente poderia ser expandido da seguinte forma:
 
-1. Olhar para os dois lados: direita e esquerda.
+1. Olhar para os dois lados: __direita e esquerda__.
 2. Há carros vindo?
 + __NÃO__: atravessar a rua.
 + __SIM__: Eles estão longe?
 + + __SIM__: Atravessar a rua.
-+ + __NÃO__: Aguardar os carros passarem.
++ + __NÃO__: Aguardar os carros passarem para atravessar a rua.
 
 <br>
 
