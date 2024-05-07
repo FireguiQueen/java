@@ -24,5 +24,7 @@ da máquina virtual java (JVM). Ela será a responsavel por compreender esses ar
 (bits, zeros e uns). A vantagem disso é que, qualquer software feito em java pode ser capaz de rodar em qualquer sistema operacional, basta
 o mesmo ter uma JVM. 
 
-Em suma, o código feito em java é feito para ser lido pela JVM, então basta cada sistema operacional ter sua própria JVM, tornando
-este software altamente portável. 
+Em suma, o código feito em java é feito para ser lido pela JVM, então basta cada sistema operacional ter sua própria JVM, tornando este software altamente portável. 
+
+![JVM](https://github.com/FireguiQueen/Java/assets/98475125/0f973e29-41f0-424e-b832-634ada8c4d5c)
+
