@@ -29,7 +29,6 @@ Não há nenhum requisito caso você queira começar em "introdução ao Java", 
 Aprender isso te ajudará a compreender muitos conceitos ao longo de sua jornada em Java (ou em qualquer outra tecnologia).
 
 <br>
-
 ___________________
 
 ## 🎓 Formação geral 
