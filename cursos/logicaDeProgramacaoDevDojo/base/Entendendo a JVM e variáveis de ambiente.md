@@ -23,7 +23,7 @@ _____________
 # Variáveis de ambiente: como somos capazes de executar comandos no terminal? 
 Um dos comandos mais importantes ao lidar com Java no terminal é o javac (Java compiler). Ele é responsável por transformar nosso arquivo .java em um arquivo .class. Mas como nosso sistema operacional interpreta esse comando quando o digitamos no terminal?
 
-Quando instalamos o JDK em nossa máquina, um diretório é criado para ele em algum lugar. Esse diretório contém tudo relacionado ao kit de desenvolvimento Java, incluindo o comando javac no subdiretório bin. Portanto, se executarmos esse comando dentro desse subdiretório, ele será reconhecido automaticamente.
+Quando instalamos o JDK em nossa máquina, um diretório é criado para ele em algum lugar. Esse diretório contém tudo relacionado ao kit de desenvolvimento Java, incluindo o comando javac no subdiretório bin (caso você use linux). Portanto, se executarmos esse comando dentro desse subdiretório, ele será reconhecido automaticamente.
 
 Mas como o mesmo comando é reconhecido quando o usamos em uma IDE? Afinal, ela está em outro diretório. É simples, graças às variáveis de ambiente. Ao clicarmos em um botão na IDE para compilar nosso arquivo, uma variável de ambiente chamada JAVA_HOME aponta para o diretório onde o javac está localizado.
 
