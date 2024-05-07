@@ -1,6 +1,8 @@
 # Hello World em Java
 
-### Código
+## Código
+Não se preocupe em entender agora. Apenas saiba que todo arquivo `.java` terá uma instrução
+informando que o arquivo é uma classe pública `public class`. 
 ```java 
 public class HelloWorldEmJava
 {
@@ -10,3 +12,6 @@ public class HelloWorldEmJava
     }
 }
 ```
+
+## Compilação
+Agora o nosso código feito assima será compilado. Utilize `javac` para compilá-lo.
