@@ -16,7 +16,9 @@ Em suma, o código feito em Java é feito para ser lido pela JVM, então basta c
 
 ![JVM](https://github.com/FireguiQueen/Java/assets/98475125/0f973e29-41f0-424e-b832-634ada8c4d5c)
 
-# Variáveis de ambiente: como somos capazes de executar comandos no terminal? 
-Um dos principais comandos quando se trata de Java e terminal é o `javac` (Java compiler). Ele é responsável por pegar nosso arquivo `.java` e transformá-lo em um arquivo `.class`.
+<br>
 
-Mas como nosso sistema operacional consegue entender esse comando quando o digitamos no terminal?
+_____________
+
+# Variáveis de ambiente: como somos capazes de executar comandos no terminal? 
+Um dos principais comandos quando se trata de Java e terminal é o `javac` (Java compiler). Ele é responsável por pegar nosso arquivo `.java` e transformá-lo em um arquivo `.class`. Mas como nosso sistema operacional consegue entender esse comando quando o digitamos no terminal?
