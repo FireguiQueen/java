@@ -14,5 +14,5 @@ a todo tempo valores estão sendo alterados, e isto tudo está salvo em nossa me
 Quando abrimos o bloco de notas e começamos a escrever, todos aqueles caracteres
 estão salvos em nossa memória RAM até clicarmos em "salvar arquivo" ou a famosa tecla de atalho "CTRL + S". 
 
-
-
+Na imagem abaixo, podemos ver os processos e o quanto de memória RAM eu tenho no total, e o quanto há de memória livre.
+![image](https://github.com/FireguiQueen/Java/assets/98475125/cd049beb-5860-42a2-9451-b4f3cd6a9f46)
