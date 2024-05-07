@@ -19,3 +19,5 @@ Na imagem abaixo, podemos ver os processos e o quanto de memória RAM eu tenho n
 ![image](https://github.com/FireguiQueen/Java/assets/98475125/6284782f-c636-4ede-b738-f4161f44ad43)
 
 Caso eu abra o bloco de notas e coloque dezenas de milhares de caracteres, podemos ver um grande decaimento em relação ao quanto de memória livre eu tenho para uso: 
+![image](https://github.com/FireguiQueen/Java/assets/98475125/922a7689-f8b4-4d12-a6d7-8911f77f7f3d)
+
