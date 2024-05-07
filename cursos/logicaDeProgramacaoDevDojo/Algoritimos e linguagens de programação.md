@@ -42,10 +42,10 @@ Como podemos observar na imagem abaixo, as linguagens "high-level" (de alto nív
    
 ![csexamples](https://github.com/FireguiQueen/Java/assets/98475125/4b9fe8ff-543b-4054-8e57-43e3e34e51d3)
 
-### Diferentes formas de programar: Uma única forma de compreender.
-Para criar um software nós podemos optar por linguagens de alto nível, como Java, C e C++ (...), ou adentrar o mundo das linguagens de baixo nível, como o Assembly. Até mesmo a linguagem de máquina está ao nosso alcance para expressar nossas ideias em código.
+____________________
 
-Porém, independente da linguagem escolhida, todas compartilham um propósito singular: passar por um processo de compilação para se traduzir em uma sequência de zeros e uns, a __única__ linguagem que nossas máquinas conseguem compreender.
+### Diferentes formas de programar: Uma única forma de compreender.
+Para criar um software nós podemos optar por linguagens de alto nível, como Java, C e C++ (...), ou adentrar o mundo das linguagens de baixo nível, como o Assembly. Porém, independente da linguagem escolhida, todas compartilham um propósito singular: passar por um processo de compilação para se traduzir em uma sequência de zeros e uns, a __única__ linguagem que nossas máquinas conseguem compreender.
 
 Alguns podem argumentar que esta afirmação não se aplica às linguagens interpretadas, como o JavaScript, onde o código não é compilado diretamente para binário. Em vez disso, ele é interpretado por um motor, como o V8 do Google. No entanto, mesmo nesses casos, o código é eventualmente traduzido para linguagem de montagem para que a máquina possa compreendê-lo.
 
