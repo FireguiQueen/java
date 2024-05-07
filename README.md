@@ -6,7 +6,7 @@ Bem-vindo ao meu repositório de __Java__! Aqui, compartilho cursos, explicaçõ
 <q cite="Guilherme P.">A jornada de aprendizado é mais rica quando compartilhada.</q> Aproveite! =)
 
 ## Como os cursos foram escolhidos?
-Evitei "instituições educacionais" com ênfase excessiva em estratégias de marketing em detrimento da qualidade de ensino. E por isso, este repositório não possui algumas plataformas bem conhecidas, entre elas: Alura, Rocketseat, DankiCode e etc. 
+Evitei "instituições educacionais" com ênfase excessiva em estratégias de marketing em detrimento da qualidade de ensino. E por isso, este repositório não possui algumas plataformas bem conhecidas, entre elas: Alura, Rocketseat, DankiCode, Trybe e etc. 
 >  Embora eu acredite que cursos por si só não preparem alguém para o mercado, considero-os úteis para iniciar o aprendizado.
 
 ### _Minhas_ anotações pessoais são relevantes? 
