@@ -1,23 +1,18 @@
 ### Disclaimer 
-Estarei assumindo que você tenha conhecimento em relação a criação de informação
-por parte dos computadores. Entendendo o que são bits, e como e por que eles são utilizados. 
-
-Caso você não saiba, sinta-se livre para olhar meu repositório de ciência da computação.
+Vamos supor que você já tenha conhecimento sobre como os computadores geram informações, entendendo conceitos como bits, sua utilização e sua importância. Caso não tenha esse conhecimento, fique à vontade para consultar meu repositório de ciência da computação.
 
 # Memória RAM
-Uma coisa que nos certificamos de fazer é garantir que haja memória RAM alocada
-em nossa máquina. Esta memória é a memória responsável por salvar dados de maneira temporária. 
+Uma medida essencial que tomamos é assegurar que haja memória RAM alocada em nossas máquinas. Essa memória é responsável por armazenar dados temporariamente.
 
-Por exemplo, ao executar um software, como um Sistema operacional, há diversas instruções ocorrendo por debaixo dos panos,
-a todo tempo valores estão sendo alterados, e isto tudo está salvo em nossa memória ram. 
+Por exemplo, ao executar um software, como um sistema operacional, uma série de instruções ocorrem em segundo plano constantemente, resultando em alterações de valores que são temporariamente armazenadas em nossa memória RAM.
 
 ### Bloco de notas 
-Quando abrimos o bloco de notas e começamos a escrever, todos aqueles caracteres
-estão salvos em nossa memória RAM até clicarmos em "salvar arquivo" ou a famosa tecla de atalho "CTRL + S". 
+Quando iniciamos o Bloco de Notas e começamos a digitar, cada caractere que digitamos é armazenado temporariamente na memória RAM do computador. Isso significa que enquanto estamos digitando, a memória RAM está ativamente guardando cada letra, número ou símbolo que inserimos (em forma de bits, claro), permitindo que o sistema operacional processe e exiba esses dados em tempo real.
 
-Na imagem abaixo, podemos ver os processos e o quanto de memória RAM eu tenho no total, e o quanto há de memória livre 
-![image](https://github.com/FireguiQueen/Java/assets/98475125/6284782f-c636-4ede-b738-f4161f44ad43)
+Na imagem abaixo, podemos observar os processos que estão em execução, juntamente com a quantidade total de memória RAM e a quantidade atualmente livre.
+![ramUsage](https://github.com/FireguiQueen/Java/assets/98475125/1a374695-4ad5-451d-a36c-6b226dc426b3)
 
-Caso eu abra o bloco de notas e coloque dezenas de milhares de caracteres, podemos ver um grande decaimento em relação ao quanto de memória livre eu tenho para uso: 
-![image](https://github.com/FireguiQueen/Java/assets/98475125/922a7689-f8b4-4d12-a6d7-8911f77f7f3d)
+
+Ao inserir muitos caracteres, podemso ver uma redução significativa na quantidade de memória RAM disponível para uso. Isso ocorre porque cada caractere adicionado ao documento aumenta a carga sobre a memória RAM, uma vez que ela precisa armazenar temporariamente todos esses dados em seu espaço disponível.
+![ramUsage](https://github.com/FireguiQueen/Java/assets/98475125/922a7689-f8b4-4d12-a6d7-8911f77f7f3d)
 
