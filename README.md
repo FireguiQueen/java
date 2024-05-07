@@ -30,6 +30,8 @@ Aprender isso te ajudará a compreender muitos conceitos ao longo de sua jornada
 
 <br>
 
+___________________
+
 ## 🎓 Formação geral 
 
 ### Introdução à java ☕ 
