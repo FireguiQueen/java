@@ -28,7 +28,6 @@ ___________________
 Não há nenhum requisito caso você queira começar em "introdução ao Java", mas é altamente recomendado entender como um computador funciona. 
 Aprender isso te ajudará a compreender muitos conceitos ao longo de sua jornada em Java (ou em qualquer outra tecnologia).
 
-<br>
 ___________________
 
 ## 🎓 Formação geral 
