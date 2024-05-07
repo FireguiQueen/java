@@ -18,5 +18,18 @@ public class programa
 }
 ```
 
+Temos também a possibilidade de __declarar__ uma variável e atruibur um valor a ela futuramente.
+```java
+public class programa
+{
+    public static void main(String[] args) {
+        int idade; 
+        idade = 50;
+        
+        System.out.print(idade);
+    }
+}
+```
+
 ## Memória volátil e variáveis
 Quando criamos uma variável 
