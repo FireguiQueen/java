@@ -11,8 +11,11 @@ em nossa máquina. Esta memória é a memória responsável por salvar dados de 
 Por exemplo, ao executar um software, como um Sistema operacional, há diversas instruções ocorrendo por debaixo dos panos,
 a todo tempo valores estão sendo alterados, e isto tudo está salvo em nossa memória ram. 
 
+### Bloco de notas 
 Quando abrimos o bloco de notas e começamos a escrever, todos aqueles caracteres
 estão salvos em nossa memória RAM até clicarmos em "salvar arquivo" ou a famosa tecla de atalho "CTRL + S". 
 
-Na imagem abaixo, podemos ver os processos e o quanto de memória RAM eu tenho no total, e o quanto há de memória livre.
-![image](https://github.com/FireguiQueen/Java/assets/98475125/cd049beb-5860-42a2-9451-b4f3cd6a9f46)
+Na imagem abaixo, podemos ver os processos e o quanto de memória RAM eu tenho no total, e o quanto há de memória livre 
+![image](https://github.com/FireguiQueen/Java/assets/98475125/6284782f-c636-4ede-b738-f4161f44ad43)
+
+Caso eu abra o bloco de notas e coloque dezenas de milhares de caracteres, podemos ver um grande decaimento em relação ao quanto de memória livre eu tenho para uso: 
