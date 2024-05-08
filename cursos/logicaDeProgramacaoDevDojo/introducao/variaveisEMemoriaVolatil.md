@@ -68,11 +68,7 @@ float salario = 4000.50
 É possível informar um caracter de duas formas:
 ```java
 char letra = 'a';
-```
-
-ou 
-
-```java
+    // ou
 char letra = 65; 
 ```
 
