@@ -65,8 +65,8 @@ ____________________________
 # Lógica de programação Virado no Jiraya
 |    Data    | Aulas assistidas  |  
 |:----------:|:-----------------:|
-| 25/04/2024 | Aula 1 até Aula 2 |
-| 07/05/2024 |  Aula 3 até Aula  |
+| 25/04/2024 | Aula 01 até Aula 02 |
+| 07/05/2024 |  Aula 03 até Aula 07  |
 
 
 
