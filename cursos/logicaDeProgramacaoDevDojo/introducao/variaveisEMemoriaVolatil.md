@@ -32,4 +32,12 @@ public class programa
 ```
 
 ## Memória volátil e variáveis
-Quando criamos uma variável 
+Quando criamos uma variável, na verdade, o que estamos realmente fazendo é:
+1. Alocar um espaço em memória;
+2. Este espaço recebe um endereço;
+3. Atribuimos um valor a este endereço.
+
+![image](https://github.com/FireguiQueen/Java/assets/98475125/fda89935-d180-4a56-a0ff-f7be5b1015df)
+
+Então, quando printamos o valor de nossa variável no terminal através do `System.out.print(idade)`, na verdade, `idade` refere-se
+ao endereço do espaço alocado que armazena um valor. 
