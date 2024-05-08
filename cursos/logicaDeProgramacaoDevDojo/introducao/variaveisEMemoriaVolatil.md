@@ -63,7 +63,7 @@ float salario = 4000.50
 <br>
 
 #### Tipo de dado para caracteres 
-- __char__: ao declarar uma variável do tipo char, é alocado espaço em memória de 8 bits.
+- __char__: ao declarar uma variável do tipo char, é alocado espaço em memória de 8 bits. Este espaço alocado em memória é utilizado para armazenar __somente__ 1 caracter, nada além disso. Não tente colocar, por exemplo, dois caracteres. Pois você estará tentando colocar 16 bits de informação em um espaço que aguenta apenas 8.  
 
 É possível informar um caracter de duas formas:
 ```java
@@ -71,8 +71,9 @@ char letra = 'a';
     // ou
 char letra = 65; 
 ```
-___No fim, tanto a letra 'a' quanto o valor 65, representam o valor binário de `01100001`.__
+___No fim, tanto a letra 'a' quanto o valor 65, representam o valor de `01100001` (8 bits).__
 
 <br>
- 
-- boolean: 
+
+ #### Tipo de dado para representar verdadeiro/falso 
+- __boolean__: ao declarar uma variável do tipo boolean, é alocado espaço em memória de 1 bit, este digito binário pode ser __zero__ ou __um__. Zero representa 'falso' e um representa 'verdadeiro'.  
