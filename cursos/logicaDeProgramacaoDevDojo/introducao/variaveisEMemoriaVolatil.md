@@ -60,6 +60,7 @@ long totalPessoasMundo = 8000000000L;
 float salario = 4000.50
 ```
 
+<br>
 
 #### Tipo de dado para caracteres 
 - __char__: ao declarar uma variável do tipo char, é alocado espaço em memória de 8 bits.
@@ -70,9 +71,8 @@ char letra = 'a';
     // ou
 char letra = 65; 
 ```
-
 ___No fim, tanto a letra 'a' quanto o valor 65, representam o valor binário de `01100001`.__
 
-
-- 
+<br>
+ 
 - boolean: 
