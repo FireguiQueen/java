@@ -46,7 +46,7 @@ ao endereço do espaço alocado que armazena um valor.
 ## Valores primitivos na memória volátil
 Em java, temos os seguintes valores primitivos.
 
-#### Tipo de dado para valores numéricos
+### Tipo de dado para valores numéricos
 - __byte__: ao declarar uma variável do tipo byte, é alocado espaço em memória de 8 bits (1 byte). Números decimais que exedem este valor para ser repretando em formato binário, não serão capazes de pertencer a este espaço alocado. 
 - __short__: ao declarar uma variável do tipo short, é alocado espaço em memória de 16 bits. Números decimais que exedem este valor para ser repretando em formato binário, não serão capazes de pertencer a este espaço alocado.  
 - __int__: ao declarar uma variável do tipo int, é alocado espaço em memória de 32 bits. Números decimais que exedem este valor para ser repretando em formato binário, não serão capazes de pertencer a este espaço alocado.
@@ -62,7 +62,7 @@ float salario = 4000.50
 
 <br>
 
-#### Tipo de dado para caracteres 
+### Tipo de dado para caracteres 
 - __char__: ao declarar uma variável do tipo char, é alocado espaço em memória de 8 bits. Este espaço alocado em memória é utilizado para armazenar __somente__ 1 caracter, nada além disso. Não tente colocar, por exemplo, dois caracteres. Pois você estará tentando colocar 16 bits de informação em um espaço que aguenta apenas 8.  
 
 É possível informar um caracter de duas formas:
@@ -75,5 +75,5 @@ __No fim, tanto a letra 'a' quanto o valor 65, representam o valor de `01100001`
 
 <br>
 
- #### Tipo de dado para representar verdadeiro/falso 
+ ### Tipo de dado para representar verdadeiro/falso 
 - __boolean__: ao declarar uma variável do tipo boolean, é alocado espaço em memória de 1 bit, este digito binário pode ser __zero__ ou __um__. Zero representa 'falso' e um representa 'verdadeiro'.  
