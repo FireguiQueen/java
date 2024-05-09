@@ -8,6 +8,7 @@ Não. Os comentários permanecem apenas durante a fase de manutenção/desenvolv
 
 ## Perigo
 Comentar um trecho de código pode indicar alguns problemas no código-fonte. Por exemplo, se você se vê precisando comentar frequentemente partes do código, isso pode sinalizar que o código está mal estruturado ou mal documentado. Comentários excessivos muitas vezes indicam que o código não está claro o suficiente por si só, o que pode dificultar o entendimento para outros desenvolvedores (e até para você mesmo no futuro).
+
 É importante lembrar que comentários devem ser usados de forma pontual e estratégica, para esclarecer partes complexas ou fornecer informações adicionais que não são óbvias apenas lendo o código. Se você se encontra comentando repetidamente trechos extensos de código, pode ser hora de revisar e refatorar o código para torná-lo mais claro e autoexplicativo.
 
 
