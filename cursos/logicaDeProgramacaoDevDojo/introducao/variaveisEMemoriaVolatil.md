@@ -1,6 +1,6 @@
 # Variáveis
-As variáveis são formas de armazenar valores em um determinado endereço. Podendo
-alterá-los e utilizá-los como for conveniente, elas desempenham um papel crucial 
+As variáveis são formas de armazenar __valores__ em um determinado endereço da memória. Podendo
+alterá-los e utilizá-los como for conveniente, as variáveis desempenham um papel crucial 
 em nosso programa. 
 
 Em java, para criamos uma variável, precisamos de três coisas essencias:
