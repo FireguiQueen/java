@@ -15,7 +15,7 @@ Na imagem abaixo, podemos observar os processos que estão em execução, juntam
 
 <br>
 
-Ao inserir muitos caracteres, podemso ver uma redução significativa na quantidade de memória RAM disponível para uso. Isso ocorre porque cada caractere adicionado ao documento aumenta a carga sobre a memória RAM, uma vez que ela precisa armazenar temporariamente todos esses dados em seu espaço disponível.
+Ao inserir muitos caracteres, podemos ver uma redução significativa na quantidade de memória RAM disponível para uso. Isso ocorre porque cada caractere adicionado ao documento aumenta a carga sobre a memória RAM, uma vez que ela precisa armazenar temporariamente todos esses dados em seu espaço disponível.
 
 ![ramUsage](https://github.com/FireguiQueen/Java/assets/98475125/922a7689-f8b4-4d12-a6d7-8911f77f7f3d)
 
