@@ -11,6 +11,7 @@ Comentar um trecho de código pode indicar alguns problemas no código-fonte. Po
 
 É importante lembrar que comentários devem ser usados de forma pontual e estratégica, para esclarecer partes complexas ou fornecer informações adicionais que não são óbvias apenas lendo o código. Se você se encontra comentando repetidamente trechos extensos de código, pode ser hora de revisar e refatorar o código para torná-lo mais claro e autoexplicativo.
 
+__________
 
 ## Tipos
 
