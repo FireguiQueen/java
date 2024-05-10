@@ -23,6 +23,8 @@ Comentários que são feitos linha por linha. `//`
     // !  
 ```
 
+<br>
+
 ### Block
 Comentários que são feitos dentro de um bloco. `/* */`
 ```java
@@ -31,6 +33,8 @@ Comentários que são feitos dentro de um bloco. `/* */`
         bloco.
      */
 ```
+
+<br>
 
 ### Java Doc 
 Geralmente utilizado para documentar classes, ou seja, grandes trechos de códigos
