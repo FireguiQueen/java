@@ -55,22 +55,21 @@ Se determinado tipo de dado aloca um espaço capaz de armazenar Y de bits, não 
 - __`double`__ ao declarar uma variável do tipo double, é alocado espaço em memória de 64 bits. A diferença entre o double e o long, é que o double aceita números decimais.
 
 ```java
-short idade = 77;
-int totalPessoasBrasileiras = 250000;
-long totalPessoasMundo = 8000000000L;
-float salario = 4000.50F;
+    short idade = 77;
+    int totalPessoasBrasileiras = 250000;
+    long totalPessoasMundo = 8000000000L;
+    float salario = 4000.50F;
 ```
 
 <br>
 
 ## 🔤 Tipo de dado para caracteres 
 - __`char`__ ao declarar uma variável do tipo char, é alocado espaço em memória de 8 bits. Este espaço alocado em memória é utilizado para armazenar __somente__ 1 caracter, nada além disso. Não tente colocar, por exemplo, dois caracteres. Pois você estará tentando colocar 16 bits de informação em um espaço que aguenta apenas 8.  
-
-É possível informar um caracter de duas formas:
 ```java
-char letra = 'a';
-    // ou
-char letra = 65; 
+    // É possível informar um caracter de duas formas:
+    char letra = 'a';
+        // ou
+    char letra = 65; 
 ```
 > No fim, tanto a letra 'a' quanto o valor 65, representam o valor de `01100001` (8 bits).
 
