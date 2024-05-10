@@ -18,7 +18,6 @@ Em suma, se condição do `if` for avaliada como falsa, o else __será__ executa
 E caso a condição do `if` seja avalaida como 'verdadeira', o else __não será__ executado.
 
 ```java
-    /** <b>oi</b> */
     if (10 > 20) // esta condição é avaliada como false pois 10 não é maior que 20.
     {
         System.out.println("Esta mensagem jamais será printada.");
