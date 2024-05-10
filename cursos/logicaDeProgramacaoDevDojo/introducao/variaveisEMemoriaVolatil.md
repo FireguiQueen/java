@@ -55,12 +55,12 @@ _______________________
 ### 🔢 Tipo de dado para valores numéricos
 Se determinado tipo de dado aloca um espaço capaz de armazenar Y de bits, não será possível guardar valores (neste espaço) que excedam Y bits para sua representação.
 
-- __`byte`:__ ao declarar uma variável do tipo byte, é alocado espaço em memória de 8 bits (1 byte).
-- __`short`__: ao declarar uma variável do tipo short, é alocado espaço em memória de 16 bits (2 bytes). 
-- __`int`__: ao declarar uma variável do tipo int, é alocado espaço em memória de 32 bits.
-- __`long`__: ao declarar uma variável do tipo long, é alocado espaço em memória de 64 bits. 
-- __`float`__: ao declarar uma variável do tipo float, é alocado espaço em memória de 32 bits. A diferença entre o float e o int, é que o float aceita números decimais (números com vírgula, ex: 3.50)
-- __`double`__: ao declarar uma variável do tipo double, é alocado espaço em memória de 64 bits. A diferença entre o double e o long, é que o double aceita números decimais.
+- __`byte`__ ao declarar uma variável do tipo byte, é alocado espaço em memória de 8 bits (1 byte).
+- __`short`__ ao declarar uma variável do tipo short, é alocado espaço em memória de 16 bits (2 bytes). 
+- __`int`__ ao declarar uma variável do tipo int, é alocado espaço em memória de 32 bits.
+- __`long`__ ao declarar uma variável do tipo long, é alocado espaço em memória de 64 bits. 
+- __`float`__ ao declarar uma variável do tipo float, é alocado espaço em memória de 32 bits. A diferença entre o float e o int, é que o float aceita números decimais (números com vírgula, ex: 3.50)
+- __`double`__ ao declarar uma variável do tipo double, é alocado espaço em memória de 64 bits. A diferença entre o double e o long, é que o double aceita números decimais.
 
 ```java
 short idade = 77;
@@ -72,7 +72,7 @@ float salario = 4000.50F;
 <br>
 
 ### 🔤 Tipo de dado para caracteres 
-- __`char`__: ao declarar uma variável do tipo char, é alocado espaço em memória de 8 bits. Este espaço alocado em memória é utilizado para armazenar __somente__ 1 caracter, nada além disso. Não tente colocar, por exemplo, dois caracteres. Pois você estará tentando colocar 16 bits de informação em um espaço que aguenta apenas 8.  
+- __`char`__ ao declarar uma variável do tipo char, é alocado espaço em memória de 8 bits. Este espaço alocado em memória é utilizado para armazenar __somente__ 1 caracter, nada além disso. Não tente colocar, por exemplo, dois caracteres. Pois você estará tentando colocar 16 bits de informação em um espaço que aguenta apenas 8.  
 
 É possível informar um caracter de duas formas:
 ```java
@@ -85,4 +85,4 @@ char letra = 65;
 <br>
 
  ### ❎ Tipo de dado para representar verdadeiro/falso 
-- __boolean__: ao declarar uma variável do tipo boolean, é alocado espaço em memória de 1 bit, este digito binário pode ser __zero__ ou __um__. Zero representa 'falso' e um representa 'verdadeiro'.  
+- __`boolean`__ ao declarar uma variável do tipo boolean, é alocado espaço em memória de 1 bit, este digito binário pode ser __zero__ ou __um__. Zero representa 'falso' e um representa 'verdadeiro'.  
