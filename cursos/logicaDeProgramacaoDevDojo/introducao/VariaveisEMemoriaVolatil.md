@@ -1,7 +1,5 @@
 # Variáveis
-As variáveis são formas de armazenar __valores__ em um determinado endereço da memória. Podendo
-alterá-los e utilizá-los como for conveniente, as variáveis desempenham um papel crucial 
-em nosso programa. 
+Uma variável é um espaço na memória do computador destinado a um dado que é alterado durante a execução do algoritmo. Para funcionar corretamente, as variáveis precisam ser definidas por nomes e tipos.
 
 Em java, para criamos uma variável, precisamos de três coisas essencias:
 1. Definir o __tipo de dado__ que esta variável irá armazenar;
