@@ -19,3 +19,4 @@ Ao inserir muitos caracteres, podemos ver uma redução significativa na quantid
 
 ![ramUsage](https://github.com/FireguiQueen/Java/assets/98475125/922a7689-f8b4-4d12-a6d7-8911f77f7f3d)
 
+
