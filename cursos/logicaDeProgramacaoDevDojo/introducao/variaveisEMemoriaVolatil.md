@@ -11,25 +11,20 @@ Em java, para criamos uma variável, precisamos de três coisas essencias:
 public class programa
 {
     public static void main(String[] args) {
-        //1.  2.    3.
+        // Podemos fazer uma declaração e atribuir um valor, em uma única linha. 
         int idade = 50; 
         System.out.print(idade);
-    }
-}
-```
 
-Temos também a possibilidade de __declarar__ uma variável e atruibur um valor a ela futuramente.
-```java
-public class programa
-{
-    public static void main(String[] args) {
+        // Temos também a possibilidade de __declarar__ uma variável e atruibur um valor a ela futuramente.
         int idade; 
         idade = 50;
         
         System.out.print(idade);
+
     }
 }
 ```
+
 
 <br>
 
