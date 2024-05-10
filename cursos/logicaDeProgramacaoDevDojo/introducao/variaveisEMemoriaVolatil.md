@@ -76,4 +76,8 @@ Se determinado tipo de dado aloca um espaço capaz de armazenar Y de bits, não 
 <br>
 
  ## ❎ Tipo de dado para representar verdadeiro/falso 
-- __`boolean`__ ao declarar uma variável do tipo boolean, é alocado espaço em memória de 1 bit, este digito binário pode ser __zero__ ou __um__. Zero representa 'falso' e um representa 'verdadeiro'.  
+- __`boolean`__ ao declarar uma variável do tipo boolean, é alocado espaço em memória de 1 bit, este digito binário pode ser __zero__ ou __um__. Zero representa 'falso' e um representa 'verdadeiro'.
+```java
+    boolean isTodayCloudy = true;
+    boolean isItRaining = true;
+```
