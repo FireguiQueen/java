@@ -50,8 +50,7 @@ ao endereço do espaço alocado que armazena um valor.
 
 _______________________
 
-## Valores primitivos na memória volátil
-Em java, temos os seguintes valores primitivos:
+## Tipos de dados primitivos
 
 ### Tipo de dado para valores numéricos
 Se determinado tipo de dado aloca um espaço capaz de armazenar Y de bits, não será possível guardar valores (neste espaço) que excedam Y bits para sua representação.
