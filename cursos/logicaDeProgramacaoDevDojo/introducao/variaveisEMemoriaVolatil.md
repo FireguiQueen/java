@@ -44,7 +44,7 @@ ao endereço do espaço alocado que armazena um valor.
 
 
 ## Valores primitivos na memória volátil
-Em java, temos os seguintes valores primitivos.
+Em java, temos os seguintes valores primitivos:
 
 ### Tipo de dado para valores numéricos
 - __byte__: ao declarar uma variável do tipo byte, é alocado espaço em memória de 8 bits (1 byte). Números decimais que exedem este valor para ser repretando em formato binário, não serão capazes de pertencer a este espaço alocado. 
@@ -53,11 +53,12 @@ Em java, temos os seguintes valores primitivos.
 - __long__: ao declarar uma variável do tipo long, é alocado espaço em memória de 64 bits. Números decimais que exedem este valor para ser repretando em formato binário, não serão capazes de pertencer a este espaço alocado.
 - __float__: ao declarar uma variável do tipo float, é alocado espaço em memória de 32 bits. Números decimais que exedem este valor para ser repretando em formato binário, não serão capazes de pertencer a este espaço alocado. A diferença entre o float e o int, é que o float aceita números decimais (números com vírgula, ex: 3.50)
 - __double__: ao declarar uma variável do tipo double, é alocado espaço em memória de 64 bits. Números decimais que exedem este valor para ser repretando em formato binário, não serão capazes de pertencer a este espaço alocado. A diferença entre o double e o long, é que o double aceita números decimais.
+
 ```java
 short idade = 77;
 int totalPessoasBrasileiras = 250000;
 long totalPessoasMundo = 8000000000L;
-float salario = 4000.50
+float salario = 4000.50F;
 ```
 
 <br>
