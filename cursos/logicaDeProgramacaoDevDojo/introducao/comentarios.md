@@ -1,7 +1,8 @@
 # Comentários
 
 ## Utilidade
-Comentários são utilizados para *comentar* trechos ou blocos de código. Lembre-se que, trabalhando como desenvolvedor, você não será o único a mexer no código fonte de um software.
+Comentários são utilizados para *comentar* trechos ou blocos de código, informado o que eles fazem. 
+> Lembre-se que, trabalhando como desenvolvedor, você não será o único a mexer no código fonte de um software, então, fazer comentários vir a ser útil.
 
 ## Comentários fazem parte do software final?
 Não. Os comentários permanecem apenas durante a fase de manutenção/desenvolvimento de um software. Quando compilamos nosso programa `.java`, todos os comentários são removidos. Nosso arquivo `.class` não possuirá comentários, pois eles são irrelevantes para a JVM e são úteis apenas para nós, humanos.
@@ -40,3 +41,4 @@ e complexos. Este tipo de comentário aceita formatação HTML. `/** */`
         Posso colocar algumas tags html aqui e elas serão devidamente interpretadas.
      */
 ```
+
