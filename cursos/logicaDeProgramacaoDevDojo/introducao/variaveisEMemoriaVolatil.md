@@ -55,7 +55,7 @@ _______________________
 ### 🔢 Tipo de dado para valores numéricos
 Se determinado tipo de dado aloca um espaço capaz de armazenar Y de bits, não será possível guardar valores (neste espaço) que excedam Y bits para sua representação.
 
-- __`byte`__: ao declarar uma variável do tipo byte, é alocado espaço em memória de 8 bits (1 byte).
+- __`byte`:__ ao declarar uma variável do tipo byte, é alocado espaço em memória de 8 bits (1 byte).
 - __`short`__: ao declarar uma variável do tipo short, é alocado espaço em memória de 16 bits (2 bytes). 
 - __`int`__: ao declarar uma variável do tipo int, é alocado espaço em memória de 32 bits.
 - __`long`__: ao declarar uma variável do tipo long, é alocado espaço em memória de 64 bits. 
