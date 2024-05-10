@@ -4,9 +4,9 @@ alterá-los e utilizá-los como for conveniente, as variáveis desempenham um pa
 em nosso programa. 
 
 Em java, para criamos uma variável, precisamos de três coisas essencias:
-1. Definir o tipo de dado que esta variável irá armazenar;
-2. Definir o nome desta variável; 
-3. Atribuir um valor a esta variável. 
+1. Definir o __tipo de dado__ que esta variável irá armazenar;
+2. Definir um __identificador__ para esta variável; 
+3. __Atribuir um valor__ a esta variável. 
 ```java
 public class programa
 {
