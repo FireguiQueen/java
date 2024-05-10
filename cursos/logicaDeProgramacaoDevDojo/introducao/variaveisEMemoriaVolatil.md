@@ -25,12 +25,9 @@ public class programa
 }
 ```
 
-
 <br>
 
-_______________________
-
-## Memória volátil e variáveis
+## Variáveis por debaixo dos panos 
 Quando criamos uma variável, na verdade, o que estamos realmente fazendo é:
 1. Alocar um espaço em memória;
 2. Este espaço recebe um endereço;
