@@ -6,5 +6,7 @@ public class CalcAgeDif
         int age_02 = 50;
         int difAge = age_01 - age_02;
         System.out.println("Idade: " + difAge);
+
+
     }
 }
