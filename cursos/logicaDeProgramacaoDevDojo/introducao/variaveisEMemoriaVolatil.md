@@ -46,6 +46,9 @@ Quando criamos uma variável, na verdade, o que estamos realmente fazendo é:
 Então, quando printamos o valor de nossa variável no terminal através do `System.out.print(idade)`, na verdade, `idade` refere-se
 ao endereço do espaço alocado que armazena um valor.
 
+<br>
+
+_______________________
 
 ## Valores primitivos na memória volátil
 Em java, temos os seguintes valores primitivos:
