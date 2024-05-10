@@ -72,7 +72,7 @@ char letra = 'a';
     // ou
 char letra = 65; 
 ```
-__No fim, tanto a letra 'a' quanto o valor 65, representam o valor de `01100001` (8 bits).__
+> No fim, tanto a letra 'a' quanto o valor 65, representam o valor de `01100001` (8 bits).
 
 <br>
 
