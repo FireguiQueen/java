@@ -17,7 +17,7 @@ A palavra 'else', em português, significa "senão". Quando juntos o `if` e o `e
 Em suma, se condição do `if` for avaliada como falsa, o else __será__ executado. 
 E caso a condição do `if` seja avalaida como 'verdadeira', o else __não será__ executado.
 
-```java 
+```java
     if (10 > 20) // esta condição é avaliada como false pois 10 não é maior que 20.
     {
         System.out.println("Esta mensagem jamais será printada.");
