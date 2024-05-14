@@ -48,3 +48,20 @@ Operador de "menor". Serve para perguntamos se o valor a esquerda é __menor__ q
     System.out.print(5 > 10); // TRUE
     System.out.print(5 > 5);  // FALSE. (5 não é menor que 5. Pense que você tenha a mesma altura que uma pessoa, você é menor que ela? não)
 ````
+
+<br>
+
+## Mesclando operadores: `>=` e `<=` 
+Podemos também perguntar se o número a esquerda é __maior__ _ou_ __igual__ ao operador a direita.
+```java
+    System.out.print(4 >= 4);  // TRUE. (pois 4 é igual a 4)
+    System.out.print(5 >= 3);  // TRUE. (pois 5 é maior que 3)
+    System.out.print(5 >= 10); // FALSE.
+````
+
+E claro, também podemos fazer a mesma coisa com o operador de "menor".
+```java
+    System.out.print(4 <= 4);  // TRUE. (pois 4 é igual a 4)
+    System.out.print(4 <= 10); // TRUE. (pois 4 é menor que 10)
+    System.out.print(5 <= 3);  // FALSE. 
+````
