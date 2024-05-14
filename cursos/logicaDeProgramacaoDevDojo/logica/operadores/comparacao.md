@@ -1,9 +1,13 @@
 # Operadores de comparação 
-Operadores de comparação na computação funcionam exatamente como na vida, seu único objetivo é responder com:
-"__true__" ou "__false__".
- 
+Operadores de comparação têm um único objetivo: responder "__true__" ou "__false__".
+
+Os operadores de comparação na computação funcionam exatamente como na vida real. Quando escrevem
+em um quadro branco a seguinte expressão `10 > 5` e te perguntam a resposta objetiva, você só
+poderá responder com "sim" ou "não". Neste caso, a resposta correta é __sim__, pois esta expressão pergunta
+se 10 é maior que 5. 
+
 Desta forma, ao utilizarmos esses operadores, a única forma de salvar este output será
-colocando uma variável do __tipo boolean__. 
+colocando uma variável do __tipo boolean__.
 
 __________________
 
