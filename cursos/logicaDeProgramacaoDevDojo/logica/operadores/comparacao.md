@@ -12,7 +12,7 @@ Operador de igualdade. Serve para perguntarmos se o valor a esquerda é __igual_
 ```java
     System.out.print(5 == 5);   // TRUE.
     System.out.print(99 == 99); // TRUE.    
-    System.out.print(1 == 5);   // FALSE.
+    System.out.print(1 == 5);   // FALSE. 
 ```
 
 ## `>`
@@ -20,5 +20,5 @@ Operador de "maior". Serve para perguntamos se o valor a esquerda é __maior__ q
 ```java
     System.out.print(4 > 1);  // TRUE
     System.out.print(5 > 10); // FALSE
-    System.out.print(5 > 5);  // FALSE
+    System.out.print(5 > 5);  // FALSE. (cinco não é maior que cinco. Pense que você tenha a mesma altura que uma pessoa, você é maior que ela? não)
 ```
