@@ -21,6 +21,16 @@ Operador de igualdade. Serve para perguntarmos se o valor a esquerda é __igual_
 
 <br>
 
+## `!=` (diferente)
+Operador de diferença. Serve para perguntarmos se o valor a esquerda é __diferente__ ao valor a direita.
+```java
+    System.out.print(5 != 5);    // FALSE. (5 não é diferente de 5. Pense que você tem a mesma altura de uma pessoa, suas alturas são diferentes? não)
+    System.out.print(10 != 100); // TRUE.    
+    System.out.print(-1 != 1);   // TRUE. 
+```
+
+<br>
+
 ## `>` (maior)
 Operador de "maior". Serve para perguntamos se o valor a esquerda é __maior__ que o valor a direita.
 ```java
