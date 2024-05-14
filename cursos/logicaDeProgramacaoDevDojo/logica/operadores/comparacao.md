@@ -32,7 +32,7 @@ Operador de diferença. Serve para perguntarmos se o valor a esquerda é __difer
 <br>
 
 ## `>` (maior)
-Operador de "maior". Serve para perguntamos se o valor a esquerda é __maior__ que o valor a direita.
+Operador de "maior". Serve para perguntamos se o valor a esquerda é __maior__ que o valor da direita.
 ```java
     System.out.print(4 > 1);  // TRUE
     System.out.print(5 > 10); // FALSE
@@ -42,7 +42,7 @@ Operador de "maior". Serve para perguntamos se o valor a esquerda é __maior__ q
 <br>
 
 ## `<` (menor)
-Operador de "menor". Serve para perguntamos se o valor a esquerda é __menor__ que o valor a direita.
+Operador de "menor". Serve para perguntamos se o valor a esquerda é __menor__ que o valor da direita.
 ```java
     System.out.print(4 > 1);  // FALSE
     System.out.print(5 > 10); // TRUE
@@ -52,14 +52,14 @@ Operador de "menor". Serve para perguntamos se o valor a esquerda é __menor__ q
 <br>
 
 ## Mesclando operadores: `>=` e `<=` 
-Podemos também perguntar se o número a esquerda é __maior__ _ou_ __igual__ ao operador a direita.
+Podemos também perguntar se o valor a esquerda é __maior__ _ou_ __igual__ ao valor da direita.
 ```java
     System.out.print(4 >= 4);  // TRUE. (pois 4 é igual a 4)
     System.out.print(5 >= 3);  // TRUE. (pois 5 é maior que 3)
     System.out.print(5 >= 10); // FALSE.
 ````
 
-E claro, também podemos fazer a mesma coisa com o operador de "menor".
+E claro, também podemos fazer a mesma coisa com o operador de "menor". Neste caso, perguntamos se o valor a esquerda é __menor__ _ou_ __igual__ ao valor da direita.
 ```java
     System.out.print(4 <= 4);  // TRUE. (pois 4 é igual a 4)
     System.out.print(4 <= 10); // TRUE. (pois 4 é menor que 10)
