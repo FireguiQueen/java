@@ -5,6 +5,7 @@ Operadores de comparação na computação funcionam exatamente como na vida, se
 Desta forma, ao utilizarmos esses operadores, a única forma de salvar este output será
 colocando uma variável do __tipo boolean__. 
 
+__________________
 
 ## `==`
 Operador de igualdade. Serve para perguntarmos se o valor a esquerda é __igual__ ao valor a direita.
