@@ -4,20 +4,31 @@ Como por exemplo, o operador aritmético de adição (+), que é responsável po
 em um valor que corresponde a soma daqueles dois valores. 
 
 ## `+` (adição)
-Responsável por realizar a soma entre dois valores. 
+Responsável por retornar a soma feita entre dois valores. 
 ```java
   int numPositivo = 0 + 50;
 ```
 
 ## `-` (subtração)
-Responsável por realizar a subtração entre dois valores. Pegando o valor a esquerda e o diminuindo pelo valor a direita.
+Responsável por retornar subtração feita entre dois valores. Para chegar no resultado, o valora esquerda é subtraído pelo valor a direita.
 ```java
   int numNegativo = 0 - 50;
 ```
 
 ## `*` (multiplicação)
-Responsável por realizar a multiplicação entre dois valores.
+Responsável por retornar multiplicação feita entre dois valores.
 ```java
   int multplicandoValores = 5 * 2;
 ```
 
+## `/` (divisão)
+Responsável por retonar a divisão feita entre dois valores. Para chegar no resultado, o valor a esquerda é dividido pelo valor a direita.
+```java
+  int dividindoValores = 10 / 2;
+````
+
+## `%` (resto da divisão)
+Responsável por retornar o resto da divisão feita entre dois valores. Para chegar no resultado, o valor da esquerda é dividido pelo valor a direita, e o resto da divisão realizada vem como retorno.
+```java
+  int restoDeDivisao = 10 % 2; 
+```
