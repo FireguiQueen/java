@@ -1,0 +1,27 @@
+# Operadores lógicos 
+Asssim como os operadores de comparação, os operadores lógicos compartilham do mesmo objetivo: retornar um valor boolean
+após uma analise de dois operandos. 
+
+## `&&` 
+O operador __and__ requer que ambos os(as) valores/expressões sejam verdadeiros(as) para retornar __TRUE__,
+do contrário, será retornado __FALSE__
+
+Pense na seguinte situação: 
+Para você animar de sair de casa, você precisa de duas coisas: ter dinheiro __e__ que o dia esteja ensolarado. 
+Observe que a letra 'e' está em negrito, ela possui uma importância muito alta pois foi esta letra que definiu a forma
+como vamos sair. O 'e' nos informa que, precisamos ter dinheiro, e também que o dia esteja ensolrado. 
+
+Se não tivermos dinheiro, mas o dia estiver ensolarado, nós não vamos sair. Se tivermos dinheiro, mas se o dia não estiver
+ensolarado, também não iremos sair. 
+```java
+  boolean tenhoDinheiro = true;
+  boolean estaEnsolarado = true;
+
+  if (tenhoDinheiro && estaEnsolarado)
+  {
+    System.out.print("EU irei sair! Pois tenho dinheiro e o dia está ensolarado!");
+  } else
+  {
+    System.out.print("Eu não irei sair.");
+  }
+```
