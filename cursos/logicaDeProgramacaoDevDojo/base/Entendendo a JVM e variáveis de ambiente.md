@@ -3,10 +3,13 @@ O termo "wora" é algo que reflete bastante uma das vantagens de escrever um sof
 
 Uma das ideias ao desenvolver um software em Java é a capacidade de ter uma [portabilidade excepcional](https://pt.wikipedia.org/wiki/Portabilidade_de_software), sem a necessidade de grandes ou nenhuma modificação no código.
 
+# JVM
 Quando desenvolvemos um software com muitas funcionalidades em Python, como um jogo, onde a cada instante é necessário receber e enviar informações para a GPU, enfrentamos um pequeno problema: esse software é complexo e quem atua como intermediário entre seu software e hardware é algo chamado __kernel__, que faz parte do seu __sistema operacional__.
 
+Cada sistema operacional pode operar de uma forma, tendo nuances de como interpretar informações para fazer pedidos ao seu hardware. 
+> Um exemplo extremamente simplificado seria: Para sua GPU desenhar uma bola 3D, o Windows 10 utiliza do código `0x1015`, enquanto o MacOs utiliza `x0p105`.   
 
-Cada sistema operacional pode operar de uma forma, tendo nuances de como interpretar informações para fazer requerimentos ao seu hardware. Mas onde eu quero chegar com isso? Veja bem, acaba que nosso software precisa operar com base no sistema operacional escolhido. Isto é, seu software foi feito para rodar em Windows 10/11, mas e quem usa outros sistemas operacionais? Sistemas Linux, como Ubuntu, Arch, Debian? Simples, este software não vai funcionar para eles.
+Acaba que nosso software precisa operar com base no sistema operacional escolhido. Isto é, seu software foi feito para rodar exclusivamente para Windows 10/11, o mesmo não funcionará em outros sistemas (Debian, Fedora, Manjaro..).  
 
 E aí entra o Java. Um programa feito em Java, como por exemplo: MeuPrograma.java, é feito para rodar numa coisa chamada JVM (Java Virtual Machine). Este programa terá seu código fonte compilado, e como resultado, teremos um arquivo chamado MeuProgram.class, este arquivo com a extensão .class contém algo chamado "bytecode", um código que é feito para ser interpretado por algo e depois se traduzir em linguagem de máquina.
 
