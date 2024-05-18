@@ -1,7 +1,7 @@
 # WORA
 O termo "wora" é algo que reflete bastante uma das vantagens de escrever um software em Java, cujo significado é "write once, run anywhere", isto é, "escreva uma vez, rode em qualquer lugar".
 
-Uma das ideias ao desenvolver um software em Java é a capacidade de ter uma portabilidade excepcional, sem a necessidade de grandes ou nenhuma modificação no código.
+Uma das ideias ao desenvolver um software em Java é a capacidade de ter uma [portabilidade excepcional](https://pt.wikipedia.org/wiki/Portabilidade_de_software), sem a necessidade de grandes ou nenhuma modificação no código.
 
 Quando desenvolvemos um software com muitas funcionalidades em Python, como um jogo, onde a cada instante é necessário receber e enviar informações para a GPU, enfrentamos um pequeno problema: esse software é complexo e quem atua como intermediário entre seu software e hardware é algo chamado sistema operacional.
 
