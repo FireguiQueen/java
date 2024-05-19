@@ -29,4 +29,33 @@ E caso a condição do `if` seja avalaida como 'verdadeira', o else __não será
     }
 ```
 
+_________________
+
+# `ELSE IF` 
+Até agora, parece que só sabemos fazer duas coisas em um programa: executar uma ação se uma condição for verdadeira, ou executar outra ação se for falsa. Em outras palavras, temos apenas duas possibilidades: faça isso ou faça aquilo.
+
+O propósito do else if é adicionar mais condições dentro de uma estrutura condicional. O termo 'else if' pode ser traduzido como "senão se". Embora possa parecer confuso à primeira vista, é simplesmente uma combinação de 'else' e 'if'. O 'else' é usado para indicar o que deve ser feito se a condição anterior for falsa, enquanto o 'if' especifica uma nova condição. Se essa nova condição também for falsa, passamos para o próximo 'else if' ou 'else', e assim por diante.
+
+```java
+    short idade = 30;
+
+    if (idade < 18)
+    {
+        System.out.print("Menor de idade");
+    }
+    else if (idade >= 18 && idade < 60)
+    {
+        System.out.print("Adulto");
+    }
+    else if (idade >= 60)
+    {
+        System.out.print("Idoso");
+    } else {
+        System.out.print("Idade inválida!");
+    }
+```
+
+> Podemos observar que utilzamos o `if` para definir a estrutura condicional. O `else if` foi para definir outras condições, e caso nenhuma delas seja executada, o nosso `else` será executado. 
+
+
 
