@@ -34,7 +34,7 @@ public class SwimmingCompetition
             categoria = "adulto";   
         }
 
-        System.out.print(name + ": participará da categoria " + categoria);   
+        System.out.println(name + ": participará da categoria " + categoria);
         
         
     }
