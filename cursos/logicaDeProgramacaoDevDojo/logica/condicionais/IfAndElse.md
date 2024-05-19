@@ -10,6 +10,8 @@ __Se__ a nossa condição que fica dentro dos parênteses for avaliada como __ve
     }
 ```
 
+_________________
+
 # `ELSE`
 A palavra 'else', em português, significa "senão". Quando juntos o `if` e o `else`, podemos pensar na frase:
 "Excute este bloco, senão, execute este aqui". 
