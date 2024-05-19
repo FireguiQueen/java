@@ -7,6 +7,7 @@ em um valor que corresponde a soma daqueles dois valores.
 Responsável por retornar a soma feita entre dois valores. 
 ```java
   int numPositivo = 0 + 50;
+  System.out.print(numPositivo); // retorna: 50
 ```
 
 <br>
@@ -15,6 +16,7 @@ Responsável por retornar a soma feita entre dois valores.
 Responsável por retornar subtração feita entre dois valores. Para chegar no resultado, o valora esquerda é subtraído pelo valor a direita.
 ```java
   int numNegativo = 0 - 50;
+  System.out.print(numNegativo); // retorna: -50
 ```
 
 <br>
@@ -23,6 +25,7 @@ Responsável por retornar subtração feita entre dois valores. Para chegar no r
 Responsável por retornar multiplicação feita entre dois valores.
 ```java
   int multplicandoValores = 5 * 2;
+  System.out.print(multplicandoValores); // retorna: 10
 ```
 
 <br>
@@ -31,6 +34,7 @@ Responsável por retornar multiplicação feita entre dois valores.
 Responsável por retonar a divisão feita entre dois valores. Para chegar no resultado, o valor a esquerda é dividido pelo valor a direita.
 ```java
   int dividindoValores = 10 / 2;
+  System.out.print(dividindoValores); // retorna: 5
 ````
 
 <br>
@@ -38,5 +42,7 @@ Responsável por retonar a divisão feita entre dois valores. Para chegar no res
 ## `%` (resto da divisão)
 Responsável por retornar o resto da divisão feita entre dois valores. Para chegar no resultado, o valor da esquerda é dividido pelo valor a direita, e o resto da divisão realizada vem como retorno.
 ```java
-  int restoDeDivisao = 10 % 2; 
+  int restoDeDivisao = 10 % 2;
+  System.out.print(restoDeDivisao); // retorna: 0
+
 ```
