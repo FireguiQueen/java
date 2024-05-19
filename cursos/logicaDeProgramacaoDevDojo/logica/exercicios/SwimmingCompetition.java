@@ -28,7 +28,7 @@ public class SwimmingCompetition
         }
         else if (age >= 16 && age <= 19)
         {
-            categoria = "pre-adulto";   
+            categoria = "pré-adulto";
         } else 
         {
             categoria = "adulto";   
