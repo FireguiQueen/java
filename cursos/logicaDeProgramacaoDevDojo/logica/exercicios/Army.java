@@ -9,7 +9,7 @@ public class Army
         if (age < 18)
         {
             System.out.println("Não pode se alistar.");
-        } else if (age >= 18 && genero == 'F')
+        } else if (age >= 18 && genero == 'M')
         {
             alistamentoObrigatorio = true;
         } else {
