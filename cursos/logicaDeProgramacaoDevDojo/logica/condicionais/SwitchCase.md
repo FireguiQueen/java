@@ -21,6 +21,10 @@ O `switch case` é utilizado para especificar um valor, e perguntar se alguns do
             
         case 3:
             System.out.print("Você tem 3 vidas restantes");
+            break;
+        
+        default:
+            System.out.print("Você tem 0 vidas restantes");
     }
 ```
 
@@ -36,6 +40,11 @@ _________________________________
 O break instrui o programa a sair do switch após a execução do bloco de código do case correspondente.
 
 Se você não colocar o break ao final de um bloco de um case, o programa continuará executando os blocos de código subsequentes até encontrar um break ou alcançar o fim do switch.
+
+## Qual a utilidade do `default`?
+"Default" significa "padrão". O `default` é um _caso_ padrão que será executado quando nenhum dos `cases` anteriores corresponder ao valor da expressão passada para o `switch`.
+
+Em teoria, o `default` é o **caso padrão**, ou seja, um caso que "sempre" será executado se nenhum outro caso corresponder. No entanto, o `default` não será executado se um `case` correspondente for encontrado e conter a palavra-chave `break`, que interrompe a execução do `switch`.
 
 _________________________________
 
