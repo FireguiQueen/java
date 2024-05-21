@@ -1,13 +1,19 @@
 # Switch case
-Assim como o `if.. else if.. else`, o `switch case` também é utilizado para 
+Assim como o `if/else`, o `switch case` também é utilizado para 
 se criar estruturas condicionais, mas há algumas nuances entre eles.
 
-O `switch case` é utilizado para especificar um valor, e perguntar se alguns dos casos
-é __igual__ ao valor especificado no `switch`.
+Na estrutura do `switch case`, nós definimos um valor, e depois perguntamos
+se o valor de algum `case` é __igual__ ao valor especificado no `switch`.
+
+# Por que se chama "switch case"?
+A palavra "switch", vem da ideia de que o fluxo de controle "muda" de um caso para outro, dependendo do 
+valor da expressão. É como se o programa "mudasse de trilha" ou "trocasse de direção" dependendo da condição 
+encontrada. Já o termo "case" refere-se aos _casos_. "Caso seja o valor do `switch` seja 1, então execute isto.."  
+
 
 ## Estruturação
-1. Especificar um valor entre parênteses após a palavra switch. Este valor será utilizado como base para comparações de igualdade;
-2. Definir casos utilizando a palavra-chave case. Os valores especificados nos casos serão comparados com a expressão fornecida no switch. Se houver correspondência entre algum caso e a expressão, as instruções associadas a esse caso serão executadas.
+1. Especificar um valor entre parênteses após a palavra `switch`. Este valor será utilizado como base para comparações de igualdade;
+2. Definir __casos__ utilizando a palavra-chave `case`. Os valores especificados nos casos serão comparados com a expressão fornecida no switch. Se houver correspondência entre o valor do caso e o valor do switch, as instruções associadas a esse caso serão executadas.
 ```java
     switch (3) // valor que será utilizado como base para comparações de igualdade. 
     {
