@@ -63,19 +63,19 @@ ____________________________
 <br>
 
 # Lógica de programação Virado no Jiraya
-|    Data    |  Aulas assistidas   |  
-|:----------:|:-------------------:|
-| 25/04/2024 | Aula 01 até Aula 02 |
-| 07/05/2024 | Aula 03 até Aula 07 |
-| 08/05/2024 |  Aula 08 (apenas)   |
-| 09/05/2024 | Aula 09 até Aula 11 |
-| 10/05/2024 | Aula 12 até Aula 15 |
-| 11/05/2024 |  Aula 16 (apenas)   |
-| 16/05/2024 |  Aula 17 (apenas)   |
-| 18/05/2024 |  Aula 18 (apenas)   |
-| 19/05/2024 | Aula 19 até Aula 23 |
-| 20/05/2024 | Aula 24 até Aula 26 |
-| 21/05/2024 |  Aula 27 atpe Aula  |
+|    Data    |   Aulas assistidas   |  
+|:----------:|:--------------------:|
+| 25/04/2024 | Aula 01 até Aula 02  |
+| 07/05/2024 | Aula 03 até Aula 07  |
+| 08/05/2024 |   Aula 08 (apenas)   |
+| 09/05/2024 | Aula 09 até Aula 11  |
+| 10/05/2024 | Aula 12 até Aula 15  |
+| 11/05/2024 |   Aula 16 (apenas)   |
+| 16/05/2024 |   Aula 17 (apenas)   |
+| 18/05/2024 |   Aula 18 (apenas)   |
+| 19/05/2024 | Aula 19 até Aula 23  |
+| 20/05/2024 | Aula 24 até Aula 26  |
+| 21/05/2024 | Aula 27 atpe Aula 32 |
 
 
 
