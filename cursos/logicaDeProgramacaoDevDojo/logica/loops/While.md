@@ -25,5 +25,19 @@ executadas, este contador receberá +1 ao seu valor.
         contador = contador + 1; // contador recebe ele mesmo + 1. 
     }
 ```
-Com isso, nosso algoritimo acima printará no terminal: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9. 
+> Com isso, nosso algoritimo acima printará no terminal: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9. 
 
+___________________
+
+# `Do-while`
+O `do while` é bem parecido com o `while`, mas há uma pequena diferença: o `do while` executará
+nossas instruções e depois verificará se a expressão é verdadeira.
+
+Então, mesmo que nossa expressão seja `false`, nossas instruções serão executadas ao menos uma vez.
+
+```java
+    do 
+    {
+        System.out.print("A expressão é falsa, mas eu serei executado!");
+    } while (false);
+```
