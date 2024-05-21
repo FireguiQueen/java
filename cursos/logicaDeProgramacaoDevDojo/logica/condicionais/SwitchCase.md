@@ -18,6 +18,7 @@ O `switch case` é utilizado para especificar um valor, e perguntar se alguns do
         case 2:
             System.out.print("Você tem 2 vidas restantes");
             break;
+            
         case 3:
             System.out.print("Você tem 3 vidas restantes");
     }
