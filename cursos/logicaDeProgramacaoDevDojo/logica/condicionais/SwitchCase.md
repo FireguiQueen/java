@@ -28,3 +28,10 @@ __igual__ valor passado para o paretensis do `switch`, as linhas de instrução
 daquele caso será executado. 
 
 > A palavra "switch" vem da ideia de que o fluxo de controle "muda" de um caso para outro, dependendo do valor da expressão. É como se o programa "mudasse de trilha" ou "trocar de direção" dependendo da condição encontrada. Já o termo "case" (ou "caso", em português) refere-se a cada uma das opções que você pode definir dentro do switch, cada uma correspondendo a um valor possível da expressão avaliada.
+
+_________________________________
+
+## Por que usar `switch case` se temos `if, else if e else`
+A resposta é simples: **legibilidade**. O `switch case` foi criado **especificamente** para trabalhar com condições de igualdade; se um valor for igual a este, faça isto. Sim, também podemos utilizar o `if/else` para condições de igualdade, mas o código escrito fica bem menos legível.
+
+
