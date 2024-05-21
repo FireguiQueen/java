@@ -32,6 +32,13 @@ daquele caso será executado.
 
 _________________________________
 
+## Qual a utilidade do `break` em cada bloco de `case`?
+O break instrui o programa a sair do switch após a execução do bloco de código do case correspondente.
+
+Se você não colocar o break ao final de um bloco de um case, o programa continuará executando os blocos de código subsequentes até encontrar um break ou alcançar o fim do switch.
+
+_________________________________
+
 ## Por que usar `switch case` se temos `if, else if e else`
 A resposta é simples: **legibilidade**. O `switch case` foi criado **especificamente** para trabalhar com condições de igualdade; se um valor for igual a este, faça isto. Sim, também podemos utilizar o `if/else` para condições de igualdade, mas o código escrito fica bem menos legível.
 
