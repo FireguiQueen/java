@@ -1,4 +1,4 @@
-# Switch case
+# `Switch` `case`
 Assim como o `if/else`, o `switch case` também é utilizado para 
 se criar estruturas condicionais, mas há algumas nuances entre eles.
 
