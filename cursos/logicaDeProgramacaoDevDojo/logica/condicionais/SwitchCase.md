@@ -9,12 +9,22 @@ O `switch case` é utilizado para especificar um valor, e perguntar se alguns do
 1. Especificar um valor entre parênteses após a palavra switch. Este valor será utilizado como base para comparações de igualdade;
 2. Definir casos utilizando a palavra-chave case. Os valores especificados nos casos serão comparados com a expressão fornecida no switch. Se houver correspondência entre algum caso e a expressão, as instruções associadas a esse caso serão executadas.
 ```java
-    switch (5) // valor que será utilizado como base para comparações de igualdade. 
+    switch (3) // valor que será utilizado como base para comparações de igualdade. 
     {
         case 1: 
-            System.out.print("Você tem");
+            System.out.print("Você tem 1 vida restante");
+            
+        case 2:
+            System.out.print("Você tem 2 vidas restantes");
+            
+        case 3:
+            System.out.print("Você tem 3 vidas restantes");
+
     }
 ```
 
-<br>
+A ideia do nosso algorítimo acima é simples: caso algum valor entre os `case` seja
+__igual__ valor passado para o paretensis do `switch`, as linhas de instrução
+daquele caso será executado. 
 
+> A palavra "switch" vem da ideia de que o fluxo de controle "muda" de um caso para outro, dependendo do valor da expressão. É como se o programa "mudasse de trilha" ou "trocar de direção" dependendo da condição encontrada. Já o termo "case" (ou "caso", em português) refere-se a cada uma das opções que você pode definir dentro do switch, cada uma correspondendo a um valor possível da expressão avaliada.
