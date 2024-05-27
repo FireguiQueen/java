@@ -15,5 +15,8 @@ Começamos a estrutura com `for()`. Dentro dos parentesis, colocaremos 3 coisas:
     }
 ```
 
-Na primeira iteração, `i` vale 0. Será perguntando "I é menor que 10?" A resposta
-é `true`, então as instruçõs do bloco são executadas. 
+Na primeira iteração (repetição), `i` vale 0. Será perguntando: `i` é menor que 10? 
+A resposta é `true`, então as instruçõs do bloco são executadas. 
+
+Na segunda iteração, `i` vale 1. Será perguntando: `i` (1) é menor que 10?
+A resposta é `true`, então as instruçõs do bloco são executadas.
