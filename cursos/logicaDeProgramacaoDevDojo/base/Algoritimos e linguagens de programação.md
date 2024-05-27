@@ -3,14 +3,13 @@
 ## Algoritimos
 Algoritmos são utilizados para resolver problemas de forma eficiente e prática. Um algoritimo Pode ser definido como um conjunto de instruções para resolver um problema específico.
 
-Algoritmos frequentemente são relacionados diretamente à computação, onde o código de um software é formado por um ou mais algoritimos. Cada um desempenhando um papel crucial para o funcionamento do programa.
+Algoritmos frequentemente são relacionados diretamente à computação, onde o código de um software é formado por um ou mais algoritimos. Mas a realidade é que os algoritmos não são exclusivos da computação e também estão presentes em nossa vida cotidiana, como, por exemplo, atravessar uma rua. 
 
-Mas a realidade é que os algoritmos não são exclusivos da computação e também estão presentes em nossa vida cotidiana, como, por exemplo, atravessar uma rua. Para isso, geralmente seguimos um algoritmo simples:
-
-1. Olhar para os dois lados: direita e esquerda.
+Atravessar a rua também é algoritimo utilizado globalmente, e geralmente consiste em: 
+1. Olhar para os dois lados: __direita e esquerda__.
 2. Se houver carros vindo, esperar. Se não houver carros, atravessar a rua.
 
-No entanto, é importante notar que os algoritmos em nossos programas podem ser muito mais complexos. Por exemplo, o algoritmo mencionado anteriormente poderia ser expandido da seguinte forma:
+No entanto, é importante notar que os algoritmos em nossos programas podem ser muito mais complexos. O algoritmo mencionado anteriormente também pode ser expandido, se tornando:
 
 1. Olhar para os dois lados: __direita e esquerda__.
 2. Há carros vindo?
