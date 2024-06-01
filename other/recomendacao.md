@@ -1,5 +1,4 @@
-# Minhas recomendações
-
+# Criadores de conteúdo de Java
 + DevDojo
 + Loiane groner
 + deAlunoParaAluno (Italo Grossi)
