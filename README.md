@@ -13,11 +13,9 @@ Evitei "instituições educacionais" com ênfase excessiva em estratégias de ma
 __De forma resumida: não__. Este repositório foi criado com o intuito de divulgar bons conteúdos relacionados à programação (Java em específico). Minhas anotações e explicações pessoais contidas no diretório '[cursos](https://github.com/FireguiQueen/Java/tree/main/cursos)' podem parecer desorganizadas e não muito intuitivas. No entanto, em meu repositório do curso de ciência da computação de Harvard, acredito que fiz um trabalho muito bom que vale a pena sua leitura (caso você ainda não compreenda como os computadores funcionam por trás dos panos).
 
 ### Qual a utilidade deste repositório?
-Se você busca aprender Java, você pode usá-lo como base. 
+Se você busca aprender Java, você pode usá-lo como base.
 
-<br>
-
-___________________
+___
 
 ## 📜 Sumário 
 + __Introdução em java:__ Este segmento abrange tópicos introdutórios, apresentando conceitos fundamentais como variáveis, loops, arrays, operadores lógicos, condições, métodos, tipos de dados e uma introdução à Programação Orientada a Objetos (POO).
