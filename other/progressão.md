@@ -1,31 +1,49 @@
-# Programar em Java | _de Aluno para Aluno_
-|      Data       |            Aulas assistidas             |
-|:---------------:|:---------------------------------------:|
-|  **21/10/2023** |   **Aula 01 até Aula 11**               |
-|     22/10/2023  |           Aula 12 até Aula 14           |
-|     23/10/2023  |           Aula 15 até Aula 17           |
-|     24/10/2023  |           Aula 18 até Aula 19           |
-|     25/10/2023  |           Aula 20 até Aula 25           |
-|     26/10/2023  |           Aula 26 até Aula 28           |
-|     29/10/2023  |         Correções e exercícios          |
-|     30/10/2023  |           Aula 29 até Aula 32           |
-|     01/11/2023  |                 Aula 33                 |
-|     02/11/2023  |          Anotações + correção           |
-|     03/11/2023  |                 Aula 34                 |
-|     04/11/2023  |       Aula 35 + muitas anotações        |
-|     05/11/2023  |           Aula 36 até aula 41           |
+# Progressão
+
+## Programar em Java | _de Aluno para Aluno_
+|      Data       |            Aulas assistidas        |
+|:---------------:|:----------------------------------:|
+|  **21/10/2023** |         **Aula 01 até Aula 11**    |
+|     22/10/2023  |           Aula 12 até Aula 14      |
+|     23/10/2023  |           Aula 15 até Aula 17      |
+|     24/10/2023  |           Aula 18 até Aula 19      |
+|     25/10/2023  |           Aula 20 até Aula 25      |
+|     26/10/2023  |           Aula 26 até Aula 28      |
+|     29/10/2023  |         Correções e exercícios     |
+|     30/10/2023  |           Aula 29 até Aula 32      |
+|     01/11/2023  |             Apenas Aula 33         |
+|     02/11/2023  |          Anotações + correção      |
+|     03/11/2023  |                 Aula 34            |
+|     04/11/2023  |       Aula 35 + muitas anotações   |
+|     05/11/2023  |           Aula 36 até aula 41      |
 |  **06/11/2023** | **Aula 42 até aula 47 _(última aula)_** |
-|     07/11/2023  |        Correções de explicações         |
-|     08/11/2023  |        Correções de explicações         |
-|     09/11/2023  |        Correções de explicações         |
+|     07/11/2023  |        Correções de explicações    |
+|     08/11/2023  |        Correções de explicações    |
+|     09/11/2023  |        Correções de explicações    |
 
-<br>
+___
 
-____________________________
+## Lógica de programação Virado no Jiraya
+|      Data      |         Aulas assistidas          |  
+|:--------------:|:---------------------------------:|
+| **25/04/2024** |      **Aula 01 até Aula 02**      |
+|   07/05/2024   |        Aula 03 até Aula 07        |
+|   08/05/2024   |         Aula 08 (apenas)          |
+|   09/05/2024   |        Aula 09 até Aula 11        |
+|   10/05/2024   |        Aula 12 até Aula 15        |
+|   11/05/2024   |         Aula 16 (apenas)          |
+|   16/05/2024   |         Aula 17 (apenas)          |
+|   18/05/2024   |         Aula 18 (apenas)          |
+|   19/05/2024   |        Aula 19 até Aula 23        |
+|   20/05/2024   |        Aula 24 até Aula 26        |
+|   21/05/2024   |        Aula 27 até Aula 32        |
+|   27/05/2024   |        Aula 33 até Aula 34        |
+|   16/06/2024   |        Aula 35 até Aula 37        |
+|   **17/06/2024**   | **Aula 38 até Aula 43 (última aula)** |
 
-<br>
+___
 
-# Java Virado No Jiraya | _DevDojo_
+## Java Virado No Jiraya | _DevDojo_
 |  Data      |                 Aulas assistidas                  |         
 |:----------:|:-------------------------------------------------:| 
 | 09/11/2023 |                Aula 00 até Aula 03                |
@@ -56,27 +74,8 @@ ____________________________
 | 15/12/2023 |                      Aula 64                      |
 | 19/12/2023 |                 Aula 65 até Aula                  |
 
-<br>
+___
 
-____________________________
-
-<br>
-
-# Lógica de programação Virado no Jiraya
-|    Data    |   Aulas assistidas   |  
-|:----------:|:--------------------:|
-| 25/04/2024 | Aula 01 até Aula 02  |
-| 07/05/2024 | Aula 03 até Aula 07  |
-| 08/05/2024 |   Aula 08 (apenas)   |
-| 09/05/2024 | Aula 09 até Aula 11  |
-| 10/05/2024 | Aula 12 até Aula 15  |
-| 11/05/2024 |   Aula 16 (apenas)   |
-| 16/05/2024 |   Aula 17 (apenas)   |
-| 18/05/2024 |   Aula 18 (apenas)   |
-| 19/05/2024 | Aula 19 até Aula 23  |
-| 20/05/2024 | Aula 24 até Aula 26  |
-| 21/05/2024 | Aula 27 até Aula 32  |
-| 27/05/2024 | Aula 33 até Aula 34  |
 
 
 

@@ -8,8 +8,9 @@ se o valor de algum `case` é __igual__ ao valor especificado no `switch`.
 # Por que se chama "switch case"?
 A palavra "switch", vem da ideia de que o fluxo de controle "muda" de um caso para outro, dependendo do 
 valor da expressão. É como se o programa "mudasse de trilha" ou "trocasse de direção" dependendo da condição 
-encontrada. Já o termo "case" refere-se aos _casos_. "Caso seja o valor do `switch` seja 1, então execute isto.."  
+encontrada. Já o termo "case" refere-se aos _casos_. "caso [..] seja o valor do `switch`, então execute isto.."  
 
+___
 
 ## Estruturação
 1. Especificar um valor entre parênteses após a palavra `switch`. Este valor será utilizado como base para comparações de igualdade;

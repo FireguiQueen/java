@@ -1,5 +1,6 @@
 # Operadores aritméticos 
 Os operadores aritmétcos são responsáveis por pegar dois operandos (valores) e realizar um cálculo sobre eles. 
+
 Como por exemplo, o operador aritmético de adição (+), que é responsável por pegar o operando a esquerda e somar ao operando a direita, resultando
 em um valor que corresponde a soma daqueles dois valores. 
 
