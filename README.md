@@ -15,9 +15,6 @@ Não.
 
 As pessoas costumam associar a qualidade de um curso ao seu preço, o que leva muitos a acreditarem que materiais gratuitos de qualidade não existem. O CS50, curso gratuito de Harvard, mostra o oposto.
 
-### Consigo entrar no mercado de trabalho com os cursos deste repositório?
-Considero-os extremamente úteis para iniciar o aprendizado, especialmente para iniciantes. Porém, cursos por si só não garantem preparo para o mercado. **Isso depende apenas de você e da sua dedicação.**
-
 ### Qual a utilidade deste repositório?
 Se você busca aprender Java, você pode usá-lo como base.
 
